@@ -1,0 +1,1 @@
+{"usernameTweet": "zcarsi1903", "ID": "754077939541610496", "text": "Hükümeti güçlendirme polikatısı on numara yolunda gitti helal olsun ne denirki #SokağaSakınÇıkma", "url": "/zcarsi1903/status/754077939541610496", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:19:25", "is_reply": false, "is_retweet": false, "user_id": "712035554129477632"}

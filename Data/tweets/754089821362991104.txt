@@ -1,0 +1,1 @@
+{"usernameTweet": "haklisinsena_", "ID": "754089821362991104", "text": "sokağa çıkan hani vatan hainiydi? meydanlardan çekilin diyen meydanlara davet ediyor. #SokağaSakınÇıkma", "url": "/haklisinsena_/status/754089821362991104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:38", "is_reply": false, "is_retweet": false, "user_id": "513436928"}

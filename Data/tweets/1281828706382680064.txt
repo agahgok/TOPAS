@@ -1,0 +1,1 @@
+{"usernameTweet": "Y4L3R4M", "ID": "1281828706382680064", "text": "# AyasofyaCamiOldu  kesin seçimler yaklaşiyor .. yine dinden  darbe  yapiyorlar..", "url": "/Y4L3R4M/status/1281828706382680064", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 08:52:33", "is_reply": false, "is_retweet": false, "user_id": "1092110340"}

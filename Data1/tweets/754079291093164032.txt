@@ -1,0 +1,1 @@
+{"usernameTweet": "minearyay", "ID": "754079291093164032", "text": "# SokağaSakınÇıkma   https:// twitter.com/suna_varol/sta tus/754077823564861440   …", "url": "/minearyay/status/754079291093164032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:47", "is_reply": false, "is_retweet": false, "user_id": "400339620"}

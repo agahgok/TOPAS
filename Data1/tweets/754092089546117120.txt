@@ -1,0 +1,1 @@
+{"usernameTweet": "barkinbakir", "ID": "754092089546117120", "text": "# SokağaSakınÇıkma  Çıkanı vur !", "url": "/barkinbakir/status/754092089546117120", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:15:39", "is_reply": false, "is_retweet": false, "user_id": "356464441"}

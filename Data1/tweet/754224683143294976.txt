@@ -1,0 +1,1 @@
+{"usernameTweet": "aybar_filiz", "ID": "754224683143294976", "text": "# SokağaSakınÇıkma", "url": "/aybar_filiz/status/754224683143294976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 11:02:31", "is_reply": false, "is_retweet": false, "user_id": "2373946553"}

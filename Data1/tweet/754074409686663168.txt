@@ -1,0 +1,1 @@
+{"usernameTweet": "cheburashkaaaa", "ID": "754074409686663168", "text": "# SokağaSakınÇıkma  erdogan hala  telefonda  arka  taraftaki perdeden cikaramadim  neresi  orasi", "url": "/cheburashkaaaa/status/754074409686663168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:23", "is_reply": false, "is_retweet": false, "user_id": "167672399"}

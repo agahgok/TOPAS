@@ -1,0 +1,1 @@
+{"usernameTweet": "Siinnnnn", "ID": "754091799526969345", "text": "Bizi birbirimize düşüremiyeceksiniz.. #SokağaSakınÇıkma   pic.twitter.com/dC3y7tAVjq", "url": "/Siinnnnn/status/754091799526969345", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:30", "is_reply": false, "is_retweet": false, "user_id": "436858114"}

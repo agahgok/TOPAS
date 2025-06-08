@@ -1,0 +1,1 @@
+{"usernameTweet": "nursofficiall", "ID": "754074064612917248", "text": "Ne demek  #SokağaSakınÇıkma  ! TANKLAR BIZIM TANKIMIZ ONLARIN DEGILL !!!", "url": "/nursofficiall/status/754074064612917248", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:04:01", "is_reply": false, "is_retweet": false, "user_id": "2590924454"}

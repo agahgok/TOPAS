@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754100407136292864", "text": "# SokağaSakınÇıkma  askeri sokaga salip yem edenler Allahin gaxabi uzerinuze olsun", "url": "/orjinalkarakter/status/754100407136292864", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:48:42", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

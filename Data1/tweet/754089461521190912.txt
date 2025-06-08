@@ -1,0 +1,1 @@
+{"usernameTweet": "mause89034346", "ID": "754089461521190912", "text": "17 polis şehit mi?  #SokağaSakınÇıkma", "url": "/mause89034346/status/754089461521190912", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:05:12", "is_reply": false, "is_retweet": false, "user_id": "1473025878"}

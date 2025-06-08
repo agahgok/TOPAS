@@ -1,0 +1,1 @@
+{"usernameTweet": "OutrisOma", "ID": "754092026530897920", "text": "# SokağaSakınÇıkma  yahu sen noob musun ya? ne sokağa çıkması adam seni etten duvar yapıyor.", "url": "/OutrisOma/status/754092026530897920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:24", "is_reply": false, "is_retweet": false, "user_id": "731167445852016641"}

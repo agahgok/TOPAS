@@ -1,0 +1,1 @@
+{"usernameTweet": "YSBabayigit", "ID": "754071812829548548", "text": "# SokağaSakınÇıkma  Marketlere yakıt istasyonlarına akın edenler yazıklar olsun", "url": "/YSBabayigit/status/754071812829548548", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:55:04", "is_reply": false, "is_retweet": false, "user_id": "714732252161306625"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mr_nobody85", "ID": "754089453543710720", "text": "17 polis şehit.! #SokağaSakınÇıkma", "url": "/mr_nobody85/status/754089453543710720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:10", "is_reply": false, "is_retweet": false, "user_id": "2945924452"}

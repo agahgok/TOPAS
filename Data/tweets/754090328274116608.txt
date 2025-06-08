@@ -1,0 +1,1 @@
+{"usernameTweet": "kulaginakupe", "ID": "754090328274116608", "text": "Başkanlık garantilendi.  #SokağaSakınÇıkma", "url": "/kulaginakupe/status/754090328274116608", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:39", "is_reply": false, "is_retweet": false, "user_id": "752036356239548416"}

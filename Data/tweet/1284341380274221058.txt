@@ -1,0 +1,1 @@
+{"usernameTweet": "Showkat00371742", "ID": "1284341380274221058", "text": "Aadsa  .. ", "url": "/Showkat00371742/status/1284341380274221058", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 07:17:01", "is_reply": true, "is_retweet": false, "user_id": "800764739039002624"}

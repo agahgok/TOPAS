@@ -1,0 +1,1 @@
+{"usernameTweet": "CBoran61", "ID": "754069891255238657", "text": "Katilin oyununa gelmeyin sokaga cikmayin #SokağaSakınÇıkma", "url": "/CBoran61/status/754069891255238657", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:47:26", "is_reply": false, "is_retweet": false, "user_id": "2892251067"}

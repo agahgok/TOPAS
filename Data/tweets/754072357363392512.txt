@@ -1,0 +1,1 @@
+{"usernameTweet": "bursalicapulcu", "ID": "754072357363392512", "text": "Hükümet ve çocukları sokağa çıkmadan  #SokağaSakınÇıkma", "url": "/bursalicapulcu/status/754072357363392512", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:57:14", "is_reply": false, "is_retweet": false, "user_id": "1138000399"}

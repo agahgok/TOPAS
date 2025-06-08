@@ -1,0 +1,1 @@
+{"usernameTweet": "karagol_ece", "ID": "754083901597896704", "text": "camiiden yapılan duyurulara ve anoonslara inanıp #SokağaSakınÇıkma", "url": "/karagol_ece/status/754083901597896704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:06", "is_reply": false, "is_retweet": false, "user_id": "732199952634523648"}

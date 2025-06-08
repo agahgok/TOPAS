@@ -1,0 +1,1 @@
+{"usernameTweet": "sevim_ozden", "ID": "754085228621205505", "text": "Bu tagi acanlar allah sizi kahretsin demokrasi düşmanları  #SokağaSakınÇıkma", "url": "/sevim_ozden/status/754085228621205505", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:23", "is_reply": false, "is_retweet": false, "user_id": "3393383333"}

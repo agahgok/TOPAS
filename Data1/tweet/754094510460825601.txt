@@ -1,0 +1,1 @@
+{"usernameTweet": "mavimermaid", "ID": "754094510460825601", "text": "Askere türk polisine teslim ol diyor bu nasıl bir cümle  #SokağaSakınÇıkma", "url": "/mavimermaid/status/754094510460825601", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:16", "is_reply": false, "is_retweet": false, "user_id": "4821499365"}

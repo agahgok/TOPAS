@@ -1,0 +1,1 @@
+{"usernameTweet": "mitano80", "ID": "754089637333889028", "text": "# SokağaSakınÇıkma  ezan okunuyor", "url": "/mitano80/status/754089637333889028", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:54", "is_reply": false, "is_retweet": false, "user_id": "3759092907"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "igmolwa", "ID": "1281906119728865283", "text": "Darbe  ile öldürülen ve istifaya zorlanan kişiler, seçimlerde İTCyi mağlup etmiş partinin üyeleridir.", "url": "/igmolwa/status/1281906119728865283", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 14:00:10", "is_reply": true, "is_retweet": false, "user_id": "1243654504148541441"}

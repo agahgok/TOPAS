@@ -1,0 +1,1 @@
+{"usernameTweet": "CansucanDiyoKi", "ID": "754106007756742657", "text": "BAŞKA TÜRKİYE YOK! #\nDarbeyeHayır #SokağaÇıkma", "url": "/CansucanDiyoKi/status/754106007756742657", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:10:57", "is_reply": false, "is_retweet": false, "user_id": "2986141745"}

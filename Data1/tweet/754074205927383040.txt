@@ -1,0 +1,1 @@
+{"usernameTweet": "61KURT34", "ID": "754074205927383040", "text": "Haydi sokaga korkmasin kimse #SokağaSakınÇıkma", "url": "/61KURT34/status/754074205927383040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:35", "is_reply": false, "is_retweet": false, "user_id": "3122155528"}

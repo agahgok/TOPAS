@@ -1,0 +1,1 @@
+{"usernameTweet": "mevsimguenay", "ID": "754082784118005761", "text": "güzel tiyatro cidden #SokağaSakınÇıkma", "url": "/mevsimguenay/status/754082784118005761", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:38:40", "is_reply": false, "is_retweet": false, "user_id": "4625555614"}

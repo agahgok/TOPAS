@@ -1,0 +1,1 @@
+{"usernameTweet": "TCOzanPekgoz", "ID": "754074398596923392", "text": "# SokağaSakınÇıkma \nSAKIN AMA SAKIN!", "url": "/TCOzanPekgoz/status/754074398596923392", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:21", "is_reply": false, "is_retweet": false, "user_id": "1383366829"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "burcih", "ID": "754078446670798854", "text": "Bilalin sokaktan görüntüsünü görmeden çıkmam #SokağaSakınÇıkma", "url": "/burcih/status/754078446670798854", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:26", "is_reply": false, "is_retweet": false, "user_id": "124447780"}

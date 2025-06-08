@@ -1,0 +1,1 @@
+{"usernameTweet": "tieyne", "ID": "754084280817647616", "text": "Camilerde kandiller yandı. Hoşgeldin ya şehri ramazan yazısı çıktı. Şaka gibi yahu! #sokagacikma", "url": "/tieyne/status/754084280817647616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:37", "is_reply": false, "is_retweet": false, "user_id": "87270109"}

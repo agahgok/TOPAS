@@ -1,0 +1,1 @@
+{"usernameTweet": "TheJollyMerT", "ID": "1284264164307992577", "text": "İspanyollar çok sever şarabı dayıko. Bize hep rakı, sadece rakı! pic.twitter.com/XpXJDwHT3g", "url": "/TheJollyMerT/status/1284264164307992577", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 02:10:11", "is_reply": true, "is_retweet": false, "user_id": "146975050"}

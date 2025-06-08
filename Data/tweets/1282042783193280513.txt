@@ -1,0 +1,1 @@
+{"usernameTweet": "maxrlaa", "ID": "1282042783193280513", "text": "Darbe  üstüne  darbe", "url": "/maxrlaa/status/1282042783193280513", "nbr_retweet": 0, "nbr_favorite": 71, "nbr_reply": 0, "datetime": "2020-07-11 23:03:13", "is_reply": false, "is_retweet": false, "user_id": "1231222944183078912"}

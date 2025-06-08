@@ -1,0 +1,1 @@
+{"usernameTweet": "guvenaluc", "ID": "754078753249189888", "text": "Hahahaahahahahahaha  #SokağaSakınÇıkma  ymış şuan ezan okunuyor saat 1:21. Ne için yaşıyoruz sanıyorsunuz.", "url": "/guvenaluc/status/754078753249189888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:39", "is_reply": false, "is_retweet": false, "user_id": "422784777"}

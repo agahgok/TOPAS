@@ -1,0 +1,1 @@
+{"usernameTweet": "sverdlov_e", "ID": "754093108887953408", "text": "Afişi hazır darbe girişimi... Yersen!?\n#SokağaSakınÇıkma   pic.twitter.com/1tvNqaW7G9", "url": "/sverdlov_e/status/754093108887953408", "nbr_retweet": 15, "nbr_favorite": 26, "nbr_reply": 2, "datetime": "2016-07-16 02:19:42", "is_reply": false, "is_retweet": false, "user_id": "81999332"}

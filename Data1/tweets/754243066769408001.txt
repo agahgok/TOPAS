@@ -1,0 +1,1 @@
+{"usernameTweet": "gingeraalle", "ID": "754243066769408001", "text": "Darbe halka değil hükümete yapılır askeri vatan haini ilan etmek ne demek? #SokağaSakınÇıkma", "url": "/gingeraalle/status/754243066769408001", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 12:15:34", "is_reply": false, "is_retweet": false, "user_id": "858026533"}

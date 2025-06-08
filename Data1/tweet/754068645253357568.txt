@@ -1,0 +1,1 @@
+{"usernameTweet": "ce_chill", "ID": "754068645253357568", "text": "Tul perde onunde metin okuyarak sokaga cagrildin!  Oyuna gelme ,  #SokağaSakınÇıkma", "url": "/ce_chill/status/754068645253357568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:42:29", "is_reply": false, "is_retweet": false, "user_id": "68671831"}

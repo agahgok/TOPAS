@@ -1,0 +1,1 @@
+{"usernameTweet": "26mrylmz", "ID": "754079632450809857", "text": "# SokağaSakınÇıkma   Arkadaşlar oyuna gelmeyin sokağa çıkmayın.", "url": "/26mrylmz/status/754079632450809857", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:26:09", "is_reply": false, "is_retweet": false, "user_id": "184189305"}

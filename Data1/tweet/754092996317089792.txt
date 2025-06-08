@@ -1,0 +1,1 @@
+{"usernameTweet": "glbilgn", "ID": "754092996317089792", "text": "# SokağaSakınÇıkma  evlerinize dönün!! Yaralanan insanlar var..", "url": "/glbilgn/status/754092996317089792", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:19:15", "is_reply": false, "is_retweet": false, "user_id": "43703089"}

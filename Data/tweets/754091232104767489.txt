@@ -1,0 +1,1 @@
+{"usernameTweet": "Emre_Puka", "ID": "754091232104767489", "text": "Defolun gidin ermeni tohumları  #SokağaSakınÇıkma", "url": "/Emre_Puka/status/754091232104767489", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:14", "is_reply": false, "is_retweet": false, "user_id": "4513030755"}

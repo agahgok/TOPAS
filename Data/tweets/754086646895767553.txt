@@ -1,0 +1,1 @@
+{"usernameTweet": "sunkeydan", "ID": "754086646895767553", "text": "Darbeyi goze Alan her seyi goze alir #SokağaSakınÇıkma", "url": "/sunkeydan/status/754086646895767553", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:01", "is_reply": false, "is_retweet": false, "user_id": "3986801423"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gamzegiizem1903", "ID": "754069692051034113", "text": "Ben sokaga cikmam. Sandikta veririm cevabimi. Çümkü Cımcırbaskanim hep öyle derdi! #SokağaÇıkma", "url": "/gamzegiizem1903/status/754069692051034113", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:46:39", "is_reply": false, "is_retweet": false, "user_id": "2702007139"}

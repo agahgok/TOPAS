@@ -1,0 +1,1 @@
+{"usernameTweet": "orucovaygun", "ID": "754069101518225408", "text": "# SOKAĞASAKINÇIKMA", "url": "/orucovaygun/status/754069101518225408", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:44:18", "is_reply": false, "is_retweet": false, "user_id": "2914231817"}

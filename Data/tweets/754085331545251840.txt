@@ -1,0 +1,1 @@
+{"usernameTweet": "ncimen", "ID": "754085331545251840", "text": "# SokağaSakınÇıkma \nBu \"darbe\" girişimi değil RTE nin başkanlık oyunudur.! NOKTA", "url": "/ncimen/status/754085331545251840", "nbr_retweet": 13, "nbr_favorite": 19, "nbr_reply": 0, "datetime": "2016-07-16 01:48:47", "is_reply": false, "is_retweet": false, "user_id": "146901512"}

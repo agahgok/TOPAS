@@ -1,0 +1,1 @@
+{"usernameTweet": "manslimehmet", "ID": "1282669165392920576", "text": "Eğer bir amaç uğruna ayakta değilseniz, her  darbe  sizi yere serebilir.", "url": "/manslimehmet/status/1282669165392920576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:32:14", "is_reply": false, "is_retweet": false, "user_id": "1198233756445945856"}

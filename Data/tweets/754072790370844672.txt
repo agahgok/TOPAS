@@ -1,0 +1,1 @@
+{"usernameTweet": "cambeltwt", "ID": "754072790370844672", "text": "# SokağaSakınÇıkma", "url": "/cambeltwt/status/754072790370844672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:57", "is_reply": false, "is_retweet": false, "user_id": "39038205"}

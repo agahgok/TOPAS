@@ -1,0 +1,1 @@
+{"usernameTweet": "kronikleyla", "ID": "754072826789949441", "text": "# SokağaSakınÇıkma", "url": "/kronikleyla/status/754072826789949441", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:06", "is_reply": false, "is_retweet": false, "user_id": "1633522872"}

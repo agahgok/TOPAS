@@ -1,0 +1,1 @@
+{"usernameTweet": "Rain_smyrna35", "ID": "754076649281482753", "text": "Noldu Tayyip sokağa çıkana terörist diyordu  #SokağaSakınÇıkma", "url": "/Rain_smyrna35/status/754076649281482753", "nbr_retweet": 56, "nbr_favorite": 104, "nbr_reply": 7, "datetime": "2016-07-16 01:14:17", "is_reply": false, "is_retweet": false, "user_id": "1489721449"}

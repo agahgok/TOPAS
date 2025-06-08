@@ -1,0 +1,1 @@
+{"usernameTweet": "Galata_SarayFC", "ID": "754094083715588096", "text": "# SokağaSakınÇıkma  Diyen Şerefsiz #chp  liler çıkında başınıza sıkalım. \n#HükümetinYanındayız", "url": "/Galata_SarayFC/status/754094083715588096", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:23:34", "is_reply": false, "is_retweet": false, "user_id": "2433560477"}

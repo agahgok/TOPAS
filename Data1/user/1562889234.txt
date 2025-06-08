@@ -1,0 +1,1 @@
+{"ID": "1562889234", "name": "野獣先輩○○説.bot", "screen_name": "yj_shinsetsubot", "avatar": "https://pbs.twimg.com/profile_images/378800000077248300/ef69d03998c752a7d2bd8d4554f64399_bigger.jpeg"}

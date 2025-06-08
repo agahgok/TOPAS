@@ -1,0 +1,1 @@
+{"usernameTweet": "caflecy", "ID": "1281686799211991044", "text": "bir  darbe  slayerstan bir  darbe  barış’tan şamar oğlanına döndük amk", "url": "/caflecy/status/1281686799211991044", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-10 23:28:40", "is_reply": false, "is_retweet": false, "user_id": "1244349123672911877"}

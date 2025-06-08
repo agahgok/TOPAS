@@ -1,0 +1,1 @@
+{"usernameTweet": "Suedamoratlar", "ID": "754077404952465412", "text": "Tayibin sokağa çık lafiyla sokağa falan çıkmam ben #SokağaSakınÇıkma", "url": "/Suedamoratlar/status/754077404952465412", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:17:18", "is_reply": false, "is_retweet": false, "user_id": "1404446941"}

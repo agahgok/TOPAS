@@ -1,0 +1,1 @@
+{"usernameTweet": "Ebruamabmyfc", "ID": "1281976948827328512", "text": "Resmen  darbe  girişimi kdmemdmdm", "url": "/Ebruamabmyfc/status/1281976948827328512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 18:41:37", "is_reply": true, "is_retweet": false, "user_id": "1280125232855109632"}

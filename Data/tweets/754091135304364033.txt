@@ -1,0 +1,1 @@
+{"usernameTweet": "UfukAkka2", "ID": "754091135304364033", "text": "Jjk kg #SokağaSakınÇıkma", "url": "/UfukAkka2/status/754091135304364033", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:51", "is_reply": false, "is_retweet": false, "user_id": "741742490110328832"}

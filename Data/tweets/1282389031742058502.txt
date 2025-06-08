@@ -1,0 +1,1 @@
+{"usernameTweet": "alperengunakan", "ID": "1282389031742058502", "text": "Taban?  Darbe ? İkisi de varken nasıl vermez anlamiyorum(anlamı ortada gerçi)", "url": "/alperengunakan/status/1282389031742058502", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 21:59:05", "is_reply": true, "is_retweet": false, "user_id": "3233505297"}

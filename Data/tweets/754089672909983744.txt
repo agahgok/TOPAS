@@ -1,0 +1,1 @@
+{"usernameTweet": "dionysosAg", "ID": "754089672909983744", "text": "Türkiye laiktir Sela okutarak ne yapıyorsunuz #SokağaSakınÇıkma", "url": "/dionysosAg/status/754089672909983744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:02", "is_reply": false, "is_retweet": false, "user_id": "726697437000245248"}

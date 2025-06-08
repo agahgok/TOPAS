@@ -1,0 +1,1 @@
+{"usernameTweet": "Sener__36", "ID": "754087015512145921", "text": "Avcılar da silah sesleri geliyor #SokağaSakınÇıkma", "url": "/Sener__36/status/754087015512145921", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:29", "is_reply": false, "is_retweet": false, "user_id": "1475670618"}

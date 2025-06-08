@@ -1,0 +1,1 @@
+{"usernameTweet": "Sahmeran54Senem", "ID": "754118012224036864", "text": "#SokağaSakınÇıkma #BunlarHepVardiHepVarlarKoktenTemizlikGerek ak troler  pic.twitter.com/D2b1qtC943", "url": "/Sahmeran54Senem/status/754118012224036864", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:58:39", "is_reply": false, "is_retweet": false, "user_id": "3001839548"}

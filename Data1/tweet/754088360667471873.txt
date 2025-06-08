@@ -1,0 +1,1 @@
+{"usernameTweet": "kahtani13", "ID": "754088360667471873", "text": "# SokağaSakınÇıkma  bunlar için başkasının hayatının hiç deģeri yok", "url": "/kahtani13/status/754088360667471873", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:50", "is_reply": false, "is_retweet": false, "user_id": "3292847516"}

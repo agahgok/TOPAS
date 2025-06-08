@@ -1,0 +1,1 @@
+{"usernameTweet": "ibrahimaslandk", "ID": "1282441696513527809", "text": "Kafirlere  darbe  girişimi gibi maşalla", "url": "/ibrahimaslandk/status/1282441696513527809", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-13 01:28:21", "is_reply": true, "is_retweet": false, "user_id": "3127588671"}

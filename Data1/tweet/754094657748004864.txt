@@ -1,0 +1,1 @@
+{"usernameTweet": "akrepab", "ID": "754094657748004864", "text": "# SokağaSakınÇıkma", "url": "/akrepab/status/754094657748004864", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:25:51", "is_reply": false, "is_retweet": false, "user_id": "448747183"}

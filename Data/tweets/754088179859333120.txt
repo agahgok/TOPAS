@@ -1,0 +1,1 @@
+{"usernameTweet": "yakut_nur", "ID": "754088179859333120", "text": "Suriyeliler çıkın dışarıya .. #SokağaSakınÇıkma", "url": "/yakut_nur/status/754088179859333120", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:00:07", "is_reply": false, "is_retweet": false, "user_id": "2958802493"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sekkreterya", "ID": "754083018747228160", "text": "Şaka gibi 2.ye okunuyor sela. Şimdi çıkıp dağı taşı sikicem. #SokağaSakınÇıkma", "url": "/sekkreterya/status/754083018747228160", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:39:36", "is_reply": false, "is_retweet": false, "user_id": "3107663140"}

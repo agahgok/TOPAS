@@ -1,0 +1,1 @@
+{"usernameTweet": "nhpzrf", "ID": "754076390304120832", "text": "# SokağaSakınÇıkma  ve tekbir sesleri başlar....", "url": "/nhpzrf/status/754076390304120832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:16", "is_reply": false, "is_retweet": false, "user_id": "140560336"}

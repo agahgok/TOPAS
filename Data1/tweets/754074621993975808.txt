@@ -1,0 +1,1 @@
+{"usernameTweet": "baba_ozunaldim", "ID": "754074621993975808", "text": "# SokağaSakınÇıkma", "url": "/baba_ozunaldim/status/754074621993975808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:14", "is_reply": false, "is_retweet": false, "user_id": "732115865424912384"}

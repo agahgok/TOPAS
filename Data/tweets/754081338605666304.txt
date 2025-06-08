@@ -1,0 +1,1 @@
+{"usernameTweet": "andromedamp3", "ID": "754081338605666304", "text": "Sokağa çıkarak sadece kendini riske atarsın, askerle savaşmak senin işin değil #SokağaSakınÇıkma", "url": "/andromedamp3/status/754081338605666304", "nbr_retweet": 3, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:32:55", "is_reply": false, "is_retweet": false, "user_id": "1128455185"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kuzucuk6775", "ID": "754082467175333889", "text": "sana sokağa çık diyenler sokağa çıkmadan  #SokağaSakınÇıkma", "url": "/kuzucuk6775/status/754082467175333889", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:25", "is_reply": false, "is_retweet": false, "user_id": "3288781437"}

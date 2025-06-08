@@ -1,0 +1,1 @@
+{"usernameTweet": "karsisirin", "ID": "1282300204834869254", "text": "15 Temmuz kumpas değil, bir grup O.çocuğunun  darbe  teşebbüsüdür.\nFetöcülerin hepsi O.çocuğudur", "url": "/karsisirin/status/1282300204834869254", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 16:06:07", "is_reply": true, "is_retweet": false, "user_id": "2893405325"}

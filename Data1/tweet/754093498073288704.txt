@@ -1,0 +1,1 @@
+{"usernameTweet": "suruden_ayri", "ID": "754093498073288704", "text": "asker boğaziçi köprüsünü kapattı #Ankara  #SokağaSakınÇıkma", "url": "/suruden_ayri/status/754093498073288704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:14", "is_reply": false, "is_retweet": false, "user_id": "2664192432"}

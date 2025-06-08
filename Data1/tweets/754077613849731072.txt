@@ -1,0 +1,1 @@
+{"usernameTweet": "hep_muge", "ID": "754077613849731072", "text": "# Turkey  #SokağaSakınÇıkma  türksat yayınları kesildi", "url": "/hep_muge/status/754077613849731072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:07", "is_reply": false, "is_retweet": false, "user_id": "1014031854"}

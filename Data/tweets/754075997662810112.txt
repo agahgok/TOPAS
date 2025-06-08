@@ -1,0 +1,1 @@
+{"usernameTweet": "3BTolunay", "ID": "754075997662810112", "text": "# SokağaSakınÇıkma  kurşuna kafa mı atacaksınız?  Askere savaş açmak TÜRKİYE ye savaş demektir", "url": "/3BTolunay/status/754075997662810112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:42", "is_reply": false, "is_retweet": false, "user_id": "288496678"}

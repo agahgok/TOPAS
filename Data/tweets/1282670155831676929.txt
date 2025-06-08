@@ -1,0 +1,1 @@
+{"usernameTweet": "mrrvak", "ID": "1282670155831676929", "text": "Çünkü aldığım her küçük  darbe  içimde koca bir boşluğa neden oldu...", "url": "/mrrvak/status/1282670155831676929", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-13 16:36:10", "is_reply": false, "is_retweet": false, "user_id": "1169946505920335878"}

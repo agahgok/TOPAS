@@ -1,0 +1,1 @@
+{"usernameTweet": "DusunceSurvivor", "ID": "1282026738957127681", "text": "krallar sakatken  darbe  kolaylaşır", "url": "/DusunceSurvivor/status/1282026738957127681", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 21:59:28", "is_reply": true, "is_retweet": false, "user_id": "1252349386413219840"}

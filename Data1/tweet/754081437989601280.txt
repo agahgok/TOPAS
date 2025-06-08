@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetdogan5528", "ID": "754081437989601280", "text": "milletin iradesine darbe yapanlar bilsin ki millet içindeyildir #SokağaSakınÇıkma", "url": "/mehmetdogan5528/status/754081437989601280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:19", "is_reply": false, "is_retweet": false, "user_id": "2757063412"}

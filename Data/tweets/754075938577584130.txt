@@ -1,0 +1,1 @@
+{"usernameTweet": "10danBanaNe", "ID": "754075938577584130", "text": "# SokağaSakınÇıkma  diyen DARBECİ İBNELER", "url": "/10danBanaNe/status/754075938577584130", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:28", "is_reply": false, "is_retweet": false, "user_id": "725663474525851649"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yallaharabstna", "ID": "754072713090699264", "text": "# SokağaSakınÇıkma  KENDİNİ KULLANDIRTMA!", "url": "/yallaharabstna/status/754072713090699264", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:58:39", "is_reply": false, "is_retweet": false, "user_id": "2714909563"}

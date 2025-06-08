@@ -1,0 +1,1 @@
+{"usernameTweet": "Elminaaaa", "ID": "754092976641409024", "text": "# SokağaSakınÇıkma  #Turkey  \nBiraz sonra cumhurbaşkanı balkona çıkıp \"qandırdım zaaaa\" diyecekmiş gibi.", "url": "/Elminaaaa/status/754092976641409024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:10", "is_reply": false, "is_retweet": false, "user_id": "3138439403"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sadece140", "ID": "754093752822693889", "text": "# Türkiye  #SokağaSakınÇıkma  ne işin var dışarıda. otur evinde @KanalD  magazin programı var.", "url": "/sadece140/status/754093752822693889", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:15", "is_reply": false, "is_retweet": false, "user_id": "2431023264"}

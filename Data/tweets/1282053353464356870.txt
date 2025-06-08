@@ -1,0 +1,1 @@
+{"usernameTweet": "Nazliozdogan23", "ID": "1282053353464356870", "text": "Benim için  darbe  yasıdır  kara gündür.", "url": "/Nazliozdogan23/status/1282053353464356870", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 2, "datetime": "2020-07-11 23:45:13", "is_reply": true, "is_retweet": false, "user_id": "881074725933469697"}

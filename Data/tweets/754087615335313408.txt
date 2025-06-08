@@ -1,0 +1,1 @@
+{"usernameTweet": "slhttncm", "ID": "754087615335313408", "text": "AKmallardan başka kimse sokağa çıkmasın. Mal mal dolaşsınlar dışarda :)\n#Sokağaçıkma", "url": "/slhttncm/status/754087615335313408", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:52", "is_reply": false, "is_retweet": false, "user_id": "45783629"}

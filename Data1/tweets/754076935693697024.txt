@@ -1,0 +1,1 @@
+{"usernameTweet": "tebriz_ismayil", "ID": "754076935693697024", "text": "# SokağaSakınÇıkma   https:// twitter.com/AHMET_ATAKAN23 /status/754072836126363648   …", "url": "/tebriz_ismayil/status/754076935693697024", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:15:26", "is_reply": false, "is_retweet": false, "user_id": "429588384"}

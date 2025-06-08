@@ -1,0 +1,1 @@
+{"usernameTweet": "maviege25", "ID": "1281923886502883328", "text": "Darbe  yapıp koca imparatorluğu yıkan itaat ve terakki ve avanelerinden bahsediyorsun sanırım", "url": "/maviege25/status/1281923886502883328", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 3, "datetime": "2020-07-11 15:10:46", "is_reply": true, "is_retweet": false, "user_id": "748853618955124736"}

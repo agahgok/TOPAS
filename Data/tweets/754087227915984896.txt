@@ -1,0 +1,1 @@
+{"usernameTweet": "CanKaca", "ID": "754087227915984896", "text": "Ezan okunuyor, \nbari gidip iki rekat namaz da kılın senaryo gereği.. :)\n#SokağaSakınÇıkma", "url": "/CanKaca/status/754087227915984896", "nbr_retweet": 7, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:56:20", "is_reply": false, "is_retweet": false, "user_id": "74139362"}

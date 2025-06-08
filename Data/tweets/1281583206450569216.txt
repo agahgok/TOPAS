@@ -1,0 +1,1 @@
+{"usernameTweet": "bjornmustiside", "ID": "1281583206450569216", "text": "\"Ayasofya'yı camii haline getirerek kurulan büyük oyuna kuvvetli bir  darbe  vurduk.\"", "url": "/bjornmustiside/status/1281583206450569216", "nbr_retweet": 0, "nbr_favorite": 25, "nbr_reply": 0, "datetime": "2020-07-10 16:37:01", "is_reply": true, "is_retweet": false, "user_id": "3385750461"}

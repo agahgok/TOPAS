@@ -1,0 +1,1 @@
+{"usernameTweet": "metinilbuga", "ID": "754089825440071680", "text": "# Darbeyehayır   #SokağaSakınÇıkma", "url": "/metinilbuga/status/754089825440071680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:39", "is_reply": false, "is_retweet": false, "user_id": "383994544"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "lawketorii", "ID": "754084963750965249", "text": "Aklı olan evden çıkmasın. #SokağaSakınÇıkma", "url": "/lawketorii/status/754084963750965249", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:20", "is_reply": false, "is_retweet": false, "user_id": "1418289150"}

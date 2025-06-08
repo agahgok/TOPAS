@@ -1,0 +1,1 @@
+{"usernameTweet": "evriimcarkcii", "ID": "754078650195144704", "text": "# SokağaSakınÇıkma  milletin güvenliği için çıkmayın.", "url": "/evriimcarkcii/status/754078650195144704", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:22:14", "is_reply": false, "is_retweet": false, "user_id": "3081929103"}

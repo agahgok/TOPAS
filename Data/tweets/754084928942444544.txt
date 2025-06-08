@@ -1,0 +1,1 @@
+{"usernameTweet": "zevzevkk", "ID": "754084928942444544", "text": "# SokağaSakınÇıkma  millet gezi olaylarindayken yattiniz şimdi neden ezanı tayyip için kullanıp sokaga döküldünüz", "url": "/zevzevkk/status/754084928942444544", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:47:11", "is_reply": false, "is_retweet": false, "user_id": "3050138561"}

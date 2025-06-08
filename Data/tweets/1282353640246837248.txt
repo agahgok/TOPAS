@@ -1,0 +1,1 @@
+{"usernameTweet": "EsraSaracoglu", "ID": "1282353640246837248", "text": "DARBE  GECESİ BİR YİĞİT: SAYIN ADNAN OKTAR\n https:// darbegecesibiryigit-adnanoktar.com /  ", "url": "/EsraSaracoglu/status/1282353640246837248", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-12 19:38:27", "is_reply": false, "is_retweet": false, "user_id": "773977826"}

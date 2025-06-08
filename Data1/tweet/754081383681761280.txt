@@ -1,0 +1,1 @@
+{"usernameTweet": "yavuzselim20231", "ID": "754081383681761280", "text": "# SokağaSakınÇıkma  OYUNU BOZ SOKAK ÇÖZÜM DEGIL SOKAGA ÇIKMA", "url": "/yavuzselim20231/status/754081383681761280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:06", "is_reply": false, "is_retweet": false, "user_id": "2968114161"}

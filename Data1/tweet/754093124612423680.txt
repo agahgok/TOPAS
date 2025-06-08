@@ -1,0 +1,1 @@
+{"usernameTweet": "uA_izmirli", "ID": "754093124612423680", "text": "Göt korkusu, şeriat isteriz diye bağıranları, demokrasi için sokağa çıkın diye anırtır.  #SokağaSakınÇıkma", "url": "/uA_izmirli/status/754093124612423680", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:19:45", "is_reply": false, "is_retweet": false, "user_id": "2938125443"}

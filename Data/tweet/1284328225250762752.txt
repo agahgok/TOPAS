@@ -1,0 +1,1 @@
+{"usernameTweet": "DabeApo_bot", "ID": "1284328225250762752", "text": "葉隠「桑田っち、いいか？落ち着いて聞いてくれ… あー、実はだな、ここに…動くこけし…があんだけどよ」 桑田「アッハハ、そいじゃまた明日ーっ！」 葉隠（このアプローチはハズレかーっ；；）", "url": "/DabeApo_bot/status/1284328225250762752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 06:24:45", "is_reply": false, "is_retweet": false, "user_id": "953250348"}

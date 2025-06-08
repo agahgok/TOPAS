@@ -1,0 +1,1 @@
+{"usernameTweet": "BuseeND", "ID": "1282271579297243137", "text": "Sert kayaya çarptım bu  darbe  bana twitter kapattırır, özür dilerim :(", "url": "/BuseeND/status/1282271579297243137", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 14:12:22", "is_reply": true, "is_retweet": false, "user_id": "362153181"}

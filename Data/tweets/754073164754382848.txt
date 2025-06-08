@@ -1,0 +1,1 @@
+{"usernameTweet": "meditatifmix", "ID": "754073164754382848", "text": "# SokağaSakınÇıkma   pic.twitter.com/fsR7eBzkUU", "url": "/meditatifmix/status/754073164754382848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:27", "is_reply": false, "is_retweet": false, "user_id": "479834874"}

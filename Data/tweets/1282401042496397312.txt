@@ -1,0 +1,1 @@
+{"usernameTweet": "alexxxmora", "ID": "1282401042496397312", "text": "No se como Sea la \"gente que lo sigue\"... Y la gente que lo ataca?", "url": "/alexxxmora/status/1282401042496397312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 2, "datetime": "2020-07-12 22:46:49", "is_reply": true, "is_retweet": false, "user_id": "71853119"}

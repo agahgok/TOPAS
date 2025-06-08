@@ -1,0 +1,1 @@
+{"usernameTweet": "meliisakus", "ID": "754073590987890689", "text": "Zamanında hakkınız aradınız die hain diyen birine kanıp  #SokağaSakınÇıkma  !", "url": "/meliisakus/status/754073590987890689", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:08", "is_reply": false, "is_retweet": false, "user_id": "4065691157"}

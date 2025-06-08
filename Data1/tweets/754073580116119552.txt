@@ -1,0 +1,1 @@
+{"usernameTweet": "bendis_a", "ID": "754073580116119552", "text": "Kartal esentepede polis ateş etmeye başladı #SokağaSakınÇıkma", "url": "/bendis_a/status/754073580116119552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:06", "is_reply": false, "is_retweet": false, "user_id": "746662363680612352"}

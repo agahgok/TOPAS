@@ -1,0 +1,1 @@
+{"usernameTweet": "sweetcat0101", "ID": "754088865066061824", "text": "ezan sesini savaş çağrısı olarak açıklayan adamdan ne bekliyonuz hala.!!\n#SokağaSakınÇıkma", "url": "/sweetcat0101/status/754088865066061824", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:50", "is_reply": false, "is_retweet": false, "user_id": "737194723861991424"}

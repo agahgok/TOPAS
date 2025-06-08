@@ -1,0 +1,1 @@
+{"usernameTweet": "Bridget94756970", "ID": "1281589518857109506", "text": "Dünyaya bir  darbe  daha vurduk kıskançlıktan bu sefer çatlarlar. #AyasofyaCamii", "url": "/Bridget94756970/status/1281589518857109506", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 17:02:06", "is_reply": false, "is_retweet": false, "user_id": "1213852396700332032"}

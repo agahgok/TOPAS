@@ -1,0 +1,1 @@
+{"usernameTweet": "gkhn_lhn", "ID": "754077761178918912", "text": "Belki hayatımda hiç darbe görmedim ama bu darbe sanki çok çin malı canım. #SokağaSakınÇıkma", "url": "/gkhn_lhn/status/754077761178918912", "nbr_retweet": 3, "nbr_favorite": 24, "nbr_reply": 0, "datetime": "2016-07-16 01:18:43", "is_reply": false, "is_retweet": false, "user_id": "515529310"}

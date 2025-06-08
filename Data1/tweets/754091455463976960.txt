@@ -1,0 +1,1 @@
+{"usernameTweet": "dlrebk", "ID": "754091455463976960", "text": "\"hiçbir diktatör iç savaş çıkarmadan gitmez\" _LENİN  #SokağaSakınÇıkma", "url": "/dlrebk/status/754091455463976960", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:13:07", "is_reply": false, "is_retweet": false, "user_id": "423694991"}

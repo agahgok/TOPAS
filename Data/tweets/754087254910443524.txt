@@ -1,0 +1,1 @@
+{"usernameTweet": "pyriast", "ID": "754087254910443524", "text": "Ataturk ulkeyi sokaga doktugunde en ondeydi bir yerde saklanmiyordu! #SokağaSakınÇıkma", "url": "/pyriast/status/754087254910443524", "nbr_retweet": 4, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:56:26", "is_reply": false, "is_retweet": false, "user_id": "764803238"}

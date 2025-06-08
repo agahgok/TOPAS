@@ -1,0 +1,1 @@
+{"usernameTweet": "edoner1907", "ID": "754081312089202688", "text": "# SokağaSakınÇıkma  diyenler evde kimse kalmasın diyelim  pic.twitter.com/OrqVmh8sPc", "url": "/edoner1907/status/754081312089202688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:49", "is_reply": false, "is_retweet": false, "user_id": "3138204653"}

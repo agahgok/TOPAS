@@ -1,0 +1,1 @@
+{"usernameTweet": "ladymidnghts", "ID": "754090029681610752", "text": "bunun birinci numara trend olması çok üzücü #SokağaSakınÇıkma", "url": "/ladymidnghts/status/754090029681610752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:28", "is_reply": false, "is_retweet": false, "user_id": "2589480707"}

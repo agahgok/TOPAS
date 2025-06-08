@@ -1,0 +1,1 @@
+{"usernameTweet": "on3_mor3_coff33", "ID": "1281545710035521536", "text": "İnş bi  darbe  alıp uçarlar, varsa böyle bsy içim rahatlar", "url": "/on3_mor3_coff33/status/1281545710035521536", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 14:08:01", "is_reply": true, "is_retweet": false, "user_id": "742078029187387392"}

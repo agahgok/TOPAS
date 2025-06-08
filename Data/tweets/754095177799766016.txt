@@ -1,0 +1,1 @@
+{"usernameTweet": "eminegndgd85", "ID": "754095177799766016", "text": "Halkı sokağa çağırma sen sokağa çık #Erdogan   #SokağaSakınÇıkma", "url": "/eminegndgd85/status/754095177799766016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:55", "is_reply": false, "is_retweet": false, "user_id": "753309663811305472"}

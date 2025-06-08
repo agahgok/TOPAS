@@ -1,0 +1,1 @@
+{"usernameTweet": "xmalak44", "ID": "754103557360615425", "text": "Allahım sen koru   #SokağaSakınÇıkma  #Turkey  #TRT  #Ankara  #İstanbul  #Türkei     امين يارب", "url": "/xmalak44/status/754103557360615425", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:01:13", "is_reply": false, "is_retweet": false, "user_id": "2357231307"}

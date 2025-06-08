@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetakca3437", "ID": "1282117335306952705", "text": "Tüm osmanlı kaşıntın ayasofya açılınca başladı demek 1453 de sizinkiler  darbe  yedi ", "url": "/mehmetakca3437/status/1282117335306952705", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 03:59:27", "is_reply": true, "is_retweet": false, "user_id": "338401203"}

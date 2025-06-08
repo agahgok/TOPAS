@@ -1,0 +1,1 @@
+{"usernameTweet": "MarlaSayko", "ID": "754082547966017536", "text": "# SokağaSakınÇıkma   saat 1.20de ezan okutan sistem! her şeye dini alet edenler.. Yurdumdan manzaralar", "url": "/MarlaSayko/status/754082547966017536", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:44", "is_reply": false, "is_retweet": false, "user_id": "3482166258"}

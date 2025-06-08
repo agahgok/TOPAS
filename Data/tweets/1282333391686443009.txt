@@ -1,0 +1,1 @@
+{"usernameTweet": "Seyhmus_Pala", "ID": "1282333391686443009", "text": "Ne olursa olsun babaya da  darbe  yapılmaz aga", "url": "/Seyhmus_Pala/status/1282333391686443009", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-12 18:17:59", "is_reply": true, "is_retweet": false, "user_id": "1245296042331037697"}

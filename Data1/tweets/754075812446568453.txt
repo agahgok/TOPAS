@@ -1,0 +1,1 @@
+{"usernameTweet": "semihaktan26", "ID": "754075812446568453", "text": "# SokağaSakınÇıkma  sokaga cagiranlari sokaga cikin diyenleri niye sokakta goremiyoruz...", "url": "/semihaktan26/status/754075812446568453", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:58", "is_reply": false, "is_retweet": false, "user_id": "373873079"}

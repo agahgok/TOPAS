@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetgkhn", "ID": "754069968111755264", "text": "Sakın erdogana kanmayın ve sokağa cıkmayın! #SokağaSakınÇıkma", "url": "/mehmetgkhn/status/754069968111755264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:47:44", "is_reply": false, "is_retweet": false, "user_id": "751408147848372224"}

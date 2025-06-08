@@ -1,0 +1,1 @@
+{"usernameTweet": "Egm701", "ID": "1281287364971835398", "text": "Tiyatrodur o tiyatro.  Darbe  olsa duramazsın.", "url": "/Egm701/status/1281287364971835398", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 21:01:27", "is_reply": true, "is_retweet": false, "user_id": "2769244757"}

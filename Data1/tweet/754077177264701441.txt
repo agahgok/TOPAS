@@ -1,0 +1,1 @@
+{"usernameTweet": "gulazer5", "ID": "754077177264701441", "text": "# SokağaSakınÇıkma  diyenler asıl sizler gibi çapulcular sokağa çıkmasın.", "url": "/gulazer5/status/754077177264701441", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:23", "is_reply": false, "is_retweet": false, "user_id": "4850626342"}

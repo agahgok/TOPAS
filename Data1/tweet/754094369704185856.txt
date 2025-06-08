@@ -1,0 +1,1 @@
+{"usernameTweet": "catruless", "ID": "754094369704185856", "text": "Hiçbir eyleme çıkmayın şu din budalasının kuklası olmayın! #SokağaSakınÇıkma", "url": "/catruless/status/754094369704185856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:42", "is_reply": false, "is_retweet": false, "user_id": "2308115907"}

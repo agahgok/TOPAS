@@ -1,0 +1,1 @@
+{"usernameTweet": "msgsubaykus", "ID": "754085258098798592", "text": "Ne Akp Ne Darbe !\n#Ankara \n#SokağaSakınÇıkma", "url": "/msgsubaykus/status/754085258098798592", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:30", "is_reply": false, "is_retweet": false, "user_id": "1621293420"}

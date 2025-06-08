@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetmvar", "ID": "754094928574152704", "text": "# SokağaSakınÇıkma  diyen halt etmiş burası Amasya  pic.twitter.com/XTRNuZ50ph", "url": "/mehmetmvar/status/754094928574152704", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:26:56", "is_reply": false, "is_retweet": false, "user_id": "310787712"}

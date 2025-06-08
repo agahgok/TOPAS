@@ -1,0 +1,1 @@
+{"usernameTweet": "nry874", "ID": "754088496437002241", "text": "Darbeye Ezan ile Sela ile karşılık veriyoruz.#SokağaSakınÇıkma", "url": "/nry874/status/754088496437002241", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:22", "is_reply": false, "is_retweet": false, "user_id": "2269196233"}

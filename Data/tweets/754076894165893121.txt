@@ -1,0 +1,1 @@
+{"usernameTweet": "bibilge7", "ID": "754076894165893121", "text": "Benim vatanımın toprağında hangi çılgın bana  #SokağaSakınÇıkma  der şaşarım !!!!", "url": "/bibilge7/status/754076894165893121", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:16", "is_reply": false, "is_retweet": false, "user_id": "384985804"}

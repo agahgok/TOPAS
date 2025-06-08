@@ -1,0 +1,1 @@
+{"usernameTweet": "mervelerdenimm", "ID": "754072620207902720", "text": "Sizi kim koruyacakk peki ? #SokağaSakınÇıkma", "url": "/mervelerdenimm/status/754072620207902720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:17", "is_reply": false, "is_retweet": false, "user_id": "3319633090"}

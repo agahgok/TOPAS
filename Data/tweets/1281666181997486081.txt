@@ -1,0 +1,1 @@
+{"usernameTweet": "_KHKguncesi_", "ID": "1281666181997486081", "text": "Darbe  ile ilgisi olmayan insanlara yapılan haksızlıklara son ver!\n\nAYMHaksızlığa DurDe", "url": "/_KHKguncesi_/status/1281666181997486081", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-10 22:06:44", "is_reply": false, "is_retweet": false, "user_id": "843239760953049089"}

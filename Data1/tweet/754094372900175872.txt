@@ -1,0 +1,1 @@
+{"usernameTweet": "___fatih_", "ID": "754094372900175872", "text": "# SokağaSakınÇıkma  sokağa çıkmayı  yasaklamislar  çıktık  gelin bizi de polisimiz gibi bombalayan namussuzlar", "url": "/___fatih_/status/754094372900175872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:43", "is_reply": false, "is_retweet": false, "user_id": "1477305776"}

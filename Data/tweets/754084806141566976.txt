@@ -1,0 +1,1 @@
+{"usernameTweet": "mervetuysuz_", "ID": "754084806141566976", "text": "Tanrı Türk'ü korusun.  #SokağaSakınÇıkma", "url": "/mervetuysuz_/status/754084806141566976", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:46:42", "is_reply": false, "is_retweet": false, "user_id": "566166532"}

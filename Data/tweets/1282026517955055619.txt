@@ -1,0 +1,1 @@
+{"usernameTweet": "eminekoyunn", "ID": "1282026517955055619", "text": "Darbe  üstüne  darbe ..", "url": "/eminekoyunn/status/1282026517955055619", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-11 21:58:35", "is_reply": false, "is_retweet": false, "user_id": "915513894776578048"}

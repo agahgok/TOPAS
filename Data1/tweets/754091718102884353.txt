@@ -1,0 +1,1 @@
+{"usernameTweet": "Chapulcoo", "ID": "754091718102884353", "text": "# SokağaSakınÇıkma  Bilal oğlan heralde israile mal satarken  gemide kaldı , çıkamıyor garibim !", "url": "/Chapulcoo/status/754091718102884353", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:10", "is_reply": false, "is_retweet": false, "user_id": "2961840814"}

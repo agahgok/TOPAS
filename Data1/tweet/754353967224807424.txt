@@ -1,0 +1,1 @@
+{"usernameTweet": "akyolaslihan", "ID": "754353967224807424", "text": "Aynı hataya düşmeyin. Dikkatli olun. #sokağasakınçıkma   pic.twitter.com/qbX3Y8S2Km", "url": "/akyolaslihan/status/754353967224807424", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 19:36:15", "is_reply": false, "is_retweet": false, "user_id": "481306828"}

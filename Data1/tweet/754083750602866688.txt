@@ -1,0 +1,1 @@
+{"usernameTweet": "14a06a", "ID": "754083750602866688", "text": "# sokağasakınçıkma  bütün twitler kopyalanip birer birer incelenecek", "url": "/14a06a/status/754083750602866688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:30", "is_reply": false, "is_retweet": false, "user_id": "144309205"}

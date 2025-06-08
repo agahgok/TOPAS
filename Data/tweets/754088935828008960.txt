@@ -1,0 +1,1 @@
+{"usernameTweet": "Cukurova_1987", "ID": "754088935828008960", "text": "# SokağaSakınÇıkma  yemezler. görevden alınan albay nasıl darbe yapsın.", "url": "/Cukurova_1987/status/754088935828008960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:07", "is_reply": false, "is_retweet": false, "user_id": "4603193355"}

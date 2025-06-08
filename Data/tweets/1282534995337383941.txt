@@ -1,0 +1,1 @@
+{"usernameTweet": "rusolivares", "ID": "1282534995337383941", "text": "pic.twitter.com/S8jHS0arP8", "url": "/rusolivares/status/1282534995337383941", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 07:39:05", "is_reply": true, "is_retweet": false, "user_id": "148174551"}

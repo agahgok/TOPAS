@@ -1,0 +1,1 @@
+{"usernameTweet": "riyoongio", "ID": "1282660561688375297", "text": "JJK1  darbe  etkisi birakcak amina", "url": "/riyoongio/status/1282660561688375297", "nbr_retweet": 1, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-13 15:58:03", "is_reply": false, "is_retweet": false, "user_id": "1215354382318960642"}

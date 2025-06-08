@@ -1,0 +1,1 @@
+{"usernameTweet": "KCeydaCimen", "ID": "754318400613126144", "text": "Asker öldüğünde sokağa çıkmayanlar, askere karşı sokağa çıkmasın ! #askerimedokunma  #sokağasakınçıkma", "url": "/KCeydaCimen/status/754318400613126144", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 17:14:55", "is_reply": false, "is_retweet": false, "user_id": "2308254286"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "OkanGezerce", "ID": "754088862562054144", "text": "Polis'in Asker'i göz altına alma videosu @140journos  #SokağaSakınÇıkma   pic.twitter.com/LBBbnYSU3H", "url": "/OkanGezerce/status/754088862562054144", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 02:02:49", "is_reply": false, "is_retweet": false, "user_id": "589305758"}

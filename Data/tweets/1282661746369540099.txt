@@ -1,0 +1,1 @@
+{"usernameTweet": "serifebzdgnli", "ID": "1282661746369540099", "text": "15 Temmuz Darbeye  darbe  yapan bir milletin hikayesidir. #15TemmuzuUnutma pic.twitter.com/Z2JSG0f5rc", "url": "/serifebzdgnli/status/1282661746369540099", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 16:02:45", "is_reply": false, "is_retweet": false, "user_id": "1707909534"}

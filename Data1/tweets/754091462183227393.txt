@@ -1,0 +1,1 @@
+{"usernameTweet": "PopiHaks", "ID": "754091462183227393", "text": "# SokağaSakınÇıkma  tayyip neden çıkmıyor koyunları öne sürdü gene", "url": "/PopiHaks/status/754091462183227393", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:09", "is_reply": false, "is_retweet": false, "user_id": "2372575746"}

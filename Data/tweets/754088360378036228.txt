@@ -1,0 +1,1 @@
+{"usernameTweet": "pektekinmehmet", "ID": "754088360378036228", "text": "Askerde bizim devlet de. Oyuna gelmeyelim. Sokağa çıkmayalım. #SokağaSakınÇıkma", "url": "/pektekinmehmet/status/754088360378036228", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 02:00:50", "is_reply": false, "is_retweet": false, "user_id": "627368079"}

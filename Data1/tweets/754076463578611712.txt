@@ -1,0 +1,1 @@
+{"usernameTweet": "NiSaNYaGMuRu_82", "ID": "754076463578611712", "text": "Baş provakatöre uyup  #SokağaSakınÇıkma  onun istediği yine kan döküp o kanla beslenmek", "url": "/NiSaNYaGMuRu_82/status/754076463578611712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:33", "is_reply": false, "is_retweet": false, "user_id": "71388324"}

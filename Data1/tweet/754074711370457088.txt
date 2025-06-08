@@ -1,0 +1,1 @@
+{"usernameTweet": "EzgiUzan4", "ID": "754074711370457088", "text": "# SokağaSakınÇıkma  Erdoğan Piçi Halkı Oyuna Getiriyor !!!", "url": "/EzgiUzan4/status/754074711370457088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:35", "is_reply": false, "is_retweet": false, "user_id": "704398288729055232"}

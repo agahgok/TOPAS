@@ -1,0 +1,1 @@
+{"usernameTweet": "EylemKont", "ID": "754073110203293696", "text": "# SokağaSakınÇıkma \nVatandasi \nHavaalanına davet \nediyorlar ki \nkacacaklar ordan", "url": "/EylemKont/status/754073110203293696", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:14", "is_reply": false, "is_retweet": false, "user_id": "2562085036"}

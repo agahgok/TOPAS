@@ -1,0 +1,1 @@
+{"usernameTweet": "alpcanitez", "ID": "1282627202765463554", "text": "Hakkari de pkk ağır  darbe \nPkk terör örgütüne ait patlayıcı silah ve mühimmat ele geçirildi", "url": "/alpcanitez/status/1282627202765463554", "nbr_retweet": 10, "nbr_favorite": 44, "nbr_reply": 0, "datetime": "2020-07-13 13:45:29", "is_reply": false, "is_retweet": false, "user_id": "822424773603037185"}

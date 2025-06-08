@@ -1,0 +1,1 @@
+{"usernameTweet": "bay_libero", "ID": "1282232248952131585", "text": "Işte bu son  darbe  oldu...", "url": "/bay_libero/status/1282232248952131585", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-12 11:36:05", "is_reply": true, "is_retweet": false, "user_id": "1537255074"}

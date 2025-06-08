@@ -1,0 +1,1 @@
+{"usernameTweet": "biji_heval", "ID": "754081408784691200", "text": "Bizim hocanın ödü kopmuş Tekbir üzerine tekbir  \n\n #SokağaSakınÇıkma", "url": "/biji_heval/status/754081408784691200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:12", "is_reply": false, "is_retweet": false, "user_id": "3403243773"}

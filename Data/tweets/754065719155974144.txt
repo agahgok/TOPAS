@@ -1,0 +1,1 @@
+{"usernameTweet": "gorki___", "ID": "754065719155974144", "text": "# sokağaÇIKMA  !", "url": "/gorki___/status/754065719155974144", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:30:51", "is_reply": false, "is_retweet": false, "user_id": "1417493828"}

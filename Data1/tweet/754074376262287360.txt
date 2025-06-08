@@ -1,0 +1,1 @@
+{"usernameTweet": "muhtemelenoktay", "ID": "754074376262287360", "text": "# SokağaSakınÇıkma  bu bir iç savaş çağrısıdır, oturun oturduğunuz yerde.", "url": "/muhtemelenoktay/status/754074376262287360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:15", "is_reply": false, "is_retweet": false, "user_id": "22460332"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "BigeEce_", "ID": "754076025277915136", "text": "# SokağaSakınÇıkma  Ver 200 korumayı 1000 odalı sarayı çıkayım", "url": "/BigeEce_/status/754076025277915136", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:49", "is_reply": false, "is_retweet": false, "user_id": "1855369616"}

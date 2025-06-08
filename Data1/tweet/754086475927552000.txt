@@ -1,0 +1,1 @@
+{"usernameTweet": "dadasAli_25", "ID": "754086475927552000", "text": "# SokağaSakınÇıkma  diyen piç ananı yolla ona çıkalım", "url": "/dadasAli_25/status/754086475927552000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:20", "is_reply": false, "is_retweet": false, "user_id": "621644058"}

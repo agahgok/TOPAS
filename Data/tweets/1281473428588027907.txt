@@ -1,0 +1,1 @@
+{"usernameTweet": "cianikkeda", "ID": "1281473428588027907", "text": "Darbe  tweetleri var ya tırsmışlardır", "url": "/cianikkeda/status/1281473428588027907", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 09:20:48", "is_reply": true, "is_retweet": false, "user_id": "756062295696998400"}

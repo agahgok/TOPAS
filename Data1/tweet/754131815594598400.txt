@@ -1,0 +1,1 @@
+{"usernameTweet": "nbhtct", "ID": "754131815594598400", "text": "# SokağaÇıkma . Diyenler soysuz korkak itler siz geberip çıkmayın.BİZ TÜRKLER TOPTAN TÜFEKTEN KORKMAYIZ.", "url": "/nbhtct/status/754131815594598400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:53:30", "is_reply": false, "is_retweet": false, "user_id": "2207172510"}

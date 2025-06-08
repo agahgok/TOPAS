@@ -1,0 +1,1 @@
+{"usernameTweet": "okyanuskrali", "ID": "754085673431334913", "text": "# SokağaSakınÇıkma  Samsunda sokağa çıktık selâmızı, ezân-ı şerifimizi dinliyoruz.", "url": "/okyanuskrali/status/754085673431334913", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:09", "is_reply": false, "is_retweet": false, "user_id": "2581964739"}

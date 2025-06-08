@@ -1,0 +1,1 @@
+{"usernameTweet": "Ali_kahil", "ID": "754067604348801024", "text": "# sokağasakınçıkma", "url": "/Ali_kahil/status/754067604348801024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:38:21", "is_reply": false, "is_retweet": false, "user_id": "564173355"}

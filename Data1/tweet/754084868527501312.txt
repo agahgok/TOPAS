@@ -1,0 +1,1 @@
+{"usernameTweet": "UurCyrak", "ID": "754084868527501312", "text": "Sokağa TÜRKİYE için mi çıkacaksın  yoksa Tayyip Erdoğan için mi ? #SokağaSakınÇıkma", "url": "/UurCyrak/status/754084868527501312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:57", "is_reply": false, "is_retweet": false, "user_id": "4486515809"}

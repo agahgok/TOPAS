@@ -1,0 +1,1 @@
+{"usernameTweet": "azuraguillen", "ID": "1282322743749341184", "text": "No cacalovers, NO pic.twitter.com/62q1ftLOhJ", "url": "/azuraguillen/status/1282322743749341184", "nbr_retweet": 5, "nbr_favorite": 11, "nbr_reply": 1, "datetime": "2020-07-12 17:35:41", "is_reply": true, "is_retweet": false, "user_id": "770811307679375362"}

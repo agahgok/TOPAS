@@ -1,0 +1,1 @@
+{"usernameTweet": "ozsoy_gencturk", "ID": "754079780539097088", "text": "# SokağaSakınÇıkma \nKardeş kanı dökülmesin.\nYurtta Sulh Cihanda Sulh.", "url": "/ozsoy_gencturk/status/754079780539097088", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 01:26:44", "is_reply": false, "is_retweet": false, "user_id": "2582696691"}

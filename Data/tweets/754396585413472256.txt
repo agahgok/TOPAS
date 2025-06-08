@@ -1,0 +1,1 @@
+{"usernameTweet": "cafercaliskaner", "ID": "754396585413472256", "text": "Selalar yine başladı 161  ölü yetmedi sanırım.  \n#sokağasakınçıkma", "url": "/cafercaliskaner/status/754396585413472256", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 22:25:36", "is_reply": false, "is_retweet": false, "user_id": "390718214"}

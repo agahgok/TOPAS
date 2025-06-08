@@ -1,0 +1,1 @@
+{"usernameTweet": "OkanAlgil", "ID": "754103824516730881", "text": "# SokağaSakınÇıkma  Sokağa çıkmayın sakın. Çıkmayınnnn.", "url": "/OkanAlgil/status/754103824516730881", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:02:16", "is_reply": false, "is_retweet": false, "user_id": "1479637944"}

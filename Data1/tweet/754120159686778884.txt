@@ -1,0 +1,1 @@
+{"usernameTweet": "fatmanursylgn", "ID": "754120159686778884", "text": "şehitler olduğunda çıkmadınız, şimdi  hangi yüzle çıkıyonuz? #SokağaSakınÇıkma", "url": "/fatmanursylgn/status/754120159686778884", "nbr_retweet": 6, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 04:07:11", "is_reply": false, "is_retweet": false, "user_id": "322211507"}

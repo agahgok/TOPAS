@@ -1,0 +1,1 @@
+{"usernameTweet": "SemaBasavci", "ID": "754067773932855296", "text": "Erdoğan herkesi tankların karşısına çağırıyor, kendi?\nSizi korumak yine bize düştü #SokağaSakınÇıkma", "url": "/SemaBasavci/status/754067773932855296", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 00:39:01", "is_reply": false, "is_retweet": false, "user_id": "33235009"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "UsualSuspectKS", "ID": "754069068672622593", "text": "Kardeşi kardeşe kırdırma  #SokağaÇıkma", "url": "/UsualSuspectKS/status/754069068672622593", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:44:10", "is_reply": false, "is_retweet": false, "user_id": "70990576"}

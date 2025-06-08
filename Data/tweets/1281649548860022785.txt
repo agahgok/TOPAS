@@ -1,0 +1,1 @@
+{"usernameTweet": "mtldgibi", "ID": "1281649548860022785", "text": "Darbe  üstüne  darbe , uslanmıyor bu", "url": "/mtldgibi/status/1281649548860022785", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 21:00:39", "is_reply": false, "is_retweet": false, "user_id": "1272534938114502657"}

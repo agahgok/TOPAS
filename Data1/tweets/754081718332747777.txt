@@ -1,0 +1,1 @@
+{"usernameTweet": "zAhmetYILDIZz", "ID": "754081718332747777", "text": "Herkes sokağa çıkıyor çıkmaya devam  #SokağaSakınÇıkma", "url": "/zAhmetYILDIZz/status/754081718332747777", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:26", "is_reply": false, "is_retweet": false, "user_id": "1020575910"}

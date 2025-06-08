@@ -1,0 +1,1 @@
+{"usernameTweet": "kadirrtasci", "ID": "754094707794403328", "text": "Gezi'de biz çıkmıştık, bu sefer de siz çıkın (SOKAKLAR GERİDE KALAN %50LERLE DOLU) #sokağaçıkma", "url": "/kadirrtasci/status/754094707794403328", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 02:26:03", "is_reply": false, "is_retweet": false, "user_id": "203457072"}

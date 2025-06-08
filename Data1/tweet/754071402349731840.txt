@@ -1,0 +1,1 @@
+{"usernameTweet": "bilaldemircigil", "ID": "754071402349731840", "text": "# SokağaSakınÇıkma  vallahi çapulcu olursunuz.", "url": "/bilaldemircigil/status/754071402349731840", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:53:26", "is_reply": false, "is_retweet": false, "user_id": "96746375"}

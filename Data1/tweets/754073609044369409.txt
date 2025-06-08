@@ -1,0 +1,1 @@
+{"usernameTweet": "IlkeYndemli", "ID": "754073609044369409", "text": "Ak mallar sokakta ülan adam olsanız halka sokağa çok demesini serfsizler  #SokağaSakınÇıkma", "url": "/IlkeYndemli/status/754073609044369409", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:13", "is_reply": false, "is_retweet": false, "user_id": "343971427"}

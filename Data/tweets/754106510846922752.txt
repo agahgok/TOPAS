@@ -1,0 +1,1 @@
+{"usernameTweet": "Hasret_demirts", "ID": "754106510846922752", "text": "Kendini korumak için halkı sokağa çağırma. #SokağaÇıkma", "url": "/Hasret_demirts/status/754106510846922752", "nbr_retweet": 0, "nbr_favorite": 15, "nbr_reply": 0, "datetime": "2016-07-16 03:12:57", "is_reply": false, "is_retweet": false, "user_id": "706425889828052993"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "CemalGeyveli", "ID": "754078216407646209", "text": "# SokağaSakınÇıkma  Ak manyaklar tarafindan sakın gaza gelmeyin", "url": "/CemalGeyveli/status/754078216407646209", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:20:31", "is_reply": false, "is_retweet": false, "user_id": "3153578514"}

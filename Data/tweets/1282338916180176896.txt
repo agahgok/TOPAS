@@ -1,0 +1,1 @@
+{"usernameTweet": "laurys3", "ID": "1282338916180176896", "text": "Vamos a ayudarle a la amiga ... pic.twitter.com/6R0OgXtAxI", "url": "/laurys3/status/1282338916180176896", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 1, "datetime": "2020-07-12 18:39:56", "is_reply": true, "is_retweet": false, "user_id": "170160481"}

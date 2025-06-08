@@ -1,0 +1,1 @@
+{"usernameTweet": "ASevincManas", "ID": "754091266221060096", "text": "Hadi gidin yatın TİYATRO bitmiştir..Ve perde rte başarılı oyunuyla kapanmıştır :)#SokağaSakınÇıkma", "url": "/ASevincManas/status/754091266221060096", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:12:22", "is_reply": false, "is_retweet": false, "user_id": "561149622"}

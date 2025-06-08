@@ -1,0 +1,1 @@
+{"usernameTweet": "malibudarbe", "ID": "1282176835531476998", "text": "Anyone that just watched that fight would say Holloway was taking the W #UFC251", "url": "/malibudarbe/status/1282176835531476998", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 07:55:53", "is_reply": false, "is_retweet": false, "user_id": "1144461959158304768"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ProtectKebab", "ID": "754075530643791872", "text": "# SokağaSakınÇıkma \nnasıl korktular sokağa çıkmayacakmışız !\n\n#DarbeyeHayır", "url": "/ProtectKebab/status/754075530643791872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:51", "is_reply": false, "is_retweet": false, "user_id": "3666371603"}

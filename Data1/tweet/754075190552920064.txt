@@ -1,0 +1,1 @@
+{"usernameTweet": "Geri1Zekali", "ID": "754075190552920064", "text": "# SokağaSakınÇıkma  ezan okunuyor LAN", "url": "/Geri1Zekali/status/754075190552920064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:30", "is_reply": false, "is_retweet": false, "user_id": "1616005128"}

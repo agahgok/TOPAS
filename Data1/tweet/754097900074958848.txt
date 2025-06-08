@@ -1,0 +1,1 @@
+{"usernameTweet": "biliyosunki", "ID": "754097900074958848", "text": "MUSTAFA KEMAL ATATÜRK\n#DarbeyeHayır \n#SokağaÇıkma \nEZAN DİNMEZ\nBAYRAK İNMEZ  pic.twitter.com/1y5i7ZIvIC", "url": "/biliyosunki/status/754097900074958848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:38:44", "is_reply": false, "is_retweet": false, "user_id": "3380004725"}

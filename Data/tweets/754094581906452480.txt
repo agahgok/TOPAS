@@ -1,0 +1,1 @@
+{"usernameTweet": "alissertt", "ID": "754094581906452480", "text": "2- Darbe yapıldı diyerek darbeye direndik kahramanlığı yapacaklar #SokağaSakınÇıkma", "url": "/alissertt/status/754094581906452480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:33", "is_reply": false, "is_retweet": false, "user_id": "2851850617"}

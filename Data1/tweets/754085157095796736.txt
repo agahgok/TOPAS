@@ -1,0 +1,1 @@
+{"usernameTweet": "Ma1071", "ID": "754085157095796736", "text": "# SokağaSakınÇıkma  Halk meydanlarda !! Demokrasine Sahip cikiyor !!  pic.twitter.com/sh6x3XlPaa", "url": "/Ma1071/status/754085157095796736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:06", "is_reply": false, "is_retweet": false, "user_id": "1480805647"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "serdargezen1", "ID": "754086244569710593", "text": "# SokağaSakınÇıkma \n#MilleteDarbeGirişimi", "url": "/serdargezen1/status/754086244569710593", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:25", "is_reply": false, "is_retweet": false, "user_id": "733657158630449152"}

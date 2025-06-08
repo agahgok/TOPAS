@@ -1,0 +1,1 @@
+{"usernameTweet": "fredvergaraa", "ID": "1284353045330001922", "text": "Totalmente de acuerdo, excelente opinión¡", "url": "/fredvergaraa/status/1284353045330001922", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 08:03:22", "is_reply": true, "is_retweet": false, "user_id": "238042041"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ugurturkyilmaz3", "ID": "754083050015821825", "text": "Dünyayı Kurtaran Adam prodüksiyon olarak daha kaliteliydi lan. #SokağaSakınÇıkma", "url": "/ugurturkyilmaz3/status/754083050015821825", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:43", "is_reply": false, "is_retweet": false, "user_id": "4587238162"}

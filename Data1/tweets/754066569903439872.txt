@@ -1,0 +1,1 @@
+{"usernameTweet": "efe_ardic", "ID": "754066569903439872", "text": "# SokağaSakınÇıkma", "url": "/efe_ardic/status/754066569903439872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:34:14", "is_reply": false, "is_retweet": false, "user_id": "921328344"}

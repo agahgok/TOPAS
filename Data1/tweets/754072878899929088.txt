@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet19aydin", "ID": "754072878899929088", "text": "# SokağaSakınÇıkma  diyene inanmayin cikin", "url": "/mehmet19aydin/status/754072878899929088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:18", "is_reply": false, "is_retweet": false, "user_id": "731507795850346496"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "valentinalailaa", "ID": "1281292635303563264", "text": "İlk  darbe  ikiz kardeşten geliyor aww ", "url": "/valentinalailaa/status/1281292635303563264", "nbr_retweet": 0, "nbr_favorite": 35, "nbr_reply": 2, "datetime": "2020-07-09 21:22:24", "is_reply": false, "is_retweet": false, "user_id": "760970278784667649"}

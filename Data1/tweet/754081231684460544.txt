@@ -1,0 +1,1 @@
+{"usernameTweet": "srknduygu", "ID": "754081231684460544", "text": "Hiçbir düşünce, hiçbir ideoloji ya da insan senden ve ailenden daha değerli değil. #SokağaSakınÇıkma", "url": "/srknduygu/status/754081231684460544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:30", "is_reply": false, "is_retweet": false, "user_id": "146400457"}

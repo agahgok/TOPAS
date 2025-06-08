@@ -1,0 +1,1 @@
+{"usernameTweet": "mhttohumcu", "ID": "754123336817451009", "text": "Bugün lanet okudukları bu askerleri Ergenekon balyoz sürecinde kendileri Orduya yerleştirmedi mi? #SokağaÇıkma", "url": "/mhttohumcu/status/754123336817451009", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 04:19:49", "is_reply": false, "is_retweet": false, "user_id": "1919476357"}

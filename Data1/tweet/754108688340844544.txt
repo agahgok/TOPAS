@@ -1,0 +1,1 @@
+{"usernameTweet": "urun_tugce", "ID": "754108688340844544", "text": "Oyuna gelmeyelim. #SokağaSakınÇıkma  #DarbeDeğilTiyatro pic.twitter.com/lxdAzvgyp3", "url": "/urun_tugce/status/754108688340844544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:21:36", "is_reply": false, "is_retweet": false, "user_id": "732013144227360768"}

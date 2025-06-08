@@ -1,0 +1,1 @@
+{"usernameTweet": "5f3518ece57c49d", "ID": "754092356794740737", "text": "F16 lar darbecilerin helikopterini düşürdü  #SokağaSakınÇıkma", "url": "/5f3518ece57c49d/status/754092356794740737", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:16:42", "is_reply": false, "is_retweet": false, "user_id": "3287995791"}

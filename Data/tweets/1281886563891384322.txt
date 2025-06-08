@@ -1,0 +1,1 @@
+{"usernameTweet": "incefatihince", "ID": "1281886563891384322", "text": "Öğrencilik bitince ilk  darbe  Ziraat'ten geliyor :) @ziraatbankasi pic.twitter.com/474Jw0U3PA", "url": "/incefatihince/status/1281886563891384322", "nbr_retweet": 0, "nbr_favorite": 17, "nbr_reply": 2, "datetime": "2020-07-11 12:42:27", "is_reply": false, "is_retweet": false, "user_id": "134134202"}

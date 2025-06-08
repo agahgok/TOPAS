@@ -1,0 +1,1 @@
+{"usernameTweet": "hakankytmz", "ID": "754073044247871488", "text": "# SokağaSakınÇıkma  Diyen postal yalayan orospu çocuklarınaa itibar etmeyin ve sokağa çıkın asker çekiliyor", "url": "/hakankytmz/status/754073044247871488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:58", "is_reply": false, "is_retweet": false, "user_id": "1479339266"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TokEbru", "ID": "754076163836903424", "text": "Askere el kaldırılmaz! (Düşüncen/görüşün ne olursa olsun) #SokağaSakınÇıkma", "url": "/TokEbru/status/754076163836903424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:22", "is_reply": false, "is_retweet": false, "user_id": "471579730"}

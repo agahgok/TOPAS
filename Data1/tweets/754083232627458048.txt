@@ -1,0 +1,1 @@
+{"usernameTweet": "TarikSahin1979", "ID": "754083232627458048", "text": "# sokağasakıncıkma  \nÜLKEYİ KAN GÖLÜNE ÇEVİRMEYE ÇALIŞIYORLAR", "url": "/TarikSahin1979/status/754083232627458048", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:40:27", "is_reply": false, "is_retweet": false, "user_id": "2967933965"}

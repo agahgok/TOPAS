@@ -1,0 +1,1 @@
+{"usernameTweet": "osoylu82", "ID": "754070279429775361", "text": "# SokağaSakınÇıkma  gaza gelmeyin sokağa çıkmayın", "url": "/osoylu82/status/754070279429775361", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:48:59", "is_reply": false, "is_retweet": false, "user_id": "156332794"}

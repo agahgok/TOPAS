@@ -1,0 +1,1 @@
+{"usernameTweet": "soonyaz", "ID": "1281241253036900353", "text": "Ay çok sevdiysen sizin olsun SinanAygün kandırıldık ne var. En azından gelip ülkede  darbe  yapmadı.", "url": "/soonyaz/status/1281241253036900353", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-09 17:58:13", "is_reply": true, "is_retweet": false, "user_id": "1104149647742910465"}

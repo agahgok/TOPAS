@@ -1,0 +1,1 @@
+{"usernameTweet": "BerkayEfe96", "ID": "754100212843577344", "text": "# SokağaSakınÇıkma   pic.twitter.com/h4QZP7PYij", "url": "/BerkayEfe96/status/754100212843577344", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:47:55", "is_reply": false, "is_retweet": false, "user_id": "2233500445"}

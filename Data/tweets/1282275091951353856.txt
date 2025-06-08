@@ -1,0 +1,1 @@
+{"usernameTweet": "atabayoznurhot1", "ID": "1282275091951353856", "text": "Hevesi kursağında kalmış !galiba  darbe  oısaydı da darbenin nimetleri den yaralansaydım.", "url": "/atabayoznurhot1/status/1282275091951353856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 14:26:20", "is_reply": true, "is_retweet": false, "user_id": "1166764094680117248"}

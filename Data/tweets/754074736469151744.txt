@@ -1,0 +1,1 @@
+{"usernameTweet": "edicasamis", "ID": "754074736469151744", "text": "HER TÜRK ASKER DOĞAR ! #SokağaSakınÇıkma", "url": "/edicasamis/status/754074736469151744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:41", "is_reply": false, "is_retweet": false, "user_id": "950121151"}

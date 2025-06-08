@@ -1,0 +1,1 @@
+{"usernameTweet": "VedatErsari", "ID": "754084067197542405", "text": "Çıkma ya çıkma çıkma  #SokağaSakınÇıkma", "url": "/VedatErsari/status/754084067197542405", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:43:46", "is_reply": false, "is_retweet": false, "user_id": "719766103296253952"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "utopyavalisi", "ID": "754089133094604801", "text": "# SokağaSakınÇıkma  çıkanlarda 2 karton Marlboro light alsın kıyamet erzağımızı hazırlayalım", "url": "/utopyavalisi/status/754089133094604801", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:54", "is_reply": false, "is_retweet": false, "user_id": "968833332"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "OguzhanSagan", "ID": "754078522914770944", "text": "Kulak asma dikdatöre. Adam olsa kendisi ilk çıkar zaten.\n#SokağaSakınÇıkma", "url": "/OguzhanSagan/status/754078522914770944", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:44", "is_reply": false, "is_retweet": false, "user_id": "528497980"}

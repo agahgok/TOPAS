@@ -1,0 +1,1 @@
+{"usernameTweet": "cmknylmz", "ID": "754099494950547456", "text": "nolur kimse ölmesin! sizden bizden değil KİMSE ölmesin! #SokağaSakınÇıkma", "url": "/cmknylmz/status/754099494950547456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:45:04", "is_reply": false, "is_retweet": false, "user_id": "244968268"}

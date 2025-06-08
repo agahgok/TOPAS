@@ -1,0 +1,1 @@
+{"usernameTweet": "_Gamze714", "ID": "754075173054255105", "text": "Abdullah Gül NTV'de coşmuş #SokağaSakınÇıkma", "url": "/_Gamze714/status/754075173054255105", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:25", "is_reply": false, "is_retweet": false, "user_id": "514689144"}

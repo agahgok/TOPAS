@@ -1,0 +1,1 @@
+{"usernameTweet": "tunaarman1", "ID": "754074286558580736", "text": "# sokagacikma  #sokagacikma   https://www. instagram.com/p/BH5fJYEB1no/  ", "url": "/tunaarman1/status/754074286558580736", "nbr_retweet": 3, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:04:54", "is_reply": false, "is_retweet": false, "user_id": "111960520"}

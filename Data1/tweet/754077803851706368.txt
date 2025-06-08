@@ -1,0 +1,1 @@
+{"usernameTweet": "Duygunaz34Naz", "ID": "754077803851706368", "text": "# SokağaSakınÇıkma                            #TskCumhuriyetinTeminatıdır", "url": "/Duygunaz34Naz/status/754077803851706368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:53", "is_reply": false, "is_retweet": false, "user_id": "1151717690"}

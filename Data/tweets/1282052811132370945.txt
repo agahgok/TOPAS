@@ -1,0 +1,1 @@
+{"usernameTweet": "legendbale", "ID": "1282052811132370945", "text": "CEMAL CAN SAMPI OLUYOR AKPYE 1  DARBE  DAHA", "url": "/legendbale/status/1282052811132370945", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-11 23:43:04", "is_reply": false, "is_retweet": false, "user_id": "1145475787"}

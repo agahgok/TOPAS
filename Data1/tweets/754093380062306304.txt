@@ -1,0 +1,1 @@
+{"usernameTweet": "kinngacar", "ID": "754093380062306304", "text": "Evet artık düşman kalmadı etrafta yeni düşman asker #SokağaSakınÇıkma", "url": "/kinngacar/status/754093380062306304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:46", "is_reply": false, "is_retweet": false, "user_id": "96228781"}

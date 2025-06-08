@@ -1,0 +1,1 @@
+{"usernameTweet": "botolamadik", "ID": "754090232111325184", "text": "Dünyanın hiç bir yerinde halk bu kadar salak yerine konmamıştır.  #SokağaSakınÇıkma", "url": "/botolamadik/status/754090232111325184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:16", "is_reply": false, "is_retweet": false, "user_id": "4883212618"}

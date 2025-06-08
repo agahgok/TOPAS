@@ -1,0 +1,1 @@
+{"usernameTweet": "eoloss", "ID": "754091466318897153", "text": "# SokağaSakınÇıkma  asker kişlasina gider halk evine gider !!!", "url": "/eoloss/status/754091466318897153", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:10", "is_reply": false, "is_retweet": false, "user_id": "97686671"}

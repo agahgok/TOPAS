@@ -1,0 +1,1 @@
+{"usernameTweet": "AbdullahTubay1", "ID": "1281587357955821569", "text": "İspanya,da orijinal camii kiliseye çevrildi,onlarda laikliğe  darbe  vurmuş oldu mu ?", "url": "/AbdullahTubay1/status/1281587357955821569", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 16:53:31", "is_reply": true, "is_retweet": false, "user_id": "1199072288433491968"}

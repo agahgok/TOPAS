@@ -1,0 +1,1 @@
+{"usernameTweet": "cannserdal", "ID": "754088326043471872", "text": "# SokağaSakınÇıkma  diyen vatan hainler ine aldanma bu ülkeyi darbeciler e teslim etmeyin", "url": "/cannserdal/status/754088326043471872", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:41", "is_reply": false, "is_retweet": false, "user_id": "2984210218"}

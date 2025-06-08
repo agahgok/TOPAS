@@ -1,0 +1,1 @@
+{"usernameTweet": "KartalBuldu", "ID": "754084346865344512", "text": "Eski Türkiye yok halk başını verir bu vatanı vermez sizin gibi gafiller anlayamaz #SokağaSakınÇıkma", "url": "/KartalBuldu/status/754084346865344512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:44:53", "is_reply": false, "is_retweet": false, "user_id": "2570805978"}

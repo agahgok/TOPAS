@@ -1,0 +1,1 @@
+{"usernameTweet": "EbuBilalNamibi", "ID": "1282146720206467074", "text": "Kardeşiniz  darbe  mağdurudur darbeci demek en hafif tabirle ...", "url": "/EbuBilalNamibi/status/1282146720206467074", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 05:56:13", "is_reply": true, "is_retweet": false, "user_id": "1173691263062806528"}

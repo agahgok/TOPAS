@@ -1,0 +1,1 @@
+{"usernameTweet": "fevziyeerduran", "ID": "754058155101941761", "text": "# SokağaSakınÇıkma  iç çatışmaya meil verme", "url": "/fevziyeerduran/status/754058155101941761", "nbr_retweet": 3, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:00:48", "is_reply": false, "is_retweet": false, "user_id": "343243228"}

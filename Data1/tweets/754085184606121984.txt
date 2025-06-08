@@ -1,0 +1,1 @@
+{"usernameTweet": "ne_kadar", "ID": "754085184606121984", "text": "# SokağaSakınÇıkma  bu bir oyun bu oyunun parcası olma. Magduru oynayacak konu kalmadı yeni konular bulmak gerek", "url": "/ne_kadar/status/754085184606121984", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:12", "is_reply": false, "is_retweet": false, "user_id": "556652345"}

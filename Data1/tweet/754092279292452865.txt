@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754092279292452865", "text": "# TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma \nCumhuriyet 'in selası okunuyor. Hepsi planlı..", "url": "/ekicifaruk1/status/754092279292452865", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:16:24", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

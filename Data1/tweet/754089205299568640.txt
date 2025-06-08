@@ -1,0 +1,1 @@
+{"usernameTweet": "EbuMusabBinHakk", "ID": "754089205299568640", "text": "# SokağaSakınÇıkma \nHalk demokrasiye sahip çıkıyor...  pic.twitter.com/5OkYHq7s4V", "url": "/EbuMusabBinHakk/status/754089205299568640", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:04:11", "is_reply": false, "is_retweet": false, "user_id": "1182583094"}

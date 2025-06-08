@@ -1,0 +1,1 @@
+{"usernameTweet": "ezgidolu", "ID": "754078835445002240", "text": "\"Hükümet tvden açıklama yapıyorsa darbe olmamıştır. Darbe böyle olmaz.\"  #SokağaSakınÇıkma", "url": "/ezgidolu/status/754078835445002240", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:22:59", "is_reply": false, "is_retweet": false, "user_id": "314848093"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "CapulcuSimone", "ID": "754075669324296192", "text": "Oyun mu oynanıyor sanıyorsun hala ölür gidersin!\n #SokağaSakınÇıkma", "url": "/CapulcuSimone/status/754075669324296192", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:10:24", "is_reply": false, "is_retweet": false, "user_id": "1487478913"}

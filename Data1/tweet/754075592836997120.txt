@@ -1,0 +1,1 @@
+{"usernameTweet": "leonosman0102", "ID": "754075592836997120", "text": "birak ya insanlar ölürken nerdeydi bunlar #SokağaSakınÇıkma  #Cumhurbaskani", "url": "/leonosman0102/status/754075592836997120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:06", "is_reply": true, "is_retweet": false, "user_id": "2911107827"}

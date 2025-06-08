@@ -1,0 +1,1 @@
+{"usernameTweet": "tug_sancak", "ID": "1281344349045952516", "text": "TSK işbilmez ellerde en fazla kendi ülkesinde  darbe  yapar önemli olan onu yönetende. Nokta", "url": "/tug_sancak/status/1281344349045952516", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 00:47:53", "is_reply": true, "is_retweet": false, "user_id": "1127164100218445825"}

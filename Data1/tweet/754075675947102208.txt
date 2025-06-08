@@ -1,0 +1,1 @@
+{"usernameTweet": "Serhad1010", "ID": "754075675947102208", "text": "Bugün bir liraya aldığın şeyi beş liraya alacaksın. Evinde oturma sokağa çık #SokağaSakınÇıkma", "url": "/Serhad1010/status/754075675947102208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:25", "is_reply": false, "is_retweet": false, "user_id": "223875671"}

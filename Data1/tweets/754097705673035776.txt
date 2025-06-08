@@ -1,0 +1,1 @@
+{"usernameTweet": "dexxtteerr2", "ID": "754097705673035776", "text": "# SokağaSakınÇıkma   https:// twitter.com/dexxtteerr2/st atus/754097561586192384   …", "url": "/dexxtteerr2/status/754097705673035776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:37:58", "is_reply": false, "is_retweet": false, "user_id": "3140723307"}

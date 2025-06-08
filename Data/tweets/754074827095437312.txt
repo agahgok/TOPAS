@@ -1,0 +1,1 @@
+{"usernameTweet": "kaaanover", "ID": "754074827095437312", "text": "Nasil yöneticisin tankın önüne vatandaşı çıkartıyorsun #SokağaSakınÇıkma", "url": "/kaaanover/status/754074827095437312", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:03", "is_reply": false, "is_retweet": false, "user_id": "110985297"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ngarcanturk", "ID": "754083994124316672", "text": "# SokağaSakınÇıkma  kardeşi kardeşe kırdırmaya çalışılıyor.", "url": "/ngarcanturk/status/754083994124316672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:29", "is_reply": false, "is_retweet": false, "user_id": "611609598"}

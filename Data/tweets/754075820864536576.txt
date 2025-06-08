@@ -1,0 +1,1 @@
+{"usernameTweet": "VARKN", "ID": "754075820864536576", "text": "# SokağaSakınÇıkma", "url": "/VARKN/status/754075820864536576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:00", "is_reply": false, "is_retweet": false, "user_id": "378799230"}

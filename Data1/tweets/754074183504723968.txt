@@ -1,0 +1,1 @@
+{"usernameTweet": "ctustass", "ID": "754074183504723968", "text": "# SokağaSakınÇıkma  İÇ SAVAŞI BAŞLATMA!", "url": "/ctustass/status/754074183504723968", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:30", "is_reply": false, "is_retweet": false, "user_id": "989053190"}

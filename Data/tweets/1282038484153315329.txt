@@ -1,0 +1,1 @@
+{"usernameTweet": "AhmetDU38017605", "ID": "1282038484153315329", "text": "Var mı  darbe  düşünen?   pic.twitter.com/VR1ZKWAxhi", "url": "/AhmetDU38017605/status/1282038484153315329", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 22:46:08", "is_reply": false, "is_retweet": false, "user_id": "1081619135254147072"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gzm_anlgan", "ID": "754104034399846400", "text": "# sokağaçıkma  #SokağaSakınÇıkma  çıkmayın alet olmayın ", "url": "/gzm_anlgan/status/754104034399846400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:03:07", "is_reply": false, "is_retweet": false, "user_id": "2151660093"}

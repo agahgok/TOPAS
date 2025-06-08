@@ -1,0 +1,1 @@
+{"usernameTweet": "yusraozdemirr", "ID": "754085447723352065", "text": "Yaşasın CUMHURIYET!   #Turkey  #SokağaSakınÇıkma  #TurkeyCoup  #", "url": "/yusraozdemirr/status/754085447723352065", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:49:15", "is_reply": false, "is_retweet": false, "user_id": "1359289693"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754096633374240768", "text": "# SokağaSakınÇıkma  BASKANLİK SİSTEMİ  İLANİBİCİN HOLOVOOD SAHNELERİ AMA AMATİRCE", "url": "/orjinalkarakter/status/754096633374240768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:33:42", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

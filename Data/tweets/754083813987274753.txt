@@ -1,0 +1,1 @@
+{"usernameTweet": "huseyinocak", "ID": "754083813987274753", "text": "Vakitsiz ezan okutmak;\ncamileri anaons için kullanmak; asıl darbe budur !\n\n#sokağasakınçıkma", "url": "/huseyinocak/status/754083813987274753", "nbr_retweet": 9, "nbr_favorite": 36, "nbr_reply": 0, "datetime": "2016-07-16 01:42:46", "is_reply": false, "is_retweet": false, "user_id": "185540608"}

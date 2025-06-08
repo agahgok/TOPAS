@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkmenKuvva", "ID": "754064981809922051", "text": "Halkı askerle karşı karşıya getirmeyin #SokağaSakınÇıkma", "url": "/TurkmenKuvva/status/754064981809922051", "nbr_retweet": 3, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:27:56", "is_reply": false, "is_retweet": false, "user_id": "1119941220"}

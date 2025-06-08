@@ -1,0 +1,1 @@
+{"usernameTweet": "mortungen", "ID": "1281665644291862529", "text": "DELİRECEĞİM TAM 1  DARBE  İLE ÖLECEK SON AŞAMAYA GEÇMİŞKEN ÖLDÜMMMMMM", "url": "/mortungen/status/1281665644291862529", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 22:04:36", "is_reply": false, "is_retweet": false, "user_id": "1154395539926081537"}

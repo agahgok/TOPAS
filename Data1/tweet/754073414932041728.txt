@@ -1,0 +1,1 @@
+{"usernameTweet": "DeryaAlacam", "ID": "754073414932041728", "text": "# sokagaçikma   pic.twitter.com/2vECJpeczx", "url": "/DeryaAlacam/status/754073414932041728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:26", "is_reply": false, "is_retweet": false, "user_id": "1111520204"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "rzakaman", "ID": "754074480650121216", "text": "Bu devletin askeri polisi yokmu  halkı öne sürüyon cumhur nerde sağduyu #SokağaSakınÇıkma", "url": "/rzakaman/status/754074480650121216", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:40", "is_reply": false, "is_retweet": false, "user_id": "253675258"}

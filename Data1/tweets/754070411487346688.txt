@@ -1,0 +1,1 @@
+{"usernameTweet": "SineMasaLL", "ID": "754070411487346688", "text": "# sokağaçıkma  ! #ankara  #istanbul  #türkiye  kendini kullandırma !!", "url": "/SineMasaLL/status/754070411487346688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:49:30", "is_reply": false, "is_retweet": false, "user_id": "223800251"}

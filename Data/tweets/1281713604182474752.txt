@@ -1,0 +1,1 @@
+{"usernameTweet": "enguzel_ak", "ID": "1281713604182474752", "text": "O zaman başkan değildi. Daha  darbe  üzerinden fazla zamanda geçmemişti. Yeterli mi?", "url": "/enguzel_ak/status/1281713604182474752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 01:15:10", "is_reply": true, "is_retweet": false, "user_id": "883260114093748224"}

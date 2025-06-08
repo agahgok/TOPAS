@@ -1,0 +1,1 @@
+{"usernameTweet": "sezeraytunc", "ID": "754087965937246208", "text": "# SokağaSakınÇıkma  yapmayın etmeyin", "url": "/sezeraytunc/status/754087965937246208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:16", "is_reply": false, "is_retweet": false, "user_id": "889003915"}

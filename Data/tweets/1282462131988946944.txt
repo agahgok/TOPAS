@@ -1,0 +1,1 @@
+{"usernameTweet": "buyukayik", "ID": "1282462131988946944", "text": "15 Temmuz  darbe  girişiminin, Türkiye’deki siyasal destekçısi chp’nin ta kendisidir NOKTA", "url": "/buyukayik/status/1282462131988946944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 02:49:33", "is_reply": true, "is_retweet": false, "user_id": "3041970281"}

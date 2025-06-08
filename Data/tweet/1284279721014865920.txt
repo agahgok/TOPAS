@@ -1,0 +1,1 @@
+{"usernameTweet": "bebe_dabe", "ID": "1284279721014865920", "text": "前Twitterで見た簡単なキッシュを真似しようとしてたけど作り方すっかり忘れたので適当に作った。（美味しかったけど多分違う）", "url": "/bebe_dabe/status/1284279721014865920", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 03:12:00", "is_reply": false, "is_retweet": false, "user_id": "1709132550"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754085365468848128", "text": "Sağcısı Solcusu Türkü Kürdü Sakın oyuna gelme Sokağa çıkma!\n #SokağaSakınÇıkma", "url": "/ekicifaruk1/status/754085365468848128", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 2, "datetime": "2016-07-16 01:48:56", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

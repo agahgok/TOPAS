@@ -1,0 +1,1 @@
+{"usernameTweet": "ezgimou", "ID": "754080319217819648", "text": "Bazi yerlerde de sela okunuyormus. Sonradan ayni metinle sokaga cagiriliyor halk. #SokağaSakınÇıkma", "url": "/ezgimou/status/754080319217819648", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:28:52", "is_reply": true, "is_retweet": false, "user_id": "147482733"}

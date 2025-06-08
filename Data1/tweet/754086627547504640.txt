@@ -1,0 +1,1 @@
+{"usernameTweet": "SalimGn", "ID": "754086627547504640", "text": "Mallık yapma #SokağaSakınÇıkma", "url": "/SalimGn/status/754086627547504640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:56", "is_reply": false, "is_retweet": false, "user_id": "395862416"}

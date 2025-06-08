@@ -1,0 +1,1 @@
+{"usernameTweet": "hakaantas", "ID": "754083910607335424", "text": "Boğaz Köprüsü'nde birikenlere asker ateş açıyor. Yaralılar var. #LütfenYayalım  #SokağaSakınÇıkma", "url": "/hakaantas/status/754083910607335424", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:43:09", "is_reply": false, "is_retweet": false, "user_id": "2410271704"}

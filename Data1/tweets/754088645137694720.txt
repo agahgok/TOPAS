@@ -1,0 +1,1 @@
+{"usernameTweet": "bugrahangursu", "ID": "754088645137694720", "text": "Sela okunuyor? İzmir/Balçova ? #SokağaSakınÇıkma", "url": "/bugrahangursu/status/754088645137694720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:57", "is_reply": false, "is_retweet": false, "user_id": "62245934"}

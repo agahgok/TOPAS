@@ -1,0 +1,1 @@
+{"usernameTweet": "cnnaryaa", "ID": "754085290134863872", "text": "Sela okutup sonra insanlarımızı sokağa davet etmek nedir ya öldürmek mi istiyorlar bunlar bizi #SokağaSakınÇıkma", "url": "/cnnaryaa/status/754085290134863872", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:48:38", "is_reply": false, "is_retweet": false, "user_id": "713000089"}

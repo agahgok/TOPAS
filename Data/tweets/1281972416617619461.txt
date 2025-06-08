@@ -1,0 +1,1 @@
+{"usernameTweet": "Karagulluler", "ID": "1281972416617619461", "text": "1980bde  darbe  oldu.. 1981 de ibadete açıldı.. 81 de kim var dı?", "url": "/Karagulluler/status/1281972416617619461", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 3, "datetime": "2020-07-11 18:23:36", "is_reply": true, "is_retweet": false, "user_id": "198108045"}

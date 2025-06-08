@@ -1,0 +1,1 @@
+{"usernameTweet": "vjjivo", "ID": "754074916832575488", "text": "# SokağaSakınÇıkma  oyunu boşa çıkar", "url": "/vjjivo/status/754074916832575488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:24", "is_reply": false, "is_retweet": false, "user_id": "2795710121"}

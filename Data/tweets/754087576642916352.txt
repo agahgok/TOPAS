@@ -1,0 +1,1 @@
+{"usernameTweet": "GokmenDuru1907", "ID": "754087576642916352", "text": "bırakın belli kişiler yapıcagını yapsın #SokağaSakınÇıkma", "url": "/GokmenDuru1907/status/754087576642916352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:43", "is_reply": false, "is_retweet": false, "user_id": "1022326094"}

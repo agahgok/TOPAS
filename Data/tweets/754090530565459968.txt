@@ -1,0 +1,1 @@
+{"usernameTweet": "MertcanCakal", "ID": "754090530565459968", "text": "Bizi bize kırdırmaya çalışıyorlar  #SokağaSakınÇıkma", "url": "/MertcanCakal/status/754090530565459968", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:09:27", "is_reply": false, "is_retweet": false, "user_id": "596352073"}

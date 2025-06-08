@@ -1,0 +1,1 @@
+{"usernameTweet": "labadaklubadak", "ID": "754067849648275456", "text": "# SokağaSakınÇıkma   AKP mitingine giderken bile 50 lira alıyorlar.Bedavaya çıkmazlar....", "url": "/labadaklubadak/status/754067849648275456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:39:19", "is_reply": false, "is_retweet": false, "user_id": "748070216282693633"}

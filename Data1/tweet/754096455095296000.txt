@@ -1,0 +1,1 @@
+{"usernameTweet": "TzzKrtkn", "ID": "754096455095296000", "text": "# SokağaÇıkma  Oyuna gelme ", "url": "/TzzKrtkn/status/754096455095296000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:32:59", "is_reply": false, "is_retweet": false, "user_id": "3087110253"}

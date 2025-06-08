@@ -1,0 +1,1 @@
+{"usernameTweet": "RubarRubarr", "ID": "754077927566938112", "text": "Hedefte kürt ve kurdistanvar #SokağaSakınÇıkma", "url": "/RubarRubarr/status/754077927566938112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:22", "is_reply": false, "is_retweet": false, "user_id": "3576931097"}

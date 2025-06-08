@@ -1,0 +1,1 @@
+{"usernameTweet": "MTunahanCoskun", "ID": "1281285649396531200", "text": "Yeniden  darbe  yapacaklar herhalde ", "url": "/MTunahanCoskun/status/1281285649396531200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 20:54:38", "is_reply": true, "is_retweet": false, "user_id": "2245525723"}

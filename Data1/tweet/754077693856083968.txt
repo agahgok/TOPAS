@@ -1,0 +1,1 @@
+{"usernameTweet": "SinanYrtc", "ID": "754077693856083968", "text": "# SokağaSakınÇıkma  burdayız lan kahpeler  pic.twitter.com/nWeSuLQv9Z", "url": "/SinanYrtc/status/754077693856083968", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:18:26", "is_reply": false, "is_retweet": false, "user_id": "296323188"}

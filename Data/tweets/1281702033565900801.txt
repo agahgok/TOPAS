@@ -1,0 +1,1 @@
+{"usernameTweet": "MelahatTankisi", "ID": "1281702033565900801", "text": "Yani Atatürk bu milletin dinine kültürüne inancına  darbe  yaptı öyle mi.", "url": "/MelahatTankisi/status/1281702033565900801", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 00:29:12", "is_reply": true, "is_retweet": false, "user_id": "1262078745193709568"}

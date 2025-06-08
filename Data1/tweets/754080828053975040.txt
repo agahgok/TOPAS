@@ -1,0 +1,1 @@
+{"usernameTweet": "mervekisikli", "ID": "754080828053975040", "text": "@ ahmethc  nerelerdesin, birşeyler söyle, millet birbirine giriyor. #SokağaSakınÇıkma  de..", "url": "/mervekisikli/status/754080828053975040", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:30:54", "is_reply": false, "is_retweet": false, "user_id": "2942173516"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tugalan2023", "ID": "754084601023303680", "text": "Biz Erdoğan'ın askerleriyiz ..  #SokağaSakınÇıkma   pic.twitter.com/F6civZSl9E", "url": "/tugalan2023/status/754084601023303680", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:53", "is_reply": false, "is_retweet": false, "user_id": "623010957"}

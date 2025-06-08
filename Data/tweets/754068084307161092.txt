@@ -1,0 +1,1 @@
+{"usernameTweet": "mrberzeyetin", "ID": "754068084307161092", "text": "# SokağaSakınÇıkma   pic.twitter.com/GvyK5Qu3mz", "url": "/mrberzeyetin/status/754068084307161092", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:40:15", "is_reply": false, "is_retweet": false, "user_id": "466863687"}

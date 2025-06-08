@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754111133968138240", "text": "# TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma   pic.twitter.com/LlDREW12PS", "url": "/ekicifaruk1/status/754111133968138240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:31:19", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

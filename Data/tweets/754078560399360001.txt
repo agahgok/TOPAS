@@ -1,0 +1,1 @@
+{"usernameTweet": "elif_bugday", "ID": "754078560399360001", "text": "Oyuna gelmeyin!  #SokağaSakınÇıkma", "url": "/elif_bugday/status/754078560399360001", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:53", "is_reply": false, "is_retweet": false, "user_id": "1481995964"}

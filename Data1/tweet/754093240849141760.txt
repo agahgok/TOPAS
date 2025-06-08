@@ -1,0 +1,1 @@
+{"usernameTweet": "Muziksiyenn", "ID": "754093240849141760", "text": "# SokağaSakınÇıkma  Sopanın iki tarafı çamur neresinden tutarsan tut elin çamur oluyor...", "url": "/Muziksiyenn/status/754093240849141760", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:20:13", "is_reply": false, "is_retweet": false, "user_id": "527928184"}

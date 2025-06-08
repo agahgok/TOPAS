@@ -1,0 +1,1 @@
+{"usernameTweet": "ilkemkeskin", "ID": "754077870234931200", "text": "Bir cumhurbaşkanı düşünün evden FaceTime ile milletini sokağa davet ediyor! #SokağaSakınÇıkma", "url": "/ilkemkeskin/status/754077870234931200", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:09", "is_reply": false, "is_retweet": false, "user_id": "3525147616"}

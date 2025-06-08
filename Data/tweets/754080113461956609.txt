@@ -1,0 +1,1 @@
+{"usernameTweet": "nurikaratas25", "ID": "754080113461956609", "text": "# SokağaSakınÇıkma  diyen bu ülkenden siktirsin gitsin.", "url": "/nurikaratas25/status/754080113461956609", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 01:28:03", "is_reply": false, "is_retweet": false, "user_id": "3029721636"}

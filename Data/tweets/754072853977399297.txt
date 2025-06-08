@@ -1,0 +1,1 @@
+{"usernameTweet": "orcunince", "ID": "754072853977399297", "text": "İster akp'li ol, ister başka partili, sokağa çıkma, ölüme gitme. Bu bir oyun.  #SokağaSakınÇıkma", "url": "/orcunince/status/754072853977399297", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:59:13", "is_reply": false, "is_retweet": false, "user_id": "2365295992"}

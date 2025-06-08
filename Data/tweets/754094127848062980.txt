@@ -1,0 +1,1 @@
+{"usernameTweet": "kinto53", "ID": "754094127848062980", "text": "Vatan evladı sokağa çıkar or... evladı evinde yatar #SokağaSakınÇıkma  #darbe  #DarbeyeKarsıUElkeneSahipCık", "url": "/kinto53/status/754094127848062980", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:23:45", "is_reply": false, "is_retweet": false, "user_id": "99458045"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "vedat_ulug", "ID": "754095138712977408", "text": "# SokağaSakınÇıkma  \nTam bir tiyatro...", "url": "/vedat_ulug/status/754095138712977408", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:27:46", "is_reply": false, "is_retweet": false, "user_id": "753330107444592644"}

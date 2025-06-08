@@ -1,0 +1,1 @@
+{"usernameTweet": "MNE_dunyakucuk", "ID": "1281903622830383104", "text": "Turizme vurulan  darbe  ..", "url": "/MNE_dunyakucuk/status/1281903622830383104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 13:50:14", "is_reply": true, "is_retweet": false, "user_id": "1080936441323114497"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "YunusHseyin11", "ID": "1282229242055528448", "text": "Sizin aynı FETÖyle olan  darbe  ilişkiniz kadar kayıtlı değildir..", "url": "/YunusHseyin11/status/1282229242055528448", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 11:24:08", "is_reply": true, "is_retweet": false, "user_id": "1270055267556831232"}

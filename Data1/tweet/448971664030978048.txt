@@ -1,0 +1,1 @@
+{"usernameTweet": "veryjose28", "ID": "448971664030978048", "text": "Cristiano  Ronaldo  soñó el domingo por la noche con Messi, hoy soñara con Carlos Bacca...\"", "url": "/veryjose28/status/448971664030978048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:56:00", "is_reply": false, "is_retweet": false, "user_id": "605866936"}

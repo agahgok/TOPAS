@@ -1,0 +1,1 @@
+{"usernameTweet": "MiguelSesmaQ", "ID": "1281403996637483010", "text": "Jejeje Saludos amigo!!!", "url": "/MiguelSesmaQ/status/1281403996637483010", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 04:44:54", "is_reply": true, "is_retweet": false, "user_id": "1198509078"}

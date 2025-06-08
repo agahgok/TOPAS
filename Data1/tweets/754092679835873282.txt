@@ -1,0 +1,1 @@
+{"usernameTweet": "gncalc", "ID": "754092679835873282", "text": "Art arda ezan okunuyor acizsiniz.  #SokağaSakınÇıkma", "url": "/gncalc/status/754092679835873282", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:59", "is_reply": false, "is_retweet": false, "user_id": "342606445"}

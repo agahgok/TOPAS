@@ -1,0 +1,1 @@
+{"usernameTweet": "sidikli__kontes", "ID": "754082745119281156", "text": "# sokağasakınçıkma   https:// twitter.com/sidikli__konte s/status/754082615683084288   …", "url": "/sidikli__kontes/status/754082745119281156", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:31", "is_reply": false, "is_retweet": false, "user_id": "121457686"}

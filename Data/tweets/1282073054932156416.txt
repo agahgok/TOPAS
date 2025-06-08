@@ -1,0 +1,1 @@
+{"usernameTweet": "RenteriaFiscal", "ID": "1282073054932156416", "text": "https:// twitter.com/lydiacachosi/s tatus/1282000325256400897?s=21   …", "url": "/RenteriaFiscal/status/1282073054932156416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 01:03:30", "is_reply": true, "is_retweet": false, "user_id": "2270587820"}

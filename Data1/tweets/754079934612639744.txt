@@ -1,0 +1,1 @@
+{"usernameTweet": "YeimUnsal", "ID": "754079934612639744", "text": "Gün birlik günudur siyasete alet olmayin parti altinda degil birey olarak ülkene sahip cik  #SokağaSakınÇıkma", "url": "/YeimUnsal/status/754079934612639744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:21", "is_reply": false, "is_retweet": false, "user_id": "821734430"}

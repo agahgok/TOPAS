@@ -1,0 +1,1 @@
+{"usernameTweet": "UsualSuspectKS", "ID": "754064179837988865", "text": "# SokağaSakınÇıkma  kan dökme...", "url": "/UsualSuspectKS/status/754064179837988865", "nbr_retweet": 3, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 00:24:44", "is_reply": false, "is_retweet": false, "user_id": "70990576"}

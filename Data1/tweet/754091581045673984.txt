@@ -1,0 +1,1 @@
+{"usernameTweet": "alperennbaltas", "ID": "754091581045673984", "text": "# SokağaSakınÇıkma  diyenin anasini ölürsek şehit kalirsak gazi oluruz .", "url": "/alperennbaltas/status/754091581045673984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:37", "is_reply": false, "is_retweet": false, "user_id": "2786081440"}

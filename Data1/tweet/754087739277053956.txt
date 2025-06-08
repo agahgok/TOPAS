@@ -1,0 +1,1 @@
+{"usernameTweet": "tmlssss", "ID": "754087739277053956", "text": "# SokağaSakınÇıkma  #DarbeyeHayır https:// twitter.com/adnan_oktar/st atus/754085858484060160   …", "url": "/tmlssss/status/754087739277053956", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:21", "is_reply": true, "is_retweet": false, "user_id": "1400878250"}

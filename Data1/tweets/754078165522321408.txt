@@ -1,0 +1,1 @@
+{"usernameTweet": "nasilbisibu", "ID": "754078165522321408", "text": "Lütfen dolduruşlara gelme #SokağaSakınÇıkma  dibimize bomba attılar!", "url": "/nasilbisibu/status/754078165522321408", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:20:19", "is_reply": false, "is_retweet": false, "user_id": "726436229445783553"}

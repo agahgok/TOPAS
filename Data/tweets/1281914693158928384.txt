@@ -1,0 +1,1 @@
+{"usernameTweet": "ilkeruner", "ID": "1281914693158928384", "text": "15 Temmuz da da öyle yapmışlardı üç gün sonra kontrollü  darbe  dediler", "url": "/ilkeruner/status/1281914693158928384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 14:34:14", "is_reply": true, "is_retweet": false, "user_id": "584942180"}

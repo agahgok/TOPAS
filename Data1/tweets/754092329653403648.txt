@@ -1,0 +1,1 @@
+{"usernameTweet": "nurdanaydn3", "ID": "754092329653403648", "text": "Bişey değilde birgün gerçek darbe olursa inanmıycaz  #SokağaSakınÇıkma", "url": "/nurdanaydn3/status/754092329653403648", "nbr_retweet": 4, "nbr_favorite": 25, "nbr_reply": 1, "datetime": "2016-07-16 02:16:36", "is_reply": false, "is_retweet": false, "user_id": "1474840730"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TufanTanyel", "ID": "754090870534729728", "text": "Gezi de herkesi sokağa dökenler şimdi #SokağaSakınÇıkma  diyor.. Nasıl bi hayvansınız lan siz...", "url": "/TufanTanyel/status/754090870534729728", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:10:48", "is_reply": false, "is_retweet": false, "user_id": "101837643"}

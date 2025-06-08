@@ -1,0 +1,1 @@
+{"usernameTweet": "egoinwomen", "ID": "1281382759789977601", "text": "1 Ocak 2019 benim ilk  darbe  günüm  https:// twitter.com/hunie12by/stat us/1281291307491758081   …", "url": "/egoinwomen/status/1281382759789977601", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 03:20:31", "is_reply": false, "is_retweet": false, "user_id": "4711069456"}

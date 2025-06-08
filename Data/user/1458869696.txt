@@ -1,0 +1,1 @@
+{"ID": "1458869696", "name": "かりぶ勉強しろbot", "screen_name": "calib_study", "avatar": "https://pbs.twimg.com/profile_images/3711813287/752c831630accf348b1c91fe5cbe2337_bigger.png"}

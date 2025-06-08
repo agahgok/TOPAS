@@ -1,0 +1,1 @@
+{"usernameTweet": "ezergandan", "ID": "1281576839513858048", "text": "Zincir bakliyat mağazaları da açılmaya başladı yerli esnafa bir  darbe  daha.", "url": "/ezergandan/status/1281576839513858048", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 16:11:43", "is_reply": false, "is_retweet": false, "user_id": "1272887375438458885"}

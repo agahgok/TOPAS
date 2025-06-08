@@ -1,0 +1,1 @@
+{"usernameTweet": "Navegan44215944", "ID": "1282547648365563905", "text": "Fetö devleti ele geçirip  darbe  yaparken rte de tatildeydi.", "url": "/Navegan44215944/status/1282547648365563905", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 08:29:22", "is_reply": true, "is_retweet": false, "user_id": "1245191695546961920"}

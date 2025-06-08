@@ -1,0 +1,1 @@
+{"usernameTweet": "3ashqalfrdows", "ID": "754085521035526145", "text": "Ardogan\nArdogan\nArdogan\n\n #SokağaSakınÇıkma   pic.twitter.com/5yy3ECCOG0", "url": "/3ashqalfrdows/status/754085521035526145", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:33", "is_reply": false, "is_retweet": false, "user_id": "709771440682360832"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "negarzamanfar", "ID": "754367165961306112", "text": "\" مطلقا به خیابان ها نروید\" از دیشب و بعد از تیراندازی به مردم داغ شد\n#SokağaSakınÇıkma", "url": "/negarzamanfar/status/754367165961306112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 20:28:42", "is_reply": true, "is_retweet": false, "user_id": "887521412"}

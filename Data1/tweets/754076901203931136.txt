@@ -1,0 +1,1 @@
+{"usernameTweet": "MrMinik1905", "ID": "754076901203931136", "text": "Kimsenin kuklası  olma sokağa çıkma.\n #SokağaSakınÇıkma", "url": "/MrMinik1905/status/754076901203931136", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:15:17", "is_reply": false, "is_retweet": false, "user_id": "718516278"}

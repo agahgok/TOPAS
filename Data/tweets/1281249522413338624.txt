@@ -1,0 +1,1 @@
+{"usernameTweet": "biryanimhepsen", "ID": "1281249522413338624", "text": "O gece neydi öyle ya  darbe  gibiydi...", "url": "/biryanimhepsen/status/1281249522413338624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 18:31:05", "is_reply": true, "is_retweet": false, "user_id": "1252377903599439872"}

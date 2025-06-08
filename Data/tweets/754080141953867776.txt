@@ -1,0 +1,1 @@
+{"usernameTweet": "hseyn0007", "ID": "754080141953867776", "text": "# SokağaSakınÇıkma  yinda yarın adamiz diye dolaşın ortalıkta", "url": "/hseyn0007/status/754080141953867776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:28:10", "is_reply": false, "is_retweet": false, "user_id": "3432969310"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gonlumcocuk", "ID": "754089738097655808", "text": "# SokağaSakınÇıkma  hdp nerde. o niye darbeye kınama yapmadı. oda sahte tivitciler de hesap verecek..", "url": "/gonlumcocuk/status/754089738097655808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:18", "is_reply": false, "is_retweet": false, "user_id": "980973842"}

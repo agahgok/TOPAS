@@ -1,0 +1,1 @@
+{"usernameTweet": "KirliBeyaz2", "ID": "754078505349029889", "text": "Meydanlara çıkanları gaz fişekleriyle öldüren katil şimdide halkı meydana çağırıyor. #SokağaSakınÇıkma", "url": "/KirliBeyaz2/status/754078505349029889", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:40", "is_reply": true, "is_retweet": false, "user_id": "2570431063"}

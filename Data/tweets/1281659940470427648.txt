@@ -1,0 +1,1 @@
+{"usernameTweet": "gokkurt_aksu", "ID": "1281659940470427648", "text": "Normalde bugün olanlar  darbe  nedenidir TR'de. TR'nin kurtulması çok zor.", "url": "/gokkurt_aksu/status/1281659940470427648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 21:41:56", "is_reply": false, "is_retweet": false, "user_id": "419060494"}

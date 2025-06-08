@@ -1,0 +1,1 @@
+{"usernameTweet": "mrberzeyetin", "ID": "754072203658944517", "text": "# TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma   pic.twitter.com/QrCe412tAG", "url": "/mrberzeyetin/status/754072203658944517", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:37", "is_reply": false, "is_retweet": false, "user_id": "466863687"}

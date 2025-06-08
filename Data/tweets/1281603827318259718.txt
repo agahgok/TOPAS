@@ -1,0 +1,1 @@
+{"usernameTweet": "ErsunIstifa", "ID": "1281603827318259718", "text": "İslam'a ve Orthadox`luga  darbe  olmasın o  pic.twitter.com/SSgSEv83J0", "url": "/ErsunIstifa/status/1281603827318259718", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 17:58:58", "is_reply": true, "is_retweet": false, "user_id": "1072226233763721217"}

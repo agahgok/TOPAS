@@ -1,0 +1,1 @@
+{"usernameTweet": "AslanRussia", "ID": "754087912334094336", "text": "Ezan ne alaka mk ,iyice saçmaladılar. #SokağaSakınÇıkma", "url": "/AslanRussia/status/754087912334094336", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:03", "is_reply": false, "is_retweet": false, "user_id": "545654130"}

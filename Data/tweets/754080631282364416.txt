@@ -1,0 +1,1 @@
+{"usernameTweet": "liplogy", "ID": "754080631282364416", "text": "Bu rte iyi mi ya #SokağaSakınÇıkma", "url": "/liplogy/status/754080631282364416", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:30:07", "is_reply": false, "is_retweet": false, "user_id": "704019363473584132"}

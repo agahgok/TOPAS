@@ -1,0 +1,1 @@
+{"usernameTweet": "Genc_Ulkudas", "ID": "754118865827860480", "text": "# SokağaSakınÇıkma  \nSokağa davet edenler kendileri halkın arasında niye yok", "url": "/Genc_Ulkudas/status/754118865827860480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:02:03", "is_reply": false, "is_retweet": false, "user_id": "2867032889"}

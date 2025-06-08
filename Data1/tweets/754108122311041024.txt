@@ -1,0 +1,1 @@
+{"usernameTweet": "sungurraybukee", "ID": "754108122311041024", "text": "# SokağaSakınÇıkma  yayın arkadaslar  pic.twitter.com/QogxoEqkIB", "url": "/sungurraybukee/status/754108122311041024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:19:21", "is_reply": false, "is_retweet": false, "user_id": "2167541122"}

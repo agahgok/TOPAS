@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetsoyler7", "ID": "1282583817144930304", "text": "GTA şifrelerini  darbe  şifresi sanmak >  #Wayfair  Trendyol troll yorumlara komplo teorisi üretmek", "url": "/mehmetsoyler7/status/1282583817144930304", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-13 10:53:05", "is_reply": false, "is_retweet": false, "user_id": "3504934095"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "alimebayramm", "ID": "754090903912996864", "text": "Yüreğin yoksa sende orospu evladıysan  #SokağaSakınÇıkma", "url": "/alimebayramm/status/754090903912996864", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2016-07-16 02:10:56", "is_reply": false, "is_retweet": false, "user_id": "721840328379142144"}

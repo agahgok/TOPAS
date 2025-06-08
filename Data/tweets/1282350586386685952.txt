@@ -1,0 +1,1 @@
+{"usernameTweet": "TheCagla", "ID": "1282350586386685952", "text": "darbe  gördük savaş gördük kriz gördük virüs gördük... ama bi gerçek aşkı göremedik..", "url": "/TheCagla/status/1282350586386685952", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2020-07-12 19:26:19", "is_reply": false, "is_retweet": false, "user_id": "909883512421003269"}

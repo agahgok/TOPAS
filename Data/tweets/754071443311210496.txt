@@ -1,0 +1,1 @@
+{"usernameTweet": "themuratakdemir", "ID": "754071443311210496", "text": "# SokağaSakınÇıkma  tagını açan hangi orospu çocuğu ise onunda beynini sikiyim", "url": "/themuratakdemir/status/754071443311210496", "nbr_retweet": 3, "nbr_favorite": 20, "nbr_reply": 0, "datetime": "2016-07-16 00:53:36", "is_reply": false, "is_retweet": false, "user_id": "970177549"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ege_351907", "ID": "754082945527275520", "text": "Sokağa çıkma yasağı varmı yokmu biri bişi desin yaaa #SokağaSakınÇıkma", "url": "/ege_351907/status/754082945527275520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:19", "is_reply": false, "is_retweet": false, "user_id": "720760274"}

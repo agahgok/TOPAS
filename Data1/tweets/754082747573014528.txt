@@ -1,0 +1,1 @@
+{"usernameTweet": "sevkibilgin", "ID": "754082747573014528", "text": "# SokağaSakınÇıkma  ÇATIŞMALAR VAR! SİLAH SESLERİ HERYERDE, ÜLKEYİ NE HALE GETİRDİLER!", "url": "/sevkibilgin/status/754082747573014528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:31", "is_reply": false, "is_retweet": false, "user_id": "609847259"}

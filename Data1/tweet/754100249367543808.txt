@@ -1,0 +1,1 @@
+{"usernameTweet": "Nmavii", "ID": "754100249367543808", "text": "Sokağa cik diye bi mesaj atıyor adam hala ya inanamıyorum! #sokagacikma   pic.twitter.com/u4GX1IdCco", "url": "/Nmavii/status/754100249367543808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:48:04", "is_reply": false, "is_retweet": false, "user_id": "313427927"}

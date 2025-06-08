@@ -1,0 +1,1 @@
+{"usernameTweet": "ZeynaAydin", "ID": "754122930926325760", "text": "# SokağaSakınÇıkma .", "url": "/ZeynaAydin/status/754122930926325760", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:18:12", "is_reply": false, "is_retweet": false, "user_id": "541067416"}

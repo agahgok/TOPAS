@@ -1,0 +1,1 @@
+{"usernameTweet": "SimayAdgzl22", "ID": "754090220971257857", "text": "Saat kulesi mahşer yeri gibi . Çıkma abi çıkma sokağa .ÇIKMA ! #SokağaSakınÇıkma  #Sokağaçıkmaoyunagelme", "url": "/SimayAdgzl22/status/754090220971257857", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:13", "is_reply": false, "is_retweet": false, "user_id": "3399790227"}

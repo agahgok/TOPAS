@@ -1,0 +1,1 @@
+{"usernameTweet": "DemokratMimar", "ID": "754078237337223168", "text": "# SokağaSakınÇıkma   pic.twitter.com/VbrhWXKzfe", "url": "/DemokratMimar/status/754078237337223168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:36", "is_reply": false, "is_retweet": false, "user_id": "404696690"}

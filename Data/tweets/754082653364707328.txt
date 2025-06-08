@@ -1,0 +1,1 @@
+{"usernameTweet": "TarikSahin1979", "ID": "754082653364707328", "text": "# sokağasakıncıkma \ncok güzel tiyatro tebrik ediyorum akp lileri", "url": "/TarikSahin1979/status/754082653364707328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:09", "is_reply": false, "is_retweet": false, "user_id": "2967933965"}

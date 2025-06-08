@@ -1,0 +1,1 @@
+{"usernameTweet": "AbhishekDarbe", "ID": "1282018191812595712", "text": "आधा भारत पानी की एक बूंद पीने को तरस रहा है। pic.twitter.com/TgpK94DZQy", "url": "/AbhishekDarbe/status/1282018191812595712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 21:25:30", "is_reply": true, "is_retweet": false, "user_id": "1253259806758051840"}

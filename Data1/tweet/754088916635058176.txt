@@ -1,0 +1,1 @@
+{"usernameTweet": "vantuzella_me", "ID": "754088916635058176", "text": "# SokagaSakınÇıkma  diyerken bu Vatani böle bileceginizimi zann etdiniz.Allah belanizi versin topunuzun", "url": "/vantuzella_me/status/754088916635058176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:02", "is_reply": false, "is_retweet": false, "user_id": "4103254534"}

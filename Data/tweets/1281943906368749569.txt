@@ -1,0 +1,1 @@
+{"usernameTweet": "okyncgl", "ID": "1281943906368749569", "text": "Batının yarısı ateist ayasofyayi açarak  darbe  vurmuş olduk", "url": "/okyncgl/status/1281943906368749569", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-11 16:30:19", "is_reply": false, "is_retweet": false, "user_id": "895277766270226434"}

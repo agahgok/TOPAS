@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmettkemal", "ID": "1282403604532465671", "text": "Dikkat et,  darbe  yapmasınlar", "url": "/ahmettkemal/status/1282403604532465671", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-12 22:56:59", "is_reply": true, "is_retweet": false, "user_id": "1218674141601193985"}

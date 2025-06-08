@@ -1,0 +1,1 @@
+{"usernameTweet": "mmervemete", "ID": "754083850855260160", "text": "# SOKAĞASAKINÇIKMA", "url": "/mmervemete/status/754083850855260160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:54", "is_reply": false, "is_retweet": false, "user_id": "315270959"}

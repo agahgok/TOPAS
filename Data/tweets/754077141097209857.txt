@@ -1,0 +1,1 @@
+{"usernameTweet": "OzenaliozenAli", "ID": "754077141097209857", "text": "Niye cikmicam@sizler gibi uc bes yavsagami birakicam ulkeyi serefsizlee #SokağaSakınÇıkma", "url": "/OzenaliozenAli/status/754077141097209857", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:15", "is_reply": false, "is_retweet": false, "user_id": "721953788005871616"}

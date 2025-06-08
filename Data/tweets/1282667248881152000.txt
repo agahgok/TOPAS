@@ -1,0 +1,1 @@
+{"usernameTweet": "snmozbk", "ID": "1282667248881152000", "text": "  darbe  çocugusun o yuzden boyle", "url": "/snmozbk/status/1282667248881152000", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 16:24:37", "is_reply": true, "is_retweet": false, "user_id": "467492702"}

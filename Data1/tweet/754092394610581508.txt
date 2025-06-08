@@ -1,0 +1,1 @@
+{"usernameTweet": "ALKILICGIL", "ID": "754092394610581508", "text": "# SokağaSakınÇıkma   pic.twitter.com/Todgz68EXl", "url": "/ALKILICGIL/status/754092394610581508", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:16:51", "is_reply": false, "is_retweet": false, "user_id": "153593341"}

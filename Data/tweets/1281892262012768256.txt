@@ -1,0 +1,1 @@
+{"usernameTweet": "noufauste", "ID": "1281892262012768256", "text": "e ben demiştim bkfcdan da  darbe  yeriz diye. sakalım yok ki dinleneyim aq #cembar", "url": "/noufauste/status/1281892262012768256", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-11 13:05:06", "is_reply": false, "is_retweet": false, "user_id": "940649680207253511"}

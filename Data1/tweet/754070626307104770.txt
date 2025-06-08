@@ -1,0 +1,1 @@
+{"usernameTweet": "ajtuan", "ID": "754070626307104770", "text": "# sokağaçıkma", "url": "/ajtuan/status/754070626307104770", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:21", "is_reply": false, "is_retweet": false, "user_id": "523635919"}

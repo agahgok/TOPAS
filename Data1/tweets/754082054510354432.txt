@@ -1,0 +1,1 @@
+{"usernameTweet": "megalomanyakFA", "ID": "754082054510354432", "text": "Başkomutanımız diyor bi de yaaa  aq  senin  #SokağaSakınÇıkma   pic.twitter.com/KINjxzq8a2", "url": "/megalomanyakFA/status/754082054510354432", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:46", "is_reply": false, "is_retweet": false, "user_id": "322552681"}

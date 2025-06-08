@@ -1,0 +1,1 @@
+{"usernameTweet": "suruden_ayri", "ID": "754090065136058368", "text": "emniyet türk askerine karşı savaşıyor, bu işin şakası yok! #ankara  #SokağaSakınÇıkma", "url": "/suruden_ayri/status/754090065136058368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:36", "is_reply": false, "is_retweet": false, "user_id": "2664192432"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "CavitDumanli", "ID": "754085684969934848", "text": "# SokağaSakınÇıkma   Uyuma uyan Türk evladı 30 kupona alınmadı bu vatan", "url": "/CavitDumanli/status/754085684969934848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:12", "is_reply": false, "is_retweet": false, "user_id": "972661710"}

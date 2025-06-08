@@ -1,0 +1,1 @@
+{"usernameTweet": "DogukanCetinn", "ID": "754081033696514051", "text": "Görüşün önemli değil,gaza gelme #SokağaSakınÇıkma", "url": "/DogukanCetinn/status/754081033696514051", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:43", "is_reply": false, "is_retweet": false, "user_id": "555411579"}

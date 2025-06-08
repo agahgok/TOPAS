@@ -1,0 +1,1 @@
+{"usernameTweet": "damlaguvenkaya", "ID": "754118551913521153", "text": "Asker kışlasına, insanlar evine dönsün! #SokağaSakınÇıkma", "url": "/damlaguvenkaya/status/754118551913521153", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:00:48", "is_reply": false, "is_retweet": false, "user_id": "1241601193"}

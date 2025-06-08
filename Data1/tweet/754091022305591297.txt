@@ -1,0 +1,1 @@
+{"usernameTweet": "gurkantahta", "ID": "754091022305591297", "text": "Ne boktan darbe. Yarin acitasyon baslar askeri yendimler baslar. #SokağaSakınÇıkma", "url": "/gurkantahta/status/754091022305591297", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:11:24", "is_reply": false, "is_retweet": false, "user_id": "213808980"}

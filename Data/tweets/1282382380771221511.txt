@@ -1,0 +1,1 @@
+{"usernameTweet": "HayriBasten", "ID": "1282382380771221511", "text": "Kenan evren gibi  darbe  ustune  darbe  yiyoruz", "url": "/HayriBasten/status/1282382380771221511", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 21:32:39", "is_reply": true, "is_retweet": false, "user_id": "1278850967774134272"}

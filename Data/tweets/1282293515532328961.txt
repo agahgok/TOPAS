@@ -1,0 +1,1 @@
+{"usernameTweet": "arzuyldim", "ID": "1282293515532328961", "text": "Kalbimin ortasında bi  darbe  girişimi var sayın yetkililer. #Temmuz", "url": "/arzuyldim/status/1282293515532328961", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 1, "datetime": "2020-07-12 15:39:32", "is_reply": false, "is_retweet": false, "user_id": "3293969589"}

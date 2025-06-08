@@ -1,0 +1,1 @@
+{"usernameTweet": "Zorro_7CU", "ID": "1282433957850763265", "text": "darbe  oluyorsa...\ntitrek dağmat niye sırıtio aq ?\ndemek ki fetöcü.... ", "url": "/Zorro_7CU/status/1282433957850763265", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 00:57:36", "is_reply": false, "is_retweet": false, "user_id": "633909707"}

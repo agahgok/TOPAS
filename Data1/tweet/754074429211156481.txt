@@ -1,0 +1,1 @@
+{"usernameTweet": "nurdanaydn3", "ID": "754074429211156481", "text": "İyice mağdur oldun mu Akp \n\"Bizi darbe de bastırmadı\"\n filminizin adı  \n #SokağaSakınÇıkma", "url": "/nurdanaydn3/status/754074429211156481", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:05:28", "is_reply": false, "is_retweet": false, "user_id": "1474840730"}

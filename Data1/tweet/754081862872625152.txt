@@ -1,0 +1,1 @@
+{"usernameTweet": "onLyZey", "ID": "754081862872625152", "text": "# SokağaSakınÇıkma   https:// twitter.com/KorayCeliker/s tatus/754069252567658500   …", "url": "/onLyZey/status/754081862872625152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:00", "is_reply": false, "is_retweet": false, "user_id": "936671126"}

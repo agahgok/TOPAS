@@ -1,0 +1,1 @@
+{"usernameTweet": "esrayan", "ID": "754075443536560128", "text": "Ayy hadi inşallah #SokağaSakınÇıkma   https:// twitter.com/abcgazete/stat us/754075125289549824   …", "url": "/esrayan/status/754075443536560128", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:09:30", "is_reply": false, "is_retweet": false, "user_id": "81239870"}

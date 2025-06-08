@@ -1,0 +1,1 @@
+{"usernameTweet": "Tubitaktakk", "ID": "1282090896763346945", "text": "Anlıyorum anlıyorum çok  darbe  yemişsin kızlardan feleğin şaşmış neyse", "url": "/Tubitaktakk/status/1282090896763346945", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 02:14:24", "is_reply": true, "is_retweet": false, "user_id": "1235215670197063682"}

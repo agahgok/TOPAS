@@ -1,0 +1,1 @@
+{"usernameTweet": "osmanemre12", "ID": "754088563160023040", "text": "Diyen herkes darbeye destekten hariç hiç bir sey yapmiyorlar  #SokağaSakınÇıkma", "url": "/osmanemre12/status/754088563160023040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:38", "is_reply": false, "is_retweet": false, "user_id": "1032260665"}

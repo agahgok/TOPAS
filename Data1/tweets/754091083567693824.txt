@@ -1,0 +1,1 @@
+{"usernameTweet": "klorofilsentezi", "ID": "754091083567693824", "text": "# SokağaSakınÇıkma  halkın genel durumu  pic.twitter.com/BrB4Nv6fDY", "url": "/klorofilsentezi/status/754091083567693824", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:11:39", "is_reply": false, "is_retweet": false, "user_id": "539291184"}

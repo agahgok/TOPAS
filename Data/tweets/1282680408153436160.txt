@@ -1,0 +1,1 @@
+{"usernameTweet": "alkantln", "ID": "1282680408153436160", "text": "15 temmuz  darbe  kalkışması engellenebilirdi", "url": "/alkantln/status/1282680408153436160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 17:16:55", "is_reply": false, "is_retweet": false, "user_id": "2336165762"}

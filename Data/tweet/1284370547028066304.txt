@@ -1,0 +1,1 @@
+{"usernameTweet": "dabe_wgn", "ID": "1284370547028066304", "text": "# 純ホイしか勝たん pic.twitter.com/yQcdN0YjVy", "url": "/dabe_wgn/status/1284370547028066304", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 09:12:55", "is_reply": false, "is_retweet": false, "user_id": "1082840784087334913"}

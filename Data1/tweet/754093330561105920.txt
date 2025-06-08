@@ -1,0 +1,1 @@
+{"usernameTweet": "babaanne1", "ID": "754093330561105920", "text": "# SokağaSakınÇıkma  #DarbeyeHayır  \n\ngençler siz darbeyi yaşasaydınız\ndarbe sözünü yasaklardınız", "url": "/babaanne1/status/754093330561105920", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:20:35", "is_reply": false, "is_retweet": false, "user_id": "446568085"}

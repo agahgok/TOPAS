@@ -1,0 +1,1 @@
+{"usernameTweet": "bugrahangursu", "ID": "754122898445565952", "text": "Digiturk gitti. @Digiturk   #DarbeyeHayır  #sokağaçıkma", "url": "/bugrahangursu/status/754122898445565952", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:18:04", "is_reply": false, "is_retweet": false, "user_id": "62245934"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "enginkarayilan", "ID": "754075020226392068", "text": "Halka kalkan olacağınız yere halkı kendinize kalkan yapıyorsunuz. #SokağaSakınÇıkma", "url": "/enginkarayilan/status/754075020226392068", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:49", "is_reply": false, "is_retweet": false, "user_id": "290442336"}

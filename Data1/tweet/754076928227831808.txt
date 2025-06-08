@@ -1,0 +1,1 @@
+{"usernameTweet": "fotradam", "ID": "754076928227831808", "text": "ŞUAN SOKAĞA ÇIKMAYI DOĞRU BULUYOR\n MUSUNUZ? #ankara  #sokağasakınçıkma  #trt  #darbe", "url": "/fotradam/status/754076928227831808", "nbr_retweet": 5, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:24", "is_reply": false, "is_retweet": false, "user_id": "1640049512"}

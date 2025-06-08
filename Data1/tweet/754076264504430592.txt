@@ -1,0 +1,1 @@
+{"usernameTweet": "CanCemalKaya", "ID": "754076264504430592", "text": "Polis meydanlara çağırıyor! #SokağaSakınÇıkma   pic.twitter.com/6qEHowsYdo", "url": "/CanCemalKaya/status/754076264504430592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:46", "is_reply": false, "is_retweet": false, "user_id": "309312872"}

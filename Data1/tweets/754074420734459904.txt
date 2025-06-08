@@ -1,0 +1,1 @@
+{"usernameTweet": "Lemanyurtsever", "ID": "754074420734459904", "text": "# SokagaSakinCikma  #HurşitKülterNerede", "url": "/Lemanyurtsever/status/754074420734459904", "nbr_retweet": 6, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:26", "is_reply": false, "is_retweet": false, "user_id": "201879781"}

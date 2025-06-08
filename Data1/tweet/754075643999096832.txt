@@ -1,0 +1,1 @@
+{"usernameTweet": "nejla_23", "ID": "754075643999096832", "text": "# SokağaSakınÇıkma  sokağ çıkın sokağa çıkn dedğiniz hayvanlar sokakta silah sıkıyor bunun  sonu ne olacak", "url": "/nejla_23/status/754075643999096832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:18", "is_reply": false, "is_retweet": false, "user_id": "534756821"}

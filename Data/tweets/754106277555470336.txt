@@ -1,0 +1,1 @@
+{"usernameTweet": "Byykus", "ID": "754106277555470336", "text": "Pardon ahıra gelmişim ne kadar sığır varsa burda #SokağaÇıkma", "url": "/Byykus/status/754106277555470336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:12:01", "is_reply": false, "is_retweet": false, "user_id": "110362644"}

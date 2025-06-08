@@ -1,0 +1,1 @@
+{"usernameTweet": "K2adir", "ID": "754073754406313985", "text": "Hizlandirilmis comarlik testi\nComar misin?\nHayir - #SokağaSakınÇıkma \nEvet - gelebilirsen bi paket camel getir", "url": "/K2adir/status/754073754406313985", "nbr_retweet": 22, "nbr_favorite": 78, "nbr_reply": 3, "datetime": "2016-07-16 01:02:47", "is_reply": false, "is_retweet": false, "user_id": "90214251"}

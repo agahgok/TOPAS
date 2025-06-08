@@ -1,0 +1,1 @@
+{"usernameTweet": "BcanBcan", "ID": "754091159811653633", "text": "17 polisimiz sehit olmus, olan yine masum insanlara oldu, basimiz sagolsun  #SokağaSakınÇıkma", "url": "/BcanBcan/status/754091159811653633", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:11:57", "is_reply": false, "is_retweet": false, "user_id": "2870816685"}

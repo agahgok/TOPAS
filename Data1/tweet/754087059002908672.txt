@@ -1,0 +1,1 @@
+{"usernameTweet": "kahtani13", "ID": "754087059002908672", "text": "Sokağa davet edenler kendileri neden çıkmıyor #SokağaSakınÇıkma", "url": "/kahtani13/status/754087059002908672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:39", "is_reply": false, "is_retweet": false, "user_id": "3292847516"}

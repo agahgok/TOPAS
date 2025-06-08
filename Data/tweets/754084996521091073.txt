@@ -1,0 +1,1 @@
+{"usernameTweet": "ungksl", "ID": "754084996521091073", "text": "# SokağaSakınÇıkma  Bayburt ve Yozgat'a gezi uğramadığı gibi darbede uğramadı Türkiye'nin en huzurlu 2 ili", "url": "/ungksl/status/754084996521091073", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:28", "is_reply": false, "is_retweet": false, "user_id": "286247551"}

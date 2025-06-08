@@ -1,0 +1,1 @@
+{"usernameTweet": "Gamsenis", "ID": "754079393274888192", "text": "Demokrasiymis. Halk meydanlaraymış. Önde seni görmek isteriz. #SokağaSakınÇıkma", "url": "/Gamsenis/status/754079393274888192", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:25:12", "is_reply": false, "is_retweet": false, "user_id": "3769563675"}

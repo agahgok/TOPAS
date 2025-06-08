@@ -1,0 +1,1 @@
+{"usernameTweet": "sevgierol759", "ID": "754079919781605376", "text": "Canini sevân sokağa çikmasin tehlike kol geziyor #SokağaSakınÇıkma", "url": "/sevgierol759/status/754079919781605376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:17", "is_reply": false, "is_retweet": false, "user_id": "117049646"}

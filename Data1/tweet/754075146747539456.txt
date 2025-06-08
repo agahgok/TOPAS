@@ -1,0 +1,1 @@
+{"usernameTweet": "zllktlr", "ID": "754075146747539456", "text": "MUSTAFA KEMAL ATATÜRK   #SokağaSakınÇıkma   pic.twitter.com/4DvYqM277U", "url": "/zllktlr/status/754075146747539456", "nbr_retweet": 9, "nbr_favorite": 15, "nbr_reply": 0, "datetime": "2016-07-16 01:08:19", "is_reply": false, "is_retweet": false, "user_id": "345759584"}

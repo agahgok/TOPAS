@@ -1,0 +1,1 @@
+{"usernameTweet": "rowdy_ebooks", "ID": "1284322454463283201", "text": "Dabe  is an anthology. Shop the Naughty Edit:", "url": "/rowdy_ebooks/status/1284322454463283201", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 06:01:49", "is_reply": false, "is_retweet": false, "user_id": "1256338657780412416"}

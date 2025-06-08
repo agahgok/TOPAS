@@ -1,0 +1,1 @@
+{"usernameTweet": "Ak_Caps", "ID": "1282668754929950721", "text": "15 Temmuz Darbeye  darbe  yapan bir milletin hikayesidir. #15TemmuzuUnutma pic.twitter.com/McsnKxHvTJ", "url": "/Ak_Caps/status/1282668754929950721", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 16:30:36", "is_reply": false, "is_retweet": false, "user_id": "482094727"}

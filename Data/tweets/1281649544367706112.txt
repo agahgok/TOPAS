@@ -1,0 +1,1 @@
+{"usernameTweet": "SELMAEROL5", "ID": "1281649544367706112", "text": "Libyadaki askerimiz büyük  darbe  alabilir. Suriyede aldığı gibi.", "url": "/SELMAEROL5/status/1281649544367706112", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 21:00:37", "is_reply": true, "is_retweet": false, "user_id": "490744469"}

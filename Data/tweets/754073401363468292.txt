@@ -1,0 +1,1 @@
+{"usernameTweet": "fardiplisinhaa", "ID": "754073401363468292", "text": "# SokağaSakınÇıkma  çıktım nolacaak    pic.twitter.com/OZlPR2T1H3", "url": "/fardiplisinhaa/status/754073401363468292", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:23", "is_reply": false, "is_retweet": false, "user_id": "2400528492"}

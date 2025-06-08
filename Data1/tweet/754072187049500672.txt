@@ -1,0 +1,1 @@
+{"usernameTweet": "kenanaygun00", "ID": "754072187049500672", "text": "Aptal olma  #SokağaSakınÇıkma", "url": "/kenanaygun00/status/754072187049500672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:34", "is_reply": false, "is_retweet": false, "user_id": "722899577284780032"}

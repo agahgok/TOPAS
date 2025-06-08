@@ -1,0 +1,1 @@
+{"usernameTweet": "asduiii", "ID": "1282063278475272193", "text": "Son 18 yılı özetlemişsin.talan malan tek parti  darbe   derken.bu ülke 18 yılda gördü hepsini.", "url": "/asduiii/status/1282063278475272193", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 00:24:39", "is_reply": true, "is_retweet": false, "user_id": "392888626"}

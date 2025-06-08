@@ -1,0 +1,1 @@
+{"usernameTweet": "sevvalclebi", "ID": "754111189735485440", "text": "Plan yok\nPlan bu..!\n#SokağaSakınÇıkma", "url": "/sevvalclebi/status/754111189735485440", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:31:32", "is_reply": false, "is_retweet": false, "user_id": "1052633342"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "aradaderedebi1", "ID": "754088893419356160", "text": "Ülkede nice katliam oldu nice şehit oldu sela\nokunmadi be #SokağaSakınÇıkma", "url": "/aradaderedebi1/status/754088893419356160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:57", "is_reply": false, "is_retweet": false, "user_id": "3249388393"}

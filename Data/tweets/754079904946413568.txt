@@ -1,0 +1,1 @@
+{"usernameTweet": "nurdanaydn3", "ID": "754079904946413568", "text": "O kadar şehit düştü bir Allahın kulu sokağa çıkmadı #SokağaSakınÇıkma", "url": "/nurdanaydn3/status/754079904946413568", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:27:14", "is_reply": false, "is_retweet": false, "user_id": "1474840730"}

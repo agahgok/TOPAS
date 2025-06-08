@@ -1,0 +1,1 @@
+{"usernameTweet": "Vijdan_Adam", "ID": "754087166133886976", "text": "Bizim Hitlerin Raihstag baskını #SokağaSakınÇıkma  #DarbeDeğilTiyatro", "url": "/Vijdan_Adam/status/754087166133886976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:05", "is_reply": false, "is_retweet": false, "user_id": "1927355372"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "MatallanaEnd", "ID": "448972168127582208", "text": "Primer paquetico de panini que compro y me sale Crstiano  Ronaldo  muy genial.", "url": "/MatallanaEnd/status/448972168127582208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:58:01", "is_reply": false, "is_retweet": false, "user_id": "168474500"}

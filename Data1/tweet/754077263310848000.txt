@@ -1,0 +1,1 @@
+{"usernameTweet": "ganyamera", "ID": "754077263310848000", "text": "# SokağaSakınÇıkma  Suriyeliler Türkiye den kaçmıştır bile.", "url": "/ganyamera/status/754077263310848000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:44", "is_reply": false, "is_retweet": false, "user_id": "407235902"}

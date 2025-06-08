@@ -1,0 +1,1 @@
+{"usernameTweet": "topukluefe35", "ID": "754081635306500102", "text": "# SokağaSakınÇıkma   https:// twitter.com/baysal48/statu s/754079010125119488   …", "url": "/topukluefe35/status/754081635306500102", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:34:06", "is_reply": false, "is_retweet": false, "user_id": "2408970290"}

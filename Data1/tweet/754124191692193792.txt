@@ -1,0 +1,1 @@
+{"usernameTweet": "keyifkizilcik", "ID": "754124191692193792", "text": "Hoş bu saatte değil #SokağaSakınÇıkma  yalanına inanma Ama 5. ezandan sonra çıkabilirsiniz", "url": "/keyifkizilcik/status/754124191692193792", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:23:12", "is_reply": false, "is_retweet": false, "user_id": "3093209609"}

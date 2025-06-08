@@ -1,0 +1,1 @@
+{"usernameTweet": "sevdadur", "ID": "754093405622398977", "text": "# sokağasakınçıkma  diyen haşhaşileri, vatan hainlerini tutuklayın.", "url": "/sevdadur/status/754093405622398977", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:52", "is_reply": false, "is_retweet": false, "user_id": "240865645"}

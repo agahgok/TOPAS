@@ -1,0 +1,1 @@
+{"usernameTweet": "YildizGvn", "ID": "754376169303179264", "text": "Neyle savunacaksin kendini elindeki bayrakla mi aklını kullan #SokağaSakınÇıkma", "url": "/YildizGvn/status/754376169303179264", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 21:04:29", "is_reply": false, "is_retweet": false, "user_id": "1347727136"}

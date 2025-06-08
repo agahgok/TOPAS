@@ -1,0 +1,1 @@
+{"usernameTweet": "alperrrrrrrrr", "ID": "754092640552050688", "text": "# SokağaSakınÇıkma  diyenler sonuna \"Vururuz Yoksa\" eklemeyi unutmuşlar.", "url": "/alperrrrrrrrr/status/754092640552050688", "nbr_retweet": 16, "nbr_favorite": 27, "nbr_reply": 1, "datetime": "2016-07-16 02:17:50", "is_reply": false, "is_retweet": false, "user_id": "61549791"}

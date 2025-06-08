@@ -1,0 +1,1 @@
+{"usernameTweet": "blenderella", "ID": "754068079173308417", "text": "Aklını başına al ! #SokağaÇıkma", "url": "/blenderella/status/754068079173308417", "nbr_retweet": 36, "nbr_favorite": 23, "nbr_reply": 1, "datetime": "2016-07-16 00:40:14", "is_reply": false, "is_retweet": false, "user_id": "90583366"}

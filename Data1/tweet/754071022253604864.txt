@@ -1,0 +1,1 @@
+{"usernameTweet": "denizakturk06", "ID": "754071022253604864", "text": "Belediye meydana çağırıyor\nAptallık etme #SokağaSakınÇıkma", "url": "/denizakturk06/status/754071022253604864", "nbr_retweet": 4, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 00:51:56", "is_reply": false, "is_retweet": false, "user_id": "2842876462"}

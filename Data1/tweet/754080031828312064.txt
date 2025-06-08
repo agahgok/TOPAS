@@ -1,0 +1,1 @@
+{"usernameTweet": "Selim_K1903", "ID": "754080031828312064", "text": "# SokağaSakınÇıkma  çok geç darbe seviciler vatan nöbette.......", "url": "/Selim_K1903/status/754080031828312064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:44", "is_reply": false, "is_retweet": false, "user_id": "91073820"}

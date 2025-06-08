@@ -1,0 +1,1 @@
+{"usernameTweet": "EyL9", "ID": "754082097665548289", "text": "Oyuna gelme, Tayyibin kalkanı olma... Senaryo iyi oyunculuk berbat.. #SokağaSakınÇıkma", "url": "/EyL9/status/754082097665548289", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:56", "is_reply": false, "is_retweet": false, "user_id": "258400653"}

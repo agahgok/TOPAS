@@ -1,0 +1,1 @@
+{"usernameTweet": "oguzdagg7", "ID": "754088024221384704", "text": "# SokağaSakınÇıkma  Ulan ne kadar saçma bir ülkenin insanıyız. Yazık bize, öleceğiz onlar yüzümüze güle eğlene.", "url": "/oguzdagg7/status/754088024221384704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:29", "is_reply": false, "is_retweet": false, "user_id": "3343454193"}

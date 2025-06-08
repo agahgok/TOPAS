@@ -1,0 +1,1 @@
+{"usernameTweet": "erkanozgr", "ID": "754080168348647424", "text": "suriyeli taze vatandaşlarımıza sesleniyorum geri dönün :D buralar çok karışacak gibi #sokağasakınçıkma", "url": "/erkanozgr/status/754080168348647424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:16", "is_reply": false, "is_retweet": false, "user_id": "1071987643"}

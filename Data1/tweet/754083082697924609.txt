@@ -1,0 +1,1 @@
+{"usernameTweet": "cagribilir", "ID": "754083082697924609", "text": "# SokağaSakınÇıkma   pic.twitter.com/DJ4YBp2sR5", "url": "/cagribilir/status/754083082697924609", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:39:51", "is_reply": false, "is_retweet": false, "user_id": "70931797"}

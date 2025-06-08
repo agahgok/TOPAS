@@ -1,0 +1,1 @@
+{"usernameTweet": "begumemr", "ID": "754111292651307008", "text": "# SokağaSakınÇıkma  kime karşı omuz omuza oluyoruz ya Polis'imize mi ? Asker'imize mi ?", "url": "/begumemr/status/754111292651307008", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 03:31:57", "is_reply": false, "is_retweet": false, "user_id": "378971748"}

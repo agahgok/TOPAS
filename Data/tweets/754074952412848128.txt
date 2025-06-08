@@ -1,0 +1,1 @@
+{"usernameTweet": "TarihtekiBugun", "ID": "754074952412848128", "text": "# SokağaÇıkma", "url": "/TarihtekiBugun/status/754074952412848128", "nbr_retweet": 41, "nbr_favorite": 34, "nbr_reply": 4, "datetime": "2016-07-16 01:07:33", "is_reply": false, "is_retweet": false, "user_id": "88822677"}

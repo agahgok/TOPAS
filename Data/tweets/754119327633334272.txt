@@ -1,0 +1,1 @@
+{"usernameTweet": "mahirimkaram", "ID": "754119327633334272", "text": "# SokağaÇıkma \nTayyip Hitler gibi halk ölsün önemli olan benim diyor", "url": "/mahirimkaram/status/754119327633334272", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:03:53", "is_reply": false, "is_retweet": false, "user_id": "3406224695"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hearthofacoward", "ID": "754088396973285376", "text": "Vay be ilk defa RTE canlı yayında Gazi Mustafa Kemal dedi ve bir örnek verdi #sokağasakınçıkma", "url": "/hearthofacoward/status/754088396973285376", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:00:58", "is_reply": false, "is_retweet": false, "user_id": "610783755"}

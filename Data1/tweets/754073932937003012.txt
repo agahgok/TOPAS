@@ -1,0 +1,1 @@
+{"usernameTweet": "yasminseker1", "ID": "754073932937003012", "text": "# SokağaSakınÇıkma  hatta evde serseri bi kurşundan korunacak bi yer seç kendine!", "url": "/yasminseker1/status/754073932937003012", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:30", "is_reply": false, "is_retweet": false, "user_id": "402373536"}

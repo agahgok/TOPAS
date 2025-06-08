@@ -1,0 +1,1 @@
+{"usernameTweet": "kalpakli74", "ID": "754069920401465348", "text": "# SokağaSakınÇıkma  Halka askeri karşı karşıya getirecek Tayyip Asker sensin oğlun kocan kardeşin Asker", "url": "/kalpakli74/status/754069920401465348", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:47:33", "is_reply": false, "is_retweet": false, "user_id": "1475524136"}

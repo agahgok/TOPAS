@@ -1,0 +1,1 @@
+{"usernameTweet": "elif_milli", "ID": "754108561194684416", "text": "# SOKAGASAKINCIKMA   pic.twitter.com/1av6hW1K4x", "url": "/elif_milli/status/754108561194684416", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:21:06", "is_reply": false, "is_retweet": false, "user_id": "4012740921"}

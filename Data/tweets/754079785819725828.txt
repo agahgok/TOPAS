@@ -1,0 +1,1 @@
+{"usernameTweet": "nursidedd", "ID": "754079785819725828", "text": "Korkmayın halkımız korna çalarak darbe bastırmaya çalışıyo sabaha bişey kalmaz. #Ankara  #SokağaSakınÇıkma", "url": "/nursidedd/status/754079785819725828", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:45", "is_reply": false, "is_retweet": false, "user_id": "2280896480"}

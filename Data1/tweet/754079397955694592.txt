@@ -1,0 +1,1 @@
+{"usernameTweet": "tieyne", "ID": "754079397955694592", "text": "Camiden sela okunuyor şimdi. Kuran fln da okuyorlar galiba anlamadım. #sokagacikma", "url": "/tieyne/status/754079397955694592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:13", "is_reply": false, "is_retweet": false, "user_id": "87270109"}

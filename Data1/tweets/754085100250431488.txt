@@ -1,0 +1,1 @@
+{"usernameTweet": "Media_Wedia", "ID": "754085100250431488", "text": "# SokağaSakınÇıkma \n#Ankara  \n\n https:// youtu.be/NAkiUu8LolI  ", "url": "/Media_Wedia/status/754085100250431488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:52", "is_reply": false, "is_retweet": false, "user_id": "751878098556157952"}

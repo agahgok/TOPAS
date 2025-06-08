@@ -1,0 +1,1 @@
+{"ID": "863746461527285761", "name": "ふー", "screen_name": "foo191919", "avatar": "https://pbs.twimg.com/profile_images/1181742937148776449/dubADik__bigger.jpg"}

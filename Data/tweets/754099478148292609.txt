@@ -1,0 +1,1 @@
+{"usernameTweet": "UsluPuslu", "ID": "754099478148292609", "text": "# SokağaÇıkma  millete ateş açılıyor mal dümen diyor.sen otur evde asalaklığa alışıksın nasıl olsa.", "url": "/UsluPuslu/status/754099478148292609", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:45:00", "is_reply": false, "is_retweet": false, "user_id": "733790274892226562"}

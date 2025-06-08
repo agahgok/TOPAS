@@ -1,0 +1,1 @@
+{"usernameTweet": "asabikarakurt", "ID": "1281747955242983425", "text": "Chp ye bir  darbe  daha, baro reformu mecliste kabul edildi, hadi hayırlı olsun", "url": "/asabikarakurt/status/1281747955242983425", "nbr_retweet": 3, "nbr_favorite": 24, "nbr_reply": 0, "datetime": "2020-07-11 03:31:40", "is_reply": false, "is_retweet": false, "user_id": "1222584541438791681"}

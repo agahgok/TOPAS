@@ -1,0 +1,1 @@
+{"usernameTweet": "rahmi_oguz", "ID": "754090804512260096", "text": "# SokağaSakınÇıkma  Ordu icerisinde teror orgutu yapilanmasina kim izin verdiyse darbeye yardimdan yarginlasin.", "url": "/rahmi_oguz/status/754090804512260096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:32", "is_reply": false, "is_retweet": false, "user_id": "366475942"}

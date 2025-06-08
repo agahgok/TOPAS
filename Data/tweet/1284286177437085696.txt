@@ -1,0 +1,1 @@
+{"usernameTweet": "diijaaydeveyra", "ID": "1284286177437085696", "text": "pic.twitter.com/IN1UFwjbWI", "url": "/diijaaydeveyra/status/1284286177437085696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 03:37:40", "is_reply": true, "is_retweet": false, "user_id": "1111508616975020034"}

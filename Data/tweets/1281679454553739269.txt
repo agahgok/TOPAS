@@ -1,0 +1,1 @@
+{"usernameTweet": "derindarbe31", "ID": "1281679454553739269", "text": "Arkadaşlar girişler bedava oldu bi de böyle düşünün .dd\n#AyasofyaCamii", "url": "/derindarbe31/status/1281679454553739269", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 22:59:29", "is_reply": false, "is_retweet": false, "user_id": "1281292563840983042"}

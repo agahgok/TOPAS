@@ -1,0 +1,1 @@
+{"usernameTweet": "___albatros___", "ID": "754079536388644866", "text": "Baslarina bir sey gelirse sokakta ne ariyorlardi deriz.. #SokağaSakınÇıkma", "url": "/___albatros___/status/754079536388644866", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:46", "is_reply": false, "is_retweet": false, "user_id": "368822842"}

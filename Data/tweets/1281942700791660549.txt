@@ -1,0 +1,1 @@
+{"usernameTweet": "Reyhnshnn", "ID": "1281942700791660549", "text": "Darbe  üstüne  darbe  bir bir eksiliyor dostlar    pic.twitter.com/d9nleCZ01a", "url": "/Reyhnshnn/status/1281942700791660549", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2020-07-11 16:25:31", "is_reply": false, "is_retweet": false, "user_id": "1174340695894765568"}

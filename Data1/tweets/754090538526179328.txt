@@ -1,0 +1,1 @@
+{"usernameTweet": "reeskontmustafa", "ID": "754090538526179328", "text": "# SokağaSakınÇıkma  ulan bir kerede bu vatan dan yana olun şerefsizler", "url": "/reeskontmustafa/status/754090538526179328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:29", "is_reply": false, "is_retweet": false, "user_id": "222537185"}

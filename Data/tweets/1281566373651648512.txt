@@ -1,0 +1,1 @@
+{"usernameTweet": "BROLBey1", "ID": "1281566373651648512", "text": "En çokta yayla  darbe  aliyor", "url": "/BROLBey1/status/1281566373651648512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 15:30:08", "is_reply": true, "is_retweet": false, "user_id": "1221515889918521344"}

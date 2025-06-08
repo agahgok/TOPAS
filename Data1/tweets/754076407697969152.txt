@@ -1,0 +1,1 @@
+{"usernameTweet": "kuluzadeh13", "ID": "754076407697969152", "text": "Bir kardeş uyarısı #SokağaSakınÇıkma  . Ordunun yanında ol Türkiyem!", "url": "/kuluzadeh13/status/754076407697969152", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:13:20", "is_reply": false, "is_retweet": false, "user_id": "1497887737"}

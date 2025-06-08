@@ -1,0 +1,1 @@
+{"usernameTweet": "u_derman", "ID": "754079224949006336", "text": "İhvanı müslimine yapılan şey de Rabia meydanına davet idi, sonuç ne oldu!!! #SokağaSakınÇıkma", "url": "/u_derman/status/754079224949006336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:31", "is_reply": false, "is_retweet": false, "user_id": "2924420732"}

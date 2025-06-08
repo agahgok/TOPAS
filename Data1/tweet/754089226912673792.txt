@@ -1,0 +1,1 @@
+{"usernameTweet": "QaziAwaisAmin", "ID": "754089226912673792", "text": "# SokağaSakınÇıkma \n  Erdogan we Love You  pic.twitter.com/b0v0D7KRgh", "url": "/QaziAwaisAmin/status/754089226912673792", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:04:16", "is_reply": false, "is_retweet": false, "user_id": "1004608555"}

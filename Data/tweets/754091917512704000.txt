@@ -1,0 +1,1 @@
+{"usernameTweet": "nuraydk", "ID": "754091917512704000", "text": "# Sokağaçıkma", "url": "/nuraydk/status/754091917512704000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:58", "is_reply": false, "is_retweet": false, "user_id": "542706983"}

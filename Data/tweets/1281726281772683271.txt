@@ -1,0 +1,1 @@
+{"usernameTweet": "ylmzgmz1", "ID": "1281726281772683271", "text": "Darbe  üstüne  darbe  uslanmıyor bu ", "url": "/ylmzgmz1/status/1281726281772683271", "nbr_retweet": 1, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2020-07-11 02:05:33", "is_reply": false, "is_retweet": false, "user_id": "315155889"}

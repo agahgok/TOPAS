@@ -1,0 +1,1 @@
+{"usernameTweet": "cianikkeda", "ID": "1281327205843378204", "text": "Hadi 2015 de çalındı 2016 da ki kansız olsun diye atılan  darbe  tweetleri noolcak", "url": "/cianikkeda/status/1281327205843378204", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 23:39:46", "is_reply": true, "is_retweet": false, "user_id": "756062295696998400"}

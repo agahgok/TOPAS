@@ -1,0 +1,1 @@
+{"usernameTweet": "BurakBky10", "ID": "754078627352961028", "text": "Çıkmayalım kaybederim dimi.orospu çocukları öleceksekte şerefimizle\n#SokağaSakınÇıkma", "url": "/BurakBky10/status/754078627352961028", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:09", "is_reply": false, "is_retweet": false, "user_id": "1117301083"}

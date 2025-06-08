@@ -1,0 +1,1 @@
+{"usernameTweet": "cmlplt61", "ID": "754075327379505152", "text": "Lan size inat Taksim meydanındayız sizleride bekleriz #SokağaSakınÇıkma", "url": "/cmlplt61/status/754075327379505152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:02", "is_reply": false, "is_retweet": false, "user_id": "2752345623"}

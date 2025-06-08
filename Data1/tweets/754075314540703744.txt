@@ -1,0 +1,1 @@
+{"usernameTweet": "uykucueminem", "ID": "754075314540703744", "text": "SÖYLEYECEKLERİM BU KADAR #SokağaSakınÇıkma   pic.twitter.com/YBeuaULaWo", "url": "/uykucueminem/status/754075314540703744", "nbr_retweet": 4, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:08:59", "is_reply": false, "is_retweet": false, "user_id": "319008548"}

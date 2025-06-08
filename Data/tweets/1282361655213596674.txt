@@ -1,0 +1,1 @@
+{"usernameTweet": "hotcoinn", "ID": "1282361655213596674", "text": "Demek dolara  darbe  ha. Bir çomar ağzı görüyorum selco ", "url": "/hotcoinn/status/1282361655213596674", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 20:10:18", "is_reply": true, "is_retweet": false, "user_id": "295535082"}

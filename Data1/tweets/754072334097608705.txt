@@ -1,0 +1,1 @@
+{"usernameTweet": "gullyalcin", "ID": "754072334097608705", "text": "Aklını kullan koyun olma #SokağaSakınÇıkma", "url": "/gullyalcin/status/754072334097608705", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:09", "is_reply": false, "is_retweet": false, "user_id": "878503134"}

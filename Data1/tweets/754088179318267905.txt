@@ -1,0 +1,1 @@
+{"usernameTweet": "Mhmt__T", "ID": "754088179318267905", "text": "Sağı solu akp lisi chp lisi farketmez #SokağaSakınÇıkma  istedikleri bu zaten.!", "url": "/Mhmt__T/status/754088179318267905", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:00:06", "is_reply": false, "is_retweet": false, "user_id": "1539183726"}

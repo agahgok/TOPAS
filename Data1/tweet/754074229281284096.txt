@@ -1,0 +1,1 @@
+{"usernameTweet": "kllnnkz", "ID": "754074229281284096", "text": "Sokağa çıkın diyenlerin kendileri neden içerde. #SokağaSakınÇıkma", "url": "/kllnnkz/status/754074229281284096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:40", "is_reply": false, "is_retweet": false, "user_id": "632004704"}

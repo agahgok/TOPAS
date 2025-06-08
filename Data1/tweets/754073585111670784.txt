@@ -1,0 +1,1 @@
+{"usernameTweet": "mervelerdenimm", "ID": "754073585111670784", "text": "Iç savaş işte !! #SokağaSakınÇıkma", "url": "/mervelerdenimm/status/754073585111670784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:07", "is_reply": false, "is_retweet": false, "user_id": "3319633090"}

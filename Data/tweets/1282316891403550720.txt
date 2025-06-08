@@ -1,0 +1,1 @@
+{"usernameTweet": "nisbar_shipper", "ID": "1282316891403550720", "text": "Amk Cedi intihar edecek diyorum niye anlamıyorsunuz Ebru’dan sonra çocuk çok  darbe  yedi", "url": "/nisbar_shipper/status/1282316891403550720", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 17:12:25", "is_reply": true, "is_retweet": false, "user_id": "1272925004989190144"}

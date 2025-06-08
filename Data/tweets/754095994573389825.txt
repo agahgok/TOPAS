@@ -1,0 +1,1 @@
+{"usernameTweet": "sanchi_35", "ID": "754095994573389825", "text": "Darbe namazi kac rekat bilen varmi ? Neyin selasi lan bu... #SokağaÇıkma", "url": "/sanchi_35/status/754095994573389825", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 02:31:10", "is_reply": false, "is_retweet": false, "user_id": "1058751409"}

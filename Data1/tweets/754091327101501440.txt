@@ -1,0 +1,1 @@
+{"usernameTweet": "pinarpekak", "ID": "754091327101501440", "text": "Birileri yine mağduru oynayarak gücüne güç katacaktır #SokağaSakınÇıkma", "url": "/pinarpekak/status/754091327101501440", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:12:37", "is_reply": false, "is_retweet": false, "user_id": "479553071"}

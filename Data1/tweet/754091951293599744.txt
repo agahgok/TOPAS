@@ -1,0 +1,1 @@
+{"usernameTweet": "matizebirbira", "ID": "754091951293599744", "text": "Esenyurt saadetdere mah. müezzin sokağa çıkma çağrısı yapıyor. Dininiz tayyip olmuş. #SokağaSakınÇıkma", "url": "/matizebirbira/status/754091951293599744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:06", "is_reply": false, "is_retweet": false, "user_id": "1724552928"}

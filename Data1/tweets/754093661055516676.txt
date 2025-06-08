@@ -1,0 +1,1 @@
+{"usernameTweet": "sadrettintrhn", "ID": "754093661055516676", "text": "Perde arkasını göremediğimiz her oyunu koyun gibi izlemeye mecbur kalacağız.\n#SokağaSakınÇıkma", "url": "/sadrettintrhn/status/754093661055516676", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:21:53", "is_reply": false, "is_retweet": false, "user_id": "2748964091"}

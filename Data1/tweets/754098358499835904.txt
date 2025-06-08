@@ -1,0 +1,1 @@
+{"usernameTweet": "amigdalae", "ID": "754098358499835904", "text": "# SokağaSakınÇıkma  başkanlık cepte %60", "url": "/amigdalae/status/754098358499835904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:40:33", "is_reply": false, "is_retweet": false, "user_id": "744940275265576960"}

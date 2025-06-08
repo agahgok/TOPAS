@@ -1,0 +1,1 @@
+{"usernameTweet": "snglnc", "ID": "754087419331354624", "text": "İmam \"Direnişe Devamm\" dedi resmen.. Düşüp bayılıciiim\n#SokağaSakınÇıkma", "url": "/snglnc/status/754087419331354624", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:05", "is_reply": false, "is_retweet": false, "user_id": "109809286"}

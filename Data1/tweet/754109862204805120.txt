@@ -1,0 +1,1 @@
+{"usernameTweet": "azulaspinkaura", "ID": "754109862204805120", "text": "# Turkey  #SokağaSakınÇıkma", "url": "/azulaspinkaura/status/754109862204805120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:26:16", "is_reply": false, "is_retweet": false, "user_id": "2219284589"}

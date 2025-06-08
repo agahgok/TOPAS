@@ -1,0 +1,1 @@
+{"usernameTweet": "dnzng", "ID": "754095545417957376", "text": "Bu sahte oyun için ne kadar aldınız ne talep edildi söyleyin.. \n#SokağaSakınÇıkma", "url": "/dnzng/status/754095545417957376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:23", "is_reply": false, "is_retweet": false, "user_id": "1520547991"}

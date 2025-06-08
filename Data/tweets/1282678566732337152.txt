@@ -1,0 +1,1 @@
+{"usernameTweet": "y3nmin", "ID": "1282678566732337152", "text": "darbe", "url": "/y3nmin/status/1282678566732337152", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 17:09:35", "is_reply": true, "is_retweet": false, "user_id": "1241797734136496128"}

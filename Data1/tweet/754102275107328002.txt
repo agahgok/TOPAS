@@ -1,0 +1,1 @@
+{"usernameTweet": "zevzeyk", "ID": "754102275107328002", "text": "Kimin için çıktığın değil niçin çıktığın da önemli tabi. #SokağaSakınÇıkma", "url": "/zevzeyk/status/754102275107328002", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:56:07", "is_reply": false, "is_retweet": false, "user_id": "2392606698"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Xelattns", "ID": "754092208714907648", "text": "Hangi görüşten olursan ol sakın #SokağaSakınÇıkma   çünkü darbe var..", "url": "/Xelattns/status/754092208714907648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:07", "is_reply": false, "is_retweet": false, "user_id": "2938791761"}

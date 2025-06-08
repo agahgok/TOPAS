@@ -1,0 +1,1 @@
+{"usernameTweet": "conquer69554689", "ID": "754094081735811072", "text": "# SokağaSakınÇıkma   pic.twitter.com/YOyu5ZiH7H", "url": "/conquer69554689/status/754094081735811072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:34", "is_reply": false, "is_retweet": false, "user_id": "185982356"}

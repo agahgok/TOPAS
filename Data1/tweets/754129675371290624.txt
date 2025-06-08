@@ -1,0 +1,1 @@
+{"usernameTweet": "busracaylak", "ID": "754129675371290624", "text": "Çıkmayın arkadaşlar... #SokağaSakınÇıkma", "url": "/busracaylak/status/754129675371290624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:45:00", "is_reply": false, "is_retweet": false, "user_id": "290047984"}

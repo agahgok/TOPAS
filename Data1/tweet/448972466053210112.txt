@@ -1,0 +1,1 @@
+{"usernameTweet": "Berolax", "ID": "448972466053210112", "text": "Hoy que Merengues? El Sevilla tambien jugaba con 12,o no los a contado  Ronaldo ..oohh\"!!", "url": "/Berolax/status/448972466053210112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:59:12", "is_reply": false, "is_retweet": false, "user_id": "464179711"}

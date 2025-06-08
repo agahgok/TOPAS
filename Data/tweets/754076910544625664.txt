@@ -1,0 +1,1 @@
+{"usernameTweet": "velevkiahlaksiz", "ID": "754076910544625664", "text": "İç savaş yaratmak için güvenli alanlarından halkı meydanlara çağıranlara inat #SokağaSakınÇıkma", "url": "/velevkiahlaksiz/status/754076910544625664", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:15:20", "is_reply": false, "is_retweet": false, "user_id": "187760786"}

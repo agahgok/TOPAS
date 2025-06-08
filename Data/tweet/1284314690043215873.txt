@@ -1,0 +1,1 @@
+{"usernameTweet": "MelissaDabe1", "ID": "1284314690043215873", "text": "Boa sorteee kkkkkkkk", "url": "/MelissaDabe1/status/1284314690043215873", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 05:30:58", "is_reply": true, "is_retweet": false, "user_id": "894308944478437376"}

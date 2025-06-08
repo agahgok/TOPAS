@@ -1,0 +1,1 @@
+{"usernameTweet": "Ma1071", "ID": "754113876174708736", "text": "# SokağaSakınÇıkma  Fetönün usaklari !Darbeciler Darbeyi Basarayamadilar !  pic.twitter.com/KpmzIXWfzF", "url": "/Ma1071/status/754113876174708736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:42:13", "is_reply": false, "is_retweet": false, "user_id": "1480805647"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafa_tanjant", "ID": "754091230011817984", "text": "Flash tv bildiginiz gibi :)   #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/mustafa_tanjant/status/754091230011817984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:14", "is_reply": false, "is_retweet": false, "user_id": "494240577"}

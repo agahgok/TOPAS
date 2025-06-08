@@ -1,0 +1,1 @@
+{"usernameTweet": "iremgonuldas", "ID": "754136848612618240", "text": "# SokağaÇıkma", "url": "/iremgonuldas/status/754136848612618240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:13:30", "is_reply": false, "is_retweet": false, "user_id": "110724573"}

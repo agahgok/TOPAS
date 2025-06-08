@@ -1,0 +1,1 @@
+{"usernameTweet": "DincDaymen", "ID": "754084304876167168", "text": "# SokağaSakınÇıkma", "url": "/DincDaymen/status/754084304876167168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:43", "is_reply": false, "is_retweet": false, "user_id": "398063124"}

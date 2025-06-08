@@ -1,0 +1,1 @@
+{"usernameTweet": "peyyez", "ID": "754086935769985024", "text": "çıkma kardeşim, çıkma! Allah aşkına çıkma! #SokağaSakınÇıkma", "url": "/peyyez/status/754086935769985024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:10", "is_reply": false, "is_retweet": false, "user_id": "748521297009860608"}

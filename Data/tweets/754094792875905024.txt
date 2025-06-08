@@ -1,0 +1,1 @@
+{"usernameTweet": "meldayilmaz", "ID": "754094792875905024", "text": "bu oyunu asla destekleme ve #SokağaSakınÇıkma", "url": "/meldayilmaz/status/754094792875905024", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:26:23", "is_reply": false, "is_retweet": false, "user_id": "83602731"}

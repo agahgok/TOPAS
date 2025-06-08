@@ -1,0 +1,1 @@
+{"usernameTweet": "prenskaspiyan", "ID": "754072818120359940", "text": "# SokağaSakınÇıkma", "url": "/prenskaspiyan/status/754072818120359940", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:04", "is_reply": false, "is_retweet": false, "user_id": "364829210"}

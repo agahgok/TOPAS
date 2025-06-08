@@ -1,0 +1,1 @@
+{"usernameTweet": "baristiano", "ID": "754093737832316929", "text": "# SokağaSakınÇıkma  #DarbeyeHayır \n\nUlan mk daha terör bitmemiş. kendimizle savaşıyoruz", "url": "/baristiano/status/754093737832316929", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:22:12", "is_reply": false, "is_retweet": false, "user_id": "3074805119"}

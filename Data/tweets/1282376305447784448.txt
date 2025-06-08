@@ -1,0 +1,1 @@
+{"usernameTweet": "ayzenozen2", "ID": "1282376305447784448", "text": "Kontrollü  darbe  diyen CHP mi hani ekran karşısında kahvesini yudumlayan", "url": "/ayzenozen2/status/1282376305447784448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 21:08:31", "is_reply": true, "is_retweet": false, "user_id": "3920321423"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sebnemkoseoglu", "ID": "754080952494780416", "text": "# sokağasakınçıkma", "url": "/sebnemkoseoglu/status/754080952494780416", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:23", "is_reply": false, "is_retweet": false, "user_id": "284067842"}

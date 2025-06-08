@@ -1,0 +1,1 @@
+{"usernameTweet": "EMRAH_GOZDE35", "ID": "754196629251563520", "text": "Gerizekalı olmayın. #Sokağaçıkma   https:// twitter.com/EmreUslu/statu s/754082990314192896   …", "url": "/EMRAH_GOZDE35/status/754196629251563520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 09:11:03", "is_reply": false, "is_retweet": false, "user_id": "750012156909879296"}

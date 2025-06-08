@@ -1,0 +1,1 @@
+{"usernameTweet": "hayal2207", "ID": "754085559367270400", "text": "Selah okunuyor! din siyasete böyle alet ediliyormuş gördük. #SokağaSakınÇıkma", "url": "/hayal2207/status/754085559367270400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:42", "is_reply": false, "is_retweet": false, "user_id": "2383835090"}

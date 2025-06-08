@@ -1,0 +1,1 @@
+{"usernameTweet": "EminDeilim", "ID": "754086963490283520", "text": "Ülkenin selası veriliyor ... #SokağaSakınÇıkma", "url": "/EminDeilim/status/754086963490283520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:17", "is_reply": false, "is_retweet": false, "user_id": "101514578"}

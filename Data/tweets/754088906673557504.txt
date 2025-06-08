@@ -1,0 +1,1 @@
+{"usernameTweet": "MmiNe_KARA", "ID": "754088906673557504", "text": "Ezan ne zamandan beri kaosa çağrı olmaya başladı? #SokağaSakınÇıkma   #Türkiye  #sokağaÇIKMA", "url": "/MmiNe_KARA/status/754088906673557504", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:03:00", "is_reply": false, "is_retweet": false, "user_id": "548705679"}

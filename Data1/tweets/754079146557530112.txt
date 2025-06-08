@@ -1,0 +1,1 @@
+{"usernameTweet": "_essess", "ID": "754079146557530112", "text": "Ezan okumak noluo haçlı seferleri mi başladı!!!!! Ezan namaza davettir meydanlara değil!! #SokağaSakınÇıkma", "url": "/_essess/status/754079146557530112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:13", "is_reply": false, "is_retweet": false, "user_id": "175371759"}

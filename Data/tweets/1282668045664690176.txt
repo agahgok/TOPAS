@@ -1,0 +1,1 @@
+{"usernameTweet": "Nur13096029", "ID": "1282668045664690176", "text": "# psikolojiacıkoeğretimolamaz  \nRuh sağlığına  darbe  yaptınız.", "url": "/Nur13096029/status/1282668045664690176", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 16:27:47", "is_reply": false, "is_retweet": false, "user_id": "1281589647085363202"}

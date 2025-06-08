@@ -1,0 +1,1 @@
+{"usernameTweet": "dilsan1974", "ID": "754091034699829248", "text": "Şanlı komutanımız ve tek liderimiz ATATÜRK !!! #SokağaSakınÇıkma", "url": "/dilsan1974/status/754091034699829248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:27", "is_reply": false, "is_retweet": false, "user_id": "3177845613"}

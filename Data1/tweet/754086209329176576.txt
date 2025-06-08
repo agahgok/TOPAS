@@ -1,0 +1,1 @@
+{"usernameTweet": "ozbayi", "ID": "754086209329176576", "text": "Camdan bir bak ne görüyorsun hala sokağa sakın çıkma mı diyorsun komik #SokağaSakınÇıkma", "url": "/ozbayi/status/754086209329176576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:17", "is_reply": false, "is_retweet": false, "user_id": "866825940"}

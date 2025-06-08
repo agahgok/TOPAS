@@ -1,0 +1,1 @@
+{"usernameTweet": "gamzeoptimist", "ID": "754073578908229632", "text": "CB Erdoğan Alamanya'dan sığınma talep etmiş #SokağaSakınÇıkma", "url": "/gamzeoptimist/status/754073578908229632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:05", "is_reply": false, "is_retweet": false, "user_id": "1456872480"}

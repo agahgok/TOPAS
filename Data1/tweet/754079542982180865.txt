@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754079542982180865", "text": "# SokağaSakınÇıkma \nasker bu polıs degıl bıber sıkmaz", "url": "/ekicifaruk1/status/754079542982180865", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 2, "datetime": "2016-07-16 01:25:47", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

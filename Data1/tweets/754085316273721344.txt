@@ -1,0 +1,1 @@
+{"usernameTweet": "selinbilisli", "ID": "754085316273721344", "text": "Şu an sokaktayız dibine kadar.  #SokağaSakınÇıkma   pic.twitter.com/WvN3h2Tulb", "url": "/selinbilisli/status/754085316273721344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:44", "is_reply": false, "is_retweet": false, "user_id": "1576932698"}

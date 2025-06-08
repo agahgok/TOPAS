@@ -1,0 +1,1 @@
+{"usernameTweet": "Sevcanzkan11", "ID": "754084251109322752", "text": "Sokağa çıkanlara hakaretler yagdiran şimdi \"sokağa çıkın\" diyor. Galeyana gelmeyin #SokağaSakınÇıkma", "url": "/Sevcanzkan11/status/754084251109322752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:30", "is_reply": false, "is_retweet": false, "user_id": "2443795321"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TGunersel", "ID": "1281498059365654529", "text": "\"Laik demokratik Türkiye Cumhuriyeti\" tanımı ile amacına karşı sistemli bir  darbe  yürütülüyor yıllardır.", "url": "/TGunersel/status/1281498059365654529", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 10:58:41", "is_reply": false, "is_retweet": false, "user_id": "256840950"}

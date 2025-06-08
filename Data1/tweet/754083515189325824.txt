@@ -1,0 +1,1 @@
+{"usernameTweet": "soyluaysegul61", "ID": "754083515189325824", "text": "# SokağaSakınÇıkma  ya inat an itibariyle havalimanı  pic.twitter.com/JnQ0QV0ZDJ", "url": "/soyluaysegul61/status/754083515189325824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:34", "is_reply": false, "is_retweet": false, "user_id": "598267035"}

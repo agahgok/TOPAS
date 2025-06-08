@@ -1,0 +1,1 @@
+{"usernameTweet": "alper_ayaz2014", "ID": "754081892962594816", "text": "Birazdan balkon konuşması yapar kesin #SokağaSakınÇıkma", "url": "/alper_ayaz2014/status/754081892962594816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:08", "is_reply": false, "is_retweet": false, "user_id": "2875542549"}

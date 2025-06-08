@@ -1,0 +1,1 @@
+{"usernameTweet": "gzdediyebiri", "ID": "754078716779716612", "text": "Aklı olan evinde askerine polisine dua ediyor zaten. #SokağaSakınÇıkma", "url": "/gzdediyebiri/status/754078716779716612", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:30", "is_reply": false, "is_retweet": false, "user_id": "3786583156"}

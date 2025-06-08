@@ -1,0 +1,1 @@
+{"usernameTweet": "berrak_ecem", "ID": "754080023133511680", "text": "Onlarca korumayla açıklama yapıp sokağa çıkın çağrısı vermek.. #SokağaSakınÇıkma", "url": "/berrak_ecem/status/754080023133511680", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:27:42", "is_reply": false, "is_retweet": false, "user_id": "1630834266"}

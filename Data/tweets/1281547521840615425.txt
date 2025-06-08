@@ -1,0 +1,1 @@
+{"usernameTweet": "emirrcetinn", "ID": "1281547521840615425", "text": "Beni öldürmeyen  darbe  canımı acıtır", "url": "/emirrcetinn/status/1281547521840615425", "nbr_retweet": 0, "nbr_favorite": 13, "nbr_reply": 0, "datetime": "2020-07-10 14:15:13", "is_reply": false, "is_retweet": false, "user_id": "741458350001553409"}

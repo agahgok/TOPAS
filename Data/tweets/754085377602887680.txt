@@ -1,0 +1,1 @@
+{"usernameTweet": "FenerBaahce10", "ID": "754085377602887680", "text": "# SokağaSakınÇıkma  diyenler neden Türkiyede barınmaniyorsunuz", "url": "/FenerBaahce10/status/754085377602887680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:58", "is_reply": false, "is_retweet": false, "user_id": "1026627955"}

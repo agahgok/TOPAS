@@ -1,0 +1,1 @@
+{"usernameTweet": "Gamzertass", "ID": "754077152983801856", "text": "İç savaş çıkarmaya çalışıyorlar! Halkı meydanlara çağrıyorlar. Oyuna gelme #sokağaçıkma", "url": "/Gamzertass/status/754077152983801856", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:16:18", "is_reply": false, "is_retweet": false, "user_id": "620300248"}

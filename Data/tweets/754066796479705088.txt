@@ -1,0 +1,1 @@
+{"usernameTweet": "_adimyokbenim", "ID": "754066796479705088", "text": "# SokağaSakınÇıkma  #SokağaSakınÇıkma    #SokağaSakınÇıkma #SokağaSa #SokağaSakınÇıkmakınÇıkma", "url": "/_adimyokbenim/status/754066796479705088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:35:08", "is_reply": false, "is_retweet": false, "user_id": "1063009424"}

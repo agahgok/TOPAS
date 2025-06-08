@@ -1,0 +1,1 @@
+{"usernameTweet": "irmakalici_62", "ID": "754284704354930688", "text": "Gönderdiğiniz mesajı sikeyim \n#SOKAGACIKMA   pic.twitter.com/d6QERuFxLr", "url": "/irmakalici_62/status/754284704354930688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 15:01:02", "is_reply": false, "is_retweet": false, "user_id": "3023630303"}

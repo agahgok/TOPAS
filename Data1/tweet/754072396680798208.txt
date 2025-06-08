@@ -1,0 +1,1 @@
+{"usernameTweet": "tarik_syrk", "ID": "754072396680798208", "text": "Hiç bi lider halkı sokağa davet etmez tabi iç savaş istemiyosa #SokağaSakınÇıkma", "url": "/tarik_syrk/status/754072396680798208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:24", "is_reply": false, "is_retweet": false, "user_id": "709621827"}

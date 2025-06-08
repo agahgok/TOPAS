@@ -1,0 +1,1 @@
+{"usernameTweet": "Ebrarbasogluu_", "ID": "1281549460527550464", "text": "Günüme bi  darbe  de spotify ve fizy den geldi  pic.twitter.com/j6DV1gIsAx", "url": "/Ebrarbasogluu_/status/1281549460527550464", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 1, "datetime": "2020-07-10 14:22:56", "is_reply": false, "is_retweet": false, "user_id": "1217696954685280256"}

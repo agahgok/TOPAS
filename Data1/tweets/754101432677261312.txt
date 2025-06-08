@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet_5N1K", "ID": "754101432677261312", "text": "# sokağaçıkma   https:// twitter.com/davuIcuvedat/s tatus/754095575088455680   …", "url": "/mehmet_5N1K/status/754101432677261312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:52:46", "is_reply": false, "is_retweet": false, "user_id": "250848020"}

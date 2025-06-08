@@ -1,0 +1,1 @@
+{"usernameTweet": "KochNej", "ID": "754071945218560000", "text": "# sokagacikma   pic.twitter.com/eFsWYQ5THk", "url": "/KochNej/status/754071945218560000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:55:36", "is_reply": false, "is_retweet": false, "user_id": "1474802886"}

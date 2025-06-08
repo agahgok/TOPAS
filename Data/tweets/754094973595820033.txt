@@ -1,0 +1,1 @@
+{"usernameTweet": "sueniz2", "ID": "754094973595820033", "text": "# SokağaSakınÇıkma   pic.twitter.com/bYKoBK2V2D", "url": "/sueniz2/status/754094973595820033", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:06", "is_reply": false, "is_retweet": false, "user_id": "4768710028"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sekturkkahvesi", "ID": "754083165912850432", "text": "# SokağaSakınÇıkma  darbe halka değil delete yapılıyor halk sokağa çıkıyor bu nasıl iştir", "url": "/sekturkkahvesi/status/754083165912850432", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:40:11", "is_reply": false, "is_retweet": false, "user_id": "4884439498"}

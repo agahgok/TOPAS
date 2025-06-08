@@ -1,0 +1,1 @@
+{"usernameTweet": "GkhanOzsoy", "ID": "754085293486141445", "text": "Çıkacaksan bu gece cikacaksin ki ceddine yüzün olsun!  #SokağaSakınÇıkma", "url": "/GkhanOzsoy/status/754085293486141445", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:48:38", "is_reply": false, "is_retweet": false, "user_id": "543745430"}

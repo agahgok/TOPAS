@@ -1,0 +1,1 @@
+{"usernameTweet": "20_gzm", "ID": "754071686027280384", "text": "# SokağaSakınÇıkma  benim korumam yok diyen beyinsizler bizi allah koruyor size gerek yok zaten", "url": "/20_gzm/status/754071686027280384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:34", "is_reply": false, "is_retweet": false, "user_id": "2203357919"}

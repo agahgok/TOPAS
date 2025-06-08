@@ -1,0 +1,1 @@
+{"usernameTweet": "MASAOMORITR", "ID": "1281639950388269059", "text": "O salak  darbe  mi yapabilir ?  İşbirlikçileri iktidarda.", "url": "/MASAOMORITR/status/1281639950388269059", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 20:22:30", "is_reply": true, "is_retweet": false, "user_id": "959670741699620864"}

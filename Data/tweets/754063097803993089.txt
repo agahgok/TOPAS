@@ -1,0 +1,1 @@
+{"usernameTweet": "tolgakaratuna", "ID": "754063097803993089", "text": "# sokagacikma", "url": "/tolgakaratuna/status/754063097803993089", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:20:26", "is_reply": false, "is_retweet": false, "user_id": "65616519"}

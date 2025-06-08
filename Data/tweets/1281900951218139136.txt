@@ -1,0 +1,1 @@
+{"usernameTweet": "journalstrike", "ID": "1281900951218139136", "text": "tayyip twye el koyuyo galiba 2 hesabim birden yok oldu yemin ederim  darbe  yedim", "url": "/journalstrike/status/1281900951218139136", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 2, "datetime": "2020-07-11 13:39:37", "is_reply": false, "is_retweet": false, "user_id": "860069213561655296"}

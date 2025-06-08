@@ -1,0 +1,1 @@
+{"usernameTweet": "edicasamis", "ID": "754071144865693696", "text": "Allah rızası için #SokağaSakınÇıkma", "url": "/edicasamis/status/754071144865693696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:25", "is_reply": false, "is_retweet": false, "user_id": "950121151"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ElmasOzlemmm", "ID": "754072711668740096", "text": "# SokağaSakınÇıkma \n#SokağaSakınÇıkma \n#SokağaSakınÇıkma \n#SokağaSakınÇıkma", "url": "/ElmasOzlemmm/status/754072711668740096", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:39", "is_reply": false, "is_retweet": false, "user_id": "2211072463"}

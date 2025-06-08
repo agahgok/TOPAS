@@ -1,0 +1,1 @@
+{"usernameTweet": "ozenertug", "ID": "754071358720602112", "text": "Ülke normale döndü sanmıştım. Her 30 senede bir bu ülkede darbe olur zinciri kırıldı sanmıştım #SokağaSakınÇıkma", "url": "/ozenertug/status/754071358720602112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:16", "is_reply": false, "is_retweet": false, "user_id": "20790051"}

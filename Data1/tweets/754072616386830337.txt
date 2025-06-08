@@ -1,0 +1,1 @@
+{"usernameTweet": "akan_samet", "ID": "754072616386830337", "text": "# SokağaSakınÇıkma  zira tarih tekerrür eder.", "url": "/akan_samet/status/754072616386830337", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:16", "is_reply": false, "is_retweet": false, "user_id": "310172004"}

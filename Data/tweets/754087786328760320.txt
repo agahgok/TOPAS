@@ -1,0 +1,1 @@
+{"usernameTweet": "hkose35", "ID": "754087786328760320", "text": "# SokağaSakınÇıkma \nBiz inince meydanlara terörist siz inince milli irade he imam bayıldı anons ediyor...", "url": "/hkose35/status/754087786328760320", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:58:33", "is_reply": false, "is_retweet": false, "user_id": "1660364496"}

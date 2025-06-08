@@ -1,0 +1,1 @@
+{"usernameTweet": "kader_69", "ID": "754133222183804930", "text": "Yahu bizim genelkurmay başkanımız nerde #DarbeyeHayır  #Ankara  #SokağaSakınÇıkma", "url": "/kader_69/status/754133222183804930", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:59:05", "is_reply": false, "is_retweet": false, "user_id": "234990532"}

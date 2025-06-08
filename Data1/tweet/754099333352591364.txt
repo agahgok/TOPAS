@@ -1,0 +1,1 @@
+{"usernameTweet": "buuuuss_", "ID": "754099333352591364", "text": "Cb nerede? Meydanlara indi mi? #SokağaSakınÇıkma", "url": "/buuuuss_/status/754099333352591364", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:44:26", "is_reply": false, "is_retweet": false, "user_id": "263216609"}

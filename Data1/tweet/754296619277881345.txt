@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynepalfat", "ID": "754296619277881345", "text": "Bu kadar cahille bu işler böyle yürür tabiki de!! #askerimedokunma  #SokağaSakınÇıkma  #DarbeyeHayır", "url": "/zeynepalfat/status/754296619277881345", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 15:48:22", "is_reply": false, "is_retweet": false, "user_id": "184997301"}

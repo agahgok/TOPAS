@@ -1,0 +1,1 @@
+{"usernameTweet": "vadman2627", "ID": "1282338578295595008", "text": "No, fué su sentido común.", "url": "/vadman2627/status/1282338578295595008", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-12 18:38:36", "is_reply": true, "is_retweet": false, "user_id": "822625700"}

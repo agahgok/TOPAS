@@ -1,0 +1,1 @@
+{"usernameTweet": "EmrahKarabudak", "ID": "754091278757990400", "text": "# SokağaSakınÇıkma   pic.twitter.com/GgwEiZnVh2", "url": "/EmrahKarabudak/status/754091278757990400", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:25", "is_reply": false, "is_retweet": false, "user_id": "152168331"}

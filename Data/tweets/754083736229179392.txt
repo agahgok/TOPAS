@@ -1,0 +1,1 @@
+{"usernameTweet": "esraaaaatepe", "ID": "754083736229179392", "text": "# SokağaSakınÇıkma  yuh amk harbi yuh eskişehir dede ezan okunuyo", "url": "/esraaaaatepe/status/754083736229179392", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:27", "is_reply": false, "is_retweet": false, "user_id": "338353856"}

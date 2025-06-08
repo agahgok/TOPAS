@@ -1,0 +1,1 @@
+{"usernameTweet": "MehmetAlierog06", "ID": "754083755946610689", "text": "# SokağaSakınÇıkma  yok yok ananiza cikacaz ordan inip 7 sulalenize cikacaz", "url": "/MehmetAlierog06/status/754083755946610689", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:32", "is_reply": false, "is_retweet": false, "user_id": "701518906742198272"}

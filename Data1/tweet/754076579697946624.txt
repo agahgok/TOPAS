@@ -1,0 +1,1 @@
+{"usernameTweet": "Eurovisn_Turkey", "ID": "754076579697946624", "text": "Güvenliğin için #SokağaSakınÇıkma", "url": "/Eurovisn_Turkey/status/754076579697946624", "nbr_retweet": 6, "nbr_favorite": 10, "nbr_reply": 1, "datetime": "2016-07-16 01:14:01", "is_reply": false, "is_retweet": false, "user_id": "301431937"}

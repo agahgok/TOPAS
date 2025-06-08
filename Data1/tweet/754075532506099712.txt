@@ -1,0 +1,1 @@
+{"usernameTweet": "uzaktan_akraban", "ID": "754075532506099712", "text": "Vatan için uykuların kaçıyosa Devrim başlamış demektir... #ANKARA  #sokagacikma", "url": "/uzaktan_akraban/status/754075532506099712", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:09:51", "is_reply": false, "is_retweet": false, "user_id": "497773497"}

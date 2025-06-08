@@ -1,0 +1,1 @@
+{"usernameTweet": "aydinesma", "ID": "754072806665687040", "text": "Sokaklarda bu vatanda tanklarda bizim siz evinizde titreyin leşler #SokağaSakınÇıkma", "url": "/aydinesma/status/754072806665687040", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:01", "is_reply": false, "is_retweet": false, "user_id": "159538641"}

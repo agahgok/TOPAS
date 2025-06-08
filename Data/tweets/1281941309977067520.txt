@@ -1,0 +1,1 @@
+{"usernameTweet": "yirmidorttv", "ID": "1281941309977067520", "text": "PKK'YA  DARBE  ÜSTÜNE  DARBE   pic.twitter.com/r6tyDPl23k", "url": "/yirmidorttv/status/1281941309977067520", "nbr_retweet": 6, "nbr_favorite": 33, "nbr_reply": 2, "datetime": "2020-07-11 16:20:00", "is_reply": false, "is_retweet": false, "user_id": "95897602"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "alikemal5667", "ID": "1284305915215319046", "text": "Aydın bey;O derginin adını bana özelden yazar mısınız?", "url": "/alikemal5667/status/1284305915215319046", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 04:56:06", "is_reply": true, "is_retweet": false, "user_id": "104384720"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "salvadordelcace", "ID": "1282400253099028481", "text": "Feliz día amigo, un fuerte abrazo.", "url": "/salvadordelcace/status/1282400253099028481", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 22:43:40", "is_reply": true, "is_retweet": false, "user_id": "3315420832"}

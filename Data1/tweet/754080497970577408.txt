@@ -1,0 +1,1 @@
+{"usernameTweet": "cheyoldaslari", "ID": "754080497970577408", "text": "# SokağaSakınÇıkma  3 yıl önce sokaktakiler çapulcuydu. Ne değişti şimdi?", "url": "/cheyoldaslari/status/754080497970577408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:35", "is_reply": false, "is_retweet": false, "user_id": "731834783832084480"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "oordinaryusss", "ID": "754090983562747904", "text": "en az % 60 oyla başkanlık hayırlı olsun #SokağaSakınÇıkma", "url": "/oordinaryusss/status/754090983562747904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:15", "is_reply": false, "is_retweet": false, "user_id": "420604470"}

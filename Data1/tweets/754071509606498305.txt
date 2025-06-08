@@ -1,0 +1,1 @@
+{"usernameTweet": "DenizUnlu86", "ID": "754071509606498305", "text": "# SokağaSakınÇıkma  Koyunlar peygamberlerinin emriyle sokakta. Savaş çıksın biz o zaman ineceğiz.", "url": "/DenizUnlu86/status/754071509606498305", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:52", "is_reply": false, "is_retweet": false, "user_id": "2841642437"}

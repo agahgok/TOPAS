@@ -1,0 +1,1 @@
+{"usernameTweet": "orfeovolteo", "ID": "1281388831439310849", "text": "Digno de adolescente que lee 'Así habló Zaratustra' y ya cree que todo es eterno retorno.", "url": "/orfeovolteo/status/1281388831439310849", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 03:44:39", "is_reply": true, "is_retweet": false, "user_id": "3377589312"}

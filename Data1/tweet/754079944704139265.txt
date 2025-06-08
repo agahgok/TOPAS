@@ -1,0 +1,1 @@
+{"usernameTweet": "BoranMs", "ID": "754079944704139265", "text": "# SokağaSakınÇıkma  çıkın akın akın sokaklara çıkın! Bugün evine dönen yarın sokağa hiç çıkamaz!", "url": "/BoranMs/status/754079944704139265", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:23", "is_reply": false, "is_retweet": false, "user_id": "592898779"}

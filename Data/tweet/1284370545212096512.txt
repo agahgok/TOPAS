@@ -1,0 +1,1 @@
+{"usernameTweet": "Twityciik", "ID": "1284370545212096512", "text": "Amca  darbe  dönemlerinde Hulk'a dönüşüyormuş!  pic.twitter.com/9VQdDdSAAu", "url": "/Twityciik/status/1284370545212096512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-18 09:12:55", "is_reply": true, "is_retweet": false, "user_id": "986562333672697856"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yokbendegilim", "ID": "754072166795206656", "text": "10kisi tankin ustunde durduracak galiba %50yi sahneye alalim ben evdeyim ekmegim de var #SokağaSakınÇıkma", "url": "/yokbendegilim/status/754072166795206656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:29", "is_reply": false, "is_retweet": false, "user_id": "712783580"}

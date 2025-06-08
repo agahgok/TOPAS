@@ -1,0 +1,1 @@
+{"usernameTweet": "avarakasnak", "ID": "754083362684432389", "text": "camiler ne okumaya başladı ..ezan değil bu #SokağaSakınÇıkma", "url": "/avarakasnak/status/754083362684432389", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:40:58", "is_reply": false, "is_retweet": false, "user_id": "305219946"}

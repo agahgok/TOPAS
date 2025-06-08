@@ -1,0 +1,1 @@
+{"usernameTweet": "bastasceren", "ID": "754075174312419328", "text": "27 Şubat 2014te demişti \"oyuna gelmeyin\" diye. Çok geçmedi,oyuna gelmeyin #SokağaSakınÇıkma", "url": "/bastasceren/status/754075174312419328", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:08:26", "is_reply": false, "is_retweet": false, "user_id": "2150961012"}

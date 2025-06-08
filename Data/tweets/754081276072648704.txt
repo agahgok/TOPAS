@@ -1,0 +1,1 @@
+{"usernameTweet": "frkn_1453", "ID": "754081276072648704", "text": "# Ankaraü     #SokağaSakınÇıkma   pic.twitter.com/n9N5XNxKEl", "url": "/frkn_1453/status/754081276072648704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:41", "is_reply": false, "is_retweet": false, "user_id": "771380533"}

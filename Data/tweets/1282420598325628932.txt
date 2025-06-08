@@ -1,0 +1,1 @@
+{"usernameTweet": "zweisechser", "ID": "1282420598325628932", "text": "Seçimi falan bırak  darbe  yapılmalı", "url": "/zweisechser/status/1282420598325628932", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 00:04:31", "is_reply": true, "is_retweet": false, "user_id": "737010509652824064"}

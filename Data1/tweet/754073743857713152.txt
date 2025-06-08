@@ -1,0 +1,1 @@
+{"usernameTweet": "elfidamai", "ID": "754073743857713152", "text": "Ekmek bulamadık bu hengamede aboww #ağlanacakhaldeyiz  #sokağaçıkma", "url": "/elfidamai/status/754073743857713152", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:02:45", "is_reply": false, "is_retweet": false, "user_id": "533266442"}

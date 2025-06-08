@@ -1,0 +1,1 @@
+{"usernameTweet": "AsFaruk22", "ID": "754072468550221824", "text": "# SokağaSakınÇıkma  kardeş kanı dökme  oyuna gelmesin kimse", "url": "/AsFaruk22/status/754072468550221824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:41", "is_reply": false, "is_retweet": false, "user_id": "710438246"}

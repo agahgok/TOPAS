@@ -1,0 +1,1 @@
+{"usernameTweet": "Alev_rheyma", "ID": "754058586838491136", "text": "Ne olduğu belli değil  #SokağaSakınÇıkma", "url": "/Alev_rheyma/status/754058586838491136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:02:31", "is_reply": false, "is_retweet": false, "user_id": "4843188568"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hlylcn", "ID": "754073964465442816", "text": "# sokağaçıkma   https:// twitter.com/MrsDusHekimi/s tatus/754073848484622337   …", "url": "/hlylcn/status/754073964465442816", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:03:37", "is_reply": false, "is_retweet": false, "user_id": "156655329"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "nagihansaka", "ID": "754080910392201217", "text": "# SokağaSakınÇıkma  evin dibine kadar bomba geliyor.. :(((", "url": "/nagihansaka/status/754080910392201217", "nbr_retweet": 2, "nbr_favorite": 4, "nbr_reply": 3, "datetime": "2016-07-16 01:31:13", "is_reply": false, "is_retweet": false, "user_id": "95043191"}

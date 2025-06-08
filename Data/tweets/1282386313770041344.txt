@@ -1,0 +1,1 @@
+{"usernameTweet": "filipcocu4", "ID": "1282386313770041344", "text": "lan dayı istedigi kadar topa vursun kontrolsüz  darbe  var kalcasıyla bir siki bilmeden konusuyorsun", "url": "/filipcocu4/status/1282386313770041344", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-12 21:48:17", "is_reply": true, "is_retweet": false, "user_id": "1010310649010950147"}

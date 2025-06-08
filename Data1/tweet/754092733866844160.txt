@@ -1,0 +1,1 @@
+{"usernameTweet": "soldevrimm", "ID": "754092733866844160", "text": "Allah'ın evlerinden sokağa çıkın diye sesler Yükseliyor  #SokağaSakınÇıkma", "url": "/soldevrimm/status/754092733866844160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:12", "is_reply": false, "is_retweet": false, "user_id": "3315773224"}

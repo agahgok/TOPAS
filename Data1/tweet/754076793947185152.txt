@@ -1,0 +1,1 @@
+{"usernameTweet": "zuleyha_ayd", "ID": "754076793947185152", "text": "# SokağaSakınÇıkma  bu hengamede ne olacağı belli olmaz.Allah yardımcımız olsun.", "url": "/zuleyha_ayd/status/754076793947185152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:52", "is_reply": false, "is_retweet": false, "user_id": "2598390245"}

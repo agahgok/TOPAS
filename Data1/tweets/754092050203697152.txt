@@ -1,0 +1,1 @@
+{"usernameTweet": "mesudemine", "ID": "754092050203697152", "text": "Ülken yıkıldı Ata'm burda askerine karşı sokağa çıkıyorlar #SokağaSakınÇıkma", "url": "/mesudemine/status/754092050203697152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:29", "is_reply": false, "is_retweet": false, "user_id": "2512504271"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "medenionur", "ID": "754072458328670208", "text": "# SokağaSakınÇıkma  #ÇakmaDarbe  dua dua https:// twitter.com/yagizefe/statu s/754066644192952322   …", "url": "/medenionur/status/754072458328670208", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:38", "is_reply": false, "is_retweet": false, "user_id": "2397877890"}

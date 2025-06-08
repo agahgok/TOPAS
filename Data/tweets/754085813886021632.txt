@@ -1,0 +1,1 @@
+{"usernameTweet": "alikaplantr", "ID": "754085813886021632", "text": "Polis sokakta  #SokağaSakınÇıkma", "url": "/alikaplantr/status/754085813886021632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:42", "is_reply": false, "is_retweet": false, "user_id": "213045585"}

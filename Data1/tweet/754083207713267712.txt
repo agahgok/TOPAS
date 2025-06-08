@@ -1,0 +1,1 @@
+{"usernameTweet": "elfleg0las", "ID": "754083207713267712", "text": "Lütfen #SokağaSakınÇıkma  tsk vur emri almışsa sivil falan dinlemez sıkar ve sıkıyorda", "url": "/elfleg0las/status/754083207713267712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:21", "is_reply": false, "is_retweet": false, "user_id": "2556129487"}

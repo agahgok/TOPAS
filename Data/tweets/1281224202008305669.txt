@@ -1,0 +1,1 @@
+{"usernameTweet": "nuunaxui", "ID": "1281224202008305669", "text": "pisau kasiaka  darbe  ir uzmirsau, kad", "url": "/nuunaxui/status/1281224202008305669", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-09 16:50:28", "is_reply": false, "is_retweet": false, "user_id": "1275724402475307008"}

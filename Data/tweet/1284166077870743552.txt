@@ -1,0 +1,1 @@
+{"usernameTweet": "sevingil_aleyna", "ID": "1284166077870743552", "text": "AADSA", "url": "/sevingil_aleyna/status/1284166077870743552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-17 19:40:26", "is_reply": true, "is_retweet": false, "user_id": "1274397884016988160"}

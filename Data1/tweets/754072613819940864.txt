@@ -1,0 +1,1 @@
+{"usernameTweet": "onrtran", "ID": "754072613819940864", "text": "Tam olarak hangi demokrasi icin sokaga cıkılması gerekiyo ??? #sokagacikma", "url": "/onrtran/status/754072613819940864", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:15", "is_reply": false, "is_retweet": false, "user_id": "87197849"}

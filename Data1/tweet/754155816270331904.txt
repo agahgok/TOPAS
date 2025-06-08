@@ -1,0 +1,1 @@
+{"usernameTweet": "DenizUnlu86", "ID": "754155816270331904", "text": "CB koyunlara sesleniyor.\n#DarbeDeğilTiyatro   #SokağaSakınÇıkma", "url": "/DenizUnlu86/status/754155816270331904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 06:28:52", "is_reply": false, "is_retweet": false, "user_id": "2841642437"}

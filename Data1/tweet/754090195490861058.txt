@@ -1,0 +1,1 @@
+{"usernameTweet": "gcy1903", "ID": "754090195490861058", "text": "100 yıl geriye gitmedik evet ama vurulduk,ezildik,itildik,tarumar edildik kimsesiz bırakıldık! #SokağaSakınÇıkma", "url": "/gcy1903/status/754090195490861058", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:08:07", "is_reply": false, "is_retweet": false, "user_id": "195462377"}

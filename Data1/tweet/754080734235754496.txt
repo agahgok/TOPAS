@@ -1,0 +1,1 @@
+{"usernameTweet": "VedatErsari", "ID": "754080734235754496", "text": "Milleti sadece oyuna getirmek istiyorlar lütfen  #SokağaSakınÇıkma", "url": "/VedatErsari/status/754080734235754496", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:30:31", "is_reply": false, "is_retweet": false, "user_id": "719766103296253952"}

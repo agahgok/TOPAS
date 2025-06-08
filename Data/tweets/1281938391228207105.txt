@@ -1,0 +1,1 @@
+{"usernameTweet": "Vaveylaa_______", "ID": "1281938391228207105", "text": "Darbe  üstüne  darbe  uslanmıyor buu", "url": "/Vaveylaa_______/status/1281938391228207105", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-11 16:08:24", "is_reply": false, "is_retweet": false, "user_id": "1099328519212056582"}

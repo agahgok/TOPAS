@@ -1,0 +1,1 @@
+{"usernameTweet": "MiguelSesmaQ", "ID": "1281398673495162886", "text": "Jakakakakaka Por tu ardorssss para hablar no me habré robando el corazón de alguien cercano a ti!!!", "url": "/MiguelSesmaQ/status/1281398673495162886", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 04:23:45", "is_reply": true, "is_retweet": false, "user_id": "1198509078"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754087203442003968", "text": "Askerler Şehit Olurken Sokağa Çıkmayanlar Şimdi Sokaklarda Askere Saldırıyor.!! \n#SokağaSakınÇıkma", "url": "/ekicifaruk1/status/754087203442003968", "nbr_retweet": 8, "nbr_favorite": 6, "nbr_reply": 3, "datetime": "2016-07-16 01:56:14", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

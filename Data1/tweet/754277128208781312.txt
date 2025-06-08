@@ -1,0 +1,1 @@
+{"usernameTweet": "ResimliCiklet", "ID": "754277128208781312", "text": "# askerimedokunma  #sokağasakınçıkma   pic.twitter.com/hGCtPScIGm", "url": "/ResimliCiklet/status/754277128208781312", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 14:30:55", "is_reply": false, "is_retweet": false, "user_id": "347155465"}

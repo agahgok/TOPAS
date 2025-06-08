@@ -1,0 +1,1 @@
+{"usernameTweet": "Rmzn474", "ID": "754082677624565760", "text": "Halki sokaga cagiran erdogan sen nerdesin #SokağaSakınÇıkma", "url": "/Rmzn474/status/754082677624565760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:15", "is_reply": false, "is_retweet": false, "user_id": "1898228882"}

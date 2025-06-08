@@ -1,0 +1,1 @@
+{"usernameTweet": "sosyalistdunya", "ID": "754087302608158720", "text": "Dini siyasete sokmayın diyenler bütün imamları göreve çağırıyor #SokağaSakınÇıkma", "url": "/sosyalistdunya/status/754087302608158720", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:56:37", "is_reply": false, "is_retweet": false, "user_id": "4825309083"}

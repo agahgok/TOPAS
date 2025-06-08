@@ -1,0 +1,1 @@
+{"usernameTweet": "KesikYiyenAdam", "ID": "754083292245217280", "text": "# sokağasakınçıkma   pic.twitter.com/MTt8f72MQg", "url": "/KesikYiyenAdam/status/754083292245217280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:41", "is_reply": false, "is_retweet": false, "user_id": "752228864408117248"}

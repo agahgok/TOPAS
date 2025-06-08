@@ -1,0 +1,1 @@
+{"usernameTweet": "emrekirat33", "ID": "754079994956148739", "text": "# SokağaSakınÇıkma  kimsenin sözüne aldanma sokağa cıkma  ortada darbe flan yok  kör olma aç gözünü", "url": "/emrekirat33/status/754079994956148739", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:35", "is_reply": false, "is_retweet": false, "user_id": "451421508"}

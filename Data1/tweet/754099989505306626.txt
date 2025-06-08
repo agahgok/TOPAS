@@ -1,0 +1,1 @@
+{"usernameTweet": "duygutokmaklar", "ID": "754099989505306626", "text": "Fox'ta canli canli bombalanma izliyoruz. #darbeyehayır  #Turkey  #SokağaSakınÇıkma", "url": "/duygutokmaklar/status/754099989505306626", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:47:02", "is_reply": false, "is_retweet": false, "user_id": "2501218136"}

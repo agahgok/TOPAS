@@ -1,0 +1,1 @@
+{"usernameTweet": "ortadirek50", "ID": "754090355319078916", "text": "# SokağaSakınÇıkma", "url": "/ortadirek50/status/754090355319078916", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:08:45", "is_reply": false, "is_retweet": false, "user_id": "334287337"}

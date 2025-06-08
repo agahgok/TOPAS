@@ -1,0 +1,1 @@
+{"usernameTweet": "SEVL06", "ID": "754073320312729600", "text": "Bu oyuna gelme  #SokağaSakınÇıkma   pic.twitter.com/gGSOx3BAtX", "url": "/SEVL06/status/754073320312729600", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:01:04", "is_reply": false, "is_retweet": false, "user_id": "400345660"}

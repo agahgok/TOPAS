@@ -1,0 +1,1 @@
+{"usernameTweet": "FredWinsTaylor", "ID": "754081505283022848", "text": "# Sokağaçıkma", "url": "/FredWinsTaylor/status/754081505283022848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:35", "is_reply": false, "is_retweet": false, "user_id": "335595088"}

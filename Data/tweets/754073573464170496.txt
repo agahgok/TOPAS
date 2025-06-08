@@ -1,0 +1,1 @@
+{"usernameTweet": "sametaslan5967", "ID": "754073573464170496", "text": "# SokağaSakınÇıkma  pis darbe yandaslari disaridayiz olumune...", "url": "/sametaslan5967/status/754073573464170496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:04", "is_reply": false, "is_retweet": false, "user_id": "2909464234"}

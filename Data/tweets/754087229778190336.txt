@@ -1,0 +1,1 @@
+{"usernameTweet": "harry_tomass", "ID": "754087229778190336", "text": "# SokağaSakınÇıkma  Halk oyuncak değil, istediği gibi kullanamaz kimse kimse oyuna gelmesin", "url": "/harry_tomass/status/754087229778190336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:20", "is_reply": false, "is_retweet": false, "user_id": "4594757359"}

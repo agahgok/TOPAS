@@ -1,0 +1,1 @@
+{"usernameTweet": "sellocell", "ID": "754091289608646656", "text": "Sokaktayız sokakta #SokağaSakınÇıkma", "url": "/sellocell/status/754091289608646656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:28", "is_reply": false, "is_retweet": false, "user_id": "98678202"}

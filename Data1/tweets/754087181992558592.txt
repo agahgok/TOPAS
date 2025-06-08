@@ -1,0 +1,1 @@
+{"usernameTweet": "megalomanyakFA", "ID": "754087181992558592", "text": "Millet ne meraklı aq sokaga çıkıp benzin bitirmeye #SokağaSakınÇıkma", "url": "/megalomanyakFA/status/754087181992558592", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:56:09", "is_reply": false, "is_retweet": false, "user_id": "322552681"}

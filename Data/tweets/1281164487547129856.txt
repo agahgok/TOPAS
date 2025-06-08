@@ -1,0 +1,1 @@
+{"usernameTweet": "zeyneppyksl", "ID": "1281164487547129856", "text": "darbe  ustune  darbe  uslanmıyor bu", "url": "/zeyneppyksl/status/1281164487547129856", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-09 12:53:11", "is_reply": true, "is_retweet": false, "user_id": "1202995338711306241"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bekir_aktay", "ID": "754081501789184002", "text": "# SokağaSakınÇıkma  SOKAKTAYIZ ULAAAANN.  pic.twitter.com/fq1OEKvDgN", "url": "/bekir_aktay/status/754081501789184002", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:34", "is_reply": false, "is_retweet": false, "user_id": "703107553"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "turkceci06", "ID": "754095190038745089", "text": "# SokağaSakınÇıkma  BU TYYP DENEN HOKKABAZIN ISI BASKASI BU SACMA VE HAINCE OYUNU YAPAMAZ", "url": "/turkceci06/status/754095190038745089", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:58", "is_reply": false, "is_retweet": false, "user_id": "2203695542"}

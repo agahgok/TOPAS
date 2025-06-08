@@ -1,0 +1,1 @@
+{"usernameTweet": "tezcanzgen", "ID": "754093143411331072", "text": "Başkanlık garanti korkma titre #SokağaSakınÇıkma", "url": "/tezcanzgen/status/754093143411331072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:50", "is_reply": false, "is_retweet": false, "user_id": "544370413"}

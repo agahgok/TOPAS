@@ -1,0 +1,1 @@
+{"usernameTweet": "yunusumit13", "ID": "754083825609805824", "text": "Bu ulkeye darbe yapamayacaksiniz #SokağaSakınÇıkma", "url": "/yunusumit13/status/754083825609805824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:48", "is_reply": false, "is_retweet": false, "user_id": "211857754"}

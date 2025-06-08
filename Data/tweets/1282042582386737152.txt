@@ -1,0 +1,1 @@
+{"usernameTweet": "aycamayikikolan", "ID": "1282042582386737152", "text": "Evettr xncmdnxnd 14 temmuz bmyfc  darbe  girisimi yapacak ona yonelik xncbndbx", "url": "/aycamayikikolan/status/1282042582386737152", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 23:02:25", "is_reply": true, "is_retweet": false, "user_id": "1231160469207031808"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_Escroc_", "ID": "754099957125222401", "text": "Gerçek ya da tiyatro...Her ikisinin de sonu felaket!  #SokağaSakınÇıkma", "url": "/_Escroc_/status/754099957125222401", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:46:54", "is_reply": false, "is_retweet": false, "user_id": "238283991"}

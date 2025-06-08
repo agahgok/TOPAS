@@ -1,0 +1,1 @@
+{"usernameTweet": "emrkrsy", "ID": "1281852610924904449", "text": "Tsk'ya doldurduklarınız birkaç sene önce  darbe  yapmaya kalkmadı mı zaten?", "url": "/emrkrsy/status/1281852610924904449", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-11 10:27:32", "is_reply": true, "is_retweet": false, "user_id": "750856922"}

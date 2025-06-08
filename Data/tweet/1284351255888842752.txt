@@ -1,0 +1,1 @@
+{"usernameTweet": "bebe_dabe", "ID": "1284351255888842752", "text": "午前中は鬼滅のアニメを流しながら原稿するぞー！と思ってたんだけど、ただ鬼滅のアニメを見返しただけて終わりました。", "url": "/bebe_dabe/status/1284351255888842752", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-18 07:56:16", "is_reply": false, "is_retweet": false, "user_id": "1709132550"}

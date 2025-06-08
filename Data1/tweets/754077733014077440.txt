@@ -1,0 +1,1 @@
+{"usernameTweet": "haatayan", "ID": "754077733014077440", "text": "Batman'dan milli iradeye selam #SokağaSakınÇıkma   pic.twitter.com/xh8moWlFob", "url": "/haatayan/status/754077733014077440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:36", "is_reply": false, "is_retweet": false, "user_id": "325206611"}

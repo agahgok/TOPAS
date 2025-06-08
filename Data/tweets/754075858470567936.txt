@@ -1,0 +1,1 @@
+{"usernameTweet": "samirabeyrut", "ID": "754075858470567936", "text": "# SokağaSakınÇıkma  diyorum.", "url": "/samirabeyrut/status/754075858470567936", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:11:09", "is_reply": false, "is_retweet": false, "user_id": "3314998918"}

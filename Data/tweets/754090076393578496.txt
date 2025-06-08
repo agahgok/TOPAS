@@ -1,0 +1,1 @@
+{"usernameTweet": "denizimsi14", "ID": "754090076393578496", "text": "Ezan namaza çağrıdır. Sokağa eyleme değil ! #SokağaSakınÇıkma", "url": "/denizimsi14/status/754090076393578496", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:07:39", "is_reply": false, "is_retweet": false, "user_id": "733341114258870273"}

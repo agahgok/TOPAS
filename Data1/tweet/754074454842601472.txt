@@ -1,0 +1,1 @@
+{"usernameTweet": "burukbbb", "ID": "754074454842601472", "text": "Osman dişlek gökçek beyaztvde sokağa destek istiyor kim hırsızsa onlar sokağa #SokağaSakınÇıkma", "url": "/burukbbb/status/754074454842601472", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:34", "is_reply": false, "is_retweet": false, "user_id": "4248631611"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Marjinaller", "ID": "754082788714831872", "text": "# SokağaSakınÇıkma  bırakın ne hallerı varsa görsünler", "url": "/Marjinaller/status/754082788714831872", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:38:41", "is_reply": false, "is_retweet": false, "user_id": "1073232846"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sunadonmez07", "ID": "754090770961956869", "text": "Bu nasil darbe, tezgah kokuyor #SokağaSakınÇıkma", "url": "/sunadonmez07/status/754090770961956869", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:24", "is_reply": false, "is_retweet": false, "user_id": "1938875360"}

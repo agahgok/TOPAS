@@ -1,0 +1,1 @@
+{"usernameTweet": "Ayla134021211", "ID": "754058623718985728", "text": "# sokagacikma", "url": "/Ayla134021211/status/754058623718985728", "nbr_retweet": 3, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:02:40", "is_reply": false, "is_retweet": false, "user_id": "750399321661665280"}

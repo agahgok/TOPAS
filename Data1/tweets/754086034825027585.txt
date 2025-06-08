@@ -1,0 +1,1 @@
+{"usernameTweet": "gonlumcocuk", "ID": "754086034825027585", "text": "# SokağaSakınÇıkma  diyen mallar. ezanuma, selama laf eden Yahudiler. siktirin gidin.", "url": "/gonlumcocuk/status/754086034825027585", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:35", "is_reply": false, "is_retweet": false, "user_id": "980973842"}

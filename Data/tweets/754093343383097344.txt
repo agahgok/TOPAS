@@ -1,0 +1,1 @@
+{"usernameTweet": "OrcunGulce", "ID": "754093343383097344", "text": "# SokağaSakınÇıkma  ben çıktım. İzmir selçukta herkes evde tv izliyo. Güzel pokemonlar bekliyorum.", "url": "/OrcunGulce/status/754093343383097344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:20:38", "is_reply": false, "is_retweet": false, "user_id": "525450472"}

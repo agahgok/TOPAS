@@ -1,0 +1,1 @@
+{"usernameTweet": "dipppcik", "ID": "754091071269904384", "text": "Dini sömürüp selalar okutanların gazına, oyununa gelme! #SokağaSakınÇıkma  Türkiye", "url": "/dipppcik/status/754091071269904384", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 02:11:36", "is_reply": false, "is_retweet": false, "user_id": "522475565"}

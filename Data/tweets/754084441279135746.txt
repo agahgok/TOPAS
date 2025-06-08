@@ -1,0 +1,1 @@
+{"usernameTweet": "eisenfaust27", "ID": "754084441279135746", "text": "Cikmayan SEREFSIZDIR !!! #SokağaSakınÇıkma", "url": "/eisenfaust27/status/754084441279135746", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:15", "is_reply": false, "is_retweet": false, "user_id": "738413176656699392"}

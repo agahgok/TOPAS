@@ -1,0 +1,1 @@
+{"usernameTweet": "hereforchampion", "ID": "1282017323105296385", "text": "amina koyayim  darbe  geliyosa dus yere senin gibi sembolun evveliyatini sikeyim", "url": "/hereforchampion/status/1282017323105296385", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-11 21:22:03", "is_reply": false, "is_retweet": false, "user_id": "1260597482339385344"}

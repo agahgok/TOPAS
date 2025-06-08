@@ -1,0 +1,1 @@
+{"usernameTweet": "senaoztan", "ID": "754079291558596608", "text": "kimsenin canı yanmasın #sokağasakınçıkma", "url": "/senaoztan/status/754079291558596608", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:24:47", "is_reply": false, "is_retweet": false, "user_id": "374097725"}

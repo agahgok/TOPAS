@@ -1,0 +1,1 @@
+{"usernameTweet": "edacyhan", "ID": "754086909224349701", "text": "Devlete millet sahip çıkıyor. Tam tersi olması gerekmiyormuydu?   #SokağaSakınÇıkma  #SONDAKİKA", "url": "/edacyhan/status/754086909224349701", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:55:04", "is_reply": false, "is_retweet": false, "user_id": "285797483"}

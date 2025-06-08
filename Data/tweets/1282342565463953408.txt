@@ -1,0 +1,1 @@
+{"usernameTweet": "fatihakc3", "ID": "1282342565463953408", "text": "Ya nevşin ne dediğini biliyor mu kızcağız  darbe  üstüne  darbe  yiyor bırakın bu garibi bulaşmayın... ", "url": "/fatihakc3/status/1282342565463953408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 18:54:27", "is_reply": true, "is_retweet": false, "user_id": "2182687129"}

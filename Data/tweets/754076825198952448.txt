@@ -1,0 +1,1 @@
+{"usernameTweet": "ciwanmir", "ID": "754076825198952448", "text": "# SokağaSakınÇıkma  Hani sokağa çıkanlar terörist, çapulcu, vatan hainiydi?", "url": "/ciwanmir/status/754076825198952448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:14:59", "is_reply": false, "is_retweet": false, "user_id": "736886897444814848"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "simaaydursun", "ID": "1282303595585642497", "text": "babam evde emircan iğrek- darbe  dinliyo...nerenin kralısın serkandursun<3", "url": "/simaaydursun/status/1282303595585642497", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-12 16:19:35", "is_reply": false, "is_retweet": false, "user_id": "1005434367055925248"}

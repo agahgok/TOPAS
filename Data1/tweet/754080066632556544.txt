@@ -1,0 +1,1 @@
+{"usernameTweet": "Malum_Pasa", "ID": "754080066632556544", "text": "Ülke öldü! Bu vakitte okunan ezanların başka bir açıklaması yok! #SokağaSakınÇıkma  #oyunagelme", "url": "/Malum_Pasa/status/754080066632556544", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:27:52", "is_reply": false, "is_retweet": false, "user_id": "3238852877"}

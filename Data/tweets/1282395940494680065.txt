@@ -1,0 +1,1 @@
+{"usernameTweet": "Goodfella_Melih", "ID": "1282395940494680065", "text": "Was geht grad kn der türkei ab. Höre irgendwas mit  darbe  und lese es", "url": "/Goodfella_Melih/status/1282395940494680065", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 4, "datetime": "2020-07-12 22:26:32", "is_reply": false, "is_retweet": false, "user_id": "4604490977"}

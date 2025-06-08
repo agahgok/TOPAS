@@ -1,0 +1,1 @@
+{"usernameTweet": "Didi__Nana", "ID": "754072114056032256", "text": "# SokağaSakınÇıkma", "url": "/Didi__Nana/status/754072114056032256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:16", "is_reply": false, "is_retweet": false, "user_id": "592656183"}

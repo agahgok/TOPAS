@@ -1,0 +1,1 @@
+{"usernameTweet": "metealtindas", "ID": "754067557083148289", "text": "# SokağaSakınÇıkma", "url": "/metealtindas/status/754067557083148289", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:38:10", "is_reply": false, "is_retweet": false, "user_id": "145174037"}

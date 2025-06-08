@@ -1,0 +1,1 @@
+{"usernameTweet": "ikincibaski", "ID": "754194226649427969", "text": "bu da sabah gelen mesaj, burada dursun... #SokagaSakinCikma     pic.twitter.com/XQFyD6nZcI", "url": "/ikincibaski/status/754194226649427969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 09:01:30", "is_reply": false, "is_retweet": false, "user_id": "219045491"}

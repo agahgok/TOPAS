@@ -1,0 +1,1 @@
+{"usernameTweet": "zelis815", "ID": "754073556993056769", "text": "# SokağaSakınÇıkma  Asker!\nSokaktaki askerler terörist kabul edilecektir!", "url": "/zelis815/status/754073556993056769", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:00", "is_reply": false, "is_retweet": false, "user_id": "3032325969"}

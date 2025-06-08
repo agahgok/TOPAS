@@ -1,0 +1,1 @@
+{"usernameTweet": "muhammetozdem78", "ID": "1284400187302121472", "text": "Seçimle değilde  darbe  ile gelen sisi sen bahsediyorsunuz demi ", "url": "/muhammetozdem78/status/1284400187302121472", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 11:10:42", "is_reply": true, "is_retweet": false, "user_id": "377788057"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hulyaruveyda", "ID": "754088262789107712", "text": "# SokağaSakınÇıkma  Ordu bizim, asker bizim, polis bizim canımız, kanımız.", "url": "/hulyaruveyda/status/754088262789107712", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:00:26", "is_reply": false, "is_retweet": false, "user_id": "116810250"}

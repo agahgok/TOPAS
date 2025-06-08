@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafa_orzan35", "ID": "754084954078838785", "text": "Ve başkanlık sistemi %60 ın üzerinde bir oyla hayırlı olsun.\n#SokagaSakınCıkma  #DarbeyeHayır", "url": "/mustafa_orzan35/status/754084954078838785", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:17", "is_reply": false, "is_retweet": false, "user_id": "4082874377"}

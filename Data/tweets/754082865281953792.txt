@@ -1,0 +1,1 @@
+{"usernameTweet": "elif_yilmaz", "ID": "754082865281953792", "text": "# SokağaSakınÇıkma  gece 1.45 sela okunuyor galeyana gelmeyin desekte bu olmaz", "url": "/elif_yilmaz/status/754082865281953792", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:38:59", "is_reply": false, "is_retweet": false, "user_id": "112566550"}

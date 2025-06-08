@@ -1,0 +1,1 @@
+{"usernameTweet": "AylinAtc8", "ID": "1284351947722629120", "text": "Öldürmeyen her  darbe  güç verir bana", "url": "/AylinAtc8/status/1284351947722629120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 07:59:01", "is_reply": false, "is_retweet": false, "user_id": "1283158165304025088"}

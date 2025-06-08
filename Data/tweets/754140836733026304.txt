@@ -1,0 +1,1 @@
+{"usernameTweet": "ehli_tahkikanne", "ID": "754140836733026304", "text": "# SokağaSakınÇıkma   diyenler DARBECİLERİN ta kendisidir.\nSokağa çık DARBEYE DUR DE !..", "url": "/ehli_tahkikanne/status/754140836733026304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:29:21", "is_reply": false, "is_retweet": false, "user_id": "100444302"}

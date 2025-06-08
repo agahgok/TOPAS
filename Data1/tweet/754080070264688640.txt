@@ -1,0 +1,1 @@
+{"usernameTweet": "Zeyy3458", "ID": "754080070264688640", "text": "# SokağaSakınÇıkma  bu tagı açan orospu çocukları için geçerlidir.gerçekten çıkmayın.ananızı sikeceez", "url": "/Zeyy3458/status/754080070264688640", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:53", "is_reply": false, "is_retweet": false, "user_id": "2371143130"}

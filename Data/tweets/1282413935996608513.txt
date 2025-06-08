@@ -1,0 +1,1 @@
+{"usernameTweet": "zynp_sena", "ID": "1282413935996608513", "text": "Son  darbe  Allahtan. Hesap günü geldi hadi bakalım ", "url": "/zynp_sena/status/1282413935996608513", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:38:03", "is_reply": true, "is_retweet": false, "user_id": "2303118314"}

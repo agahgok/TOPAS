@@ -1,0 +1,1 @@
+{"usernameTweet": "hemrekrblt", "ID": "754082038018441216", "text": "oku hocam oku bu gece selayı ölmüş beyinler için oku #SokağaSakınÇıkma", "url": "/hemrekrblt/status/754082038018441216", "nbr_retweet": 2, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2016-07-16 01:35:42", "is_reply": false, "is_retweet": false, "user_id": "1940926968"}

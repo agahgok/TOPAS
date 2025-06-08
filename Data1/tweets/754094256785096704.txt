@@ -1,0 +1,1 @@
+{"usernameTweet": "aboutcyra", "ID": "754094256785096704", "text": "bakkala gidip su alamıyoz herif sokağa çağrıyo #SokağaSakınÇıkma", "url": "/aboutcyra/status/754094256785096704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:15", "is_reply": false, "is_retweet": false, "user_id": "127205085"}

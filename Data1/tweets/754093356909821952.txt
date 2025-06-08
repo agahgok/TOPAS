@@ -1,0 +1,1 @@
+{"usernameTweet": "gokalposman", "ID": "754093356909821952", "text": "Sokağa değil meydana çıktık Aksaray meydan  #SokağaSakınÇıkma   pic.twitter.com/jXXiNHI47v", "url": "/gokalposman/status/754093356909821952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:41", "is_reply": false, "is_retweet": false, "user_id": "114381891"}

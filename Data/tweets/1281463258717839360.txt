@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1281463258717839360", "text": "Maestro, quien integró la carpeta fue la otrora PGR, pero además, el exgobernador de Veracruz fue condenado.", "url": "/Darbe_LM/status/1281463258717839360", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 08:40:23", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

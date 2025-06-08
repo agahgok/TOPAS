@@ -1,0 +1,1 @@
+{"usernameTweet": "___Celebi___", "ID": "754085161743028224", "text": "# SokağaSakınÇıkma \nŞuan havalimani temiz taksime gidiyoruz...", "url": "/___Celebi___/status/754085161743028224", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:07", "is_reply": false, "is_retweet": false, "user_id": "728616786736852992"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "dabe_e", "ID": "1284344768764317697", "text": "서천@모그리 접속 중입니다! 친추 편하게 주세요!!", "url": "/dabe_e/status/1284344768764317697", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 07:30:29", "is_reply": false, "is_retweet": false, "user_id": "1155400677176168449"}

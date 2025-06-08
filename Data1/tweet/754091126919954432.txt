@@ -1,0 +1,1 @@
+{"usernameTweet": "MertcanCakal", "ID": "754091126919954432", "text": "Beline silah alan sokağa çıkıyor ortalıkta dengesiz çok önlem için  #SokağaSakınÇıkma", "url": "/MertcanCakal/status/754091126919954432", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:11:49", "is_reply": false, "is_retweet": false, "user_id": "596352073"}

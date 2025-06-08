@@ -1,0 +1,1 @@
+{"usernameTweet": "sivereklihem", "ID": "1281704225458847744", "text": "Darbe  mi olmuş ?", "url": "/sivereklihem/status/1281704225458847744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 00:37:54", "is_reply": true, "is_retweet": false, "user_id": "1239881732188495872"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tanerkaradeni74", "ID": "754074713413062656", "text": "# SokağaSakınÇıkma  MEMLEKET ELDEN GIDIYORMU????NE OLUYOR SOKAKLARDA????", "url": "/tanerkaradeni74/status/754074713413062656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:36", "is_reply": false, "is_retweet": false, "user_id": "4026408351"}

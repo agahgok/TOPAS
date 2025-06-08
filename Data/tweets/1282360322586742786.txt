@@ -1,0 +1,1 @@
+{"usernameTweet": "BerrakSahife", "ID": "1282360322586742786", "text": "Olduk zaten. Selçuk son  darbe .", "url": "/BerrakSahife/status/1282360322586742786", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 20:05:00", "is_reply": true, "is_retweet": false, "user_id": "739898328285085698"}

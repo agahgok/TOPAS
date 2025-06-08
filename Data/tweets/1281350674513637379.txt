@@ -1,0 +1,1 @@
+{"usernameTweet": "urfalizyno", "ID": "1281350674513637379", "text": "Bu nasil  darbe ?  https:// twitter.com/emircanigrek/s tatus/1273325083768037376   …", "url": "/urfalizyno/status/1281350674513637379", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 01:13:01", "is_reply": false, "is_retweet": false, "user_id": "1271603524028293130"}

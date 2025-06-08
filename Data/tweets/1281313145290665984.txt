@@ -1,0 +1,1 @@
+{"usernameTweet": "vkonak", "ID": "1281313145290665984", "text": "Ne kadar uzun okundu ya.  Darbe  mi oldu diye dışarı baktım.", "url": "/vkonak/status/1281313145290665984", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 22:43:54", "is_reply": false, "is_retweet": false, "user_id": "144120095"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "diegomaritimo", "ID": "1282680701012279296", "text": "No compadre jajaja precisamente por eso estamos debatiendo yo con datos duros , tu con evasivas !!", "url": "/diegomaritimo/status/1282680701012279296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 17:18:04", "is_reply": true, "is_retweet": false, "user_id": "572169712"}

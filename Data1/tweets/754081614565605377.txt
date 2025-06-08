@@ -1,0 +1,1 @@
+{"usernameTweet": "SekkoTuba", "ID": "754081614565605377", "text": "Dünya lideriniz canlı yayına bi odadan telefon ekranında bağlanıyor... #SokağaSakınÇıkma", "url": "/SekkoTuba/status/754081614565605377", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:01", "is_reply": false, "is_retweet": false, "user_id": "2706458769"}

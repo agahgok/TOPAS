@@ -1,0 +1,1 @@
+{"usernameTweet": "06emosh61", "ID": "754071642578554884", "text": "# SokağaSakınÇıkma   https:// twitter.com/06emosh61/stat us/754057233709793282   …", "url": "/06emosh61/status/754071642578554884", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:24", "is_reply": false, "is_retweet": false, "user_id": "98040771"}

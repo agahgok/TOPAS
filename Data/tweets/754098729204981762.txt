@@ -1,0 +1,1 @@
+{"usernameTweet": "oguzyazarr", "ID": "754098729204981762", "text": "Evlerinizde oturun büyük oyun oynanıyor #SokağaSakınÇıkma", "url": "/oguzyazarr/status/754098729204981762", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:42:02", "is_reply": false, "is_retweet": false, "user_id": "522448874"}

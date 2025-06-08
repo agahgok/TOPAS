@@ -1,0 +1,1 @@
+{"usernameTweet": "ozsaygi", "ID": "754083943872356353", "text": "Yatsı için geç, sabah için erken... Ezan neyin nesi?????#SokağaSakınÇıkma  #istanbul  #darbeyehayır  @ayagakalktaksim", "url": "/ozsaygi/status/754083943872356353", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:43:17", "is_reply": false, "is_retweet": false, "user_id": "297001116"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "10Fleurquin", "ID": "1282223046644961281", "text": "kuymak yapamayan her kız, TRT'de  darbe  bildirisi okunurken alkışa başlamıştır.", "url": "/10Fleurquin/status/1282223046644961281", "nbr_retweet": 1, "nbr_favorite": 28, "nbr_reply": 0, "datetime": "2020-07-12 10:59:31", "is_reply": false, "is_retweet": false, "user_id": "928639838504521734"}

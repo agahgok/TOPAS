@@ -1,0 +1,1 @@
+{"usernameTweet": "OsmanDLEK15", "ID": "1282442314942689281", "text": "Iki bayram arası  darbe  diyen nurcular sanırım şuan 15 Temmuz idi duyerek bayram ediyorlar", "url": "/OsmanDLEK15/status/1282442314942689281", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 01:30:49", "is_reply": true, "is_retweet": false, "user_id": "1215735244663468032"}

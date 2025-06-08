@@ -1,0 +1,1 @@
+{"usernameTweet": "MimozaMood", "ID": "1284388921670074368", "text": "Röportaj mı?  Darbe   darbe   darbe  darbee darbeleniyoorr  pic.twitter.com/bM3QsMF4Jd", "url": "/MimozaMood/status/1284388921670074368", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-18 10:25:56", "is_reply": false, "is_retweet": false, "user_id": "1186517454262034434"}

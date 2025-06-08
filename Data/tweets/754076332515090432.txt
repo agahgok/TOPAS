@@ -1,0 +1,1 @@
+{"usernameTweet": "guleryuzemre", "ID": "754076332515090432", "text": "Oyun içinde oyun karşımıza ne çıkacak bilmiyoruz kimse oyuna gelmesin ! #SokağaSakınÇıkma", "url": "/guleryuzemre/status/754076332515090432", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:13:02", "is_reply": false, "is_retweet": false, "user_id": "221571162"}

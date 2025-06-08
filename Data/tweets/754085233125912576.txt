@@ -1,0 +1,1 @@
+{"usernameTweet": "_golge_adam", "ID": "754085233125912576", "text": "# SokağaSakınÇıkma  demokrasinin AMK'lar şimdide demokrasi için meydanlara inme çağrısı yapıyorlar...", "url": "/_golge_adam/status/754085233125912576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:24", "is_reply": false, "is_retweet": false, "user_id": "2858686930"}

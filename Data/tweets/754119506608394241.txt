@@ -1,0 +1,1 @@
+{"usernameTweet": "aydasenlikvar", "ID": "754119506608394241", "text": "Sokağa çıkıp ölenleri de 'şehit' diye pazarlar kesin ya şeref yoksunu. #SokağaSakınÇıkma", "url": "/aydasenlikvar/status/754119506608394241", "nbr_retweet": 2, "nbr_favorite": 8, "nbr_reply": 1, "datetime": "2016-07-16 04:04:35", "is_reply": false, "is_retweet": false, "user_id": "258763197"}

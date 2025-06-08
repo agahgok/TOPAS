@@ -1,0 +1,1 @@
+{"usernameTweet": "Aallpiii", "ID": "1281303753228984321", "text": "Darbe  gördüm, savaş gördüm, kriz gördüm virüs gördüm. Bi gün yüzü göremedik anasını satayım", "url": "/Aallpiii/status/1281303753228984321", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-09 22:06:34", "is_reply": false, "is_retweet": false, "user_id": "3206729625"}

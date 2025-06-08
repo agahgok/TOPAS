@@ -1,0 +1,1 @@
+{"usernameTweet": "blackcoopercat", "ID": "1281274951430004738", "text": "kafamıza biraz  darbe  aldık ama sıkıntı yok karsim biz ne darbeler aldık fldkdöıfmdıd", "url": "/blackcoopercat/status/1281274951430004738", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 20:12:08", "is_reply": true, "is_retweet": false, "user_id": "2695147023"}

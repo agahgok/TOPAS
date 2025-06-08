@@ -1,0 +1,1 @@
+{"usernameTweet": "surburak", "ID": "754081870850232324", "text": "Bu neyin selası? #sakarya  #ankara  #serdivan  #sokağasakınçıkma", "url": "/surburak/status/754081870850232324", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:02", "is_reply": false, "is_retweet": false, "user_id": "453029026"}

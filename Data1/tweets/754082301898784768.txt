@@ -1,0 +1,1 @@
+{"usernameTweet": "erselgunduz", "ID": "754082301898784768", "text": "Ezan okutulup insanları din silahlarıyla kullanıyorlar gaza gelmeyin #sokagacikma", "url": "/erselgunduz/status/754082301898784768", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:36:45", "is_reply": false, "is_retweet": false, "user_id": "109275095"}

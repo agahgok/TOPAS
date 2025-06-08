@@ -1,0 +1,1 @@
+{"usernameTweet": "itsmadelainee", "ID": "1282411591342981120", "text": "Ersini lincleyenlere başka bi  darbe  olmuş bu KDBAFEJCKABFWJCJW", "url": "/itsmadelainee/status/1282411591342981120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:28:44", "is_reply": true, "is_retweet": false, "user_id": "1251982913199104002"}

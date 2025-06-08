@@ -1,0 +1,1 @@
+{"usernameTweet": "chansudmn", "ID": "754083168542662657", "text": "Neyse ileride çocuklarıma derim anneniz ne sokaga çıkma yasakları ne darbeler gördü #SokağaSakınÇıkma", "url": "/chansudmn/status/754083168542662657", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:40:12", "is_reply": false, "is_retweet": false, "user_id": "260390790"}

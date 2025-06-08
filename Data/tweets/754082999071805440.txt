@@ -1,0 +1,1 @@
+{"usernameTweet": "PinkiGK", "ID": "754082999071805440", "text": "# SokağaSakınÇıkma", "url": "/PinkiGK/status/754082999071805440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:31", "is_reply": false, "is_retweet": false, "user_id": "4865276505"}

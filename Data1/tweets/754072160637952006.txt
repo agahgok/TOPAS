@@ -1,0 +1,1 @@
+{"usernameTweet": "yigit_tasp", "ID": "754072160637952006", "text": "# SokağaSakınÇıkma  milletim...", "url": "/yigit_tasp/status/754072160637952006", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:56:27", "is_reply": false, "is_retweet": false, "user_id": "3695122997"}

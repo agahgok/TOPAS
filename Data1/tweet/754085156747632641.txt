@@ -1,0 +1,1 @@
+{"usernameTweet": "ckaracah", "ID": "754085156747632641", "text": "# SokağaSakınÇıkma  Ulan ülke elden gidiyo sokağa çıkma diyorsunuz.Bosuna direniyorsunuz !", "url": "/ckaracah/status/754085156747632641", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:06", "is_reply": false, "is_retweet": false, "user_id": "617194921"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ProfBielsa", "ID": "754080986904887296", "text": "PKK SOKAĞA ÇIKIYOR , ÖLÜRSEN ŞEHİT OLMAZSIN. AKILLI OL !  #SokağaSakınÇıkma", "url": "/ProfBielsa/status/754080986904887296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:32", "is_reply": false, "is_retweet": false, "user_id": "719549811100381184"}

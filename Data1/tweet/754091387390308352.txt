@@ -1,0 +1,1 @@
+{"usernameTweet": "ilhankaradavut1", "ID": "754091387390308352", "text": "# SokağaSakınÇıkma  Seni sokağa çağıranlar Fransa dan iltica talebinde bulundu.", "url": "/ilhankaradavut1/status/754091387390308352", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:51", "is_reply": false, "is_retweet": false, "user_id": "412262423"}

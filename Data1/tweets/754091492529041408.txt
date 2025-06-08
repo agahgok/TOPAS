@@ -1,0 +1,1 @@
+{"usernameTweet": "dr_vedaterdem", "ID": "754091492529041408", "text": "# SokağaSakınÇıkma  sokakta sapıklar var satılmış imamlar var yetkili değiliz neden askere karşı çıkalım", "url": "/dr_vedaterdem/status/754091492529041408", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:13:16", "is_reply": false, "is_retweet": false, "user_id": "4625536823"}

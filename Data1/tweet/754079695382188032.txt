@@ -1,0 +1,1 @@
+{"usernameTweet": "okiguner", "ID": "754079695382188032", "text": "Israil basinindan an itibari ile.. #SokağaSakınÇıkma   pic.twitter.com/vFAY5wu0BI", "url": "/okiguner/status/754079695382188032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:24", "is_reply": false, "is_retweet": false, "user_id": "94770387"}

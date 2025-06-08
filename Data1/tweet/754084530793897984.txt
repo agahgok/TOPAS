@@ -1,0 +1,1 @@
+{"usernameTweet": "SefilProletarya", "ID": "754084530793897984", "text": "Ülkemizde bu kadar terör olayları varken sokağa çıkmak iç savaşa teşviktir. #SokağaSakınÇıkma", "url": "/SefilProletarya/status/754084530793897984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:45:37", "is_reply": false, "is_retweet": false, "user_id": "107362974"}

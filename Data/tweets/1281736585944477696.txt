@@ -1,0 +1,1 @@
+{"usernameTweet": "busragngr56", "ID": "1281736585944477696", "text": "15 temmuz  darbe  bile gördü biz daha erosu göremedik ", "url": "/busragngr56/status/1281736585944477696", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-11 02:46:30", "is_reply": false, "is_retweet": false, "user_id": "2830256437"}

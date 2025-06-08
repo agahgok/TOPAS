@@ -1,0 +1,1 @@
+{"usernameTweet": "tumblrcu_girl", "ID": "754076893356388352", "text": "# SokağaSakınÇıkma", "url": "/tumblrcu_girl/status/754076893356388352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:16", "is_reply": false, "is_retweet": false, "user_id": "3384226049"}

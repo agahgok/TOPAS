@@ -1,0 +1,1 @@
+{"usernameTweet": "KENDIGUL", "ID": "754086094233272320", "text": "# sokagasakincikma  oyuna gelme", "url": "/KENDIGUL/status/754086094233272320", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:51:49", "is_reply": false, "is_retweet": false, "user_id": "214164243"}

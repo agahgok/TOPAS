@@ -1,0 +1,1 @@
+{"usernameTweet": "zhls72", "ID": "754071676254642176", "text": "Bu belirsizlikle canını seven sokağa çıkmaz. #SokağaSakınÇıkma", "url": "/zhls72/status/754071676254642176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:32", "is_reply": false, "is_retweet": false, "user_id": "223651606"}

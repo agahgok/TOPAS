@@ -1,0 +1,1 @@
+{"usernameTweet": "aytlkanat1", "ID": "754087488700948480", "text": "Bu saatte okunan ezandan sonra anons geliyo; sokaklara inin diye\n#SokağaSakınÇıkma", "url": "/aytlkanat1/status/754087488700948480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:22", "is_reply": false, "is_retweet": false, "user_id": "2563476451"}

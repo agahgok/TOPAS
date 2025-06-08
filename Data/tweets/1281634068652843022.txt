@@ -1,0 +1,1 @@
+{"usernameTweet": "Yasin03470643", "ID": "1281634068652843022", "text": "Bi  darbe  sarsa bilir ama dagıtmaz", "url": "/Yasin03470643/status/1281634068652843022", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 19:59:08", "is_reply": false, "is_retweet": false, "user_id": "1280917678321029124"}

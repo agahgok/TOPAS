@@ -1,0 +1,1 @@
+{"usernameTweet": "aydinesma", "ID": "754073110589087744", "text": "Sakın çıkmayın darbe nedir bilmeyen hafızasız leşler #SokağaSakınÇıkma", "url": "/aydinesma/status/754073110589087744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:14", "is_reply": false, "is_retweet": false, "user_id": "159538641"}

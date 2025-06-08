@@ -1,0 +1,1 @@
+{"usernameTweet": "kiziltas_can", "ID": "1282344742064402433", "text": "Reis enişteden erken alaydı  darbe  istihbaratını fetö yü indirmiştik şimdi", "url": "/kiziltas_can/status/1282344742064402433", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 19:03:05", "is_reply": true, "is_retweet": false, "user_id": "3446469855"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kafkasizenetti", "ID": "754073298980528128", "text": "Demokrasiye sahip çıkıyorlarmış.Birisi de çıkıp demiyor demokrasi mi vardı? #sokağasakınçıkma", "url": "/kafkasizenetti/status/754073298980528128", "nbr_retweet": 10, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:00:59", "is_reply": false, "is_retweet": false, "user_id": "2261800921"}

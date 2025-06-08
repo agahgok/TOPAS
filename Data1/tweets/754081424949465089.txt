@@ -1,0 +1,1 @@
+{"usernameTweet": "Twltter87557068", "ID": "754081424949465089", "text": "Saçmalamadan sakin sakin evinizde oturun!! #sokagacikma", "url": "/Twltter87557068/status/754081424949465089", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:16", "is_reply": false, "is_retweet": false, "user_id": "86072210"}

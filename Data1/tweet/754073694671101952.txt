@@ -1,0 +1,1 @@
+{"usernameTweet": "tripmccoy", "ID": "754073694671101952", "text": "# SokağaSakınÇıkma \n#SokağaSakınÇıkma", "url": "/tripmccoy/status/754073694671101952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:33", "is_reply": false, "is_retweet": false, "user_id": "97004948"}

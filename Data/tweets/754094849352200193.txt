@@ -1,0 +1,1 @@
+{"usernameTweet": "ebruevrim", "ID": "754094849352200193", "text": "Allahım canımızı aklımızı koru #SokağaSakınÇıkma", "url": "/ebruevrim/status/754094849352200193", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:37", "is_reply": false, "is_retweet": false, "user_id": "155260272"}

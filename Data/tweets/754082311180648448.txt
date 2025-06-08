@@ -1,0 +1,1 @@
+{"usernameTweet": "omer_1907_42", "ID": "754082311180648448", "text": "# SokağaSakınÇıkma  bunu yazan kavat sen çıkma darbe sandıkta olur askerle olmaz", "url": "/omer_1907_42/status/754082311180648448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:47", "is_reply": false, "is_retweet": false, "user_id": "1572718752"}

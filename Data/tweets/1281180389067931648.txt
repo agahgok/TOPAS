@@ -1,0 +1,1 @@
+{"usernameTweet": "haydarakpnr", "ID": "1281180389067931648", "text": "Bunlara bu iş  darbe  oldu iyi oldu", "url": "/haydarakpnr/status/1281180389067931648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:56:22", "is_reply": true, "is_retweet": false, "user_id": "1235078886792278016"}

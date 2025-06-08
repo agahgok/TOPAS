@@ -1,0 +1,1 @@
+{"usernameTweet": "hopesarea", "ID": "1281936819249184768", "text": "bunlar bugünbize  darbe  girisimindebulunuyü bu neeee", "url": "/hopesarea/status/1281936819249184768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 16:02:09", "is_reply": false, "is_retweet": false, "user_id": "859094388336721923"}

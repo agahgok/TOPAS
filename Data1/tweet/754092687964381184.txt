@@ -1,0 +1,1 @@
+{"usernameTweet": "CalforniaValisi", "ID": "754092687964381184", "text": "# DarbayeHayır \n#SokağaSakınÇıkma  başkan olacam adlı film birazdan biter", "url": "/CalforniaValisi/status/754092687964381184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:01", "is_reply": false, "is_retweet": false, "user_id": "342245696"}

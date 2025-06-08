@@ -1,0 +1,1 @@
+{"usernameTweet": "sosyalistdunya", "ID": "754251635484917760", "text": "# SokağaSakınÇıkma  yobazları sokağa dök sonra demokrasiden bahset  pic.twitter.com/qtJpoi8uR9", "url": "/sosyalistdunya/status/754251635484917760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:49:37", "is_reply": false, "is_retweet": false, "user_id": "4825309083"}

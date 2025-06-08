@@ -1,0 +1,1 @@
+{"usernameTweet": "Ruyaale", "ID": "754070348124024832", "text": "Sokaga cikan terorist paralelcidir sakin ama sakin  #SokağaSakınÇıkma", "url": "/Ruyaale/status/754070348124024832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:49:15", "is_reply": false, "is_retweet": false, "user_id": "1030729638"}

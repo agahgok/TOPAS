@@ -1,0 +1,1 @@
+{"usernameTweet": "AYDAR123", "ID": "1282340951860686851", "text": "Darbe  başarılı ollsaydı o zaman belli olurdu. Bu masum günahsız topluluk.", "url": "/AYDAR123/status/1282340951860686851", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 3, "datetime": "2020-07-12 18:48:02", "is_reply": true, "is_retweet": false, "user_id": "488730070"}

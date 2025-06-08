@@ -1,0 +1,1 @@
+{"usernameTweet": "Cagiinn", "ID": "754109962494873600", "text": "Binlerce askerimiz sehit oldugu zaman cıkmayanlar köpekler simdi sokaklara dökülüyor #sokagasakıncıkma", "url": "/Cagiinn/status/754109962494873600", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:26:40", "is_reply": false, "is_retweet": false, "user_id": "1643943937"}

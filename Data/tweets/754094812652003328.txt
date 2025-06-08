@@ -1,0 +1,1 @@
+{"usernameTweet": "ozlemdogan_", "ID": "754094812652003328", "text": "# SokağaSakınÇıkma  hepimiz sokaktayız hain köpekler. Erdoğanı size yedirmeyiz", "url": "/ozlemdogan_/status/754094812652003328", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:26:28", "is_reply": false, "is_retweet": false, "user_id": "1484219388"}

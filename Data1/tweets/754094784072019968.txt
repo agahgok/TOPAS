@@ -1,0 +1,1 @@
+{"usernameTweet": "AlicanYavuz10", "ID": "754094784072019968", "text": "Böyle oyunlara gelmeyin dinimiz üzerinden sizi kullanmalarına izin vermeyin !!!!! #SokağaSakınÇıkma", "url": "/AlicanYavuz10/status/754094784072019968", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2016-07-16 02:26:21", "is_reply": false, "is_retweet": false, "user_id": "2165404861"}

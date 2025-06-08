@@ -1,0 +1,1 @@
+{"usernameTweet": "BerkcanBikbay", "ID": "1281385109497708551", "text": "Hayat yaptığın son  darbe  de öldürmeyide başardın...", "url": "/BerkcanBikbay/status/1281385109497708551", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-10 03:29:51", "is_reply": false, "is_retweet": false, "user_id": "4823856687"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "erdal_1905", "ID": "754080619756396548", "text": "Dinle sizi kandırıyor münafıkla kanmayın #SokağaSakınÇıkma", "url": "/erdal_1905/status/754080619756396548", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:04", "is_reply": false, "is_retweet": false, "user_id": "66001643"}

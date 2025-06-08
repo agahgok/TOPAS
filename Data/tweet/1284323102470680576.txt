@@ -1,0 +1,1 @@
+{"usernameTweet": "Rehana2221", "ID": "1284323102470680576", "text": "والنعم منكم فضل هذا من حضرتكم", "url": "/Rehana2221/status/1284323102470680576", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 06:04:23", "is_reply": true, "is_retweet": false, "user_id": "1205833860606394368"}

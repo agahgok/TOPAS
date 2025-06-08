@@ -1,0 +1,1 @@
+{"usernameTweet": "sondakika23", "ID": "1281530348464214017", "text": "Diyarbakır'da terör örgütüne ağır  darbe   https:// bit.ly/3ehZDLe   pic.twitter.com/5Q4XxKKbnz", "url": "/sondakika23/status/1281530348464214017", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 13:06:59", "is_reply": false, "is_retweet": false, "user_id": "2334101352"}

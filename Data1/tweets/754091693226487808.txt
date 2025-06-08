@@ -1,0 +1,1 @@
+{"usernameTweet": "serediyorki", "ID": "754091693226487808", "text": "Başkanlık sistemi getirilecek akıllıca davranın #sokağaçıkma", "url": "/serediyorki/status/754091693226487808", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:14:04", "is_reply": false, "is_retweet": false, "user_id": "611617195"}

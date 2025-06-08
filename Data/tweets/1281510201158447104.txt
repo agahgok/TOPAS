@@ -1,0 +1,1 @@
+{"usernameTweet": "Bulca8", "ID": "1281510201158447104", "text": "Nedim Şener lafı gediğine koymuş ama sende yüz yok ki pic.twitter.com/hLxkjMNr0M", "url": "/Bulca8/status/1281510201158447104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 11:46:55", "is_reply": true, "is_retweet": false, "user_id": "1200086304932925441"}

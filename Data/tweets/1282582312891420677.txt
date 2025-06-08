@@ -1,0 +1,1 @@
+{"usernameTweet": "zubo_rain", "ID": "1282582312891420677", "text": "15 Temmuz'da milleti hesaba katmayıp,  darbe  yapmaya çalışan Fetöcü sinekler.  pic.twitter.com/vcoXHn5AyG", "url": "/zubo_rain/status/1282582312891420677", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 1, "datetime": "2020-07-13 10:47:07", "is_reply": false, "is_retweet": false, "user_id": "206854257"}

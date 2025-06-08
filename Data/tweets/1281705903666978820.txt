@@ -1,0 +1,1 @@
+{"usernameTweet": "sol_yan", "ID": "1281705903666978820", "text": "Darbe  mi oldu benzinlik full kuyruk", "url": "/sol_yan/status/1281705903666978820", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 00:44:35", "is_reply": false, "is_retweet": false, "user_id": "278779951"}

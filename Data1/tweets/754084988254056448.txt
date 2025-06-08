@@ -1,0 +1,1 @@
+{"usernameTweet": "burcaygunguler", "ID": "754084988254056448", "text": "Camilerden Izmir'de Konak meydana çağırıyorlar. #sokagacikma", "url": "/burcaygunguler/status/754084988254056448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:26", "is_reply": false, "is_retweet": false, "user_id": "108923851"}

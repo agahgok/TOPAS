@@ -1,0 +1,1 @@
+{"usernameTweet": "527430", "ID": "754084680794828804", "text": "Kendi saklanıp halkını siper eden yönetim. Savaşa çağırı yapan imamlar. #SokağaSakınÇıkma", "url": "/527430/status/754084680794828804", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:12", "is_reply": false, "is_retweet": false, "user_id": "3044025869"}

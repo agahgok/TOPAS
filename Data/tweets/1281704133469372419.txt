@@ -1,0 +1,1 @@
+{"usernameTweet": "Kubilay64775431", "ID": "1281704133469372419", "text": "Darbe  günü marketlere bankamatiklere koşanlar erkek oldu ya la ", "url": "/Kubilay64775431/status/1281704133469372419", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 00:37:32", "is_reply": true, "is_retweet": false, "user_id": "1271504424867938304"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kancasurat", "ID": "754088687659585540", "text": "Filler tepişir karıncalar ölür #Ankara  #sokagacikma", "url": "/kancasurat/status/754088687659585540", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:08", "is_reply": false, "is_retweet": false, "user_id": "3636702195"}

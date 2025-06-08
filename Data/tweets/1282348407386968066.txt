@@ -1,0 +1,1 @@
+{"usernameTweet": "Mehmet04005222", "ID": "1282348407386968066", "text": "Kontrollü  darbe  olmadığına inansa çıkardı.", "url": "/Mehmet04005222/status/1282348407386968066", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 19:17:39", "is_reply": true, "is_retweet": false, "user_id": "1245371971136872449"}

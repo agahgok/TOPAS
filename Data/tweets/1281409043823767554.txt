@@ -1,0 +1,1 @@
+{"usernameTweet": "iscp44", "ID": "1281409043823767554", "text": "naapsallardi aqbardiye  darbe  mi yapsalardi yani :D", "url": "/iscp44/status/1281409043823767554", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 05:04:58", "is_reply": true, "is_retweet": false, "user_id": "747490211848818688"}

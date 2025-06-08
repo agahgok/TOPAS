@@ -1,0 +1,1 @@
+{"usernameTweet": "VolKaan89", "ID": "754089155588534272", "text": "# SokağaSakınÇıkma  Bu Nasıl Darbe 5 Dakka'da 1 Ezan Sela Okunuor...", "url": "/VolKaan89/status/754089155588534272", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:03:59", "is_reply": false, "is_retweet": false, "user_id": "4405846215"}

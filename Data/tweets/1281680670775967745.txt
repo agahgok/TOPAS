@@ -1,0 +1,1 @@
+{"usernameTweet": "suleyman_incee", "ID": "1281680670775967745", "text": "Layyukluk  .gidor  biseyler \nedin   yazın  çizim\n Darbe   filan    nerde  \nKaldu", "url": "/suleyman_incee/status/1281680670775967745", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 23:04:19", "is_reply": true, "is_retweet": false, "user_id": "967354082896867328"}

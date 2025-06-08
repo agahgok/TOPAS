@@ -1,0 +1,1 @@
+{"usernameTweet": "meervesahiin", "ID": "754090816046530561", "text": "Bir çakma darbemiz eksikti, oda oldu  \n\n#SokağaSakınÇıkma", "url": "/meervesahiin/status/754090816046530561", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:10:35", "is_reply": false, "is_retweet": false, "user_id": "2156979367"}

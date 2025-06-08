@@ -1,0 +1,1 @@
+{"usernameTweet": "68HANAK75", "ID": "1282416396450893827", "text": "Darbe  şerfine kadeh kaldıran Edirne belediye başkan yargılandımı ?", "url": "/68HANAK75/status/1282416396450893827", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 23:47:49", "is_reply": false, "is_retweet": false, "user_id": "470164117"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Gkhn_35_CKR", "ID": "754083826779975680", "text": "Hoca şaşırdı herhalde ezan okuyo bu saatte!!! #SokağaSakınÇıkma", "url": "/Gkhn_35_CKR/status/754083826779975680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:49", "is_reply": false, "is_retweet": false, "user_id": "1106796050"}

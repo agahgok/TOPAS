@@ -1,0 +1,1 @@
+{"usernameTweet": "alikemal_tonya", "ID": "1185277495639203840", "text": "Ve ABD açık olarak terör örgütlerinin hamiliğini üstlendiğini kabul etti.", "url": "/alikemal_tonya/status/1185277495639203840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2019-10-18 22:32:31", "is_reply": false, "is_retweet": false, "user_id": "459416177"}

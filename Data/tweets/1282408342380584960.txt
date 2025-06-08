@@ -1,0 +1,1 @@
+{"usernameTweet": "watashivameides", "ID": "1282408342380584960", "text": "Soldan çok  darbe  yedim. Mümkünse sağdan vurun siz ", "url": "/watashivameides/status/1282408342380584960", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 23:15:49", "is_reply": true, "is_retweet": false, "user_id": "1239569323141877761"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "burcuoralevren", "ID": "754083133557964806", "text": "TSK: Sokağa çıkma yasağı ikan edildi. #SokağaSakınÇıkma   pic.twitter.com/LvhGBLYfWz", "url": "/burcuoralevren/status/754083133557964806", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:03", "is_reply": false, "is_retweet": false, "user_id": "212560164"}

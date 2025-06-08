@@ -1,0 +1,1 @@
+{"usernameTweet": "Selim40788011", "ID": "754077843815030784", "text": "Provokasyona sakin gelme!  #SokağaSakınÇıkma", "url": "/Selim40788011/status/754077843815030784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:02", "is_reply": false, "is_retweet": false, "user_id": "750617557007294464"}

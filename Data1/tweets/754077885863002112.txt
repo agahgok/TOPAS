@@ -1,0 +1,1 @@
+{"usernameTweet": "Keskin__Mavi", "ID": "754077885863002112", "text": "# SokağaSakınÇıkma  karı gibi tv den takip et.", "url": "/Keskin__Mavi/status/754077885863002112", "nbr_retweet": 1, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:19:12", "is_reply": false, "is_retweet": false, "user_id": "3398992630"}

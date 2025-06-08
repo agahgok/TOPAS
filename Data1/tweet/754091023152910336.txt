@@ -1,0 +1,1 @@
+{"usernameTweet": "14a06a", "ID": "754091023152910336", "text": "# sokağasakınçıkma  bu gün ölmeyecezde ne zaman ölecez \nCIA ülkeyi teslim almaya calisirken \nherkez sokaga ciksin", "url": "/14a06a/status/754091023152910336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:24", "is_reply": false, "is_retweet": false, "user_id": "144309205"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mhmt6748", "ID": "1282390447361597442", "text": "Vedata yapılan  darbe  dünyanın her yerinde penaltı \n#alipalabiyik", "url": "/mhmt6748/status/1282390447361597442", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:04:42", "is_reply": false, "is_retweet": false, "user_id": "1273583184102514691"}

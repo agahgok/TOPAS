@@ -1,0 +1,1 @@
+{"usernameTweet": "fuckchp2", "ID": "1281278560947314695", "text": "@ slymnoz  hocam şu kahpelere ağzının payını verin \nBunlar  darbe  sevici", "url": "/fuckchp2/status/1281278560947314695", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 20:26:28", "is_reply": false, "is_retweet": false, "user_id": "1249466269037817856"}

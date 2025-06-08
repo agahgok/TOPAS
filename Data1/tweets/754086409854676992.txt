@@ -1,0 +1,1 @@
+{"usernameTweet": "RahimeCura", "ID": "754086409854676992", "text": "# SokağaSakınÇıkma \nDİB Görmez de devreye girdi.\nDini iç savaşa alet ediyorlar", "url": "/RahimeCura/status/754086409854676992", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:53:05", "is_reply": false, "is_retweet": false, "user_id": "2305280344"}

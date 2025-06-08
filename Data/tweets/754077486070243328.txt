@@ -1,0 +1,1 @@
+{"usernameTweet": "EbruEyre", "ID": "754077486070243328", "text": "# SokağaSakınÇıkma \nSen çaldın sokağa da sen çik benim ülkeyi karıştırıp kapatmam gereken bir pisliğim yok", "url": "/EbruEyre/status/754077486070243328", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:37", "is_reply": false, "is_retweet": false, "user_id": "3347706363"}

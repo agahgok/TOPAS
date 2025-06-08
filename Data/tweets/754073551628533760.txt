@@ -1,0 +1,1 @@
+{"usernameTweet": "mezunamamutsuz", "ID": "754073551628533760", "text": "Tayyip çıkıp da adam gibi açıklama yapamıyo ama halkı sokağa çağırıyo #SokağaSakınÇıkma", "url": "/mezunamamutsuz/status/754073551628533760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:59", "is_reply": false, "is_retweet": false, "user_id": "1077130220"}

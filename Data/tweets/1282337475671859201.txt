@@ -1,0 +1,1 @@
+{"usernameTweet": "damlaademircan", "ID": "1282337475671859201", "text": "\" Darbe  üstüne  darbe  uslanmıyor bu\"", "url": "/damlaademircan/status/1282337475671859201", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-12 18:34:13", "is_reply": false, "is_retweet": false, "user_id": "829796093907042308"}

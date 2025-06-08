@@ -1,0 +1,1 @@
+{"usernameTweet": "BnglPnr", "ID": "754094641948028928", "text": "Yine rezil oldukk dünyaya #sokağasakınçıkma", "url": "/BnglPnr/status/754094641948028928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:47", "is_reply": false, "is_retweet": false, "user_id": "330515544"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Metehan__1071", "ID": "1282420457606610944", "text": "Anlamı; \nAk partiyi tamamen ele geçirebilseydim fetö  darbe  yapmaya gerek duymayacaktı.", "url": "/Metehan__1071/status/1282420457606610944", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 00:03:57", "is_reply": true, "is_retweet": false, "user_id": "1254598131762765825"}

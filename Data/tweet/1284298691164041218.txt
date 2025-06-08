@@ -1,0 +1,1 @@
+{"usernameTweet": "bebe_dabe", "ID": "1284298691164041218", "text": "週末にならないと発送できないのごめんね", "url": "/bebe_dabe/status/1284298691164041218", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 04:27:23", "is_reply": false, "is_retweet": false, "user_id": "1709132550"}

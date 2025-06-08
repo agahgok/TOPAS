@@ -1,0 +1,1 @@
+{"usernameTweet": "sibelmina34", "ID": "754093836662632448", "text": "Minarelerden Ezan sonrası Anons üstüne anons ..\nDiyanet, Demokrasiyi hatırladı!.\n#SokağaSakınÇıkma", "url": "/sibelmina34/status/754093836662632448", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:22:35", "is_reply": false, "is_retweet": false, "user_id": "2901695104"}

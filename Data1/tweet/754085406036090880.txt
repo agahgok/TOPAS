@@ -1,0 +1,1 @@
+{"usernameTweet": "SevgiFBli", "ID": "754085406036090880", "text": "# SokağaSakınÇıkma \nMa sokağa da mı çıkmayak. .?!", "url": "/SevgiFBli/status/754085406036090880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:05", "is_reply": false, "is_retweet": false, "user_id": "2497093020"}

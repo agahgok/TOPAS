@@ -1,0 +1,1 @@
+{"usernameTweet": "caglauna1", "ID": "754082421650382848", "text": "OYUNA GELME, SOKAGA CIKMA. \nSonra BANA MI SORDUNUZ derler..\n\n#SokağaSakınÇıkma", "url": "/caglauna1/status/754082421650382848", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 01:37:14", "is_reply": false, "is_retweet": false, "user_id": "582816835"}

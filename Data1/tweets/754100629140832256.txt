@@ -1,0 +1,1 @@
+{"usernameTweet": "sbtiryaki", "ID": "754100629140832256", "text": "Bayrak inmez, Ezan dinmez.\nAllah TÜRK'Ü KORUSUN! #sokağaçıkma", "url": "/sbtiryaki/status/754100629140832256", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 02:49:35", "is_reply": false, "is_retweet": false, "user_id": "407952754"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "rodyasiva", "ID": "754083741350453248", "text": "Biz zaten hiçbir zaman ezanla selayı ayırt edebildiğimizi iddia etmedik. Laikiz biz:)  #SokağaSakınÇıkma", "url": "/rodyasiva/status/754083741350453248", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:42:28", "is_reply": false, "is_retweet": false, "user_id": "202557912"}

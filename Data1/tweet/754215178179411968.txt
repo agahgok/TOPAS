@@ -1,0 +1,1 @@
+{"usernameTweet": "eness989", "ID": "754215178179411968", "text": "# SokagaSakinCikma  uzun almanyadan siginma alip kacmis.. emir komata yurtta sulh konseyinde..", "url": "/eness989/status/754215178179411968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 10:24:45", "is_reply": false, "is_retweet": false, "user_id": "754084130279813120"}

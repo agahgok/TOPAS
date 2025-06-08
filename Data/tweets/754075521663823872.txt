@@ -1,0 +1,1 @@
+{"usernameTweet": "HaberinsanMag", "ID": "754075521663823872", "text": "Camilerden halk meydanlara çağrıldı  https:// shar.es/1lU7AG    #Ankara  #SokağaSakınÇıkma  TRT 1", "url": "/HaberinsanMag/status/754075521663823872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:49", "is_reply": false, "is_retweet": false, "user_id": "786775488"}

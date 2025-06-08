@@ -1,0 +1,1 @@
+{"usernameTweet": "ecissss_", "ID": "754083619564621824", "text": "Yazık ki ne yazık ülkem yine pis oyunun içinde #SokağaSakınÇıkma", "url": "/ecissss_/status/754083619564621824", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:41:59", "is_reply": false, "is_retweet": false, "user_id": "1288655833"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "islandofthougt", "ID": "754094221099933700", "text": "Yarin imama 5 kere sövecem amk... #SokağaSakınÇıkma", "url": "/islandofthougt/status/754094221099933700", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:24:07", "is_reply": false, "is_retweet": false, "user_id": "2455993852"}

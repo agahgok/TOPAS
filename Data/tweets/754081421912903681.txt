@@ -1,0 +1,1 @@
+{"usernameTweet": "twitsoruisareti", "ID": "754081421912903681", "text": "# SokağaSakınÇıkma  Her diktatör sonu geldiğinde bunu yapar..Oyun ya da değil çıkmayın!!", "url": "/twitsoruisareti/status/754081421912903681", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:33:15", "is_reply": false, "is_retweet": false, "user_id": "709102646137909250"}

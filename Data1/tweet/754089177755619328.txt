@@ -1,0 +1,1 @@
+{"usernameTweet": "By_cosmostr", "ID": "754089177755619328", "text": "Camileri çağrı yapmak halkı sokağa dökmek için kullanıyolar hepinizden tiksiniyorum! #SokağaSakınÇıkma", "url": "/By_cosmostr/status/754089177755619328", "nbr_retweet": 1, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 02:04:04", "is_reply": false, "is_retweet": false, "user_id": "577491001"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "muratti1967", "ID": "1282356214303784962", "text": "Sizde bi karar verin artık, tiyatro mu,  darbe  mi?", "url": "/muratti1967/status/1282356214303784962", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 19:48:41", "is_reply": true, "is_retweet": false, "user_id": "2264207508"}

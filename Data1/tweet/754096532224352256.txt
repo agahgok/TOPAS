@@ -1,0 +1,1 @@
+{"usernameTweet": "denizgecmis_24", "ID": "754096532224352256", "text": "# SokağaSakınÇıkma  herkesi sokaga cagıranlar nerede korumalarla evde oturuyorlar", "url": "/denizgecmis_24/status/754096532224352256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:33:18", "is_reply": false, "is_retweet": false, "user_id": "1090252764"}

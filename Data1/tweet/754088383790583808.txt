@@ -1,0 +1,1 @@
+{"usernameTweet": "ctb0101", "ID": "754088383790583808", "text": "Minarelerden Ezan sonrası Anons üstüne anons ..\nDiyanet, Demokrasiyi hatırladı!\n#SokağaSakınÇıkma", "url": "/ctb0101/status/754088383790583808", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2016-07-16 02:00:55", "is_reply": false, "is_retweet": false, "user_id": "70658025"}

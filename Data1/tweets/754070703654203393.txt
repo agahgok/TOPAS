@@ -1,0 +1,1 @@
+{"usernameTweet": "BayrFurkan", "ID": "754070703654203393", "text": "Akıllı olan insan zaten sokağa çıkmaz . \n#SokağaSakinCikma   #darbe  ", "url": "/BayrFurkan/status/754070703654203393", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:50:40", "is_reply": false, "is_retweet": false, "user_id": "457680546"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_SLayerr", "ID": "754080092708540417", "text": "darbeye sevinenler ülkenin geçmişini öğrenmeyenlerdir #SokağaSakınÇıkma", "url": "/_SLayerr/status/754080092708540417", "nbr_retweet": 2, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:27:58", "is_reply": false, "is_retweet": false, "user_id": "2764035057"}

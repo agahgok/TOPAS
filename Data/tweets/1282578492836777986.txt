@@ -1,0 +1,1 @@
+{"usernameTweet": "ahbr_radyo", "ID": "1282578492836777986", "text": "Terör örgütü PKK'ya  darbe   pic.twitter.com/TdPwFUYpft", "url": "/ahbr_radyo/status/1282578492836777986", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 10:31:56", "is_reply": false, "is_retweet": false, "user_id": "3384456975"}

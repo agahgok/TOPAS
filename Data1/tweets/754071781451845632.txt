@@ -1,0 +1,1 @@
+{"usernameTweet": "Capulcu_Laz", "ID": "754071781451845632", "text": "Tarihe not düşülsün:\n\"Interneti yasaklayan Erdoğan, internet üzerinden yayın yaptı!\"\n#SokağaSakınÇıkma", "url": "/Capulcu_Laz/status/754071781451845632", "nbr_retweet": 16, "nbr_favorite": 27, "nbr_reply": 0, "datetime": "2016-07-16 00:54:57", "is_reply": false, "is_retweet": false, "user_id": "752873754"}

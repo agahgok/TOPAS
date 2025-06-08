@@ -1,0 +1,1 @@
+{"usernameTweet": "SayinKaraca", "ID": "754096950555844609", "text": "TBMM VURULDU #fox  tv #SokağaSakınÇıkma  #sokağaçıkma  #tbmm", "url": "/SayinKaraca/status/754096950555844609", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:34:58", "is_reply": false, "is_retweet": false, "user_id": "259197546"}

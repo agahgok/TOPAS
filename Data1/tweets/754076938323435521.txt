@@ -1,0 +1,1 @@
+{"usernameTweet": "berebeyligi", "ID": "754076938323435521", "text": "# SokağaSakınÇıkma", "url": "/berebeyligi/status/754076938323435521", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:26", "is_reply": false, "is_retweet": false, "user_id": "3342934653"}

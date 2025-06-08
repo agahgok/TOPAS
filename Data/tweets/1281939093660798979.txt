@@ -1,0 +1,1 @@
+{"usernameTweet": "dombra31", "ID": "1281939093660798979", "text": "Neden sence  darbe  yüzünden mi?", "url": "/dombra31/status/1281939093660798979", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 16:11:11", "is_reply": true, "is_retweet": false, "user_id": "1257772260104056832"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "oran_melda", "ID": "754086935753322496", "text": "Bizim imam bu saatte sela okuyor üstüne üstelik meydana çağırıyor ...türkiye oyuna gelme  #SokağaSakınÇıkma", "url": "/oran_melda/status/754086935753322496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:10", "is_reply": false, "is_retweet": false, "user_id": "3078117550"}

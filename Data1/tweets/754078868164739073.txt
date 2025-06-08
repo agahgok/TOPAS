@@ -1,0 +1,1 @@
+{"usernameTweet": "snciiker", "ID": "754078868164739073", "text": "Koyun dediginiz insanlara bi donun bakin isterseniz.\n\n #SokağaSakınÇıkma   pic.twitter.com/WNXfG9kxmV", "url": "/snciiker/status/754078868164739073", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:06", "is_reply": false, "is_retweet": false, "user_id": "3323091045"}

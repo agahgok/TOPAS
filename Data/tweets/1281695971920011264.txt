@@ -1,0 +1,1 @@
+{"usernameTweet": "SONDARBEBKC3", "ID": "1281695971920011264", "text": "Göklerden gelen bir karar vardır #AyasofyaCamii", "url": "/SONDARBEBKC3/status/1281695971920011264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 00:05:07", "is_reply": false, "is_retweet": false, "user_id": "1256122224135868416"}

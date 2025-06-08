@@ -1,0 +1,1 @@
+{"usernameTweet": "EmreeOzz06", "ID": "1281649449886814208", "text": "Ama sen onu gel anlat kalbe\nYürüyor önümde büyük harbe\n Darbe  üstüne  darbe \nUslanmıyor bu..", "url": "/EmreeOzz06/status/1281649449886814208", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-10 21:00:15", "is_reply": false, "is_retweet": false, "user_id": "1272115605429268481"}

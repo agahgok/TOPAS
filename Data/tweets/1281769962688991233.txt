@@ -1,0 +1,1 @@
+{"usernameTweet": "Murat_darbe", "ID": "1281769962688991233", "text": "Annem gibii", "url": "/Murat_darbe/status/1281769962688991233", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 04:59:07", "is_reply": true, "is_retweet": false, "user_id": "961127958"}

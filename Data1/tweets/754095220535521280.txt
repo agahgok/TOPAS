@@ -1,0 +1,1 @@
+{"usernameTweet": "birolnet03", "ID": "754095220535521280", "text": "Allah için dışarıya peygamber için dışarıya diyorlar sela ile #SokağaSakınÇıkma", "url": "/birolnet03/status/754095220535521280", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:28:05", "is_reply": false, "is_retweet": false, "user_id": "277404487"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sosyalistdunya", "ID": "754089225176354816", "text": "# SokağaSakınÇıkma   pic.twitter.com/7TZoEqZb1R", "url": "/sosyalistdunya/status/754089225176354816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:16", "is_reply": false, "is_retweet": false, "user_id": "4825309083"}

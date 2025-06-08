@@ -1,0 +1,1 @@
+{"usernameTweet": "lcycstuff", "ID": "1282501079813558277", "text": "Dostlarım düşmanımdan tehlikeli bir halde çünkü düşmanından dayak yersin dostlarından  darbe .", "url": "/lcycstuff/status/1282501079813558277", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 05:24:19", "is_reply": false, "is_retweet": false, "user_id": "1209459778772230144"}

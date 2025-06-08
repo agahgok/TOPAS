@@ -1,0 +1,1 @@
+{"usernameTweet": "neanlatiyoon", "ID": "754092486100910080", "text": "# SokağaSakınÇıkma", "url": "/neanlatiyoon/status/754092486100910080", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:17:13", "is_reply": false, "is_retweet": false, "user_id": "2938649075"}

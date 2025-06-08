@@ -1,0 +1,1 @@
+{"usernameTweet": "snakzs", "ID": "754075481356599296", "text": "# SokağaSakınÇıkma  bu nasil hastag nasil acizlersiniz burda bile muhalef olur mu", "url": "/snakzs/status/754075481356599296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:39", "is_reply": false, "is_retweet": false, "user_id": "3382104327"}

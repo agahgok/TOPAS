@@ -1,0 +1,1 @@
+{"usernameTweet": "HalideUzun", "ID": "754073915916443649", "text": "Sakın sokağa çıkma #SokağaSakınÇıkma", "url": "/HalideUzun/status/754073915916443649", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:26", "is_reply": false, "is_retweet": false, "user_id": "321496239"}

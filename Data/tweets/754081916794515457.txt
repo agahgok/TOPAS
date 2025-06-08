@@ -1,0 +1,1 @@
+{"usernameTweet": "engintwt", "ID": "754081916794515457", "text": "# SokağaSakınÇıkma  Turkiye Cumhuriyeti Feto ve Erdogan episodunu tarihinde kucuk bir alt yazi olarak gececek.", "url": "/engintwt/status/754081916794515457", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:13", "is_reply": false, "is_retweet": false, "user_id": "147305445"}

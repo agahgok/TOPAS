@@ -1,0 +1,1 @@
+{"usernameTweet": "RecepUcakk", "ID": "754095997807161346", "text": "# SokağaSakınÇıkma  Ülkeye sadakat, her zaman; hükümete sadakat, hak ettiği zaman.", "url": "/RecepUcakk/status/754095997807161346", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:31:10", "is_reply": false, "is_retweet": false, "user_id": "809685884"}

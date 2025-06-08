@@ -1,0 +1,1 @@
+{"usernameTweet": "esquivelgto", "ID": "1282344708312891392", "text": "Lastima que no entiendas ¿ será por que vamos en caída libre en el barranco?", "url": "/esquivelgto/status/1282344708312891392", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 19:02:57", "is_reply": true, "is_retweet": false, "user_id": "1967518568"}

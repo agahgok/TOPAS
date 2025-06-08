@@ -1,0 +1,1 @@
+{"usernameTweet": "turna_saim", "ID": "754068184374837249", "text": "# sokağasakınçıkma \n#sokağasakınçıkma \n#sokağasakınçıkma \n#sokağasakınçıkma", "url": "/turna_saim/status/754068184374837249", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:40:39", "is_reply": false, "is_retweet": false, "user_id": "720684756841676800"}

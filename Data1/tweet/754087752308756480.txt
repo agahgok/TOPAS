@@ -1,0 +1,1 @@
+{"usernameTweet": "alp_fulya", "ID": "754087752308756480", "text": "İmamlar da demokrasi dedi ya\nEh artık #SokağaSakınÇıkma", "url": "/alp_fulya/status/754087752308756480", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:58:25", "is_reply": false, "is_retweet": false, "user_id": "2259704560"}

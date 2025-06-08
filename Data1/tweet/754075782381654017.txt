@@ -1,0 +1,1 @@
+{"usernameTweet": "Ataturk_Bayrak", "ID": "754075782381654017", "text": "sokağa çıkanlara çapulcu ve vandallar diyordunuz sanırım. aptal olmayın oyuna gelmeyin #SokağaÇıkma", "url": "/Ataturk_Bayrak/status/754075782381654017", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:51", "is_reply": true, "is_retweet": false, "user_id": "274178003"}

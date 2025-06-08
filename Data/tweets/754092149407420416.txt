@@ -1,0 +1,1 @@
+{"usernameTweet": "av_koksal", "ID": "754092149407420416", "text": "# SokağaSakınÇıkma  biz sokaklardayız bu ülkeyi size sizin gibi geri zekalılara da bırakmayız", "url": "/av_koksal/status/754092149407420416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:53", "is_reply": false, "is_retweet": false, "user_id": "4831019776"}

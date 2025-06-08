@@ -1,0 +1,1 @@
+{"usernameTweet": "islandofthougt", "ID": "754068814019620864", "text": "# SokağaSakınÇıkma  3 milyon suriyeliye hemen vatandaslik verip meydanlara dokelim amk...", "url": "/islandofthougt/status/754068814019620864", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:43:09", "is_reply": false, "is_retweet": false, "user_id": "2455993852"}

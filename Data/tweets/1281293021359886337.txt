@@ -1,0 +1,1 @@
+{"usernameTweet": "latiff1000", "ID": "1281293021359886337", "text": "Yargı  darbe  yapmış!", "url": "/latiff1000/status/1281293021359886337", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 21:23:56", "is_reply": true, "is_retweet": false, "user_id": "853499261304152065"}

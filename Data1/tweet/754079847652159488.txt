@@ -1,0 +1,1 @@
+{"usernameTweet": "le_ventdemir", "ID": "754079847652159488", "text": "Darbe sabaha sonuclanır...olur veya olmaz kimse ölmesin.... #SokağaSakınÇıkma", "url": "/le_ventdemir/status/754079847652159488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:00", "is_reply": false, "is_retweet": false, "user_id": "329289788"}

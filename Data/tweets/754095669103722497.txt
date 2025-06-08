@@ -1,0 +1,1 @@
+{"usernameTweet": "selimteber35", "ID": "754095669103722497", "text": "Milleti sokağa sürüp kendisi İran'a tüymüş hacı !!!\n#DarbeyeHayır  \n#SokağaSakınÇıkma", "url": "/selimteber35/status/754095669103722497", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:52", "is_reply": false, "is_retweet": false, "user_id": "1016026620"}

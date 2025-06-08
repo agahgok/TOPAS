@@ -1,0 +1,1 @@
+{"usernameTweet": "nunukilic", "ID": "754084230469152768", "text": "Ülke karıştı bugün  bomba  tüm ülkede var ama hakkaride şuan yok #SokağaSakınÇıkma", "url": "/nunukilic/status/754084230469152768", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:44:25", "is_reply": false, "is_retweet": false, "user_id": "2529285393"}

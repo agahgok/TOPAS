@@ -1,0 +1,1 @@
+{"usernameTweet": "mge_artemis", "ID": "754070089004158976", "text": "# SokağaSakınÇıkma", "url": "/mge_artemis/status/754070089004158976", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:48:13", "is_reply": false, "is_retweet": false, "user_id": "136950357"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet_ayem", "ID": "754081231193640960", "text": "# SokağaSakınÇıkma  tek tek temizlenecek.  pic.twitter.com/UsUcwGOKpr", "url": "/mehmet_ayem/status/754081231193640960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:30", "is_reply": false, "is_retweet": false, "user_id": "716342526026891266"}

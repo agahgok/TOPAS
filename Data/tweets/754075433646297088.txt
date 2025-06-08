@@ -1,0 +1,1 @@
+{"usernameTweet": "gozdekucuktas_", "ID": "754075433646297088", "text": "Hiçbir diktatör iç savaş çıkarmadan gitmez.. -Lenin\n#SokağaSakınÇıkma", "url": "/gozdekucuktas_/status/754075433646297088", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:09:28", "is_reply": false, "is_retweet": false, "user_id": "3264790023"}

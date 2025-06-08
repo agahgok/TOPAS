@@ -1,0 +1,1 @@
+{"usernameTweet": "akatsukidesuka", "ID": "1282064006673571841", "text": "Çok  darbe  yedik...Kimseye güvenemiyorum artık...", "url": "/akatsukidesuka/status/1282064006673571841", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 00:27:33", "is_reply": true, "is_retweet": false, "user_id": "805549477230739456"}

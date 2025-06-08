@@ -1,0 +1,1 @@
+{"usernameTweet": "sahinsamet", "ID": "754088504276070400", "text": "Sokağa çıkın lannnnn #SokağaSakınÇıkma", "url": "/sahinsamet/status/754088504276070400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:24", "is_reply": false, "is_retweet": false, "user_id": "68409322"}

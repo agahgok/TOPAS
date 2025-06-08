@@ -1,0 +1,1 @@
+{"usernameTweet": "GGQuiaro", "ID": "754092968261279744", "text": "# SokağaSakınÇıkma  My lovely turkish people. Be brave.", "url": "/GGQuiaro/status/754092968261279744", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:19:08", "is_reply": false, "is_retweet": false, "user_id": "112599042"}

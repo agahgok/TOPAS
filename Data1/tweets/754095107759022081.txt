@@ -1,0 +1,1 @@
+{"usernameTweet": "aliuzunn_", "ID": "754095107759022081", "text": "# SokağaÇık  #SokağaSakınÇıkma  Fırsat varken suriyelileri felan vurun mk", "url": "/aliuzunn_/status/754095107759022081", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:27:38", "is_reply": false, "is_retweet": false, "user_id": "2897276597"}

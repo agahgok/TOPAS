@@ -1,0 +1,1 @@
+{"usernameTweet": "ROBAROSA", "ID": "1282333239621742593", "text": "Y ahí sí muy obedientes a lo que diga AMLO...oílos, oílos ", "url": "/ROBAROSA/status/1282333239621742593", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 18:17:23", "is_reply": true, "is_retweet": false, "user_id": "339976807"}

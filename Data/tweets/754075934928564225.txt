@@ -1,0 +1,1 @@
+{"usernameTweet": "melisiltas", "ID": "754075934928564225", "text": "Zavalli hukumet aciklamalari #SokağaSakınÇıkma", "url": "/melisiltas/status/754075934928564225", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:27", "is_reply": false, "is_retweet": false, "user_id": "180946830"}

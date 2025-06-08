@@ -1,0 +1,1 @@
+{"usernameTweet": "RamazanSenbahar", "ID": "754075428697112576", "text": "Çay içiyorum rahatsız etmeyin. #SokağaSakınÇıkma", "url": "/RamazanSenbahar/status/754075428697112576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:26", "is_reply": false, "is_retweet": false, "user_id": "3048927002"}

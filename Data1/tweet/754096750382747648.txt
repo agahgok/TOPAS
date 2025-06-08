@@ -1,0 +1,1 @@
+{"usernameTweet": "RecepUcakk", "ID": "754096750382747648", "text": "# SokağaSakınÇıkma  İnsanları kandırmak, kandırıldığına inandırmaktan daha kolaydır", "url": "/RecepUcakk/status/754096750382747648", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:34:10", "is_reply": false, "is_retweet": false, "user_id": "809685884"}

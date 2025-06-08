@@ -1,0 +1,1 @@
+{"usernameTweet": "mt4eo", "ID": "754080007820079105", "text": "# SokağaSakınÇıkma \nAsker; \"ben anlamaz, merkez anlar\" der, kafana sıkar...", "url": "/mt4eo/status/754080007820079105", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:38", "is_reply": false, "is_retweet": false, "user_id": "97533020"}

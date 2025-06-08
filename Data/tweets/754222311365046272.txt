@@ -1,0 +1,1 @@
+{"usernameTweet": "TcHepar_MBoncuk", "ID": "754222311365046272", "text": "Tayyipin oyununa gelmeyin. #SokağaSakınÇıkma , bizi birbirimize düşürmek istiyor.", "url": "/TcHepar_MBoncuk/status/754222311365046272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 10:53:06", "is_reply": false, "is_retweet": false, "user_id": "3079252540"}

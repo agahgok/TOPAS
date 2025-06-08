@@ -1,0 +1,1 @@
+{"usernameTweet": "Muhammet_imir", "ID": "754086584459235329", "text": "Millet sokağa çıkmasaydı belki herşey daha farklı olabilirdi #SokağaSakınÇıkma", "url": "/Muhammet_imir/status/754086584459235329", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:46", "is_reply": false, "is_retweet": false, "user_id": "402174291"}

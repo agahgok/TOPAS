@@ -1,0 +1,1 @@
+{"usernameTweet": "neredeysenormal", "ID": "754085046076731392", "text": "# SokağaSakınÇıkma  #Ankara   şu anda minarelerden ülkemin selası okunuyor.", "url": "/neredeysenormal/status/754085046076731392", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:47:39", "is_reply": false, "is_retweet": false, "user_id": "1912357260"}

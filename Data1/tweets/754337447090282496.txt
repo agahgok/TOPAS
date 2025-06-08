@@ -1,0 +1,1 @@
+{"usernameTweet": "EmelYuna", "ID": "754337447090282496", "text": "# SokağaSakınÇıkma   pic.twitter.com/d4DSKTD2Cq", "url": "/EmelYuna/status/754337447090282496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 18:30:36", "is_reply": false, "is_retweet": false, "user_id": "1600361790"}

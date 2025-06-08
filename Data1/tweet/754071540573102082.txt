@@ -1,0 +1,1 @@
+{"usernameTweet": "francisco23771", "ID": "754071540573102082", "text": "sokağa çıkmak isteyen ak kefenlileri bilmem ben evdeyim sende çıkma\n#SokağaSakınÇıkma", "url": "/francisco23771/status/754071540573102082", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:59", "is_reply": false, "is_retweet": false, "user_id": "754069933139619840"}

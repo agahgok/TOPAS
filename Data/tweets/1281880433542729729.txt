@@ -1,0 +1,1 @@
+{"usernameTweet": "non_existantt", "ID": "1281880433542729729", "text": "Manes net manageris  darbe  paklause ar turiu tik toka nu blet wtf tegul naikina ta appsa greiciau", "url": "/non_existantt/status/1281880433542729729", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 12:18:06", "is_reply": true, "is_retweet": false, "user_id": "1246603537"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "OmerBoybeyi", "ID": "1284402809534844928", "text": "Son savaşta cepheyi bırakıp Bakiye dönüp  darbe  yapmışlardı .", "url": "/OmerBoybeyi/status/1284402809534844928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 11:21:07", "is_reply": true, "is_retweet": false, "user_id": "544047797"}

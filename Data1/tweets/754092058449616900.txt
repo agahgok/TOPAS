@@ -1,0 +1,1 @@
+{"usernameTweet": "14a06a", "ID": "754092058449616900", "text": "# sokağasakınçıkma  bunak fetönün tasmali köpekleri yine faliyete gecti\nteker teker hesap vereceksiniz", "url": "/14a06a/status/754092058449616900", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:31", "is_reply": false, "is_retweet": false, "user_id": "144309205"}

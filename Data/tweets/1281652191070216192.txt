@@ -1,0 +1,1 @@
+{"usernameTweet": "denzel_seks", "ID": "1281652191070216192", "text": "34 amına koyumm https:// twitter.com/leylaturans/st atus/1281649435320057859   …", "url": "/denzel_seks/status/1281652191070216192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 21:11:08", "is_reply": false, "is_retweet": false, "user_id": "936237142010925056"}

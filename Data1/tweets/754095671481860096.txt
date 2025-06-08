@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754095671481860096", "text": "# SokağaSakınÇıkma    https:// twitter.com/yavruzombie/st atus/754085750501732352   …", "url": "/mertbzky/status/754095671481860096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:53", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

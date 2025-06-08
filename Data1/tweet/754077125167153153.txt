@@ -1,0 +1,1 @@
+{"usernameTweet": "nesbdr", "ID": "754077125167153153", "text": "Bi ic savasimiz eksik   #SokağaSakınÇıkma", "url": "/nesbdr/status/754077125167153153", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:11", "is_reply": false, "is_retweet": false, "user_id": "349360501"}

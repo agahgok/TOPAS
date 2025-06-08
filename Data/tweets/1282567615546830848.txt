@@ -1,0 +1,1 @@
+{"usernameTweet": "kiziltas_can", "ID": "1282567615546830848", "text": "Reis enişteden erken alsaydı  darbe  istihbaratını o uçaklarını kaldırmazdık elhamdulillah hülo", "url": "/kiziltas_can/status/1282567615546830848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 09:48:43", "is_reply": true, "is_retweet": false, "user_id": "3446469855"}

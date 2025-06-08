@@ -1,0 +1,1 @@
+{"usernameTweet": "sselinn0", "ID": "1281302449786163202", "text": "Darbe  güzel fikirmiş hzjxkkdlddii", "url": "/sselinn0/status/1281302449786163202", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 22:01:24", "is_reply": true, "is_retweet": false, "user_id": "1252260465201250306"}

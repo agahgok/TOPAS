@@ -1,0 +1,1 @@
+{"usernameTweet": "ArcMimari", "ID": "754082339144273922", "text": "# SokağaSakınÇıkma  diye oruspu cocukşarı sizi vatan hainleri eşkiyalarhaşaşiler anaları oruspu", "url": "/ArcMimari/status/754082339144273922", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:54", "is_reply": false, "is_retweet": false, "user_id": "1054540952"}

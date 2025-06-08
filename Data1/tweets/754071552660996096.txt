@@ -1,0 +1,1 @@
+{"usernameTweet": "ilaydablmz", "ID": "754071552660996096", "text": "Tül perdenin önünde sokağa çıkın diyen insanlar ilk önce kendi çocuklarını çıkarsınlar! #SokağaSakınÇıkma", "url": "/ilaydablmz/status/754071552660996096", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:54:02", "is_reply": false, "is_retweet": false, "user_id": "3397551857"}

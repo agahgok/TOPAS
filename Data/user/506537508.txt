@@ -1,0 +1,1 @@
+{"ID": "506537508", "name": "political campaign bot 9000", "screen_name": "izrodoT", "avatar": "https://pbs.twimg.com/profile_images/378800000324920450/a4314a05ec952bd575396d3ecd77216f_bigger.gif"}

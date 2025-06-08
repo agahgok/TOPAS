@@ -1,0 +1,1 @@
+{"usernameTweet": "Nidadiskiran", "ID": "754077568509313025", "text": "300 Koruma ile götünü sağlama alıp, halkı ölüme göndermeye çalışıyor #SokağaSakınÇıkma", "url": "/Nidadiskiran/status/754077568509313025", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:17:57", "is_reply": false, "is_retweet": false, "user_id": "4295095877"}

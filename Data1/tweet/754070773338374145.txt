@@ -1,0 +1,1 @@
+{"usernameTweet": "BerkayTiger", "ID": "754070773338374145", "text": "# SokağaSakınÇıkma  \nEVİNDE OTUR", "url": "/BerkayTiger/status/754070773338374145", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:50:56", "is_reply": false, "is_retweet": false, "user_id": "1091956736"}

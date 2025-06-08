@@ -1,0 +1,1 @@
+{"usernameTweet": "iversonics", "ID": "754093122691313664", "text": "60 darbesini bayram olarak kutlayanların torunları ses verdi #SokağaSakınÇıkma", "url": "/iversonics/status/754093122691313664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:45", "is_reply": false, "is_retweet": false, "user_id": "219044029"}

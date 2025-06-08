@@ -1,0 +1,1 @@
+{"usernameTweet": "muhammetercan49", "ID": "754099541205458948", "text": "Başkomutan RTE dediler , ayıp lan size söylerken hiçmi vicdanınız sızlamadı #sokağaçıkma", "url": "/muhammetercan49/status/754099541205458948", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:45:15", "is_reply": false, "is_retweet": false, "user_id": "1047580171"}

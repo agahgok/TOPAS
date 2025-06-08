@@ -1,0 +1,1 @@
+{"usernameTweet": "cgL_Srtrk", "ID": "754346016183296000", "text": "Halkı insanlığa davet et #askerimedokunma  #halkıdüşmanetme  #polisaskerbirol  #oyunagelme  #sokağaçıkma", "url": "/cgL_Srtrk/status/754346016183296000", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 19:04:39", "is_reply": false, "is_retweet": false, "user_id": "172037195"}

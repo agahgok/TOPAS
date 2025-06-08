@@ -1,0 +1,1 @@
+{"usernameTweet": "krks_ali", "ID": "754086523679678464", "text": "# SokağaSakınÇıkma  Ülkeye sahip çıkma zamanı geleceğimiz için  çocuklarımız için.. Her ne görüşte olursak olalım..", "url": "/krks_ali/status/754086523679678464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:32", "is_reply": false, "is_retweet": false, "user_id": "489856748"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "fangirl0_", "ID": "754082467552911360", "text": "sokağa çıkın. ülkenizi koruyun. #SokağaSakınÇıkma", "url": "/fangirl0_/status/754082467552911360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:25", "is_reply": false, "is_retweet": false, "user_id": "726875065011306496"}

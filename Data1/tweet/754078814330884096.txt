@@ -1,0 +1,1 @@
+{"usernameTweet": "1etabiyim", "ID": "754078814330884096", "text": "# SokağaSakınÇıkma   pic.twitter.com/R8SMJMP9uM", "url": "/1etabiyim/status/754078814330884096", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:22:54", "is_reply": false, "is_retweet": false, "user_id": "3986049125"}

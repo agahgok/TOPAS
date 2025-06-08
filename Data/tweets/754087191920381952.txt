@@ -1,0 +1,1 @@
+{"usernameTweet": "hamus_i", "ID": "754087191920381952", "text": "# SokağaSakınÇıkma  diyenler tabii TT 1. Sırada olur, yazın yazın... \nMilli irade şuan dışarda/meşgul!!! \n\n#Ankara", "url": "/hamus_i/status/754087191920381952", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:56:11", "is_reply": false, "is_retweet": false, "user_id": "727514270"}

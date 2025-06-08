@@ -1,0 +1,1 @@
+{"usernameTweet": "sessiz_adam1926", "ID": "1282053651566080002", "text": "80 darbesi gibi kalbime  darbe  yaptın de Kanka xndkdkdmmddkdl direkt lafa gir", "url": "/sessiz_adam1926/status/1282053651566080002", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-11 23:46:24", "is_reply": true, "is_retweet": false, "user_id": "1227967946624028673"}

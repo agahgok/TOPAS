@@ -1,0 +1,1 @@
+{"usernameTweet": "TarikSahin1979", "ID": "754093574451449857", "text": "# sokağasakıncıkma \n\nçok komik bir darbe oldu. cok kotu oynadın akp", "url": "/TarikSahin1979/status/754093574451449857", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:21:33", "is_reply": false, "is_retweet": false, "user_id": "2967933965"}

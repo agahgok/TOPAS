@@ -1,0 +1,1 @@
+{"usernameTweet": "asli030190", "ID": "754085518812545024", "text": "# SokağaSakınÇıkma   pic.twitter.com/QjtbYyTPKR", "url": "/asli030190/status/754085518812545024", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:49:32", "is_reply": false, "is_retweet": false, "user_id": "1122318644"}

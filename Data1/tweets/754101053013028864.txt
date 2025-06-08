@@ -1,0 +1,1 @@
+{"usernameTweet": "me____like", "ID": "754101053013028864", "text": "asla galyana gelinmemeli!!! #SokağaSakınÇıkma", "url": "/me____like/status/754101053013028864", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:51:16", "is_reply": false, "is_retweet": false, "user_id": "92710529"}

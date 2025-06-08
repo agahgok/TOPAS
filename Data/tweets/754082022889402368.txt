@@ -1,0 +1,1 @@
+{"usernameTweet": "dr_vedaterdem", "ID": "754082022889402368", "text": "# SokağaSakınÇıkma  \nçıkan eşoluğu eşektir askeri darbe bu saatte selat okuyan imamın G*tüne girsin :-D", "url": "/dr_vedaterdem/status/754082022889402368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:39", "is_reply": false, "is_retweet": false, "user_id": "4625536823"}

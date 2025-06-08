@@ -1,0 +1,1 @@
+{"usernameTweet": "omurcicek", "ID": "754074645381406720", "text": "At izi it izine karıştı darbe gerçek yada değil  #SokağaSakınÇıkma", "url": "/omurcicek/status/754074645381406720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:20", "is_reply": false, "is_retweet": false, "user_id": "278958908"}

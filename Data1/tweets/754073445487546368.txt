@@ -1,0 +1,1 @@
+{"usernameTweet": "didemyuruk", "ID": "754073445487546368", "text": "İnsanları sokağa çağıranlardan bir tanesi sokakta mı gören var mı?\n #SokağaSakınÇıkma", "url": "/didemyuruk/status/754073445487546368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:34", "is_reply": false, "is_retweet": false, "user_id": "535563032"}

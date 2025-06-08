@@ -1,0 +1,1 @@
+{"usernameTweet": "61pirireis", "ID": "754077588650332160", "text": "# SokağaSakınÇıkma  hadilan  pic.twitter.com/jRuhtK3tEn", "url": "/61pirireis/status/754077588650332160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:01", "is_reply": false, "is_retweet": false, "user_id": "1479512234"}

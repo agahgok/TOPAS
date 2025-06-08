@@ -1,0 +1,1 @@
+{"usernameTweet": "mause89034346", "ID": "754090127601836033", "text": "Filler tepişir çimenler ezilir, 17 şehit polis senin benim onun babası kocası abisi  #SokağaSakınÇıkma", "url": "/mause89034346/status/754090127601836033", "nbr_retweet": 3, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 02:07:51", "is_reply": false, "is_retweet": false, "user_id": "1473025878"}

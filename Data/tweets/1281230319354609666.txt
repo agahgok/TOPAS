@@ -1,0 +1,1 @@
+{"usernameTweet": "tolgaturan61", "ID": "1281230319354609666", "text": "Kısas a kısas Aslında daha fazlasını hak ediyor  darbe  sevici namert vatan hainleri", "url": "/tolgaturan61/status/1281230319354609666", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 17:14:46", "is_reply": true, "is_retweet": false, "user_id": "1236138172251283456"}

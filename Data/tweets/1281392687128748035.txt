@@ -1,0 +1,1 @@
+{"usernameTweet": "cerenamayklms", "ID": "1281392687128748035", "text": "resmen her yerden  darbe  yedik amk bu nasıl bir gece #cemnis", "url": "/cerenamayklms/status/1281392687128748035", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-10 03:59:58", "is_reply": false, "is_retweet": false, "user_id": "1275190484726677510"}

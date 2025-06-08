@@ -1,0 +1,1 @@
+{"usernameTweet": "daniel_carriz", "ID": "1282349008275607552", "text": "¡Que comentario tan destinado y fuera de lugar!", "url": "/daniel_carriz/status/1282349008275607552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 19:20:03", "is_reply": true, "is_retweet": false, "user_id": "107747276"}

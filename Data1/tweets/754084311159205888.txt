@@ -1,0 +1,1 @@
+{"usernameTweet": "ismailcemaslan", "ID": "754084311159205888", "text": "İnanan milletin, ezanı kullananları görememesi ne ayıp. #SokağaSakınÇıkma", "url": "/ismailcemaslan/status/754084311159205888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:44", "is_reply": false, "is_retweet": false, "user_id": "179894029"}

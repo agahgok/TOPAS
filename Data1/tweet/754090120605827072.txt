@@ -1,0 +1,1 @@
+{"usernameTweet": "polatxberlin", "ID": "754090120605827072", "text": "Şimdi daha yüksek sesle\nRecep Tayyip Erdoğan  #SokağaSakınÇıkma   pic.twitter.com/wFgKeRXrEQ", "url": "/polatxberlin/status/754090120605827072", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:07:49", "is_reply": false, "is_retweet": false, "user_id": "285841865"}

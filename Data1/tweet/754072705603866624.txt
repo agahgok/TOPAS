@@ -1,0 +1,1 @@
+{"usernameTweet": "islandofthougt", "ID": "754072705603866624", "text": "Cami ve de belediye Hoparlorlerinden Meydanlara cikin anonsu yapiliyor.   #SokağaSakınÇıkma", "url": "/islandofthougt/status/754072705603866624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:37", "is_reply": false, "is_retweet": false, "user_id": "2455993852"}

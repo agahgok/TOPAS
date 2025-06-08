@@ -1,0 +1,1 @@
+{"usernameTweet": "ELelfide", "ID": "754074497355882496", "text": "Tùm bu senaryolari kim yaziyor ?\nÜlkeyi KAN gôlùne cevirecekler. \n#SokağaSakınÇıkma   pic.twitter.com/IIDSGwr58x", "url": "/ELelfide/status/754074497355882496", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:44", "is_reply": false, "is_retweet": false, "user_id": "1511833992"}

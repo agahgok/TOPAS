@@ -1,0 +1,1 @@
+{"usernameTweet": "elifbalc_", "ID": "754075809799892992", "text": "# SokağaSakınÇıkma  sağduyuyu elden bırakmayın!", "url": "/elifbalc_/status/754075809799892992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:57", "is_reply": false, "is_retweet": false, "user_id": "605845372"}

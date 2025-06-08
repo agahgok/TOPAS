@@ -1,0 +1,1 @@
+{"usernameTweet": "QuateLLe", "ID": "754080601280483329", "text": "Bu gözler bunu da mı görecekti..?!!! #SokağaSakınÇıkma   pic.twitter.com/xiB3YyrmiL", "url": "/QuateLLe/status/754080601280483329", "nbr_retweet": 5, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2016-07-16 01:30:00", "is_reply": false, "is_retweet": false, "user_id": "67193184"}

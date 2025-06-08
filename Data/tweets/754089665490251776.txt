@@ -1,0 +1,1 @@
+{"usernameTweet": "cdmgny", "ID": "754089665490251776", "text": "# SokağaSakınÇıkma  bu kadar kolay gaza gelmeyin gormuomusunuz bariz duzmece oyun var ortada..", "url": "/cdmgny/status/754089665490251776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:01", "is_reply": false, "is_retweet": false, "user_id": "3065972410"}

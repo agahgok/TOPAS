@@ -1,0 +1,1 @@
+{"usernameTweet": "galatadabirmel", "ID": "1281292961964347395", "text": "Yazık yahu Hannah'a hangi zamanda hangi evrende fark etmiyor sürekli  darbe  yedi ahahshs", "url": "/galatadabirmel/status/1281292961964347395", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-09 21:23:42", "is_reply": true, "is_retweet": false, "user_id": "1074021831621918720"}

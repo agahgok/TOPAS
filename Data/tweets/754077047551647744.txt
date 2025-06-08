@@ -1,0 +1,1 @@
+{"usernameTweet": "marasliede46", "ID": "754077047551647744", "text": "Sabah uyanınca TSK dan ne darbesi tatbikat yaptık derseler şaşırmam  #SokağaSakınÇıkma", "url": "/marasliede46/status/754077047551647744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:52", "is_reply": false, "is_retweet": false, "user_id": "2829364201"}

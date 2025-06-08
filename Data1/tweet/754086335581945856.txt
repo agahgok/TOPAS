@@ -1,0 +1,1 @@
+{"usernameTweet": "nurozubekk", "ID": "754086335581945856", "text": "# SokağaSakınÇıkma  dinin geldiği noktaya bak. Siyasete alet ettiniz ya yazıklar olsun.", "url": "/nurozubekk/status/754086335581945856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:47", "is_reply": false, "is_retweet": false, "user_id": "1688276202"}

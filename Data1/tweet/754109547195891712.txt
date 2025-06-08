@@ -1,0 +1,1 @@
+{"usernameTweet": "hilalicevik", "ID": "754109547195891712", "text": "# SokağaÇıkma", "url": "/hilalicevik/status/754109547195891712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:25:01", "is_reply": false, "is_retweet": false, "user_id": "4092709217"}

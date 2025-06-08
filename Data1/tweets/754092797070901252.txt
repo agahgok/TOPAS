@@ -1,0 +1,1 @@
+{"usernameTweet": "cync1982", "ID": "754092797070901252", "text": "# SokağaSakınÇıkma  islam devrimi herkese hayırlı olsun!oy verenlerin hepsinin allah belasını versin!!", "url": "/cync1982/status/754092797070901252", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:27", "is_reply": false, "is_retweet": false, "user_id": "314441687"}

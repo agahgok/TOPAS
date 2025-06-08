@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynepsaral01", "ID": "754078842499674112", "text": "# SokağaSakınÇıkma  ihvanada sokaga cikin denmisti misir ve ihvanin hali ortada", "url": "/zeynepsaral01/status/754078842499674112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:00", "is_reply": false, "is_retweet": false, "user_id": "712962537340403712"}

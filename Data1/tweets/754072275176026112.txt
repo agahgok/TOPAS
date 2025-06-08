@@ -1,0 +1,1 @@
+{"usernameTweet": "zelis815", "ID": "754072275176026112", "text": "# SokağaSakınÇıkma  Asker yoksa millet seni çiğner\n#DarbeZamanıKışlayaGitme  Gerçek Asker", "url": "/zelis815/status/754072275176026112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:55", "is_reply": false, "is_retweet": false, "user_id": "3032325969"}

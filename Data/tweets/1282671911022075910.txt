@@ -1,0 +1,1 @@
+{"usernameTweet": "onur28992421", "ID": "1282671911022075910", "text": "sanki fazla  darbe  almış kaç model 2 ci else pazarla girerim ben kolay kolay girmem", "url": "/onur28992421/status/1282671911022075910", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:43:09", "is_reply": true, "is_retweet": false, "user_id": "1268779433546190849"}

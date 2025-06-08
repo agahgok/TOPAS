@@ -1,0 +1,1 @@
+{"usernameTweet": "doksozz", "ID": "754102360327221248", "text": "# sokagacikma  #oyunagelme  #darbeOyununaKanma  #DarbeDeğilOyun pic.twitter.com/GumQxM8YJi", "url": "/doksozz/status/754102360327221248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:56:27", "is_reply": false, "is_retweet": false, "user_id": "372753290"}

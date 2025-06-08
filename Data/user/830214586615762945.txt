@@ -1,0 +1,1 @@
+{"ID": "830214586615762945", "name": "たこ虹歌詞Bot", "screen_name": "taco_tacoyaki", "avatar": "https://pbs.twimg.com/profile_images/863923588193165312/kD7Vy9bt_bigger.jpg"}

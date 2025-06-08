@@ -1,0 +1,1 @@
+{"usernameTweet": "murartart", "ID": "754107304979628032", "text": "sanat zeka işidir, senaryo yazmak da onu oynamak da akıl gerektirir !\nKötü oyuncular sizi...\n#SokağaSakınÇıkma", "url": "/murartart/status/754107304979628032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:16:06", "is_reply": false, "is_retweet": false, "user_id": "1474133496"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gokhansimsek08", "ID": "754099498360659968", "text": "Tayyip'in polisi Gebze'de anons geçiyor haklı sokağa çağırıyor #sokağaçıkma  #DarbeDeğilTiyatro", "url": "/gokhansimsek08/status/754099498360659968", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:45:05", "is_reply": false, "is_retweet": false, "user_id": "2766290128"}

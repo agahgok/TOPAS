@@ -1,0 +1,1 @@
+{"usernameTweet": "kaleli05", "ID": "754091290653028353", "text": "Bu millet bu oyunlara gelmez şerefsiz darbeciler  #SokağaSakınÇıkma", "url": "/kaleli05/status/754091290653028353", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:12:28", "is_reply": false, "is_retweet": false, "user_id": "203976832"}

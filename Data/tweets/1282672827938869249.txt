@@ -1,0 +1,1 @@
+{"usernameTweet": "ayseget", "ID": "1282672827938869249", "text": "Offff yaaa heryerde  darbe  yiyoruz, insallah", "url": "/ayseget/status/1282672827938869249", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:46:47", "is_reply": true, "is_retweet": false, "user_id": "1233133288409223168"}

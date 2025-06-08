@@ -1,0 +1,1 @@
+{"usernameTweet": "Hanimck1", "ID": "1282054330141548545", "text": "Samimiyet ve güven ama nedense de hep böyle güvenip ve samimi olan insanlar tarafından  darbe  yiyoruz ", "url": "/Hanimck1/status/1282054330141548545", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-11 23:49:06", "is_reply": true, "is_retweet": false, "user_id": "1151926754010947584"}

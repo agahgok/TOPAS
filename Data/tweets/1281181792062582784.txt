@@ -1,0 +1,1 @@
+{"usernameTweet": "nocturnalaska", "ID": "1281181792062582784", "text": "Oykunun enayisi abi fazla enayi bir  darbe  de biz vururuz sıkıntı yookkdnwmdnwkdnwkfmddmke", "url": "/nocturnalaska/status/1281181792062582784", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 14:01:57", "is_reply": true, "is_retweet": false, "user_id": "1156666589263093760"}

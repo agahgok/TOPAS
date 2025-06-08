@@ -1,0 +1,1 @@
+{"usernameTweet": "stillzengini", "ID": "754085432216944641", "text": "Darbe diye başlayan kalkışma;AKP mitingine döndü! #SokağaSakınÇıkma", "url": "/stillzengini/status/754085432216944641", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:49:11", "is_reply": false, "is_retweet": false, "user_id": "299755417"}

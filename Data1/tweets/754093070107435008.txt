@@ -1,0 +1,1 @@
+{"usernameTweet": "didemklc76", "ID": "754093070107435008", "text": "Eli silahli manyaklar sokakta asker ve polisle karsi karsiya gelme #SokağaSakınÇıkma", "url": "/didemklc76/status/754093070107435008", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:19:32", "is_reply": false, "is_retweet": false, "user_id": "1477089931"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynel_karatas", "ID": "1282289957810376707", "text": "Düşüne bir  darbe  daha", "url": "/zeynel_karatas/status/1282289957810376707", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 15:25:24", "is_reply": true, "is_retweet": false, "user_id": "124526032"}

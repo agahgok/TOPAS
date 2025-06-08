@@ -1,0 +1,1 @@
+{"usernameTweet": "burak_ozturkmen", "ID": "754080695895592960", "text": "# SokağaSakınÇıkma    #DarbeyeHayır", "url": "/burak_ozturkmen/status/754080695895592960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:22", "is_reply": false, "is_retweet": false, "user_id": "532049503"}

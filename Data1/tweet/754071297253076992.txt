@@ -1,0 +1,1 @@
+{"usernameTweet": "yakupoqLu", "ID": "754071297253076992", "text": "Darbeye bak darbeye hicbir siyasi tutuklanmadi.. #SokağaSakınÇıkma", "url": "/yakupoqLu/status/754071297253076992", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:53:01", "is_reply": false, "is_retweet": false, "user_id": "19189122"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "janedoebibi", "ID": "754077565426565121", "text": "sana gezide el uzatan askere karşı gelme terörü durduramayanlara el uzatma! #SokağaSakınÇıkma", "url": "/janedoebibi/status/754077565426565121", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:17:56", "is_reply": false, "is_retweet": false, "user_id": "709044238"}

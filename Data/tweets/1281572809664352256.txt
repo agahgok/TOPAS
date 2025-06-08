@@ -1,0 +1,1 @@
+{"usernameTweet": "ibrahimsonmez__", "ID": "1281572809664352256", "text": "Darbe  başarılı olsa bu twitle gurur duyardın levent bizi yeme\nkarakter bozuk maya tutmaz", "url": "/ibrahimsonmez__/status/1281572809664352256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 15:55:42", "is_reply": true, "is_retweet": false, "user_id": "128264385"}

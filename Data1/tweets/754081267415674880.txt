@@ -1,0 +1,1 @@
+{"usernameTweet": "pinaarrkaracaa", "ID": "754081267415674880", "text": "# sokağasakınçıkma  !", "url": "/pinaarrkaracaa/status/754081267415674880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:38", "is_reply": false, "is_retweet": false, "user_id": "382693855"}

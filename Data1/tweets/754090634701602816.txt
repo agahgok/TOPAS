@@ -1,0 +1,1 @@
+{"usernameTweet": "Vay_imansz", "ID": "754090634701602816", "text": "Oyuna gelme #SokağaSakınÇıkma", "url": "/Vay_imansz/status/754090634701602816", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 02:09:52", "is_reply": false, "is_retweet": false, "user_id": "740813596377120768"}

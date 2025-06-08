@@ -1,0 +1,1 @@
+{"usernameTweet": "ZeynepBGuven", "ID": "754070645890318336", "text": "Siz hangi ilde sokakta olcaksiniz? Diye soruldugunda baglanti kesildi..! #sokagacikma", "url": "/ZeynepBGuven/status/754070645890318336", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:50:26", "is_reply": false, "is_retweet": false, "user_id": "2383086562"}

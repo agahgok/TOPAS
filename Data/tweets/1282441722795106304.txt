@@ -1,0 +1,1 @@
+{"usernameTweet": "bubblebubbless", "ID": "1282441722795106304", "text": "Bu bir  darbe  ve cuntası sensin", "url": "/bubblebubbless/status/1282441722795106304", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-13 01:28:27", "is_reply": false, "is_retweet": false, "user_id": "1101562220310396933"}

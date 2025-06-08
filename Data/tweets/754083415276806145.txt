@@ -1,0 +1,1 @@
+{"usernameTweet": "pastuna_", "ID": "754083415276806145", "text": "# SokağaSakınÇıkma  \n#DarbeyeKarsıUElkeneSahipCık  \n#Darbeyehayır  \nYazık değil mi bu vatana", "url": "/pastuna_/status/754083415276806145", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:41:11", "is_reply": false, "is_retweet": false, "user_id": "1688717892"}

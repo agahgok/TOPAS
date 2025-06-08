@@ -1,0 +1,1 @@
+{"usernameTweet": "zizimii", "ID": "754076151916683265", "text": "# SokağaSakınÇıkma  piyon olmayin. bende orada olacagim diyerek halki sokaga davet etmek nedir", "url": "/zizimii/status/754076151916683265", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:19", "is_reply": false, "is_retweet": false, "user_id": "719067812"}

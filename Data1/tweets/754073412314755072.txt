@@ -1,0 +1,1 @@
+{"usernameTweet": "35_izmirim", "ID": "754073412314755072", "text": "La bir durun La bir durun! Yazık degil mi guzel ülkemize?! #SokağaSakınÇıkma", "url": "/35_izmirim/status/754073412314755072", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:01:26", "is_reply": false, "is_retweet": false, "user_id": "1549348172"}

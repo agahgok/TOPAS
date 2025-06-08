@@ -1,0 +1,1 @@
+{"usernameTweet": "smnrkbs", "ID": "754083943150981120", "text": "Tankın üstüne çıkan yürekler sayınızı Rabbim artırsın. #SokağaSakınÇıkma", "url": "/smnrkbs/status/754083943150981120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:16", "is_reply": false, "is_retweet": false, "user_id": "2316230584"}

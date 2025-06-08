@@ -1,0 +1,1 @@
+{"usernameTweet": "ggizemg", "ID": "754356496679526400", "text": "# sokağasakınçıkma  #askerimedokunma pic.twitter.com/QwlpF7eJWB", "url": "/ggizemg/status/754356496679526400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 19:46:18", "is_reply": false, "is_retweet": false, "user_id": "183974541"}

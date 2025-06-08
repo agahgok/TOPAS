@@ -1,0 +1,1 @@
+{"usernameTweet": "ucusansatirlar", "ID": "1282434233735229441", "text": "Wat. knkinin hayallerine  darbe  vuruolar bi gelsne :'(", "url": "/ucusansatirlar/status/1282434233735229441", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 00:58:42", "is_reply": false, "is_retweet": false, "user_id": "1135679520160268289"}

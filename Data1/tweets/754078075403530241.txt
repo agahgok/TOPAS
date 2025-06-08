@@ -1,0 +1,1 @@
+{"usernameTweet": "BusraKbpc", "ID": "754078075403530241", "text": "İnsanların gözü kör olmuş ben kafayı yicem #SokağaSakınÇıkma", "url": "/BusraKbpc/status/754078075403530241", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:19:57", "is_reply": false, "is_retweet": false, "user_id": "3496789758"}

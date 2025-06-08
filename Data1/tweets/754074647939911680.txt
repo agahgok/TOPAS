@@ -1,0 +1,1 @@
+{"usernameTweet": "tubaynsk", "ID": "754074647939911680", "text": "Hiçbir düşünce, hiçbir ideoloji ya da insan senden ve ailenden daha değerli değil. #SokağaSakınÇıkma", "url": "/tubaynsk/status/754074647939911680", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:06:20", "is_reply": false, "is_retweet": false, "user_id": "714505614806937601"}

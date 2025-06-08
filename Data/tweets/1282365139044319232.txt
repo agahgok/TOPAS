@@ -1,0 +1,1 @@
+{"usernameTweet": "ErdgSrk", "ID": "1282365139044319232", "text": "Fetoşu  darbe  yapsaydınız kaftanıda hazırdı demi şerefsizler sizi", "url": "/ErdgSrk/status/1282365139044319232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 20:24:08", "is_reply": true, "is_retweet": false, "user_id": "1265213216235405312"}

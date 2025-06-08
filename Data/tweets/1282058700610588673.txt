@@ -1,0 +1,1 @@
+{"usernameTweet": "AliFurkanzybk", "ID": "1282058700610588673", "text": "Calciopoli skandalından sonra juventus a vurulan büyük  darbe . UK.", "url": "/AliFurkanzybk/status/1282058700610588673", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 00:06:28", "is_reply": true, "is_retweet": false, "user_id": "2860456714"}

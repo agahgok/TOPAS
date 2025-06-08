@@ -1,0 +1,1 @@
+{"usernameTweet": "ycdanga", "ID": "754079471855108096", "text": "Çıkmayın dışarı çatışma dışarıda inşallah kazasız belasız atlatırız #SokağaSakınÇıkma", "url": "/ycdanga/status/754079471855108096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:30", "is_reply": false, "is_retweet": false, "user_id": "747795953663475712"}

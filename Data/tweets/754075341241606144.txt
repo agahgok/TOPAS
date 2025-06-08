@@ -1,0 +1,1 @@
+{"usernameTweet": "elfbrkts", "ID": "754075341241606144", "text": "İç savaş çıkarmaya çalışıyor ortalığın daha çok karışmasını istiyor bu oyuna gelme #SokağaSakınÇıkma", "url": "/elfbrkts/status/754075341241606144", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:09:06", "is_reply": false, "is_retweet": false, "user_id": "359053308"}

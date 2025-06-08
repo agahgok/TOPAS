@@ -1,0 +1,1 @@
+{"usernameTweet": "mhmet__", "ID": "754093043792416769", "text": "# SokağaSakınÇıkma  diyenlere bakma sokaklara sokaklara", "url": "/mhmet__/status/754093043792416769", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:26", "is_reply": false, "is_retweet": false, "user_id": "1417984472"}

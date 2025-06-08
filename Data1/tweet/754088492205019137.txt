@@ -1,0 +1,1 @@
+{"usernameTweet": "nerede80ler", "ID": "754088492205019137", "text": "Çıkamıycam işte hoca sus artık uykumu bölüyorsunn #SokağaSakınÇıkma", "url": "/nerede80ler/status/754088492205019137", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:01:21", "is_reply": false, "is_retweet": false, "user_id": "3301946344"}

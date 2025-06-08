@@ -1,0 +1,1 @@
+{"usernameTweet": "kemal_gunyel", "ID": "754103798025560064", "text": "Ülkede iç savaş var sakın  #SokağaSakınÇıkma", "url": "/kemal_gunyel/status/754103798025560064", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:02:10", "is_reply": false, "is_retweet": false, "user_id": "708263455774646272"}

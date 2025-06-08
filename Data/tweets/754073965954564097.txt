@@ -1,0 +1,1 @@
+{"usernameTweet": "Pis_Fenerli", "ID": "754073965954564097", "text": "# SokağaSakınÇıkma", "url": "/Pis_Fenerli/status/754073965954564097", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:38", "is_reply": false, "is_retweet": false, "user_id": "267437140"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Serhat_Ermez", "ID": "754078970971381760", "text": "Yemin ediyorum ülkece trolleniyoruz aq , sazanlar meydanlara yüzmeye başladı bile...\n#SokağaSakınÇıkma", "url": "/Serhat_Ermez/status/754078970971381760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:31", "is_reply": false, "is_retweet": false, "user_id": "207032666"}

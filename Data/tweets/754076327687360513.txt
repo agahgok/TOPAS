@@ -1,0 +1,1 @@
+{"usernameTweet": "oguzkubilayhan", "ID": "754076327687360513", "text": "Halk dışarı çıksın diye \"asker çekiliyor\" haberleri veriliyor. #sokağaçıkma", "url": "/oguzkubilayhan/status/754076327687360513", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:01", "is_reply": false, "is_retweet": false, "user_id": "2236103707"}

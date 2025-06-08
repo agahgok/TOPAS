@@ -1,0 +1,1 @@
+{"usernameTweet": "Yobazsavar92", "ID": "754084482190303232", "text": "# SokağaSakınÇıkma   pic.twitter.com/RRI9XMyKuJ", "url": "/Yobazsavar92/status/754084482190303232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:25", "is_reply": false, "is_retweet": false, "user_id": "4886326397"}

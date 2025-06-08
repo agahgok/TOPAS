@@ -1,0 +1,1 @@
+{"usernameTweet": "CicekEsmanur", "ID": "754089544979509248", "text": "# SokağaSakınÇıkma  diyen köpekler şimdi anladınız mı halk sokağa çıkınca ne oluyor?", "url": "/CicekEsmanur/status/754089544979509248", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:32", "is_reply": false, "is_retweet": false, "user_id": "2504072542"}

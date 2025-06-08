@@ -1,0 +1,1 @@
+{"usernameTweet": "misscortez8", "ID": "754085662463234049", "text": "Keep calm and \n#SokağaSakınÇıkma", "url": "/misscortez8/status/754085662463234049", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:06", "is_reply": false, "is_retweet": false, "user_id": "730359848588738560"}

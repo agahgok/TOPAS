@@ -1,0 +1,1 @@
+{"usernameTweet": "SvlDrmz", "ID": "754094562319015937", "text": "Sırada ne var !\n\nErdoğan'ın Başkanlık için Balkon konuşmasımı ?\n\n#Ankara  #SokağaSakınÇıkma", "url": "/SvlDrmz/status/754094562319015937", "nbr_retweet": 9, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2016-07-16 02:25:28", "is_reply": false, "is_retweet": false, "user_id": "2669329898"}

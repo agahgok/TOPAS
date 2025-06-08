@@ -1,0 +1,1 @@
+{"usernameTweet": "odemis_f", "ID": "1282420702646358017", "text": "Koalisyonu kuramayınca CHP ile  darbe  yapanlara yardımcı mı olmuşlar", "url": "/odemis_f/status/1282420702646358017", "nbr_retweet": 2, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2020-07-13 00:04:56", "is_reply": true, "is_retweet": false, "user_id": "2481444863"}

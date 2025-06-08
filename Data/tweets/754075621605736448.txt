@@ -1,0 +1,1 @@
+{"usernameTweet": "organicwhisper", "ID": "754075621605736448", "text": "# SokağaSakınÇıkma  yın delimisiniz", "url": "/organicwhisper/status/754075621605736448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:12", "is_reply": false, "is_retweet": false, "user_id": "267089597"}

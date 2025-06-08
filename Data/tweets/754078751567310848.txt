@@ -1,0 +1,1 @@
+{"usernameTweet": "geceyemavi", "ID": "754078751567310848", "text": "Sokağa çıkmak için Cami de Ezan sesleri var  vay canına #SokağaSakınÇıkma", "url": "/geceyemavi/status/754078751567310848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:39", "is_reply": false, "is_retweet": false, "user_id": "2325439458"}

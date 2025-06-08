@@ -1,0 +1,1 @@
+{"usernameTweet": "kelimedukkani__", "ID": "754087414860242944", "text": "Savaşa sokacaklar ! #SokağaSakınÇıkma", "url": "/kelimedukkani__/status/754087414860242944", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:04", "is_reply": false, "is_retweet": false, "user_id": "197747854"}

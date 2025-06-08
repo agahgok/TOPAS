@@ -1,0 +1,1 @@
+{"usernameTweet": "BigeEce_", "ID": "754076259353788417", "text": "# SokağaSakınÇıkma  Her Türk asker doğar!", "url": "/BigeEce_/status/754076259353788417", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:44", "is_reply": false, "is_retweet": false, "user_id": "1855369616"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Blzezgugr", "ID": "754091411910299649", "text": "Lutfen  #SokağaSakınÇıkma", "url": "/Blzezgugr/status/754091411910299649", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:57", "is_reply": false, "is_retweet": false, "user_id": "282143049"}

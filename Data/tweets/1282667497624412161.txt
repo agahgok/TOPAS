@@ -1,0 +1,1 @@
+{"usernameTweet": "sadikgencer", "ID": "1282667497624412161", "text": "Bir çağ kapandi  darbe  ve vesayet rejimi son buldu.#15TemmuzuUnutma", "url": "/sadikgencer/status/1282667497624412161", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 16:25:36", "is_reply": false, "is_retweet": false, "user_id": "96932664"}

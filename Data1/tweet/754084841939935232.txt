@@ -1,0 +1,1 @@
+{"usernameTweet": "Arturyansi", "ID": "754084841939935232", "text": "# SokağaSakınÇıkma  askere karsi gelemezsiniz bu oyuna dusmeyin sokaga cikmayin", "url": "/Arturyansi/status/754084841939935232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:46:51", "is_reply": false, "is_retweet": false, "user_id": "710083008284459010"}

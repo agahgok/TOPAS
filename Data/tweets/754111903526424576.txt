@@ -1,0 +1,1 @@
+{"usernameTweet": "sudageziyorum", "ID": "754111903526424576", "text": "Bu yaşananlar ya çok ciddi, ya da efsane bi tezgah. #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/sudageziyorum/status/754111903526424576", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:34:23", "is_reply": false, "is_retweet": false, "user_id": "444061458"}

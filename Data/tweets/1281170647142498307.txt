@@ -1,0 +1,1 @@
+{"usernameTweet": "Alpenberg", "ID": "1281170647142498307", "text": "Minin  darbe  girisimi mi??? Yuhhh\n\nKendinizin hosuna gitmeyen hukuki girisimlere  darbe  diyenler ", "url": "/Alpenberg/status/1281170647142498307", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:17:39", "is_reply": true, "is_retweet": false, "user_id": "1233649139243769856"}

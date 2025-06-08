@@ -1,0 +1,1 @@
+{"usernameTweet": "DabeePare", "ID": "1284353937064079362", "text": "Tablado ako sa inyo mga kupal", "url": "/DabeePare/status/1284353937064079362", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 08:06:55", "is_reply": false, "is_retweet": false, "user_id": "1112016133169664002"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "moipel", "ID": "754082503112220672", "text": "# SokağaSakınÇıkma", "url": "/moipel/status/754082503112220672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:33", "is_reply": false, "is_retweet": false, "user_id": "1626126272"}

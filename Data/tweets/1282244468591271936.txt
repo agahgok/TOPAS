@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1282244468591271936", "text": "E sexy também", "url": "/JoneDarbe/status/1282244468591271936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 12:24:38", "is_reply": true, "is_retweet": false, "user_id": "1221530980965584896"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ebru_gltekin17", "ID": "754222214443102208", "text": "Kardeşi kardeşe düşman ediyolar sende buna inanma #SokağaSakınÇıkma", "url": "/ebru_gltekin17/status/754222214443102208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 10:52:43", "is_reply": false, "is_retweet": false, "user_id": "710363353428926465"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hipokratsiz", "ID": "754092080461385732", "text": "Yarında el altından bu hoşaflara vatandaşlık verilir.#Sokağasakınçıkma", "url": "/hipokratsiz/status/754092080461385732", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:36", "is_reply": false, "is_retweet": false, "user_id": "267231053"}

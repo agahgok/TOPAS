@@ -1,0 +1,1 @@
+{"usernameTweet": "colt1938_", "ID": "754094386204536832", "text": "# SokağaSakınÇıkma  diyen sokağa bak   Bizim çıkışımız geziye benzemez", "url": "/colt1938_/status/754094386204536832", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:24:46", "is_reply": false, "is_retweet": false, "user_id": "371635245"}

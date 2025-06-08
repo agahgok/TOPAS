@@ -1,0 +1,1 @@
+{"usernameTweet": "cemalixox", "ID": "754083654083682304", "text": "Kim ne derse desin YAŞASIN YÜCE ATATÜRK !!! #Sokağaçıkma", "url": "/cemalixox/status/754083654083682304", "nbr_retweet": 3, "nbr_favorite": 23, "nbr_reply": 0, "datetime": "2016-07-16 01:42:07", "is_reply": false, "is_retweet": false, "user_id": "422656848"}

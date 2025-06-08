@@ -1,0 +1,1 @@
+{"usernameTweet": "Yigit_Kale", "ID": "754095355336294401", "text": "Senin için şehit olanlara karşı gelme sakın #SokağaÇıkma", "url": "/Yigit_Kale/status/754095355336294401", "nbr_retweet": 1, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2016-07-16 02:28:37", "is_reply": false, "is_retweet": false, "user_id": "569518317"}

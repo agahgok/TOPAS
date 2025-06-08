@@ -1,0 +1,1 @@
+{"usernameTweet": "BasakCeren13", "ID": "754065434354257920", "text": "Milleti birbirine vurdurmaya çalışıyorlar #SokağaÇıkma  !!!!!!!", "url": "/BasakCeren13/status/754065434354257920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:29:44", "is_reply": true, "is_retweet": false, "user_id": "212675500"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "serhnabakay", "ID": "754095430879875072", "text": "Erdoğanın ülkeden ayrıldığı iddia ediliyor.. #SokağaSakınÇıkma  #DiplomasızKaosPeşinde", "url": "/serhnabakay/status/754095430879875072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:55", "is_reply": false, "is_retweet": false, "user_id": "366185600"}

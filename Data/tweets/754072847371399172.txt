@@ -1,0 +1,1 @@
+{"usernameTweet": "midas1905", "ID": "754072847371399172", "text": "Hükümetdekiler kendileri ve ailesini sokağa çıkarsınlar da görelim. #SokağaSakınÇıkma", "url": "/midas1905/status/754072847371399172", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:59:11", "is_reply": false, "is_retweet": false, "user_id": "1578676045"}

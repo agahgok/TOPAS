@@ -1,0 +1,1 @@
+{"usernameTweet": "nhl34", "ID": "754073602610397184", "text": "Kendileri 1500 koruması olmadan su içmeye bile gitmeyenlerin gazına gelip #SokağaSakınÇıkma", "url": "/nhl34/status/754073602610397184", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:02:11", "is_reply": false, "is_retweet": false, "user_id": "369752029"}

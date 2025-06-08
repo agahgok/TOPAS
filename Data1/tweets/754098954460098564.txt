@@ -1,0 +1,1 @@
+{"usernameTweet": "sedsayy", "ID": "754098954460098564", "text": "Vatandaşlar ülkeyi kurtarmak için sokağa dökülsünler ama liderler saklansınlar? #UYANTURKİYE  #SokağaSakınÇıkma", "url": "/sedsayy/status/754098954460098564", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:42:55", "is_reply": false, "is_retweet": false, "user_id": "4136474955"}

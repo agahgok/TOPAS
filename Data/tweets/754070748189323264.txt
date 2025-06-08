@@ -1,0 +1,1 @@
+{"usernameTweet": "Gulizsenalp", "ID": "754070748189323264", "text": "# SokağaSakınÇıkma", "url": "/Gulizsenalp/status/754070748189323264", "nbr_retweet": 1, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 00:50:50", "is_reply": false, "is_retweet": false, "user_id": "173798404"}

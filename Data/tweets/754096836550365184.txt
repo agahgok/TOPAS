@@ -1,0 +1,1 @@
+{"usernameTweet": "pinpnrp", "ID": "754096836550365184", "text": "TBMM vurulmuş. #SokağaSakınÇıkma", "url": "/pinpnrp/status/754096836550365184", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:34:30", "is_reply": false, "is_retweet": false, "user_id": "161641902"}

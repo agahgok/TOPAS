@@ -1,0 +1,1 @@
+{"usernameTweet": "Yaban_Adam", "ID": "754082074873647105", "text": "saat 1:35 cami sela veriyor, imam sokağa davet ediyor, dini propaganda sınıf atladı adam.. #SokağaSakınÇıkma", "url": "/Yaban_Adam/status/754082074873647105", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:51", "is_reply": false, "is_retweet": false, "user_id": "2497890626"}

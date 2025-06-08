@@ -1,0 +1,1 @@
+{"usernameTweet": "burcCom", "ID": "754089268281217024", "text": "# sokağaçıkma  kavgaya mahal verme. Yarınlar bizim #BuMemleketBizim  ", "url": "/burcCom/status/754089268281217024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:26", "is_reply": false, "is_retweet": false, "user_id": "475866580"}

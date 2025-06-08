@@ -1,0 +1,1 @@
+{"usernameTweet": "cagri_atici", "ID": "754084108943392768", "text": "Bin koruma ile gezen adam koyunlarını sokağa çağırdı koşun ak koyunlar çobanınız çağırıyor! #SokağaSakınÇıkma", "url": "/cagri_atici/status/754084108943392768", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:43:56", "is_reply": false, "is_retweet": false, "user_id": "185420497"}

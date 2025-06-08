@@ -1,0 +1,1 @@
+{"usernameTweet": "svdeeren", "ID": "754091996571111424", "text": "# SokağaSakınÇıkma", "url": "/svdeeren/status/754091996571111424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:16", "is_reply": false, "is_retweet": false, "user_id": "2870931482"}

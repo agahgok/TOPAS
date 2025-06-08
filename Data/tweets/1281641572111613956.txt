@@ -1,0 +1,1 @@
+{"usernameTweet": "merkurunhalkasi", "ID": "1281641572111613956", "text": "Bu bir  darbe  ve cuntası sensin", "url": "/merkurunhalkasi/status/1281641572111613956", "nbr_retweet": 0, "nbr_favorite": 15, "nbr_reply": 0, "datetime": "2020-07-10 20:28:57", "is_reply": false, "is_retweet": false, "user_id": "745213278649974785"}

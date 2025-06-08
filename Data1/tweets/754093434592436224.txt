@@ -1,0 +1,1 @@
+{"usernameTweet": "damnaimer", "ID": "754093434592436224", "text": "Mahalle yanarken orospu saçını tararmış. #SokağaSakınÇıkma", "url": "/damnaimer/status/754093434592436224", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:20:59", "is_reply": false, "is_retweet": false, "user_id": "346762161"}

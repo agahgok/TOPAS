@@ -1,0 +1,1 @@
+{"usernameTweet": "fatihkalkannnn", "ID": "754083817527336961", "text": "# SokağaSakınÇıkma  diyenler kaybedeceksiniz...  pic.twitter.com/YlHOBrK4ds", "url": "/fatihkalkannnn/status/754083817527336961", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:46", "is_reply": false, "is_retweet": false, "user_id": "632038027"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "EvrenBakc4", "ID": "1281174411719192577", "text": "Allah trollere gündoğdu  darbe  mesajı ayaklanma mesajı veriliyor diye başlarlar şimdi", "url": "/EvrenBakc4/status/1281174411719192577", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-09 13:32:37", "is_reply": true, "is_retweet": false, "user_id": "1270345903640055810"}

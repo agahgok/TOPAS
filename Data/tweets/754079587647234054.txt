@@ -1,0 +1,1 @@
+{"usernameTweet": "Medmed57156118", "ID": "754079587647234054", "text": "Sokaga cikma terorst olursun #SokağaSakınÇıkma", "url": "/Medmed57156118/status/754079587647234054", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:58", "is_reply": false, "is_retweet": false, "user_id": "736865932656685056"}

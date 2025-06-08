@@ -1,0 +1,1 @@
+{"usernameTweet": "ilaydasaricicek", "ID": "754085854042320896", "text": "sokağa çıkanlar koyun, tayyip erdoğan çoban aq #SokağaSakınÇıkma", "url": "/ilaydasaricicek/status/754085854042320896", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2016-07-16 01:50:52", "is_reply": false, "is_retweet": false, "user_id": "2628083955"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Umutcan100", "ID": "754095760875085825", "text": "\"People fighting for their democracy\" wtf more like dictatorship #SokağaSakınÇıkma", "url": "/Umutcan100/status/754095760875085825", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:30:14", "is_reply": false, "is_retweet": false, "user_id": "146194312"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bulenttmertt", "ID": "754095896808329217", "text": "\"Sokak hak arama yeri değildir.\"\nRECEP TAYİP ERDOĞAN\n29.06.2013\n#Sokağaçıkma", "url": "/bulenttmertt/status/754095896808329217", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:30:46", "is_reply": false, "is_retweet": false, "user_id": "3345732647"}

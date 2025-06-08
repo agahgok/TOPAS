@@ -1,0 +1,1 @@
+{"usernameTweet": "yilmazozalp", "ID": "754084278774992896", "text": "# SokağaSakınÇıkma  diyen herkes şerefsiz vatan hainidir. Biz sokaktayız, darbeci şerefsizler nerde ?", "url": "/yilmazozalp/status/754084278774992896", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:36", "is_reply": false, "is_retweet": false, "user_id": "210789754"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ArtunGS", "ID": "754083426815315968", "text": "Niyet ettim Allah Rıza'sı için darbeyi engelleme namazına  #SokağaSakınÇıkma", "url": "/ArtunGS/status/754083426815315968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:13", "is_reply": false, "is_retweet": false, "user_id": "293650637"}

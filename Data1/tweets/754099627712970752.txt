@@ -1,0 +1,1 @@
+{"usernameTweet": "sakaramsstein", "ID": "754099627712970752", "text": "Darbe değil DARBECİK! #SokağaSakınÇıkma", "url": "/sakaramsstein/status/754099627712970752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:45:36", "is_reply": false, "is_retweet": false, "user_id": "1632905456"}

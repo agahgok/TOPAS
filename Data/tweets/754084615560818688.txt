@@ -1,0 +1,1 @@
+{"usernameTweet": "capulingymn", "ID": "754084615560818688", "text": "İzmir Bornova 'da camilerde sela okunuyor.. Çağrılar yapılıyor! Oyun sürüyor... #sokağasakınçıkma", "url": "/capulingymn/status/754084615560818688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:57", "is_reply": false, "is_retweet": false, "user_id": "1707510368"}

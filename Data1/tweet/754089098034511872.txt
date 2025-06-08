@@ -1,0 +1,1 @@
+{"usernameTweet": "batuhantas123", "ID": "754089098034511872", "text": "OTUR EVİNDE LOL OYNA #SokağaSakınÇıkma", "url": "/batuhantas123/status/754089098034511872", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:03:45", "is_reply": false, "is_retweet": false, "user_id": "1158203779"}

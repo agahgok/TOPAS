@@ -1,0 +1,1 @@
+{"usernameTweet": "ulkumturkiyem", "ID": "754083034345844736", "text": "# SokağaSakınÇıkma  sokağa çıkanlar tespit edilecekmis", "url": "/ulkumturkiyem/status/754083034345844736", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:39:40", "is_reply": false, "is_retweet": false, "user_id": "740870871644930048"}

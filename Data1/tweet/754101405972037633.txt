@@ -1,0 +1,1 @@
+{"usernameTweet": "ahlattas", "ID": "754101405972037633", "text": "# SokağaSakınÇıkma \n\nSavaş uçakları resmen Ankara'yı bombalıyor. . .!!!\nAnkara", "url": "/ahlattas/status/754101405972037633", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:52:40", "is_reply": false, "is_retweet": false, "user_id": "442252059"}

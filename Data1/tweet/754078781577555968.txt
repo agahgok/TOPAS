@@ -1,0 +1,1 @@
+{"usernameTweet": "azadcihann", "ID": "754078781577555968", "text": "Halki neden havaalanına davet ediyorsun #SokağaSakınÇıkma", "url": "/azadcihann/status/754078781577555968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:46", "is_reply": false, "is_retweet": false, "user_id": "3030764319"}

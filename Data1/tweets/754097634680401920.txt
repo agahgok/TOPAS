@@ -1,0 +1,1 @@
+{"usernameTweet": "aysnrshn999", "ID": "754097634680401920", "text": "Aq korkaklari #SokağaÇıkma", "url": "/aysnrshn999/status/754097634680401920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:37:41", "is_reply": false, "is_retweet": false, "user_id": "953862463"}

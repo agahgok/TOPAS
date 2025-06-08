@@ -1,0 +1,1 @@
+{"usernameTweet": "sueniz2", "ID": "754094639305596928", "text": "Bu bizi birbirimize düşürmek için bi komplodur. Görüşün ne olursa olsun  #SokağaSakınÇıkma", "url": "/sueniz2/status/754094639305596928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:47", "is_reply": false, "is_retweet": false, "user_id": "4768710028"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mtrakya", "ID": "754072190958436352", "text": "# sokagacıkma  ..  https:// twitter.com/msikkofield/st atus/754071024363245569   …", "url": "/mtrakya/status/754072190958436352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:34", "is_reply": false, "is_retweet": false, "user_id": "2283898526"}

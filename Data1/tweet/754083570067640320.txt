@@ -1,0 +1,1 @@
+{"usernameTweet": "yildirimeezgi", "ID": "754083570067640320", "text": "Din ile halkı sömürmeye devam selayla halkı sokağa teşvik ediyorlar,kanmayın! #SokağaSakınÇıkma", "url": "/yildirimeezgi/status/754083570067640320", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:41:47", "is_reply": false, "is_retweet": false, "user_id": "161675936"}

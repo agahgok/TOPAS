@@ -1,0 +1,1 @@
+{"usernameTweet": "miyavhilal", "ID": "1284363980429983744", "text": "Yaptığınız  her  darbe  karşısında daha da güçleniyorum o yüzden devam edin", "url": "/miyavhilal/status/1284363980429983744", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 08:46:49", "is_reply": false, "is_retweet": false, "user_id": "1002185342018031617"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AykutBanar", "ID": "1281486333589037056", "text": "Darbe  yabmak isdiyor olabilirler.", "url": "/AykutBanar/status/1281486333589037056", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 10:12:05", "is_reply": true, "is_retweet": false, "user_id": "1160837614934679552"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Kalafaat", "ID": "754409974412050432", "text": "İç savaşa dönüşmesini istemiyorsanız; #sokağasakınçıkma  \n#gazimahallesi \n#Turkey", "url": "/Kalafaat/status/754409974412050432", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 23:18:48", "is_reply": false, "is_retweet": false, "user_id": "912996992"}

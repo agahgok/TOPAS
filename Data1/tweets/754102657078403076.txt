@@ -1,0 +1,1 @@
+{"usernameTweet": "klnc_adm", "ID": "754102657078403076", "text": "Sokağa çıkin demokrasiye milli iradeye sahip çık   #SokağaSakınÇıkma", "url": "/klnc_adm/status/754102657078403076", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:57:38", "is_reply": false, "is_retweet": false, "user_id": "4571845643"}

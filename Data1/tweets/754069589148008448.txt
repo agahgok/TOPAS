@@ -1,0 +1,1 @@
+{"usernameTweet": "seldaesm", "ID": "754069589148008448", "text": "kimse sokaga cikmasin lutfen Halki yem yapmaya calisiyo Erdogan iti #sokagacikma", "url": "/seldaesm/status/754069589148008448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:46:14", "is_reply": false, "is_retweet": false, "user_id": "355165645"}

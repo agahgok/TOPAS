@@ -1,0 +1,1 @@
+{"usernameTweet": "ser_akm", "ID": "1284392730148384769", "text": "darbe  gecesi tankların arasından güzel slolom yaptınız, darbecilere sahip çıktınız. sonra sayın derken..", "url": "/ser_akm/status/1284392730148384769", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 10:41:04", "is_reply": true, "is_retweet": false, "user_id": "553005625"}

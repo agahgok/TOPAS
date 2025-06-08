@@ -1,0 +1,1 @@
+{"usernameTweet": "alininselini", "ID": "754069440975732736", "text": "Kimseye güvenme! #SokağaSakınÇıkma", "url": "/alininselini/status/754069440975732736", "nbr_retweet": 12, "nbr_favorite": 23, "nbr_reply": 0, "datetime": "2016-07-16 00:45:39", "is_reply": false, "is_retweet": false, "user_id": "3381432821"}

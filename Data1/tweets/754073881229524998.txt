@@ -1,0 +1,1 @@
+{"usernameTweet": "diilaala", "ID": "754073881229524998", "text": "Adam sokağa çıkın diyor iç savaş çıkartmaya çalışıyor uyanın artık #SokağaÇıkma", "url": "/diilaala/status/754073881229524998", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:03:17", "is_reply": false, "is_retweet": false, "user_id": "736213086542139392"}

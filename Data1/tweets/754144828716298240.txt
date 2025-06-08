@@ -1,0 +1,1 @@
+{"usernameTweet": "ykaya8061", "ID": "754144828716298240", "text": "Halen Her yerde ben diyen bir C.B. olan bir ulkede, halk sokaga cagriliyor, #SokağaSakınÇıkma", "url": "/ykaya8061/status/754144828716298240", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 05:45:13", "is_reply": false, "is_retweet": false, "user_id": "725053125799907328"}

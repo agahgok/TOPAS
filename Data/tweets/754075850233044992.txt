@@ -1,0 +1,1 @@
+{"usernameTweet": "AyTilLoveee", "ID": "754075850233044992", "text": "# SokağaSakınÇıkma", "url": "/AyTilLoveee/status/754075850233044992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:07", "is_reply": false, "is_retweet": false, "user_id": "1119952892"}

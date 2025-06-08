@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetakifaksy", "ID": "754076992673153024", "text": "Geçkaldınız şerefsizler jerkes sokakta #SokağaSakınÇıkma   pic.twitter.com/crpfU6QVNS", "url": "/mehmetakifaksy/status/754076992673153024", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:15:39", "is_reply": false, "is_retweet": false, "user_id": "820020138"}

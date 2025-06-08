@@ -1,0 +1,1 @@
+{"usernameTweet": "iarabaci", "ID": "1281297649585569799", "text": "Minik  darbe  :) iyi film adi olur ha! Komedi olurdu heralde", "url": "/iarabaci/status/1281297649585569799", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 21:42:19", "is_reply": true, "is_retweet": false, "user_id": "75172117"}

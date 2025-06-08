@@ -1,0 +1,1 @@
+{"usernameTweet": "yigit_tasp", "ID": "754072395888128000", "text": "Oyuna gelme , #SokağaSakınÇıkma", "url": "/yigit_tasp/status/754072395888128000", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:23", "is_reply": false, "is_retweet": false, "user_id": "3695122997"}

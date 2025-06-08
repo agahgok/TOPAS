@@ -1,0 +1,1 @@
+{"usernameTweet": "kistorizm", "ID": "754780498816303105", "text": "ulan sen dün #sokağasakınçıkma   çıkma diye tag acmistin ne ayaksin kizim sen?", "url": "/kistorizm/status/754780498816303105", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-17 23:51:08", "is_reply": true, "is_retweet": false, "user_id": "2310396364"}

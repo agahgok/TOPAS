@@ -1,0 +1,1 @@
+{"usernameTweet": "sorusoracagim", "ID": "754088706290704388", "text": "Şeytanin bile aklina gelmez bu darbe.şeytan bile dini bu kadar kullanamazdi #SokağaSakınÇıkma", "url": "/sorusoracagim/status/754088706290704388", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:12", "is_reply": false, "is_retweet": false, "user_id": "2389807380"}

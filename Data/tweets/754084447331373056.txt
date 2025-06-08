@@ -1,0 +1,1 @@
+{"usernameTweet": "Sef_mahko", "ID": "754084447331373056", "text": "Tarih Korkakları Asla Unutmaz Al Bayrağını Çık Dışarı\n #Ankara \n#SokağaSakınÇıkma   pic.twitter.com/CFVjYAZ697", "url": "/Sef_mahko/status/754084447331373056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:17", "is_reply": false, "is_retweet": false, "user_id": "535355063"}

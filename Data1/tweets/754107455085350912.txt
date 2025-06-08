@@ -1,0 +1,1 @@
+{"usernameTweet": "dilaraozturk", "ID": "754107455085350912", "text": "Camilerden insanları sokaklara davet ettiklerini de duyduk ya vah halimize ... #SokağaSakınÇıkma", "url": "/dilaraozturk/status/754107455085350912", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:16:42", "is_reply": false, "is_retweet": false, "user_id": "89996780"}

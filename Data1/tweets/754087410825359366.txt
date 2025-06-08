@@ -1,0 +1,1 @@
+{"usernameTweet": "ecezeyy", "ID": "754087410825359366", "text": "# SokağaSakınÇıkma   https:// twitter.com/unutulmaz_adam /status/754086137304678400   …", "url": "/ecezeyy/status/754087410825359366", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:03", "is_reply": false, "is_retweet": false, "user_id": "2409822184"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "e_nherjar", "ID": "754076672668884992", "text": "# SokağaSakınÇıkma", "url": "/e_nherjar/status/754076672668884992", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:14:23", "is_reply": false, "is_retweet": false, "user_id": "894420486"}

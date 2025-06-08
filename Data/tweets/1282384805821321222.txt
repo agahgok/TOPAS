@@ -1,0 +1,1 @@
+{"usernameTweet": "alperengunakan", "ID": "1282384805821321222", "text": "Penaltı değil mi abi bu...taban var, adama  darbe  var, nasıl penaltı değil!", "url": "/alperengunakan/status/1282384805821321222", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 21:42:17", "is_reply": false, "is_retweet": false, "user_id": "3233505297"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mr_fuzzz", "ID": "1282413848012759048", "text": "Fenerbahçe maçlarını pazartesiye alın, hiç olmasa hafta sonumuz  darbe  almasın.", "url": "/mr_fuzzz/status/1282413848012759048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:37:42", "is_reply": false, "is_retweet": false, "user_id": "156665007"}

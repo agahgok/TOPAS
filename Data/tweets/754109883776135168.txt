@@ -1,0 +1,1 @@
+{"usernameTweet": "ayegldgc", "ID": "754109883776135168", "text": "Kafa yok sizde çıkın sokağa dökülün gün bugün #SokağaCıkDarbecilereDurDe   #SokağaSakınÇıkma", "url": "/ayegldgc/status/754109883776135168", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:26:21", "is_reply": false, "is_retweet": false, "user_id": "2580458600"}

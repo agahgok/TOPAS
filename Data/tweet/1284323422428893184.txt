@@ -1,0 +1,1 @@
+{"usernameTweet": "MZrepD4EcO8duh0", "ID": "1284323422428893184", "text": "تم", "url": "/MZrepD4EcO8duh0/status/1284323422428893184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 06:05:40", "is_reply": true, "is_retweet": false, "user_id": "1029852971830595584"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "alpturkes01", "ID": "1284366452326268928", "text": "Öldürmeyen her  darbe  güç verir bana...", "url": "/alpturkes01/status/1284366452326268928", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-18 08:56:39", "is_reply": false, "is_retweet": false, "user_id": "1279394653138227205"}

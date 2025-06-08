@@ -1,0 +1,1 @@
+{"usernameTweet": "trabzonsporr8", "ID": "1281202364377116674", "text": "AĞAOĞLU ŞAMPİYONLUĞA  DARBE  VURMUŞTUR. Aksini iddia eden varsa saygı duymuyorum..", "url": "/trabzonsporr8/status/1281202364377116674", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 2, "datetime": "2020-07-09 15:23:41", "is_reply": true, "is_retweet": false, "user_id": "1185826682457989120"}

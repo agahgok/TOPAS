@@ -1,0 +1,1 @@
+{"usernameTweet": "hermesnera", "ID": "754082406005547009", "text": "Ankara'da camiler Allah icin Tayyip  icin sokağa çıkın anonsları yapıyor. #SokağaSakınÇıkma", "url": "/hermesnera/status/754082406005547009", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:10", "is_reply": false, "is_retweet": false, "user_id": "371949187"}

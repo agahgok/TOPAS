@@ -1,0 +1,1 @@
+{"usernameTweet": "mednakc", "ID": "754088612430438400", "text": "Bu comarlar firsattan istifade tecavuze kalkarlar. #SokağaSakınÇıkma", "url": "/mednakc/status/754088612430438400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:50", "is_reply": false, "is_retweet": false, "user_id": "747094917952962560"}

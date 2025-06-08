@@ -1,0 +1,1 @@
+{"usernameTweet": "berksrdg", "ID": "754092973634293760", "text": "# SokağaSakınÇıkma    Asker ile Polis'i birbirine düşürmek ne kadar içler acısı Allah kahretsin", "url": "/berksrdg/status/754092973634293760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:09", "is_reply": false, "is_retweet": false, "user_id": "2773077558"}

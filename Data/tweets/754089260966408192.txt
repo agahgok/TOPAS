@@ -1,0 +1,1 @@
+{"usernameTweet": "nry888", "ID": "754089260966408192", "text": "Hava Saldirisinda 17 polis sehit olmua bu saatte ne ezani ne selasi diyor beyinsizler...  #SokağaSakınÇıkma", "url": "/nry888/status/754089260966408192", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:04:24", "is_reply": false, "is_retweet": false, "user_id": "313245302"}

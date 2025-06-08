@@ -1,0 +1,1 @@
+{"usernameTweet": "mr_chaste", "ID": "754083861173264384", "text": "Sokaktayim direniyoruz herkes sokakta vatan icin\n #SokağaSakınÇıkma", "url": "/mr_chaste/status/754083861173264384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:57", "is_reply": false, "is_retweet": false, "user_id": "395513098"}

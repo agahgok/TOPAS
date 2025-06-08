@@ -1,0 +1,1 @@
+{"usernameTweet": "must10ur", "ID": "754111860413231104", "text": "# SokağaSakınÇıkma  deseniz de cikiyoruz  pic.twitter.com/G4uDoTXCb5", "url": "/must10ur/status/754111860413231104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:34:12", "is_reply": false, "is_retweet": false, "user_id": "170430696"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "disiejder", "ID": "754094635824345088", "text": "...Bu işte bir gariplik var...#SokağaSakınÇıkma", "url": "/disiejder/status/754094635824345088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:46", "is_reply": false, "is_retweet": false, "user_id": "358099311"}

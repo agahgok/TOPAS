@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetgayretli3", "ID": "754087700928442369", "text": "# SokağaSakınÇıkma  Darbenin bütçesi ne acaba", "url": "/mehmetgayretli3/status/754087700928442369", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:58:12", "is_reply": false, "is_retweet": false, "user_id": "1018047032"}

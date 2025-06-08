@@ -1,0 +1,1 @@
+{"usernameTweet": "radikalyoldas", "ID": "754089321217552385", "text": "Bitmeyen sela ve ezan yapmışlar ... #SokağaSakınÇıkma", "url": "/radikalyoldas/status/754089321217552385", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:39", "is_reply": false, "is_retweet": false, "user_id": "301722261"}

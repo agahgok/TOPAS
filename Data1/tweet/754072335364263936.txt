@@ -1,0 +1,1 @@
+{"usernameTweet": "aydogdufatma", "ID": "754072335364263936", "text": "Milletimizi askerimizi polisimizi birbirine vurdurtma allahim #SokağaSakınÇıkma", "url": "/aydogdufatma/status/754072335364263936", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:09", "is_reply": false, "is_retweet": false, "user_id": "310196759"}

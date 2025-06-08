@@ -1,0 +1,1 @@
+{"usernameTweet": "kafirkelebek", "ID": "754085738900258816", "text": "Selaların sebebi meydanlara çağrıymış. #SokağaSakınÇıkma", "url": "/kafirkelebek/status/754085738900258816", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:50:25", "is_reply": false, "is_retweet": false, "user_id": "3245466580"}

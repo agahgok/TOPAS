@@ -1,0 +1,1 @@
+{"usernameTweet": "kenanacr8465", "ID": "1281490775180804096", "text": "Acun resmen  darbe  yaptı ünlüler takımına", "url": "/kenanacr8465/status/1281490775180804096", "nbr_retweet": 1, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2020-07-10 10:29:44", "is_reply": true, "is_retweet": false, "user_id": "1230152217841274880"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Talhakmcu", "ID": "754080195221610496", "text": "Askerlerimiz şehit olurken neredeydiniz ey Türk halkı ?  #SokağaSakınÇıkma  #DARBEYEHAYIR", "url": "/Talhakmcu/status/754080195221610496", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:28:23", "is_reply": false, "is_retweet": false, "user_id": "2728624499"}

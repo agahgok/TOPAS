@@ -1,0 +1,1 @@
+{"usernameTweet": "RkagacSerhat", "ID": "1281537217949847552", "text": "Ben 2016 den beridir gitmiyorum.  Darbe  yapanları Allah kahru perişan etsin..", "url": "/RkagacSerhat/status/1281537217949847552", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 13:34:17", "is_reply": true, "is_retweet": false, "user_id": "1280052303089860613"}

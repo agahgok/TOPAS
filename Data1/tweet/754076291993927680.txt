@@ -1,0 +1,1 @@
+{"usernameTweet": "erdem_nur", "ID": "754076291993927680", "text": "# SokağaSakınÇıkma  ben 13 yaşındayım ve gerçekten çok korkuyorum", "url": "/erdem_nur/status/754076291993927680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:52", "is_reply": false, "is_retweet": false, "user_id": "4140822880"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ynkk21", "ID": "754082574318858240", "text": "# SokağaSakınÇıkma \n\"Hiç Bir Diktatör İç Savaş Çıkartmadan Gitmez \"\nLenin \n#Ankara", "url": "/ynkk21/status/754082574318858240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:50", "is_reply": false, "is_retweet": false, "user_id": "3315585515"}

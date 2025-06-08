@@ -1,0 +1,1 @@
+{"usernameTweet": "AsosyalAlan", "ID": "1281632994910965762", "text": "Sen mi yollayacaksın!  Darbe  mi planlıyorsunuz, suikast mı?", "url": "/AsosyalAlan/status/1281632994910965762", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 19:54:52", "is_reply": true, "is_retweet": false, "user_id": "388749897"}

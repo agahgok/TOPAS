@@ -1,0 +1,1 @@
+{"usernameTweet": "dilaraozturk", "ID": "754094552777121792", "text": "Kendimi sosyolojik bir deneyde gönülsüz denek olarak hissetmiş olduğum doğrudur #SokağaSakınÇıkma", "url": "/dilaraozturk/status/754094552777121792", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:25:26", "is_reply": false, "is_retweet": false, "user_id": "89996780"}

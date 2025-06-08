@@ -1,0 +1,1 @@
+{"usernameTweet": "6993ty", "ID": "754089542236434432", "text": "allah aşkına şu camileri susturun korku katsayım yükseliyo daha bi tırsıyorum ya kafayı yicem #SokağaSakınÇıkma", "url": "/6993ty/status/754089542236434432", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:31", "is_reply": false, "is_retweet": false, "user_id": "1439598745"}

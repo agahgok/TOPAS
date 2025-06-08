@@ -1,0 +1,1 @@
+{"usernameTweet": "BnglPnr", "ID": "754097031036170240", "text": "Kendi yaptıkları darbeyi püskürtmüşler hadi bakalım #sokağasakınçıkma", "url": "/BnglPnr/status/754097031036170240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:35:17", "is_reply": false, "is_retweet": false, "user_id": "330515544"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tanju_yasar", "ID": "754084501752389632", "text": "# SokağaSakınÇıkma", "url": "/tanju_yasar/status/754084501752389632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:30", "is_reply": false, "is_retweet": false, "user_id": "617453433"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "stajyertwitci77", "ID": "754079088051183616", "text": "Çapulcu, pkkli, fetöcü sizler  #SokağaSakınÇıkma  yın. Halk yönetime el koymuştur!\n#DarbeyeHayır", "url": "/stajyertwitci77/status/754079088051183616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:59", "is_reply": false, "is_retweet": false, "user_id": "1673925643"}

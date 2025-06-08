@@ -1,0 +1,1 @@
+{"usernameTweet": "et_de_pahali", "ID": "754078646999146497", "text": "# SokağaSakınÇıkma  başkanlık olmazsa böyle olur korkarsınız demek için mi bu kadar şey anlamadım gitti", "url": "/et_de_pahali/status/754078646999146497", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:14", "is_reply": false, "is_retweet": false, "user_id": "1935374076"}

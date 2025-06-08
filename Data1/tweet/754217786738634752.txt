@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754217786738634752", "text": "Peki dün akşam ne dedim bakın bakalım..   #SokağaSakınÇıkma  #ÇakmaDarbe pic.twitter.com/hTnJI85jyo", "url": "/vakkaff/status/754217786738634752", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 10:35:07", "is_reply": true, "is_retweet": false, "user_id": "943942980"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "pekiugur", "ID": "754088934574006273", "text": "Ezan namaza çağrıdır sokağa değil ... Herşey gibi dini de sömüre sömüre mahfettiniz ...! #SokağaSakınÇıkma", "url": "/pekiugur/status/754088934574006273", "nbr_retweet": 3, "nbr_favorite": 15, "nbr_reply": 0, "datetime": "2016-07-16 02:03:06", "is_reply": false, "is_retweet": false, "user_id": "478747359"}

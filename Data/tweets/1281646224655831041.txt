@@ -1,0 +1,1 @@
+{"usernameTweet": "tuna_5555", "ID": "1281646224655831041", "text": "10/07/2020 bu tarihten sonra hacliların müslümanlara karşı egemenliği  darbe  almıştır #AyasofyaCamii", "url": "/tuna_5555/status/1281646224655831041", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 20:47:26", "is_reply": false, "is_retweet": false, "user_id": "90968718"}

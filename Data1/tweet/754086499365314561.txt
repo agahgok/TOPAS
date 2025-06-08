@@ -1,0 +1,1 @@
+{"usernameTweet": "ugursandalli", "ID": "754086499365314561", "text": "# SokağaSakınÇıkma  diyenler darbecilerin ta kendileridir. Çık ve vatanına sahip çık !!", "url": "/ugursandalli/status/754086499365314561", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:26", "is_reply": false, "is_retweet": false, "user_id": "180954157"}

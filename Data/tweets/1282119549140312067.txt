@@ -1,0 +1,1 @@
+{"usernameTweet": "yarenbisakinoll", "ID": "1282119549140312067", "text": "Annemmm  sen yengeç burcu birinden  darbe  mi yedin", "url": "/yarenbisakinoll/status/1282119549140312067", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 04:08:15", "is_reply": true, "is_retweet": false, "user_id": "1258469470063992832"}

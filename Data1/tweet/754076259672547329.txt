@@ -1,0 +1,1 @@
+{"usernameTweet": "yesh2001", "ID": "754076259672547329", "text": "# üsküdar  karıştı herkes sokaklarda...\n#SokağaSakınÇıkma \n#darbe", "url": "/yesh2001/status/754076259672547329", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:45", "is_reply": false, "is_retweet": false, "user_id": "146006120"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ebskraa", "ID": "754116829254123520", "text": "Allahım sen yardım et tek bir tane TÜRKİYEMİZ var #darbeyehayır  #Ankara  #SokağaSakınÇıkma  #Türkiye", "url": "/ebskraa/status/754116829254123520", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:53:57", "is_reply": false, "is_retweet": false, "user_id": "3958922417"}

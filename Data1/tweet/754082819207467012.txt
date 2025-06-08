@@ -1,0 +1,1 @@
+{"usernameTweet": "abdulkavii", "ID": "754082819207467012", "text": "# SokağaSakınÇıkma  diyen zihniyet defol git ülkemden", "url": "/abdulkavii/status/754082819207467012", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:48", "is_reply": false, "is_retweet": false, "user_id": "3317695276"}

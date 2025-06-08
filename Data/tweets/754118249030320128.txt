@@ -1,0 +1,1 @@
+{"usernameTweet": "Su47S", "ID": "754118249030320128", "text": "Ztn darbe yapılmış bir ülkenin şekli önemli değil ha asker ha tayıp\n #SokağaSakınÇıkma", "url": "/Su47S/status/754118249030320128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:59:36", "is_reply": false, "is_retweet": false, "user_id": "1722964392"}

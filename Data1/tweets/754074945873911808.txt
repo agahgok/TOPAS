@@ -1,0 +1,1 @@
+{"usernameTweet": "didarciftci", "ID": "754074945873911808", "text": "# oyunagelme  #sokağaçıkma", "url": "/didarciftci/status/754074945873911808", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:31", "is_reply": false, "is_retweet": false, "user_id": "91780161"}

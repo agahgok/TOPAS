@@ -1,0 +1,1 @@
+{"usernameTweet": "grkmgvz", "ID": "1281475955496820736", "text": "a haber bu tweeti görmesin  darbe  şifresi diye haber yapar", "url": "/grkmgvz/status/1281475955496820736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 09:30:51", "is_reply": true, "is_retweet": false, "user_id": "435922061"}

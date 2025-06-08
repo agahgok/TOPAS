@@ -1,0 +1,1 @@
+{"usernameTweet": "CemileBsra", "ID": "754226840051605504", "text": "Buralar hep darbe girişimine destek veren, milletin iradesine karşı olan soysuz dolu!  #SokağaSakınÇıkma", "url": "/CemileBsra/status/754226840051605504", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 11:11:06", "is_reply": false, "is_retweet": false, "user_id": "592080763"}

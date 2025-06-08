@@ -1,0 +1,1 @@
+{"usernameTweet": "BolatsemaSema", "ID": "754075520632033280", "text": "İç savaş çıkarmak istiyorlar! #SokağaSakınÇıkma", "url": "/BolatsemaSema/status/754075520632033280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:48", "is_reply": false, "is_retweet": false, "user_id": "3013224647"}

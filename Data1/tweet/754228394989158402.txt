@@ -1,0 +1,1 @@
+{"usernameTweet": "tturgays", "ID": "754228394989158402", "text": "Sela ile gittilet,kelle alarak geldiler.Halkimiz milli iradenin amk ! #SokağaÇıkma", "url": "/tturgays/status/754228394989158402", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 11:17:16", "is_reply": false, "is_retweet": false, "user_id": "567049849"}

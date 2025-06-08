@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetsarsilmaz", "ID": "754098598451748864", "text": "# DarbeyeHayır  #SokağaSakınÇıkma", "url": "/ahmetsarsilmaz/status/754098598451748864", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:41:31", "is_reply": false, "is_retweet": false, "user_id": "160995233"}

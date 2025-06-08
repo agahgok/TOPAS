@@ -1,0 +1,1 @@
+{"usernameTweet": "SnmKra23", "ID": "754076926516527104", "text": "Aaa yayın yasağı gelmedi neden ?  #SokağaSakınÇıkma", "url": "/SnmKra23/status/754076926516527104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:24", "is_reply": false, "is_retweet": false, "user_id": "1160363736"}

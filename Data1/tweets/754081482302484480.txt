@@ -1,0 +1,1 @@
+{"usernameTweet": "inci_ak0", "ID": "754081482302484480", "text": "# SokağaSakınÇıkma  Halkla askeri birbirine düşürüyorlar bu bir oyundur.", "url": "/inci_ak0/status/754081482302484480", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:30", "is_reply": false, "is_retweet": false, "user_id": "3317879819"}

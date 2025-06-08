@@ -1,0 +1,1 @@
+{"usernameTweet": "myildirim87", "ID": "754077439228276740", "text": "# SokağaSakınÇıkma  tayyip hangi meydanda sokağa çıkacak bilgisi olan  var mı koyun sürüleri...", "url": "/myildirim87/status/754077439228276740", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:26", "is_reply": false, "is_retweet": false, "user_id": "2514809622"}

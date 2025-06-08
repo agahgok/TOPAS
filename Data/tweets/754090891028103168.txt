@@ -1,0 +1,1 @@
+{"usernameTweet": "dln_dt", "ID": "754090891028103168", "text": "RTE piyasada yokken neden sokağa attınız kendini, çıkmayın sokağa. Çıkmayıın #SokağaSakınÇıkma", "url": "/dln_dt/status/754090891028103168", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:53", "is_reply": false, "is_retweet": false, "user_id": "1498026956"}

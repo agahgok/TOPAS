@@ -1,0 +1,1 @@
+{"usernameTweet": "bekirrrrr06", "ID": "1282589863875883013", "text": "Allah bu millete bir daha  darbe  yaşatmasın, darbeci zihniyetlere fırsat vermesin", "url": "/bekirrrrr06/status/1282589863875883013", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 11:17:07", "is_reply": true, "is_retweet": false, "user_id": "1153963611095801856"}

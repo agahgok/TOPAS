@@ -1,0 +1,1 @@
+{"usernameTweet": "55_mine", "ID": "754079394382176256", "text": "# SokağaSakınÇıkma  diyen zihin tükürelesi zihindir.", "url": "/55_mine/status/754079394382176256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:12", "is_reply": false, "is_retweet": false, "user_id": "303794353"}

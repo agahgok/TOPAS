@@ -1,0 +1,1 @@
+{"usernameTweet": "sosyalistdunya", "ID": "754251479440121856", "text": "Şimdi kim insan? #SONDAKİKA  #TurkeyCoupAttempt  #SokağaSakınÇıkma   pic.twitter.com/WIem4vvXot", "url": "/sosyalistdunya/status/754251479440121856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:49:00", "is_reply": false, "is_retweet": false, "user_id": "4825309083"}

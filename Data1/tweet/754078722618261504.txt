@@ -1,0 +1,1 @@
+{"usernameTweet": "Can0rhan", "ID": "754078722618261504", "text": "Her darbede cb ve bb göz altına alınır bu açma bir ihtilal başkanlık sistemi icin yapılmıştır   #SokağaSakınÇıkma", "url": "/Can0rhan/status/754078722618261504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:32", "is_reply": false, "is_retweet": false, "user_id": "81676583"}

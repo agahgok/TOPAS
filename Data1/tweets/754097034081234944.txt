@@ -1,0 +1,1 @@
+{"usernameTweet": "O__Gutan", "ID": "754097034081234944", "text": "Minarelerden Allah ve Peygamber dışında ilk kez bir karaktere katılma ve destek çağrısı yapıldı. #SokağaSakınÇıkma", "url": "/O__Gutan/status/754097034081234944", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:35:18", "is_reply": false, "is_retweet": false, "user_id": "2545603178"}

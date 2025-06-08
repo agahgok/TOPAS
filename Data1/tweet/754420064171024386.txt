@@ -1,0 +1,1 @@
+{"usernameTweet": "BilgeGumul", "ID": "754420064171024386", "text": "# sokağasakınçıkma   https:// twitter.com/BirGun_Gazetes i/status/754402466788245506   …", "url": "/BilgeGumul/status/754420064171024386", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 23:58:54", "is_reply": false, "is_retweet": false, "user_id": "2770915115"}

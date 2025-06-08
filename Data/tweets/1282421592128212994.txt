@@ -1,0 +1,1 @@
+{"usernameTweet": "YeahhhOhhh", "ID": "1282421592128212994", "text": "Hani Türkiye 15 temmuz 2016 ile darbeler dönemini kapatmıştı. Yine mi  darbe . Offf yaa", "url": "/YeahhhOhhh/status/1282421592128212994", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 00:08:28", "is_reply": true, "is_retweet": false, "user_id": "2230458699"}

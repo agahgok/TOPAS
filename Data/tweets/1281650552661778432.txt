@@ -1,0 +1,1 @@
+{"usernameTweet": "hemdecokk", "ID": "1281650552661778432", "text": "Darbe  üstüne  darbe  ve kesinlikle uslanmıyor bu", "url": "/hemdecokk/status/1281650552661778432", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 21:04:38", "is_reply": false, "is_retweet": false, "user_id": "3232950255"}

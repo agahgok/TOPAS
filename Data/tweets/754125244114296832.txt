@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754125244114296832", "text": "Sonu ıyı olcak ben baskan olcam #SONDAKİKA  #sokağaçıkma", "url": "/mertbzky/status/754125244114296832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:27:23", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

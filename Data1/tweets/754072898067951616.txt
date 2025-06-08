@@ -1,0 +1,1 @@
+{"usernameTweet": "orkunates34", "ID": "754072898067951616", "text": "Sacmalamayin lan ortalik karisik #SokağaSakınÇıkma", "url": "/orkunates34/status/754072898067951616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:23", "is_reply": false, "is_retweet": false, "user_id": "954542780"}

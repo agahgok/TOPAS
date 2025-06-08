@@ -1,0 +1,1 @@
+{"usernameTweet": "hasanucr", "ID": "754072352061657088", "text": "İnsanları ölüme çağırmak ne kolay .. #sokağasakıncıkma", "url": "/hasanucr/status/754072352061657088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:13", "is_reply": false, "is_retweet": false, "user_id": "377393755"}

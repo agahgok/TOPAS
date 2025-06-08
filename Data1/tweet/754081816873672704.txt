@@ -1,0 +1,1 @@
+{"usernameTweet": "zAhmetYILDIZz", "ID": "754081816873672704", "text": "Şu anda Kızılay'da foto geldi kontrol poliste çok şükür #SokağaSakınÇıkma", "url": "/zAhmetYILDIZz/status/754081816873672704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:49", "is_reply": false, "is_retweet": false, "user_id": "1020575910"}

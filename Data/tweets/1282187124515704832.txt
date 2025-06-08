@@ -1,0 +1,1 @@
+{"usernameTweet": "ugur_gebelli", "ID": "1282187124515704832", "text": "Yok yaw onlar  darbe  yapar gene geri gelir de sen ne arabası aldın bi görelim yakışıklıyı", "url": "/ugur_gebelli/status/1282187124515704832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 08:36:47", "is_reply": true, "is_retweet": false, "user_id": "2810353877"}

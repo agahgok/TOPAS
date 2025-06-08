@@ -1,0 +1,1 @@
+{"usernameTweet": "Yasemin97707829", "ID": "1281230069441220611", "text": "Darbe  şakşakçısı #AhlaksızLeventOzeren pic.twitter.com/Eh0xQb9sS6", "url": "/Yasemin97707829/status/1281230069441220611", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2020-07-09 17:13:47", "is_reply": false, "is_retweet": false, "user_id": "1241839229426171904"}

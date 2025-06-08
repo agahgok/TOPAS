@@ -1,0 +1,1 @@
+{"usernameTweet": "gs_kasim", "ID": "754074493421756416", "text": "# SokağaSakınÇıkma  adam evinde oturup, sokaga cikin die halka cagri yapiyor.  pic.twitter.com/IZfO9fGNQv", "url": "/gs_kasim/status/754074493421756416", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:05:43", "is_reply": false, "is_retweet": false, "user_id": "2328776091"}

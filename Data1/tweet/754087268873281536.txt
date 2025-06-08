@@ -1,0 +1,1 @@
+{"usernameTweet": "anilcanerkan", "ID": "754087268873281536", "text": "Ne zaman alkışlıyoduk? #Turkey  #SokağaSakınÇıkma", "url": "/anilcanerkan/status/754087268873281536", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:56:29", "is_reply": false, "is_retweet": false, "user_id": "2401146836"}

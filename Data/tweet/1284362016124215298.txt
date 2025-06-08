@@ -1,0 +1,1 @@
+{"usernameTweet": "__KadimDost__", "ID": "1284362016124215298", "text": "Ulan itin eniği , İsrail mısırda  darbe  yaparken neden sesinizi çıkarmadınız köpek...", "url": "/__KadimDost__/status/1284362016124215298", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:39:01", "is_reply": true, "is_retweet": false, "user_id": "935791553905414144"}

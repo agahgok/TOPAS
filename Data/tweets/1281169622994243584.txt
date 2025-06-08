@@ -1,0 +1,1 @@
+{"usernameTweet": "chpnedir", "ID": "1281169622994243584", "text": "Darbe  şakşakçısı..  #AhlaksızLeventÖzeren", "url": "/chpnedir/status/1281169622994243584", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 13:13:35", "is_reply": false, "is_retweet": false, "user_id": "2518844802"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_dnz3421", "ID": "754089271032705025", "text": "Bu Oyuna alet olmayin  #SokağaSakınÇıkma", "url": "/_dnz3421/status/754089271032705025", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:27", "is_reply": false, "is_retweet": false, "user_id": "2229400749"}

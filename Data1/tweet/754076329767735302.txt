@@ -1,0 +1,1 @@
+{"usernameTweet": "guldegirmenci", "ID": "754076329767735302", "text": "# SokağaSakınÇıkma \n#SokağaSakınÇıkma", "url": "/guldegirmenci/status/754076329767735302", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:01", "is_reply": false, "is_retweet": false, "user_id": "1511016176"}

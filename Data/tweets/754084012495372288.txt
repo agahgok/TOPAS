@@ -1,0 +1,1 @@
+{"usernameTweet": "beastnix", "ID": "754084012495372288", "text": "# SokağaSakınÇıkma  Tuzla-Pendik TARAFINDA ÇATIŞMALAR VAR #Turkey  #istanbul", "url": "/beastnix/status/754084012495372288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:33", "is_reply": false, "is_retweet": false, "user_id": "57916714"}

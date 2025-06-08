@@ -1,0 +1,1 @@
+{"usernameTweet": "gokhankral1981", "ID": "1281696910567505921", "text": "Her evin bodrumuna mescit istiyoruz..Ülkemizi yıkmaya çalışanlara unutmayacakları bir  darbe  olur ", "url": "/gokhankral1981/status/1281696910567505921", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 00:08:50", "is_reply": true, "is_retweet": false, "user_id": "382974060"}

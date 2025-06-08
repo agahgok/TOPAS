@@ -1,0 +1,1 @@
+{"usernameTweet": "merhabafatiben", "ID": "1282665805243715592", "text": "Bu bir  darbe  ve cuntası sensin\nBir hikayem olmasın sensin \nYasama yürütme ve yargım sensin gel", "url": "/merhabafatiben/status/1282665805243715592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:18:53", "is_reply": false, "is_retweet": false, "user_id": "562928727"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "seyitrzaazad", "ID": "754077816749170694", "text": "# SokağaSakinÇikma   https:// twitter.com/solhaberportal i/status/754076899542982656   …", "url": "/seyitrzaazad/status/754077816749170694", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:56", "is_reply": false, "is_retweet": false, "user_id": "401405748"}

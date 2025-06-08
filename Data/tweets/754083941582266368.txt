@@ -1,0 +1,1 @@
+{"usernameTweet": "ferhatolcay", "ID": "754083941582266368", "text": "Eskişehir de ezan okunuyor #SokağaSakınÇıkma", "url": "/ferhatolcay/status/754083941582266368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:16", "is_reply": false, "is_retweet": false, "user_id": "116702346"}

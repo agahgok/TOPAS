@@ -1,0 +1,1 @@
+{"usernameTweet": "alevkocyigitt", "ID": "754091995962937344", "text": "az önce uyandı annem. Ülke de son durum ne dedi. Uyu anne dedim. Uyu. Ülkece oyuna geldik.. #sokağaçıkma", "url": "/alevkocyigitt/status/754091995962937344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:16", "is_reply": false, "is_retweet": false, "user_id": "1849158157"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "duendeana", "ID": "1282659846060306437", "text": "Que idiotez echarle la culpa a Gatell cuando todos sabemos que esta ahí de adorno", "url": "/duendeana/status/1282659846060306437", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 15:55:12", "is_reply": true, "is_retweet": false, "user_id": "227117040"}

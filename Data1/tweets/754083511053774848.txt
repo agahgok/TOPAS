@@ -1,0 +1,1 @@
+{"usernameTweet": "Ex_tacier", "ID": "754083511053774848", "text": "Darbe değil darbecik.\n#SokağaSakınÇıkma", "url": "/Ex_tacier/status/754083511053774848", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:41:33", "is_reply": false, "is_retweet": false, "user_id": "59181846"}

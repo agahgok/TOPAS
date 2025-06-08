@@ -1,0 +1,1 @@
+{"usernameTweet": "deusmeusdeus", "ID": "1281308052495499272", "text": "darbe  mi yapıyorsunuz gece falan", "url": "/deusmeusdeus/status/1281308052495499272", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 2, "datetime": "2020-07-09 22:23:39", "is_reply": true, "is_retweet": false, "user_id": "951915589009887232"}

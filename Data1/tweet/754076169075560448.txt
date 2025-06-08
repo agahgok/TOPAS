@@ -1,0 +1,1 @@
+{"usernameTweet": "3BTolunay", "ID": "754076169075560448", "text": "# SokağaSakınÇıkma  sokağa çıkın diyen orospuçocuğu gitsin önce kendisi çıksın", "url": "/3BTolunay/status/754076169075560448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:23", "is_reply": false, "is_retweet": false, "user_id": "288496678"}

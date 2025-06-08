@@ -1,0 +1,1 @@
+{"usernameTweet": "novavetus", "ID": "1281229326621593601", "text": "Resmen  darbe  var sjsjfx", "url": "/novavetus/status/1281229326621593601", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-09 17:10:50", "is_reply": true, "is_retweet": false, "user_id": "817842036"}

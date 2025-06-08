@@ -1,0 +1,1 @@
+{"usernameTweet": "CneytEfe10", "ID": "754088327977037825", "text": "# SokağaSakınÇıkma  Ezanı Duymak İstemeyenlere İnat Her Yerde Okunucak Ezanlar!", "url": "/CneytEfe10/status/754088327977037825", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:42", "is_reply": false, "is_retweet": false, "user_id": "701724578683478016"}

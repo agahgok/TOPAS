@@ -1,0 +1,1 @@
+{"usernameTweet": "sinirlenemiyom", "ID": "1284360244668387328", "text": "Pınar ve kubi aynı dizideyken ikinci sezon mutlaka bi  darbe  yeniyor sanırımsmdkdkk", "url": "/sinirlenemiyom/status/1284360244668387328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:31:59", "is_reply": true, "is_retweet": false, "user_id": "825105943692181504"}

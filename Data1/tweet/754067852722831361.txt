@@ -1,0 +1,1 @@
+{"usernameTweet": "aylinozgekarali", "ID": "754067852722831361", "text": "# sokagacikma  cok net oyuna gelme", "url": "/aylinozgekarali/status/754067852722831361", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:39:20", "is_reply": false, "is_retweet": false, "user_id": "483760530"}

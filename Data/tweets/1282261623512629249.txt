@@ -1,0 +1,1 @@
+{"usernameTweet": "koraltan_kenan", "ID": "1282261623512629249", "text": "8 defa  darbe  görmüş bir Cumhuriyetten bahsediyorsunuz!!!", "url": "/koraltan_kenan/status/1282261623512629249", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 13:32:48", "is_reply": true, "is_retweet": false, "user_id": "957491667321458688"}

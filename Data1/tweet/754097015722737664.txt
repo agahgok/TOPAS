@@ -1,0 +1,1 @@
+{"usernameTweet": "megalomanyakFA", "ID": "754097015722737664", "text": "Milleti meydana çıkarmak için biraz da İstiklal marşı nı kullanıyorlar su an #SokağaSakınÇıkma", "url": "/megalomanyakFA/status/754097015722737664", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:35:13", "is_reply": false, "is_retweet": false, "user_id": "322552681"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mahirizmm", "ID": "754082750446112768", "text": "Lan Camillere Ne oluyor Orası Allahın Evimi \nAkp ilçe binasımı \n\n#SokağaSakınÇıkma  #Ankara", "url": "/mahirizmm/status/754082750446112768", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:38:32", "is_reply": false, "is_retweet": false, "user_id": "2754419158"}

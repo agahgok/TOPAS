@@ -1,0 +1,1 @@
+{"usernameTweet": "sauronaar", "ID": "1281686406490992643", "text": "Belki sen değilsin ama muhalifler çok dalga geçti :) kk kontrollü  darbe  dediği kesimdesiniz.", "url": "/sauronaar/status/1281686406490992643", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 23:27:06", "is_reply": true, "is_retweet": false, "user_id": "1067507665469886467"}

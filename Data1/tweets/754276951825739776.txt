@@ -1,0 +1,1 @@
+{"usernameTweet": "enginardolmasi", "ID": "754276951825739776", "text": "# askerimedokunma  #sokağasakınçıkma  #askerimedokunma  #sokağasakınçıkma", "url": "/enginardolmasi/status/754276951825739776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 14:30:13", "is_reply": false, "is_retweet": false, "user_id": "212163986"}

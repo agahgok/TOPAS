@@ -1,0 +1,1 @@
+{"usernameTweet": "ateist_jesus", "ID": "754084589853937669", "text": "Sokakta allah diye bağırarak ülkeyi kurtaramazsınız koyunlar. #SokağaSakınÇıkma", "url": "/ateist_jesus/status/754084589853937669", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:51", "is_reply": false, "is_retweet": false, "user_id": "752643474441265154"}

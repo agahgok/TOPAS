@@ -1,0 +1,1 @@
+{"usernameTweet": "GrkeemAkkayaaa", "ID": "1282042318149898240", "text": "Darbe  üstüne darbeee", "url": "/GrkeemAkkayaaa/status/1282042318149898240", "nbr_retweet": 0, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2020-07-11 23:01:22", "is_reply": false, "is_retweet": false, "user_id": "1172087444663132161"}

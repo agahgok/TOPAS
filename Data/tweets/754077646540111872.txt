@@ -1,0 +1,1 @@
+{"usernameTweet": "serdarozsoy35", "ID": "754077646540111872", "text": "Allah'ım sen askerimizle polisimizi karşı karşıya getirme. .amin #SokağaSakınÇıkma", "url": "/serdarozsoy35/status/754077646540111872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:15", "is_reply": false, "is_retweet": false, "user_id": "206331991"}

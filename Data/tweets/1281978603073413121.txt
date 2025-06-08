@@ -1,0 +1,1 @@
+{"usernameTweet": "welatekiazad", "ID": "1281978603073413121", "text": "Darbe  öncesi provalar  https:// twitter.com/sidkizilan/sta tus/1281703231756926977   …", "url": "/welatekiazad/status/1281978603073413121", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 18:48:11", "is_reply": false, "is_retweet": false, "user_id": "2949719026"}

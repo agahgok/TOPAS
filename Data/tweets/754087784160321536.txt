@@ -1,0 +1,1 @@
+{"usernameTweet": "OsKamer", "ID": "754087784160321536", "text": "Darbe diye basladi, akp mitingine döndü resmen...   #akp  #istanbul  #SokağaSakınÇıkma  #darbe  #turkey", "url": "/OsKamer/status/754087784160321536", "nbr_retweet": 4, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:58:32", "is_reply": false, "is_retweet": false, "user_id": "114409252"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Rihannaismylfe", "ID": "754085581068656640", "text": "Sokağa çıkamamanız gerektiğini anlayın lütfen.\n#SokağaSakınÇıkma", "url": "/Rihannaismylfe/status/754085581068656640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:47", "is_reply": false, "is_retweet": false, "user_id": "914316114"}

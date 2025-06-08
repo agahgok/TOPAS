@@ -1,0 +1,1 @@
+{"usernameTweet": "FigenYavuzAU", "ID": "754100320909746176", "text": "# DarbeDeğilTiyatro  #SokağaSakınÇıkma  #DarbeyeHayır pic.twitter.com/wyKjdPD6Ss", "url": "/FigenYavuzAU/status/754100320909746176", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:48:21", "is_reply": false, "is_retweet": false, "user_id": "871211214"}

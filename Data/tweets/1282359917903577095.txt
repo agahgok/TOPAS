@@ -1,0 +1,1 @@
+{"usernameTweet": "orhanerdogn61", "ID": "1282359917903577095", "text": "Pislik ahlaksız. Öğrenci  darbe  başarısız diye vazmı geçer. Rezil.", "url": "/orhanerdogn61/status/1282359917903577095", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 20:03:24", "is_reply": true, "is_retweet": false, "user_id": "229092348"}

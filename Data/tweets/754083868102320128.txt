@@ -1,0 +1,1 @@
+{"usernameTweet": "eserseyazarim", "ID": "754083868102320128", "text": "Odtü'ye gidin şu internetin fişini çekin. #SokağaSakınÇıkma  #SONDAKİKA", "url": "/eserseyazarim/status/754083868102320128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:59", "is_reply": false, "is_retweet": false, "user_id": "2380238538"}

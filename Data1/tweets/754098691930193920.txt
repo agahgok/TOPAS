@@ -1,0 +1,1 @@
+{"usernameTweet": "ozlenyaman", "ID": "754098691930193920", "text": "Ankara'da büyük patlamalar oluyor #SokağaSakınÇıkma", "url": "/ozlenyaman/status/754098691930193920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:41:53", "is_reply": false, "is_retweet": false, "user_id": "30829718"}

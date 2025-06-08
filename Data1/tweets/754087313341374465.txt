@@ -1,0 +1,1 @@
+{"usernameTweet": "gunernas", "ID": "754087313341374465", "text": "Laiklik öldü!! gecenin 2sinde şeması veriliyor #SokağaSakınÇıkma", "url": "/gunernas/status/754087313341374465", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:40", "is_reply": false, "is_retweet": false, "user_id": "502998417"}

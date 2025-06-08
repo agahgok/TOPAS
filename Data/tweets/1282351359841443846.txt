@@ -1,0 +1,1 @@
+{"usernameTweet": "Hakk72461005", "ID": "1282351359841443846", "text": "TBMM'nde  darbe  teşebbüsü araştırma önergesi neden reddedildi? \n\n15Temmuzu KHKlıYapmadı", "url": "/Hakk72461005/status/1282351359841443846", "nbr_retweet": 7, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2020-07-12 19:29:23", "is_reply": false, "is_retweet": false, "user_id": "952925874805932033"}

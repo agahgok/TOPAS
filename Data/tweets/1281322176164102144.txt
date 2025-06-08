@@ -1,0 +1,1 @@
+{"usernameTweet": "MahmutNedimT", "ID": "1281322176164102144", "text": "Levent Özveren nin 15 temmuz  darbe  gecesi polis e tavsiyesi.  pic.twitter.com/xAKSn1s0ye", "url": "/MahmutNedimT/status/1281322176164102144", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 23:19:47", "is_reply": false, "is_retweet": false, "user_id": "2269054974"}

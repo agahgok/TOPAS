@@ -1,0 +1,1 @@
+{"usernameTweet": "homoOdinuS", "ID": "754081424001630210", "text": "BBC world izleyin kopruden canli yayin #Ankara   #SokağaSakınÇıkma", "url": "/homoOdinuS/status/754081424001630210", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:16", "is_reply": false, "is_retweet": false, "user_id": "202096790"}

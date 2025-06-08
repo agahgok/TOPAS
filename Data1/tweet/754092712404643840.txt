@@ -1,0 +1,1 @@
+{"usernameTweet": "AliGulsen11", "ID": "754092712404643840", "text": "# SokağaSakınÇıkma", "url": "/AliGulsen11/status/754092712404643840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:07", "is_reply": false, "is_retweet": false, "user_id": "3105948868"}

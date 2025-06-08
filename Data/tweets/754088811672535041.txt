@@ -1,0 +1,1 @@
+{"usernameTweet": "nur8326", "ID": "754088811672535041", "text": "Dünyadaki en kısa darbe girişimini izleyeceğiz. Not edin.\n\n#SokağaSakınÇıkma", "url": "/nur8326/status/754088811672535041", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:37", "is_reply": false, "is_retweet": false, "user_id": "606217975"}

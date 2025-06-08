@@ -1,0 +1,1 @@
+{"usernameTweet": "Uzun92742495", "ID": "1281167190134337536", "text": "Darbe  yapamadığı sürece CHP hiçtir akıllanın ve idrak edin artık koyun olmayın..", "url": "/Uzun92742495/status/1281167190134337536", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 13:03:55", "is_reply": true, "is_retweet": false, "user_id": "1028970136009678848"}

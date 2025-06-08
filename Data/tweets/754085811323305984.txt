@@ -1,0 +1,1 @@
+{"usernameTweet": "wr990", "ID": "754085811323305984", "text": "# SokağaSakınÇıkma  #Ankara \n#istanbul https:// twitter.com/layla_aljhany/ status/754085561028272128   …", "url": "/wr990/status/754085811323305984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:42", "is_reply": false, "is_retweet": false, "user_id": "702540258882224128"}

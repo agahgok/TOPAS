@@ -1,0 +1,1 @@
+{"usernameTweet": "bolat_derya", "ID": "754087312099860481", "text": "# SokağaSakınÇıkma", "url": "/bolat_derya/status/754087312099860481", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:40", "is_reply": false, "is_retweet": false, "user_id": "2713993655"}

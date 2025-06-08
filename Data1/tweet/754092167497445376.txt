@@ -1,0 +1,1 @@
+{"usernameTweet": "kemal_gunyel", "ID": "754092167497445376", "text": "Akp tiyatrosu sadece Akkoyunlular inandı oyuna bizler sokakta degiliz #SokağaSakınÇıkma", "url": "/kemal_gunyel/status/754092167497445376", "nbr_retweet": 5, "nbr_favorite": 13, "nbr_reply": 0, "datetime": "2016-07-16 02:15:57", "is_reply": false, "is_retweet": false, "user_id": "708263455774646272"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "onbasiseyid", "ID": "754081078860771328", "text": "İslami devrim hayırlı olsun  #SokağaSakınÇıkma", "url": "/onbasiseyid/status/754081078860771328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:54", "is_reply": false, "is_retweet": false, "user_id": "1478232612"}

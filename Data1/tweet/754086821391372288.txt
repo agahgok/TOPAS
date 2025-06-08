@@ -1,0 +1,1 @@
+{"usernameTweet": "M_Kaplan2", "ID": "754086821391372288", "text": "# SokağaSakınÇıkma \nAtatürkün Askerleri", "url": "/M_Kaplan2/status/754086821391372288", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:54:43", "is_reply": false, "is_retweet": false, "user_id": "2850858344"}

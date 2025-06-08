@@ -1,0 +1,1 @@
+{"usernameTweet": "ondersevinc", "ID": "754074203679289344", "text": "İnanamıyorum sokağa çık diyenlere askerle halkı karşı karşıya getiriyorlar inanamıyorum  #SokağaSakınÇıkma", "url": "/ondersevinc/status/754074203679289344", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:04:34", "is_reply": false, "is_retweet": false, "user_id": "275195004"}

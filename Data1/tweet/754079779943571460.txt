@@ -1,0 +1,1 @@
+{"usernameTweet": "temren_murat", "ID": "754079779943571460", "text": "Bogazici koprüsune dogru yuruyenlere ates açıldi\nYaralilar var\n#SokağaSakınÇıkma", "url": "/temren_murat/status/754079779943571460", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:44", "is_reply": false, "is_retweet": false, "user_id": "2888594290"}

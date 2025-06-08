@@ -1,0 +1,1 @@
+{"usernameTweet": "demirselin18", "ID": "754097796408565760", "text": "# SokağaSakınÇıkma   pic.twitter.com/PUpOpbCn7J", "url": "/demirselin18/status/754097796408565760", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:38:19", "is_reply": false, "is_retweet": false, "user_id": "4548584500"}

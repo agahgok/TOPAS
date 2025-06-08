@@ -1,0 +1,1 @@
+{"usernameTweet": "DilekYetgin", "ID": "754078744038350849", "text": "# SokağaSakınÇıkma  tiyatronun allahını yapıyolar", "url": "/DilekYetgin/status/754078744038350849", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:37", "is_reply": false, "is_retweet": false, "user_id": "321887715"}

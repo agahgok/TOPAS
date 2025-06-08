@@ -1,0 +1,1 @@
+{"usernameTweet": "proletaryan", "ID": "754077925322948608", "text": "Etlik civarında jetler inanılmaz yakın geçiyor, patlama sesleri geliyor! #sokağaçıkma  #Ankara", "url": "/proletaryan/status/754077925322948608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:22", "is_reply": false, "is_retweet": false, "user_id": "3128900763"}

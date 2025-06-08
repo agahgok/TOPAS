@@ -1,0 +1,1 @@
+{"usernameTweet": "olorligenc", "ID": "754078326608789505", "text": "Benim gibi bir sokak çocuğuna #SokağaSakınÇıkma  diyenin aklına şaşarım", "url": "/olorligenc/status/754078326608789505", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:57", "is_reply": false, "is_retweet": false, "user_id": "724902218504241152"}

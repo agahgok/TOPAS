@@ -1,0 +1,1 @@
+{"usernameTweet": "bpacalif", "ID": "1282409105357860864", "text": "Ah caray!!! \"encargado de los destinos de la pandemia\" ...wow!!!", "url": "/bpacalif/status/1282409105357860864", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 2, "datetime": "2020-07-12 23:18:51", "is_reply": true, "is_retweet": false, "user_id": "235422262"}

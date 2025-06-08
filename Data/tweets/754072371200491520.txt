@@ -1,0 +1,1 @@
+{"usernameTweet": "KAKISKALI", "ID": "754072371200491520", "text": "# SokağaSakınÇıkma  #SokağaSakınÇıkma  #SokağaSakınÇıkma", "url": "/KAKISKALI/status/754072371200491520", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:17", "is_reply": false, "is_retweet": false, "user_id": "519370917"}

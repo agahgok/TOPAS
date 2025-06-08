@@ -1,0 +1,1 @@
+{"usernameTweet": "haberinsonu", "ID": "1281623384200273920", "text": "DEMOKRASİYE  DARBE  VURULUYOR  https://www. haberinsonu.com/demokrasiye-da rbe-vuruluyor/   …", "url": "/haberinsonu/status/1281623384200273920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 19:16:40", "is_reply": false, "is_retweet": false, "user_id": "1129734709825744896"}

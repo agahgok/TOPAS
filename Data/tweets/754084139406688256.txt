@@ -1,0 +1,1 @@
+{"usernameTweet": "cagdasagin", "ID": "754084139406688256", "text": "# SokağaSakınÇıkma  diyor bu gece çıkmayan şerefini  sorgulasin", "url": "/cagdasagin/status/754084139406688256", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:44:03", "is_reply": false, "is_retweet": false, "user_id": "2316992417"}

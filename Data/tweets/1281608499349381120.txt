@@ -1,0 +1,1 @@
+{"usernameTweet": "TrentAl25959808", "ID": "1281608499349381120", "text": "Cumhuriyet, dinden beslenip bir bok bilmeyenlere  darbe  vurdu, yanlış anlamışsın!", "url": "/TrentAl25959808/status/1281608499349381120", "nbr_retweet": 1, "nbr_favorite": 164, "nbr_reply": 1, "datetime": "2020-07-10 18:17:32", "is_reply": true, "is_retweet": false, "user_id": "1234188972236115968"}

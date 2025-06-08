@@ -1,0 +1,1 @@
+{"usernameTweet": "bursadabugun", "ID": "1281496616596316161", "text": "# Bursa 'da tefecilere  darbe !\n\nHaberi oku--->  https:// bit.ly/2ClZGbI   pic.twitter.com/66DjWKh9SZ", "url": "/bursadabugun/status/1281496616596316161", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 10:52:57", "is_reply": false, "is_retweet": false, "user_id": "180403271"}

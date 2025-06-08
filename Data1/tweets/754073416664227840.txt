@@ -1,0 +1,1 @@
+{"usernameTweet": "Alselhantol26", "ID": "754073416664227840", "text": "Ne olursa olsun sokağa ÇIKMAYIN \n#SokağaSakınÇıkma", "url": "/Alselhantol26/status/754073416664227840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:27", "is_reply": false, "is_retweet": false, "user_id": "4485401056"}

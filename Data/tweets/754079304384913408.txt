@@ -1,0 +1,1 @@
+{"usernameTweet": "erberger", "ID": "754079304384913408", "text": "Gezicilere değil diğer %50 ye çıkın denildi. Siz üErinize alınmayın zaten #SokağaSakınÇıkma", "url": "/erberger/status/754079304384913408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:50", "is_reply": false, "is_retweet": false, "user_id": "226953347"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "anahaber7", "ID": "754080571031257088", "text": "# SokağaSakınÇıkma \n#Ankara \nTRT 1 pic.twitter.com/dD5JYbFqy4", "url": "/anahaber7/status/754080571031257088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:52", "is_reply": false, "is_retweet": false, "user_id": "707644501905563648"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ko_talat", "ID": "754074404083097600", "text": "# SokağaSakınÇıkma", "url": "/ko_talat/status/754074404083097600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:22", "is_reply": false, "is_retweet": false, "user_id": "2566860467"}

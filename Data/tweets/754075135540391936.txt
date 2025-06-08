@@ -1,0 +1,1 @@
+{"usernameTweet": "sueeedabas", "ID": "754075135540391936", "text": "# SokağaSakınÇıkma  İSTİKLAL MARŞIMIZ \"KORKMA\" DİYE BAŞLIYOR! ÜLKEMİZİN BAYRAĞI İÇİN ÇIKIN", "url": "/sueeedabas/status/754075135540391936", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:08:17", "is_reply": false, "is_retweet": false, "user_id": "2236481469"}

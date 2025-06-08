@@ -1,0 +1,1 @@
+{"usernameTweet": "lunoedies", "ID": "754090171847639040", "text": "# SokağaSakınÇıkma", "url": "/lunoedies/status/754090171847639040", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:08:01", "is_reply": false, "is_retweet": false, "user_id": "2157103660"}

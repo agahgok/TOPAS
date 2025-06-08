@@ -1,0 +1,1 @@
+{"usernameTweet": "CalforniaValisi", "ID": "754091960076345344", "text": "Allah kahretsin bu kargaşada yanımda taşıdığım üniversite diplomamı kaybettim :) #SokağaSakınÇıkma", "url": "/CalforniaValisi/status/754091960076345344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:08", "is_reply": false, "is_retweet": false, "user_id": "342245696"}

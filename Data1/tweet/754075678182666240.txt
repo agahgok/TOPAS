@@ -1,0 +1,1 @@
+{"usernameTweet": "napcazEfos", "ID": "754075678182666240", "text": "# SokağaSakınÇıkma  #tekbaşkomutanMUSTAFAKEMALATATÜRK", "url": "/napcazEfos/status/754075678182666240", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:10:26", "is_reply": false, "is_retweet": false, "user_id": "2797649543"}

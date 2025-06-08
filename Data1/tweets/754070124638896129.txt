@@ -1,0 +1,1 @@
+{"usernameTweet": "s_gulum", "ID": "754070124638896129", "text": "Bu bir oyundur askerimizin üstüne yürütmeye çalışiyorlar asker bizim askerimiz\n  #SokağaSakınÇıkma", "url": "/s_gulum/status/754070124638896129", "nbr_retweet": 50, "nbr_favorite": 81, "nbr_reply": 2, "datetime": "2016-07-16 00:48:22", "is_reply": false, "is_retweet": false, "user_id": "2334357083"}

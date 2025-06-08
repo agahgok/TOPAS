@@ -1,0 +1,1 @@
+{"usernameTweet": "FerAlgaba", "ID": "754088213522841600", "text": "TT ora in Turchia #SokağaSakınÇıkma   pic.twitter.com/cyhlzvIxhc", "url": "/FerAlgaba/status/754088213522841600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:15", "is_reply": false, "is_retweet": false, "user_id": "238212600"}

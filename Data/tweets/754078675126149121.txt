@@ -1,0 +1,1 @@
+{"usernameTweet": "sevvalnur2016", "ID": "754078675126149121", "text": "Şu an ATAM keşke burada olsaydı diyorum #SokağaSakınÇıkma", "url": "/sevvalnur2016/status/754078675126149121", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:22:20", "is_reply": false, "is_retweet": false, "user_id": "3047396342"}

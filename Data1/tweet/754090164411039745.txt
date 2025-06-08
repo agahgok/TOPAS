@@ -1,0 +1,1 @@
+{"usernameTweet": "dionysosAg", "ID": "754090164411039745", "text": "ülkenin yönetimini imamlar aldı #SokağaSakınÇıkma  #Ankara", "url": "/dionysosAg/status/754090164411039745", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:00", "is_reply": false, "is_retweet": false, "user_id": "726697437000245248"}

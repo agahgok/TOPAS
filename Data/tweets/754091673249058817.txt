@@ -1,0 +1,1 @@
+{"usernameTweet": "I_Kirkan", "ID": "754091673249058817", "text": "# SokağaSakınÇıkma  Ülkenin selası okunuyor.Ak Propaganda dinini çok tatlı kullanmaya devam  #darbeyehayır", "url": "/I_Kirkan/status/754091673249058817", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:59", "is_reply": false, "is_retweet": false, "user_id": "492303747"}

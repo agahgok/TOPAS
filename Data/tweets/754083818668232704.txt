@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafa_orzan35", "ID": "754083818668232704", "text": "Şeriat darbesi.\n#DarbeyeHayır  #SokagaSakınÇıkma \nİzmirde de okutulmaya başlandı. Bilin istedim.", "url": "/mustafa_orzan35/status/754083818668232704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:47", "is_reply": false, "is_retweet": false, "user_id": "4082874377"}

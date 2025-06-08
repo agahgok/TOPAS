@@ -1,0 +1,1 @@
+{"usernameTweet": "zinedzal", "ID": "754112148201242628", "text": "Bu milleti sokağa davet edenler, en az onları öldürenler kadar sorumludur. #sokağaçıkma", "url": "/zinedzal/status/754112148201242628", "nbr_retweet": 2, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 03:35:21", "is_reply": false, "is_retweet": false, "user_id": "1479097368"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "rftarikan09", "ID": "754105796150059008", "text": "İstedikleri şeyi yapma  #SokağaSakınÇıkma", "url": "/rftarikan09/status/754105796150059008", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:10:07", "is_reply": false, "is_retweet": false, "user_id": "2826520616"}

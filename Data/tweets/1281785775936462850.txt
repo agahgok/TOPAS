@@ -1,0 +1,1 @@
+{"usernameTweet": "colakrengin", "ID": "1281785775936462850", "text": "# COKLUBARO  #Ayasofya  Bildigimiz #darbe", "url": "/colakrengin/status/1281785775936462850", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 06:01:58", "is_reply": false, "is_retweet": false, "user_id": "1680532806"}

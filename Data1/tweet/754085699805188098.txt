@@ -1,0 +1,1 @@
+{"usernameTweet": "alevgrr", "ID": "754085699805188098", "text": "Aklı selim tek bir siyasi halkı kışkırtmak için, sokağa inme çağrısı yapıp durmaz #SokağaSakınÇıkma", "url": "/alevgrr/status/754085699805188098", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:15", "is_reply": false, "is_retweet": false, "user_id": "1398462751"}

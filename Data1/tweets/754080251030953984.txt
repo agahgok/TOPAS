@@ -1,0 +1,1 @@
+{"usernameTweet": "aleynfiliz", "ID": "754080251030953984", "text": "# SokagaSakınÇıkma   ezanları okutarak bunda da dini kullanıyosunuz ve kanıp dışarı çıkanlara pes artık", "url": "/aleynfiliz/status/754080251030953984", "nbr_retweet": 1, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:28:36", "is_reply": false, "is_retweet": false, "user_id": "1055572790"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "CemalGeyveli", "ID": "754084043851984896", "text": "# SokağaSakınÇıkma  Diyanet bu saatte Sela da neyin nesi kimin Diyaneti bu böyle", "url": "/CemalGeyveli/status/754084043851984896", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:40", "is_reply": false, "is_retweet": false, "user_id": "3153578514"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "linqum1x", "ID": "1282318741775286273", "text": "Hatayspor  darbe  mi yaptı noldu ya herkes sokağa çıkıyor", "url": "/linqum1x/status/1282318741775286273", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-12 17:19:47", "is_reply": false, "is_retweet": false, "user_id": "1242671105376165889"}

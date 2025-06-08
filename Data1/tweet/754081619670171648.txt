@@ -1,0 +1,1 @@
+{"usernameTweet": "Taha_dmir", "ID": "754081619670171648", "text": "ya dünyada fake darbe yapılan tek ülkeyiz komedi gibi amına koyayım böyle işin #SokağaSakınÇıkma", "url": "/Taha_dmir/status/754081619670171648", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:34:02", "is_reply": false, "is_retweet": false, "user_id": "1470451382"}

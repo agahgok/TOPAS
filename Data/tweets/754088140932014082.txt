@@ -1,0 +1,1 @@
+{"usernameTweet": "AYaylacii", "ID": "754088140932014082", "text": "# SokağaSakınÇıkma  Zamanında tencere tava hep aynı hava diyenler şimdi tencere tavaya vursun diyolar... ", "url": "/AYaylacii/status/754088140932014082", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:59:57", "is_reply": false, "is_retweet": false, "user_id": "290787171"}

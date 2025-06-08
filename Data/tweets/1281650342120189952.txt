@@ -1,0 +1,1 @@
+{"usernameTweet": "ulusoy_kaleli", "ID": "1281650342120189952", "text": "darbe  üstüne  darbe  uslanmıyor bu'", "url": "/ulusoy_kaleli/status/1281650342120189952", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 21:03:48", "is_reply": false, "is_retweet": false, "user_id": "712639433745514496"}

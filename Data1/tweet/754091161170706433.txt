@@ -1,0 +1,1 @@
+{"usernameTweet": "elkhalfii", "ID": "754091161170706433", "text": "رويترز: قائد الانقلاب في تركيا يعلن الاستسلام للشرطة التركية\n\n#تركيا_تنقلب  #Ankara  #SokağaSakınÇıkma", "url": "/elkhalfii/status/754091161170706433", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:57", "is_reply": false, "is_retweet": false, "user_id": "282777454"}

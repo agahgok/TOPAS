@@ -1,0 +1,1 @@
+{"usernameTweet": "yagythegreat", "ID": "1281991247205457920", "text": "Muharrem İnce sevgim çok derin bir  darbe  aldı.", "url": "/yagythegreat/status/1281991247205457920", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 19:38:26", "is_reply": false, "is_retweet": false, "user_id": "351088827"}

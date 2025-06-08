@@ -1,0 +1,1 @@
+{"usernameTweet": "HDPBARAN", "ID": "754110896012726273", "text": "Izmir'de de patlama ve yoğun silah sesleri gelmeye başladı \n #SokağaSakınÇıkma", "url": "/HDPBARAN/status/754110896012726273", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:30:22", "is_reply": false, "is_retweet": false, "user_id": "3135883366"}

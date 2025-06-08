@@ -1,0 +1,1 @@
+{"usernameTweet": "molla_kasim__", "ID": "1281241539612758021", "text": "Ee ülkede  darbe  yapanların hepsi CHP kökenli.", "url": "/molla_kasim__/status/1281241539612758021", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 17:59:22", "is_reply": true, "is_retweet": false, "user_id": "1189321415696310272"}

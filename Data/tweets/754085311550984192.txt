@@ -1,0 +1,1 @@
+{"usernameTweet": "biseydiceeem", "ID": "754085311550984192", "text": "biz sokağa çıkınca töröröst siz çıkınca milli irade tabi yaa #sokağasakınçıkma", "url": "/biseydiceeem/status/754085311550984192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:43", "is_reply": false, "is_retweet": false, "user_id": "178810072"}

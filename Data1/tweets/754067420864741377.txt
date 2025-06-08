@@ -1,0 +1,1 @@
+{"usernameTweet": "endeergol", "ID": "754067420864741377", "text": "İdeolojin ne olursa olsun #sokağaçıkma", "url": "/endeergol/status/754067420864741377", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:37", "is_reply": false, "is_retweet": false, "user_id": "219622847"}

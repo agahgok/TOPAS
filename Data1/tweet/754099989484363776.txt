@@ -1,0 +1,1 @@
+{"usernameTweet": "seboocukkk", "ID": "754099989484363776", "text": "# SokağaÇıkma  diye birşey yok sokağa çıkılır kim bize TÜRK milletine engel olabilir ki", "url": "/seboocukkk/status/754099989484363776", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 02:47:02", "is_reply": false, "is_retweet": false, "user_id": "747727694180327424"}

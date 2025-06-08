@@ -1,0 +1,1 @@
+{"usernameTweet": "OgulcanTiras", "ID": "754086124889448449", "text": "Askeri polisi halkı birbirine düşüyolar. Oyuna gelmeyin. Sokağa çıkmayın. #SokağaSakınÇıkma", "url": "/OgulcanTiras/status/754086124889448449", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:51:57", "is_reply": false, "is_retweet": false, "user_id": "2468093118"}

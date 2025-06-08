@@ -1,0 +1,1 @@
+{"ID": "1215627754839789568", "name": "酒桜&そのゆくメンバー名言bot", "screen_name": "sake_sonoyuku", "avatar": "https://pbs.twimg.com/profile_images/1216982349629419521/guVPeT3I_bigger.jpg"}

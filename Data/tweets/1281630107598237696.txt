@@ -1,0 +1,1 @@
+{"usernameTweet": "Oguz_Khan741", "ID": "1281630107598237696", "text": "Cumhuriyet İslam'a  darbe  vursa ezanları sustururdu. Sen yunanlı dedenle karıştırmışsın.", "url": "/Oguz_Khan741/status/1281630107598237696", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2020-07-10 19:43:23", "is_reply": true, "is_retweet": false, "user_id": "769318118837616640"}

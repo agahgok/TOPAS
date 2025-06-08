@@ -1,0 +1,1 @@
+{"usernameTweet": "Mehmet_Ozsoy_", "ID": "754078535195721728", "text": "# SokağaSakınÇıkma  diyenin taaaa ırkının ırzının....", "url": "/Mehmet_Ozsoy_/status/754078535195721728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:47", "is_reply": false, "is_retweet": false, "user_id": "356081207"}

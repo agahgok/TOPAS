@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754079782552428544", "text": "RTE kendi saklanıyor  halkı sokağa çağırıyor\n#SokağaSakınÇıkma", "url": "/ekicifaruk1/status/754079782552428544", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:26:44", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

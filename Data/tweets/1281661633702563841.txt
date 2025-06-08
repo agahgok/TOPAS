@@ -1,0 +1,1 @@
+{"usernameTweet": "SelimAkdi", "ID": "1281661633702563841", "text": "24 Temmuz Lozan Antlaşması'na vurulan İlk büyük  darbe  olacaktır.\nZincirleri kıra kıra...", "url": "/SelimAkdi/status/1281661633702563841", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 21:48:40", "is_reply": true, "is_retweet": false, "user_id": "1247660851823337474"}

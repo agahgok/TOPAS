@@ -1,0 +1,1 @@
+{"usernameTweet": "BenMustafaKAVAS", "ID": "1282366155844456450", "text": "ahahaaajj\n\nolm  darbe  üstüne  darbe \n\ngemi limanda :P", "url": "/BenMustafaKAVAS/status/1282366155844456450", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 20:28:11", "is_reply": false, "is_retweet": false, "user_id": "1264090493148966912"}

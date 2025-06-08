@@ -1,0 +1,1 @@
+{"usernameTweet": "Dreambo89205377", "ID": "1284352663975583744", "text": "Bişi Kurmadi  darbe  yaptı senin Ateist atan hazıra kondu", "url": "/Dreambo89205377/status/1284352663975583744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:01:51", "is_reply": true, "is_retweet": false, "user_id": "1152228289668427776"}

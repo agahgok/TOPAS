@@ -1,0 +1,1 @@
+{"usernameTweet": "DoganGker", "ID": "754073778964029440", "text": "Beylerbeyinde durumlar böyle #SokağaSakınÇıkma   pic.twitter.com/3l7drIWBTt", "url": "/DoganGker/status/754073778964029440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:53", "is_reply": false, "is_retweet": false, "user_id": "317419066"}

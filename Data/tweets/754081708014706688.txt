@@ -1,0 +1,1 @@
+{"usernameTweet": "nry888", "ID": "754081708014706688", "text": "Tsk icinden 3 Tane F16 yi kaciranlar ananizi ...  #SokağaSakınÇıkma", "url": "/nry888/status/754081708014706688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:34:24", "is_reply": false, "is_retweet": false, "user_id": "313245302"}

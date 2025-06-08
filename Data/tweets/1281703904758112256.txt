@@ -1,0 +1,1 @@
+{"usernameTweet": "kurmanc_93", "ID": "1281703904758112256", "text": "Kürd ve kürdçeye En büyük  darbe  kürd tirk evliliği vuruyor", "url": "/kurmanc_93/status/1281703904758112256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 00:36:38", "is_reply": true, "is_retweet": false, "user_id": "1235358224985083904"}

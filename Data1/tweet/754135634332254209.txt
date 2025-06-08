@@ -1,0 +1,1 @@
+{"usernameTweet": "burakhande", "ID": "754135634332254209", "text": "# SokağaÇıkma  beylikdüzünde  f16 tepemizde geziyor  pic.twitter.com/XmuZDsqnm5", "url": "/burakhande/status/754135634332254209", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 05:08:41", "is_reply": false, "is_retweet": false, "user_id": "101570474"}

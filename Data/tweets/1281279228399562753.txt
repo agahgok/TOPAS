@@ -1,0 +1,1 @@
+{"usernameTweet": "emporioaga", "ID": "1281279228399562753", "text": "Böyle de iyi Buda psikolojik olarak  darbe  oluyor çünkü ideolojik olarak inanç sönüyor devlet kazanıyor", "url": "/emporioaga/status/1281279228399562753", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 20:29:07", "is_reply": true, "is_retweet": false, "user_id": "424686233"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "caglappekerr", "ID": "1281962223125102592", "text": "Öldürmeyen  darbe  kuvvetlendirir ", "url": "/caglappekerr/status/1281962223125102592", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 17:43:06", "is_reply": false, "is_retweet": false, "user_id": "1184184060547162112"}

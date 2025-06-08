@@ -1,0 +1,1 @@
+{"usernameTweet": "mrttznrrr", "ID": "754080383570939908", "text": "Oyuna gelmeyin Dini kullanmalarına izin vermeyin !! #SokağaSakınÇıkma", "url": "/mrttznrrr/status/754080383570939908", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:29:08", "is_reply": false, "is_retweet": false, "user_id": "1493302009"}

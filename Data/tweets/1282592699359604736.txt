@@ -1,0 +1,1 @@
+{"usernameTweet": "hadandelamca", "ID": "1282592699359604736", "text": "Kontrollü  darbe  dedi ya sizin lideriniz! Hangi duruştan bahsediyorsun!?", "url": "/hadandelamca/status/1282592699359604736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 11:28:23", "is_reply": true, "is_retweet": false, "user_id": "784666712121700352"}

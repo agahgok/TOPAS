@@ -1,0 +1,1 @@
+{"usernameTweet": "demokrasisafi", "ID": "754085311127445505", "text": "Amaçları insanları birbirine kirdirdirmak #SokağaSakınÇıkma", "url": "/demokrasisafi/status/754085311127445505", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:43", "is_reply": false, "is_retweet": false, "user_id": "754081842345672704"}

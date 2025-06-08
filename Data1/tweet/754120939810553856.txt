@@ -1,0 +1,1 @@
+{"usernameTweet": "murvet_sim", "ID": "754120939810553856", "text": "DARBE DE NE?! Ayol!#DarbeDeğilTiyatro  #DarbeTiyatrosu  #SokağaSakınÇıkma  #LGBT pic.twitter.com/4oALdq6UUL", "url": "/murvet_sim/status/754120939810553856", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 04:10:17", "is_reply": false, "is_retweet": false, "user_id": "17840954"}

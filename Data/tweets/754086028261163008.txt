@@ -1,0 +1,1 @@
+{"usernameTweet": "NAZANALADAG", "ID": "754086028261163008", "text": "# SokağaSakınÇıkma", "url": "/NAZANALADAG/status/754086028261163008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:34", "is_reply": false, "is_retweet": false, "user_id": "150020238"}

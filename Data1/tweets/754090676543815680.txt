@@ -1,0 +1,1 @@
+{"usernameTweet": "magnaavem", "ID": "754090676543815680", "text": "# SokağaSakınÇıkma  darbe kötüdür eğer ortada bir darbe varsa.\nOyuna gelme sokağa çıkma tayyibe köle olma", "url": "/magnaavem/status/754090676543815680", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:10:02", "is_reply": false, "is_retweet": false, "user_id": "1954126920"}

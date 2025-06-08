@@ -1,0 +1,1 @@
+{"usernameTweet": "ILGIN_ARGAC", "ID": "754071090146766848", "text": "Halkı sokağa çağıranlar șuan evlerindeler #SokağaSakınÇıkma", "url": "/ILGIN_ARGAC/status/754071090146766848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:12", "is_reply": false, "is_retweet": false, "user_id": "600292793"}

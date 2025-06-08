@@ -1,0 +1,1 @@
+{"usernameTweet": "Yusuf47_01", "ID": "754077895560011776", "text": "Bunlar hep oyun bakın görün yarın hiçbirşey kalmaz akıllı olun evinizde durun  #SokağaSakınÇıkma", "url": "/Yusuf47_01/status/754077895560011776", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:19:15", "is_reply": false, "is_retweet": false, "user_id": "476765597"}

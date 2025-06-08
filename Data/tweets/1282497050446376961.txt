@@ -1,0 +1,1 @@
+{"usernameTweet": "jjduartebravo", "ID": "1282497050446376961", "text": "Ante todo, amigos, felicidades en este día. Abrazo", "url": "/jjduartebravo/status/1282497050446376961", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-13 05:08:19", "is_reply": true, "is_retweet": false, "user_id": "3507451219"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "VatanaAsik", "ID": "754100191452602368", "text": "2.Ordu Komutani İstanbula mudahale etmeye haziriz.  #SokağaÇıkma", "url": "/VatanaAsik/status/754100191452602368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:47:50", "is_reply": false, "is_retweet": false, "user_id": "115334548"}

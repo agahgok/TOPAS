@@ -1,0 +1,1 @@
+{"usernameTweet": "MuratAt83596898", "ID": "754082616844910592", "text": "Doguda o kadar mahsum insan öldü niye cıkmadinız   #SokağaSakınÇıkma", "url": "/MuratAt83596898/status/754082616844910592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:00", "is_reply": false, "is_retweet": false, "user_id": "754073635229405184"}

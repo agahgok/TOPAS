@@ -1,0 +1,1 @@
+{"usernameTweet": "sinancill", "ID": "754090821436239872", "text": "# SokağaSakınÇıkma  kendileri gibi soysuzlara yapıyorlar bu çağrıyı kanı bozuk şerefsizler", "url": "/sinancill/status/754090821436239872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:36", "is_reply": false, "is_retweet": false, "user_id": "3902483069"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kybednlerkulubu", "ID": "1282680444237086720", "text": "Savaşlar gördük,  darbe  gördük, salgın gördük ama bi huzur göremedik amk yerinde.", "url": "/kybednlerkulubu/status/1282680444237086720", "nbr_retweet": 17, "nbr_favorite": 244, "nbr_reply": 0, "datetime": "2020-07-13 17:17:03", "is_reply": false, "is_retweet": false, "user_id": "1139867642645405696"}

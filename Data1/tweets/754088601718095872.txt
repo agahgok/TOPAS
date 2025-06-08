@@ -1,0 +1,1 @@
+{"usernameTweet": "kes_tras", "ID": "754088601718095872", "text": "Lan hani en büyük asker bizim askerdi #SokağaSakınÇıkma", "url": "/kes_tras/status/754088601718095872", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:01:47", "is_reply": false, "is_retweet": false, "user_id": "3066021303"}

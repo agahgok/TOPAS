@@ -1,0 +1,1 @@
+{"usernameTweet": "fulliskazanova", "ID": "754071621011464193", "text": "# SokağaSakınÇıkma", "url": "/fulliskazanova/status/754071621011464193", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:19", "is_reply": false, "is_retweet": false, "user_id": "4343443937"}

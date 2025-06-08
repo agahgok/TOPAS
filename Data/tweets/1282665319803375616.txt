@@ -1,0 +1,1 @@
+{"usernameTweet": "AnkaraGeyikk", "ID": "1282665319803375616", "text": "Şu Ankara’da kriz gördük,  darbe  gördük, virüs gördük ama bi gerçek aşkı göremedik", "url": "/AnkaraGeyikk/status/1282665319803375616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:16:57", "is_reply": false, "is_retweet": false, "user_id": "1200115608479768580"}

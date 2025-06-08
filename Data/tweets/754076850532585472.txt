@@ -1,0 +1,1 @@
+{"usernameTweet": "KayiTorunu", "ID": "754076850532585472", "text": "# SokağaSakınÇıkma  yın Ak Gençlik geliyor Vatan sevdalıları geliyor", "url": "/KayiTorunu/status/754076850532585472", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:05", "is_reply": false, "is_retweet": false, "user_id": "526360692"}

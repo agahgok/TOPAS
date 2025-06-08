@@ -1,0 +1,1 @@
+{"usernameTweet": "yyasskaa", "ID": "754070773564932098", "text": "# SokağaSakınÇıkma  kardeşi kardeşe kalkan etme", "url": "/yyasskaa/status/754070773564932098", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:57", "is_reply": false, "is_retweet": false, "user_id": "811199298"}

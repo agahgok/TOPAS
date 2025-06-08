@@ -1,0 +1,1 @@
+{"usernameTweet": "murattenyasha", "ID": "754079624871763973", "text": "# SokağaSakınÇıkma \n\nPokemon avlamam lazım yarın. \n\n #pokemonGo", "url": "/murattenyasha/status/754079624871763973", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:26:07", "is_reply": false, "is_retweet": false, "user_id": "831265140"}

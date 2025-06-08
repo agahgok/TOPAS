@@ -1,0 +1,1 @@
+{"usernameTweet": "keeeeenks", "ID": "754090680989999104", "text": "Böyle darbe olur mu? Bunu mahalleden çocuklarla bile planlardık biz.Oyunlar oyunlaar.. #SokağaSakınÇıkma", "url": "/keeeeenks/status/754090680989999104", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:10:03", "is_reply": false, "is_retweet": false, "user_id": "409854726"}

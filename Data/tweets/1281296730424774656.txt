@@ -1,0 +1,1 @@
+{"usernameTweet": "unutmayeter3", "ID": "1281296730424774656", "text": "Pozitif enerji gönderdiğim evren Kenan Evren sanırım.. Her enerji  darbe  olarak geri geliyor", "url": "/unutmayeter3/status/1281296730424774656", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 21:38:40", "is_reply": false, "is_retweet": false, "user_id": "1109379830343221248"}

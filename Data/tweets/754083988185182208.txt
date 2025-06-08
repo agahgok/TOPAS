@@ -1,0 +1,1 @@
+{"usernameTweet": "crn_sefa", "ID": "754083988185182208", "text": "Evet cikmayin siz salak salak oturun korkaklar #SokağaSakınÇıkma", "url": "/crn_sefa/status/754083988185182208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:27", "is_reply": false, "is_retweet": false, "user_id": "3308885795"}

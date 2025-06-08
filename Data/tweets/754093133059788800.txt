@@ -1,0 +1,1 @@
+{"usernameTweet": "hallelujahtubba", "ID": "754093133059788800", "text": "# SokağaSakınÇıkma   pic.twitter.com/zt0NFaSWV5", "url": "/hallelujahtubba/status/754093133059788800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:47", "is_reply": false, "is_retweet": false, "user_id": "636273062"}

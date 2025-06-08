@@ -1,0 +1,1 @@
+{"usernameTweet": "omerdurak", "ID": "754086760808865793", "text": "# SokağaSakınÇıkma  çünkü bu vatan sizin gibi kanı bozuklara asla ihtiyaç duymadı.", "url": "/omerdurak/status/754086760808865793", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:54:28", "is_reply": false, "is_retweet": false, "user_id": "300748128"}

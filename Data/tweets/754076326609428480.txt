@@ -1,0 +1,1 @@
+{"usernameTweet": "melekcemen", "ID": "754076326609428480", "text": "Hepsi aynı açıklamayı yapıyo. Kağıttan okur gibi. Hepsi kurgu inanmayın #SONDAKİKA  #sokağasakınçıkma", "url": "/melekcemen/status/754076326609428480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:00", "is_reply": false, "is_retweet": false, "user_id": "737598587614306304"}

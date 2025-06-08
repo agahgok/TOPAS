@@ -1,0 +1,1 @@
+{"usernameTweet": "Purpose_Biebes", "ID": "754082345372844032", "text": "Kendinize dikkat edin lütfen dışarı çıkmayın #sokağasakınçıkma", "url": "/Purpose_Biebes/status/754082345372844032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:55", "is_reply": false, "is_retweet": false, "user_id": "703269738751852544"}

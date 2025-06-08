@@ -1,0 +1,1 @@
+{"usernameTweet": "elfamaelo", "ID": "1282645084589236224", "text": "Yakında bir  darbe  daha ", "url": "/elfamaelo/status/1282645084589236224", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-13 14:56:33", "is_reply": true, "is_retweet": false, "user_id": "1060260794439528449"}

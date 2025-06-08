@@ -1,0 +1,1 @@
+{"usernameTweet": "insanoglu", "ID": "754093335095156736", "text": "# SokağaSakınÇıkma  sanirim darbe tiyatrosu sona erdi gidip uyuyabiliriz artik", "url": "/insanoglu/status/754093335095156736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:36", "is_reply": false, "is_retweet": false, "user_id": "62880378"}

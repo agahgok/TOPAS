@@ -1,0 +1,1 @@
+{"usernameTweet": "alfanisw", "ID": "1281738475432222726", "text": "Bekir dadyden  darbe  yicez haberiniz olsun #nisabolukbasi  #nbfc", "url": "/alfanisw/status/1281738475432222726", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 02:54:00", "is_reply": false, "is_retweet": false, "user_id": "1278253032006967298"}

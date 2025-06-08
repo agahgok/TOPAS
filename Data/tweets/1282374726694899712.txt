@@ -1,0 +1,1 @@
+{"usernameTweet": "n_ecdad", "ID": "1282374726694899712", "text": "Darbe  gecesi tankın önüne yatarız diyen Kılıçdaroğlu neredeydi.", "url": "/n_ecdad/status/1282374726694899712", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-12 21:02:14", "is_reply": true, "is_retweet": false, "user_id": "878609605819060225"}

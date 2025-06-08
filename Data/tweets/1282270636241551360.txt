@@ -1,0 +1,1 @@
+{"usernameTweet": "E_Tcan", "ID": "1282270636241551360", "text": "Bak adamı kızdırmayın bi  darbe  daha kurgular ohali getirir diyer Siyasipartilerin Başkanlarını içeri tıkar.", "url": "/E_Tcan/status/1282270636241551360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 14:08:37", "is_reply": true, "is_retweet": false, "user_id": "411045404"}

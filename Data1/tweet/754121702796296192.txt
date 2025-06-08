@@ -1,0 +1,1 @@
+{"usernameTweet": "yclmelis", "ID": "754121702796296192", "text": "# sokağaçıkma  bok var sanki ülkeyi siz kurtarıyorsunuz dimi sanki Tayyip dedi ama git git ", "url": "/yclmelis/status/754121702796296192", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 04:13:19", "is_reply": false, "is_retweet": false, "user_id": "206849317"}

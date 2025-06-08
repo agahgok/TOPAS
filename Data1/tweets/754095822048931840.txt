@@ -1,0 +1,1 @@
+{"usernameTweet": "drugsinthedark", "ID": "754095822048931840", "text": "Başkanlık sistemi oyununa gelme #SokağaSakınÇıkma", "url": "/drugsinthedark/status/754095822048931840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:30:29", "is_reply": false, "is_retweet": false, "user_id": "481115786"}

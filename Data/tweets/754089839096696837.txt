@@ -1,0 +1,1 @@
+{"usernameTweet": "halit0755", "ID": "754089839096696837", "text": "# SokağaSakınÇıkma   pic.twitter.com/ljbVp7Sklx", "url": "/halit0755/status/754089839096696837", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:42", "is_reply": false, "is_retweet": false, "user_id": "748917618418020352"}

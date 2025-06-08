@@ -1,0 +1,1 @@
+{"usernameTweet": "BayrFurkan", "ID": "754076033423384576", "text": "Askerle karşı karşıya gelme .   #SokağaSakınÇıkma", "url": "/BayrFurkan/status/754076033423384576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:51", "is_reply": false, "is_retweet": false, "user_id": "457680546"}

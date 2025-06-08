@@ -1,0 +1,1 @@
+{"usernameTweet": "SERKAN21081980", "ID": "754128924662116352", "text": "# SokağaSakınÇıkma  bu onların hesaplaşması", "url": "/SERKAN21081980/status/754128924662116352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:42:01", "is_reply": false, "is_retweet": false, "user_id": "105893154"}

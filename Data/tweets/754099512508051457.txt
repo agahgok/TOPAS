@@ -1,0 +1,1 @@
+{"usernameTweet": "DogukanGurkan", "ID": "754099512508051457", "text": "Bu darbe değil başka bir şey oluyor. Ankara'da olan bitenler @FOXTurkiye  #SokağaSakınÇıkma", "url": "/DogukanGurkan/status/754099512508051457", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:45:08", "is_reply": false, "is_retweet": false, "user_id": "91864647"}

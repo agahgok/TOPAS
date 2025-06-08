@@ -1,0 +1,1 @@
+{"usernameTweet": "TwitliYorumm", "ID": "754083251782844416", "text": "Biz sokaktayız.Darbeciler nerede. #SokağaSakınÇıkma   pic.twitter.com/L4B4pkd1Kl", "url": "/TwitliYorumm/status/754083251782844416", "nbr_retweet": 26, "nbr_favorite": 26, "nbr_reply": 1, "datetime": "2016-07-16 01:40:32", "is_reply": false, "is_retweet": false, "user_id": "2322808026"}

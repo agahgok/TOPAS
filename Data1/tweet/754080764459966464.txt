@@ -1,0 +1,1 @@
+{"usernameTweet": "hakanikoYlmz", "ID": "754080764459966464", "text": "5dk da bir sela okunup sokağa çıkma çağrısı yapılıyor camilerden. #sokağasakınçıkma", "url": "/hakanikoYlmz/status/754080764459966464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:39", "is_reply": false, "is_retweet": false, "user_id": "1472976008"}

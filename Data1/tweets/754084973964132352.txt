@@ -1,0 +1,1 @@
+{"usernameTweet": "Pisi_pisicikk", "ID": "754084973964132352", "text": "# SokağaSakınÇıkma   pic.twitter.com/Nj3Im3mynG", "url": "/Pisi_pisicikk/status/754084973964132352", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:47:22", "is_reply": false, "is_retweet": false, "user_id": "2912559256"}

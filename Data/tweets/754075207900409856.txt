@@ -1,0 +1,1 @@
+{"usernameTweet": "labadaklubadak", "ID": "754075207900409856", "text": "Sen  #SokağaSakınÇıkma  Jöleli çıksın", "url": "/labadaklubadak/status/754075207900409856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:34", "is_reply": false, "is_retweet": false, "user_id": "748070216282693633"}

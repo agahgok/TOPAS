@@ -1,0 +1,1 @@
+{"usernameTweet": "cuuloglu", "ID": "754063543478153217", "text": "# SokağaÇıkma  #EvineDön pic.twitter.com/Wgydw2MY7y", "url": "/cuuloglu/status/754063543478153217", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 00:22:13", "is_reply": false, "is_retweet": false, "user_id": "301701311"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "BiscolataBruno", "ID": "754079654747762688", "text": "# SokağaSakınÇıkma", "url": "/BiscolataBruno/status/754079654747762688", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:14", "is_reply": false, "is_retweet": false, "user_id": "1053762704"}

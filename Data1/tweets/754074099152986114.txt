@@ -1,0 +1,1 @@
+{"usernameTweet": "twitsoruisareti", "ID": "754074099152986114", "text": "# SokağaSakınÇıkma  sokağa koyunlarını çağırdı..Hülloooğğ", "url": "/twitsoruisareti/status/754074099152986114", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:09", "is_reply": false, "is_retweet": false, "user_id": "709102646137909250"}

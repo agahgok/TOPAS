@@ -1,0 +1,1 @@
+{"usernameTweet": "FatihDogrular", "ID": "754074741284241408", "text": "Orrospu çocukları siz #SokağaSakınÇıkma  yın. Bugün sokaklar bizim kahpelik yine sizin olsun", "url": "/FatihDogrular/status/754074741284241408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:43", "is_reply": false, "is_retweet": false, "user_id": "371659862"}

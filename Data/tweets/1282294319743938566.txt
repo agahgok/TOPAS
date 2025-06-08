@@ -1,0 +1,1 @@
+{"usernameTweet": "Sadkentrk10", "ID": "1282294319743938566", "text": "Zaten daha önce bu ülkede  darbe  ve  darbe  girişimi hiç olmamıştı", "url": "/Sadkentrk10/status/1282294319743938566", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 1, "datetime": "2020-07-12 15:42:44", "is_reply": true, "is_retweet": false, "user_id": "1200525635820630023"}

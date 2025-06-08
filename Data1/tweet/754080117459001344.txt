@@ -1,0 +1,1 @@
+{"usernameTweet": "Asiller_1923", "ID": "754080117459001344", "text": "Türk Silahlı Kuvvetleri milletindir.\n#SokağaSakınÇıkma", "url": "/Asiller_1923/status/754080117459001344", "nbr_retweet": 2, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:28:04", "is_reply": false, "is_retweet": false, "user_id": "229071245"}

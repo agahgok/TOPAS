@@ -1,0 +1,1 @@
+{"usernameTweet": "Je__Sem", "ID": "754074658723524608", "text": "# Ntv  Akp nin iç savaş çığırtkanlığına borazan tutmak hic mi vicdanınızı yaralamaz!? #sokağacikma", "url": "/Je__Sem/status/754074658723524608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:23", "is_reply": false, "is_retweet": false, "user_id": "157482702"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "DaraZerdest", "ID": "754080854062817281", "text": "# SokagaSakinCikma \n#Ankara \nAsker illaki birsey yapacaksa #bingöl  den baslasin", "url": "/DaraZerdest/status/754080854062817281", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:00", "is_reply": false, "is_retweet": false, "user_id": "2805202815"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "NurettinKaragz", "ID": "1281957329135697921", "text": "Onlara biz izin verdik  darbe  yapsınlar da demiş mi?", "url": "/NurettinKaragz/status/1281957329135697921", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 17:23:39", "is_reply": true, "is_retweet": false, "user_id": "230072758"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "GERRME_", "ID": "1282124524373397505", "text": "Alkole gelen zam hayatıma  darbe", "url": "/GERRME_/status/1282124524373397505", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-12 04:28:01", "is_reply": false, "is_retweet": false, "user_id": "1153050682628411393"}

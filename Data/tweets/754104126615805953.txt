@@ -1,0 +1,1 @@
+{"usernameTweet": "kinngacar", "ID": "754104126615805953", "text": "Alınan askerlerin hepsi er dir yani herkesin asker olduğunu gibi rütbeli alınan kimse yok  #SokağaSakınÇıkma", "url": "/kinngacar/status/754104126615805953", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:03:29", "is_reply": false, "is_retweet": false, "user_id": "96228781"}

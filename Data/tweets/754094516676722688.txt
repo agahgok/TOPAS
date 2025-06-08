@@ -1,0 +1,1 @@
+{"usernameTweet": "ne_kadar", "ID": "754094516676722688", "text": "Biz sana Ulken icin #SokağaSakınÇıkma  diyoruz sen ise Tayyip icin sokaga cıkıyorsun, anladınmı kimmis Vatan Haini", "url": "/ne_kadar/status/754094516676722688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:17", "is_reply": false, "is_retweet": false, "user_id": "556652345"}

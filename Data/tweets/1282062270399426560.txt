@@ -1,0 +1,1 @@
+{"usernameTweet": "sibel420660", "ID": "1282062270399426560", "text": "Kontrollü  darbe  diyen kendini bilmez vatan hainleri bu videoyu iyi izlesin.", "url": "/sibel420660/status/1282062270399426560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 00:20:39", "is_reply": true, "is_retweet": false, "user_id": "4846082314"}

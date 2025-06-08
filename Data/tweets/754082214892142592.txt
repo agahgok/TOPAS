@@ -1,0 +1,1 @@
+{"usernameTweet": "y_karacapinar", "ID": "754082214892142592", "text": "Bu ordu bu milletindir. Biz askerimizi sehit verirken ordumuza guvenmiyormuyduk\n #SokağaSakınÇıkma", "url": "/y_karacapinar/status/754082214892142592", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:24", "is_reply": false, "is_retweet": false, "user_id": "2912958675"}

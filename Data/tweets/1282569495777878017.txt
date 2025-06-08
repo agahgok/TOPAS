@@ -1,0 +1,1 @@
+{"usernameTweet": "gulayymayis", "ID": "1282569495777878017", "text": "Yıl 2016\n Darbe  tiyatrosu sonrası", "url": "/gulayymayis/status/1282569495777878017", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 3, "datetime": "2020-07-13 09:56:11", "is_reply": true, "is_retweet": false, "user_id": "4806938841"}

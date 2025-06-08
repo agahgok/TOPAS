@@ -1,0 +1,1 @@
+{"usernameTweet": "ErayATLY", "ID": "754098534941589504", "text": "# SokağaSakınÇıkma", "url": "/ErayATLY/status/754098534941589504", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:41:15", "is_reply": false, "is_retweet": false, "user_id": "841405302"}

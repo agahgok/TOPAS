@@ -1,0 +1,1 @@
+{"usernameTweet": "cerenulku71", "ID": "754085746386927616", "text": "# SokağaSakınÇıkma  oyun bu oyun  https:// twitter.com/AdaminMavisi/s tatus/754084085996412928   …", "url": "/cerenulku71/status/754085746386927616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:26", "is_reply": false, "is_retweet": false, "user_id": "710963872690085888"}

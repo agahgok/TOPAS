@@ -1,0 +1,1 @@
+{"usernameTweet": "Aligncr23", "ID": "754130222031699972", "text": "# SokağaÇıkma  diyen yavşaklar hepinizin anasını avradini", "url": "/Aligncr23/status/754130222031699972", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 04:47:10", "is_reply": false, "is_retweet": false, "user_id": "4159203875"}

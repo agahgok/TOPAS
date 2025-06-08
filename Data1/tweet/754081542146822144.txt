@@ -1,0 +1,1 @@
+{"usernameTweet": "neden_ben_acaba", "ID": "754081542146822144", "text": "# SokağaSakınÇıkma  camiler babanın mali değil çıkarların için kullanamazsin", "url": "/neden_ben_acaba/status/754081542146822144", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:44", "is_reply": false, "is_retweet": false, "user_id": "744247103963209728"}

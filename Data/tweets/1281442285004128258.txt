@@ -1,0 +1,1 @@
+{"usernameTweet": "sissente", "ID": "1281442285004128258", "text": "Darbe  olursa tankların üzerine ilk ben çıkarım demişti. Tankların arasından yağ gibi kayıp evde tv seyretti.", "url": "/sissente/status/1281442285004128258", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-10 07:17:03", "is_reply": true, "is_retweet": false, "user_id": "43433480"}

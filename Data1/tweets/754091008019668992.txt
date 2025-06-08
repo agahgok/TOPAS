@@ -1,0 +1,1 @@
+{"usernameTweet": "DeLi___FeNeRLi", "ID": "754091008019668992", "text": "CANLI YAYIN FİLM  DEVAM EDİYOR  BUNUN  ALTINDAN  RT ÇIKARSA  HİÇ ŞAŞIRMAM  #SokağaSakınÇıkma", "url": "/DeLi___FeNeRLi/status/754091008019668992", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:11:21", "is_reply": false, "is_retweet": false, "user_id": "1627785114"}

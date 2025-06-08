@@ -1,0 +1,1 @@
+{"usernameTweet": "1903Meliss", "ID": "754095040910225409", "text": "# SokağaSakınÇıkma  oyuna gelmeyin", "url": "/1903Meliss/status/754095040910225409", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:22", "is_reply": false, "is_retweet": false, "user_id": "319163848"}

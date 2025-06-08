@@ -1,0 +1,1 @@
+{"usernameTweet": "Sevket_Eyimaya", "ID": "754092727361560576", "text": "# SokağaSakınÇıkma  diyenler mesele ağaç değil siz hala anlamadınız mı ?", "url": "/Sevket_Eyimaya/status/754092727361560576", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:18:11", "is_reply": false, "is_retweet": false, "user_id": "184836265"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AliVumar", "ID": "1282114415958130689", "text": "Darbe  mi oluyor Sevim?  https:// twitter.com/realDonaldTrum p/status/1282113922523435008   …", "url": "/AliVumar/status/1282114415958130689", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 03:47:51", "is_reply": false, "is_retweet": false, "user_id": "862260053352382466"}

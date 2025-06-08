@@ -1,0 +1,1 @@
+{"usernameTweet": "ErtugrulBalibay", "ID": "1281820505226588160", "text": "İnsan dediğin haddehanedeki Çelik gibidir. Darbe  yedikçe güçlenir azizim.  BALİBAY", "url": "/ErtugrulBalibay/status/1281820505226588160", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-11 08:19:58", "is_reply": false, "is_retweet": false, "user_id": "3525983963"}

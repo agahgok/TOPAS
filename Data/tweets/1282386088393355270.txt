@@ -1,0 +1,1 @@
+{"usernameTweet": "cemalorbaris", "ID": "1282386088393355270", "text": "nası bi  darbe", "url": "/cemalorbaris/status/1282386088393355270", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 21:47:23", "is_reply": true, "is_retweet": false, "user_id": "1218466124012118016"}

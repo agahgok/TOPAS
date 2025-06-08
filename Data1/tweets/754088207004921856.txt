@@ -1,0 +1,1 @@
+{"usernameTweet": "soldevrimm", "ID": "754088207004921856", "text": "AKP sokaklarda insanları kışkırtıp sokağa çıkartıyor ÇIKMA  #SokağaSakınÇıkma", "url": "/soldevrimm/status/754088207004921856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:13", "is_reply": false, "is_retweet": false, "user_id": "3315773224"}

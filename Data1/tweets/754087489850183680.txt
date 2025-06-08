@@ -1,0 +1,1 @@
+{"usernameTweet": "reyhanburcinn", "ID": "754087489850183680", "text": "İzmir Bucada camilerden sokağa çıkın duyurusu #SokağaSakınÇıkma   pic.twitter.com/B1dTF0XT34", "url": "/reyhanburcinn/status/754087489850183680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:22", "is_reply": false, "is_retweet": false, "user_id": "1315270616"}

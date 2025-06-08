@@ -1,0 +1,1 @@
+{"usernameTweet": "isadgl", "ID": "1281260162968432640", "text": "Bu adam hakikaten  darbe  olacağını biliyormuş..", "url": "/isadgl/status/1281260162968432640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 19:13:22", "is_reply": true, "is_retweet": false, "user_id": "93197857"}

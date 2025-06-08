@@ -1,0 +1,1 @@
+{"usernameTweet": "CerenSarper", "ID": "754070952627929089", "text": "asker-polis çatışmasına leğenle mi katılmayı düşünüyosun ?? Otur oturdugun yerde ! #SokağaSakınÇıkma", "url": "/CerenSarper/status/754070952627929089", "nbr_retweet": 12, "nbr_favorite": 13, "nbr_reply": 0, "datetime": "2016-07-16 00:51:39", "is_reply": false, "is_retweet": false, "user_id": "93216653"}

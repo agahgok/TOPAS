@@ -1,0 +1,1 @@
+{"usernameTweet": "Mis_Sokak", "ID": "754076267746656262", "text": "Türkiye ezilenleri için Akp ne ise darbeciler odur.\n#SokağaSakınÇıkma", "url": "/Mis_Sokak/status/754076267746656262", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:46", "is_reply": false, "is_retweet": false, "user_id": "711502151667859456"}

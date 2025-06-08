@@ -1,0 +1,1 @@
+{"usernameTweet": "zeyneepyilmmaz", "ID": "754093938018058242", "text": "Bir zamanlar çapulcuyduk haindik şimdi sokakta eylemmi yapalım   #SokağaSakınÇıkma", "url": "/zeyneepyilmmaz/status/754093938018058242", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:59", "is_reply": false, "is_retweet": false, "user_id": "2333971854"}

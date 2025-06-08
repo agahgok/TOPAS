@@ -1,0 +1,1 @@
+{"usernameTweet": "OctaCuervo", "ID": "754104815010086912", "text": "Dios los bendiga   saludos desde Argentina. #SokağaSakınÇıkma", "url": "/OctaCuervo/status/754104815010086912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:06:13", "is_reply": false, "is_retweet": false, "user_id": "485988437"}

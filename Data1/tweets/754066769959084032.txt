@@ -1,0 +1,1 @@
+{"usernameTweet": "5x4emre", "ID": "754066769959084032", "text": "# SokağaSakınÇıkma  Erdoğan iç savaş istiyor", "url": "/5x4emre/status/754066769959084032", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:35:02", "is_reply": false, "is_retweet": false, "user_id": "155653418"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AlpSirman", "ID": "754055901741477888", "text": "# SokağaSakınÇıkma", "url": "/AlpSirman/status/754055901741477888", "nbr_retweet": 34, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-15 23:51:51", "is_reply": false, "is_retweet": false, "user_id": "92702292"}

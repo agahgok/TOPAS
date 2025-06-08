@@ -1,0 +1,1 @@
+{"usernameTweet": "umudatutunmak", "ID": "754074939909627904", "text": "Camilerde sokağa çıkın diye anonslar yapılıyor\n#SokağaSakınÇıkma", "url": "/umudatutunmak/status/754074939909627904", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:07:30", "is_reply": false, "is_retweet": false, "user_id": "253152993"}

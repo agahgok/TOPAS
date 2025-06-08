@@ -1,0 +1,1 @@
+{"usernameTweet": "8cocor", "ID": "754071651407523842", "text": "Sokaktaki halka terörist diyenler, halk sokağa çıksın diye yalvarır oldular\n#ankara \n#sokağasakınçıkma", "url": "/8cocor/status/754071651407523842", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:54:26", "is_reply": false, "is_retweet": false, "user_id": "296896375"}

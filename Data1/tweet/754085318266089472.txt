@@ -1,0 +1,1 @@
+{"usernameTweet": "orhankerem1", "ID": "754085318266089472", "text": "Yonetimden açiklama..tsk bir teror orgutudur :)) #SokağaSakınÇıkma", "url": "/orhankerem1/status/754085318266089472", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:44", "is_reply": false, "is_retweet": false, "user_id": "546748439"}

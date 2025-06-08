@@ -1,0 +1,1 @@
+{"usernameTweet": "denzel_seks", "ID": "1281324285215285250", "text": "Aleyna gel yardım et gelmiyor https:// twitter.com/dulaleyna/stat us/1281321295616061445   …", "url": "/denzel_seks/status/1281324285215285250", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 23:28:10", "is_reply": false, "is_retweet": false, "user_id": "936237142010925056"}

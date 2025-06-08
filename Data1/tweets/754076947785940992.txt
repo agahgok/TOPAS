@@ -1,0 +1,1 @@
+{"usernameTweet": "osmanilderyalin", "ID": "754076947785940992", "text": "# SokağaSakınÇıkma  \nkendinize ve sevenlerinize lütfen bu acıyı yaşatmayın", "url": "/osmanilderyalin/status/754076947785940992", "nbr_retweet": 47, "nbr_favorite": 75, "nbr_reply": 1, "datetime": "2016-07-16 01:15:29", "is_reply": false, "is_retweet": false, "user_id": "284043919"}

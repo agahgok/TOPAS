@@ -1,0 +1,1 @@
+{"usernameTweet": "fangirlpanda1", "ID": "754237057749352448", "text": "# sokağasakınçıkma  #darbedeğiloyun", "url": "/fangirlpanda1/status/754237057749352448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 11:51:42", "is_reply": false, "is_retweet": false, "user_id": "753495895182811137"}

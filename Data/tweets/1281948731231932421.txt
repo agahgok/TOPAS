@@ -1,0 +1,1 @@
+{"usernameTweet": "ersinaydemir28", "ID": "1281948731231932421", "text": "Cia  darbe  denemesi. 12 eylül de öyle 12 mart ta 27 mayıs darbesi de", "url": "/ersinaydemir28/status/1281948731231932421", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 16:49:29", "is_reply": true, "is_retweet": false, "user_id": "1260650513957359619"}

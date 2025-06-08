@@ -1,0 +1,1 @@
+{"usernameTweet": "pelin_2717", "ID": "754078036920762368", "text": "# SokağaSakınÇıkma  Sokağa çıkmayın...", "url": "/pelin_2717/status/754078036920762368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:48", "is_reply": false, "is_retweet": false, "user_id": "750045249523810304"}

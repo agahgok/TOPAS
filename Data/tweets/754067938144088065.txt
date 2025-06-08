@@ -1,0 +1,1 @@
+{"usernameTweet": "raganterie", "ID": "754067938144088065", "text": "Aklın varsa  #SokağaSakınÇıkma", "url": "/raganterie/status/754067938144088065", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:39:41", "is_reply": false, "is_retweet": false, "user_id": "89520133"}

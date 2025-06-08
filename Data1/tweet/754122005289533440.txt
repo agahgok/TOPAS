@@ -1,0 +1,1 @@
+{"usernameTweet": "FbcnCnk", "ID": "754122005289533440", "text": "Digiturk yayınları gitti, yerine yine sela geldi,peşinden de F16 geçer, nasıl bi gece bu #SokağaSakınÇıkma", "url": "/FbcnCnk/status/754122005289533440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:14:31", "is_reply": false, "is_retweet": false, "user_id": "90192387"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AndacAvcii", "ID": "754092621337944065", "text": "Aptal olma #SokağaSakınÇıkma", "url": "/AndacAvcii/status/754092621337944065", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:17:45", "is_reply": false, "is_retweet": false, "user_id": "571069781"}

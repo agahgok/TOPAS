@@ -1,0 +1,1 @@
+{"usernameTweet": "efulim53", "ID": "754089770964385793", "text": "Sokağa çıkma yasağı var ama asi ruhlu, kural tanımaz cb halkı sokağa çağırıyor. #SokağaSakınÇıkma", "url": "/efulim53/status/754089770964385793", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:06:26", "is_reply": false, "is_retweet": false, "user_id": "184143847"}

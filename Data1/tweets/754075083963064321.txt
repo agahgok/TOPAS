@@ -1,0 +1,1 @@
+{"usernameTweet": "Behzatabiniz", "ID": "754075083963064321", "text": "Amk akplilerden önce ülkücüler sokağa indi siz atatürkçü değilmisiniz #SokağaSakınÇıkma  @Ulku_Ocaklari", "url": "/Behzatabiniz/status/754075083963064321", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:04", "is_reply": false, "is_retweet": false, "user_id": "2556809906"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mavi031", "ID": "754071856332713984", "text": "Ne olursa olsun #SokağaSakınÇıkma", "url": "/mavi031/status/754071856332713984", "nbr_retweet": 0, "nbr_favorite": 15, "nbr_reply": 0, "datetime": "2016-07-16 00:55:15", "is_reply": false, "is_retweet": false, "user_id": "378487203"}

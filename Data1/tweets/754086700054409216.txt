@@ -1,0 +1,1 @@
+{"usernameTweet": "germanjcvs", "ID": "754086700054409216", "text": "# DarbeyeHayir  ama #SokagaSakinCikma  ortalik karisik", "url": "/germanjcvs/status/754086700054409216", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:54:14", "is_reply": false, "is_retweet": false, "user_id": "65175955"}

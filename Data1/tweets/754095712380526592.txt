@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynii_venus", "ID": "754095712380526592", "text": "Darbe diye başladı akp mitingine döndü resmen şaka gibi #SokağaSakınÇıkma", "url": "/zeynii_venus/status/754095712380526592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:30:02", "is_reply": false, "is_retweet": false, "user_id": "328998333"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "BurakCenkResmi", "ID": "754112266900017152", "text": "# SokağaSakınÇıkma \nDARBE YAPANIN DA AMK !", "url": "/BurakCenkResmi/status/754112266900017152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:35:49", "is_reply": false, "is_retweet": false, "user_id": "751501483187793920"}

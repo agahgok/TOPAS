@@ -1,0 +1,1 @@
+{"usernameTweet": "ethemkarahan", "ID": "754074812553785344", "text": "Suriye lileri çağır dışarı  #SokağaSakınÇıkma", "url": "/ethemkarahan/status/754074812553785344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:00", "is_reply": false, "is_retweet": false, "user_id": "488612879"}

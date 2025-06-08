@@ -1,0 +1,1 @@
+{"usernameTweet": "onbasiseyid", "ID": "754065390557429762", "text": "Bu bir iç savaş çağrısıdır çıkmayınız !!!\n #SokağaSakınÇıkma", "url": "/onbasiseyid/status/754065390557429762", "nbr_retweet": 6, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 00:29:33", "is_reply": false, "is_retweet": false, "user_id": "1478232612"}

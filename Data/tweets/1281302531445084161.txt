@@ -1,0 +1,1 @@
+{"usernameTweet": "ndkxkxkxx", "ID": "1281302531445084161", "text": "Bu bir   darbe", "url": "/ndkxkxkxx/status/1281302531445084161", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 22:01:43", "is_reply": true, "is_retweet": false, "user_id": "1281293647359741952"}

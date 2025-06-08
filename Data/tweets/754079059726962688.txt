@@ -1,0 +1,1 @@
+{"usernameTweet": "Hcilesiz10", "ID": "754079059726962688", "text": "Ülkenin reisine bak cep tel.baglanıyor.Nerde olduğu belli değil  #SokağaSakınÇıkma", "url": "/Hcilesiz10/status/754079059726962688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:52", "is_reply": false, "is_retweet": false, "user_id": "2358318256"}

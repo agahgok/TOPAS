@@ -1,0 +1,1 @@
+{"usernameTweet": "esindemirbag", "ID": "754056722344534017", "text": "# SokağaSakınÇıkma", "url": "/esindemirbag/status/754056722344534017", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-15 23:55:06", "is_reply": false, "is_retweet": false, "user_id": "505700508"}

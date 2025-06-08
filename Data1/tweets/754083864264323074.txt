@@ -1,0 +1,1 @@
+{"usernameTweet": "MehmetE86250070", "ID": "754083864264323074", "text": "# SokağaSakınÇıkma \n#DarbeyeHayır pic.twitter.com/FP13wg7b3Z", "url": "/MehmetE86250070/status/754083864264323074", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:58", "is_reply": false, "is_retweet": false, "user_id": "734783991048491013"}

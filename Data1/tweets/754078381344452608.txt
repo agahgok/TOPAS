@@ -1,0 +1,1 @@
+{"usernameTweet": "yoney_sinem", "ID": "754078381344452608", "text": "# SokağaSakınÇıkma  bu oyuna sakin gelme", "url": "/yoney_sinem/status/754078381344452608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:10", "is_reply": false, "is_retweet": false, "user_id": "718876225415024642"}

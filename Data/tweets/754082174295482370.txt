@@ -1,0 +1,1 @@
+{"usernameTweet": "sisfeneri", "ID": "754082174295482370", "text": "ÖNEMLİ - ELDEN ELE BİR ZAHMET...\n\n#SokağaSakınÇıkma   https:// twitter.com/odatv/status/7 54080214255304704   …", "url": "/sisfeneri/status/754082174295482370", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:15", "is_reply": false, "is_retweet": false, "user_id": "387672234"}

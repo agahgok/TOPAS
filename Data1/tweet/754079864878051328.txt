@@ -1,0 +1,1 @@
+{"usernameTweet": "withrinci", "ID": "754079864878051328", "text": "# SokağaSakınÇıkma  yasağı ilan edildi evinde oturan yok", "url": "/withrinci/status/754079864878051328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:04", "is_reply": false, "is_retweet": false, "user_id": "223655252"}

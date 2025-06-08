@@ -1,0 +1,1 @@
+{"usernameTweet": "osmanozdemir69", "ID": "1281561908903137282", "text": "Ezherede  darbe  yapmışlar.", "url": "/osmanozdemir69/status/1281561908903137282", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 15:12:24", "is_reply": true, "is_retweet": false, "user_id": "1538360096"}

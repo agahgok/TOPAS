@@ -1,0 +1,1 @@
+{"usernameTweet": "minikprof", "ID": "754088346201317376", "text": "kalkışma namazı kaç rekat? bilen varsa yazsın.\n\n#SokağaSakınÇıkma", "url": "/minikprof/status/754088346201317376", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:46", "is_reply": false, "is_retweet": false, "user_id": "201827597"}

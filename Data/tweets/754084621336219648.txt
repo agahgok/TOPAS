@@ -1,0 +1,1 @@
+{"usernameTweet": "Suheybcebeci", "ID": "754084621336219648", "text": "Askerine ağlayan bu millet askerine mi yürüyecek şimdi !! OYUNA GELME #SokağaSakınÇıkma", "url": "/Suheybcebeci/status/754084621336219648", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:58", "is_reply": false, "is_retweet": false, "user_id": "252529850"}

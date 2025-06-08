@@ -1,0 +1,1 @@
+{"usernameTweet": "ayseozkanozd", "ID": "754074422810738692", "text": "# SokağaSakınÇıkma  ya niye cikiyosunuzki zaten.. Sen sokaga cikiyosun cumhurbaskani niye cikmiyo o zaman?", "url": "/ayseozkanozd/status/754074422810738692", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:27", "is_reply": false, "is_retweet": false, "user_id": "1494049963"}

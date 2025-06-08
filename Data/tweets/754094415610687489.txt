@@ -1,0 +1,1 @@
+{"usernameTweet": "bestekucukk_", "ID": "754094415610687489", "text": "bir başkanlık uğruna ya rab,\nne tiyatrolar dönüyor..\n#SokağaSakınÇıkma  #DarbeDeğilTiyatro", "url": "/bestekucukk_/status/754094415610687489", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 02:24:53", "is_reply": false, "is_retweet": false, "user_id": "2302315377"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "B0DYT4LK", "ID": "1282044623154745346", "text": "INFP   hep infp cikiyodum bugun isfp ciktim buna sevinirken gelen  darbe   pic.twitter.com/Me5Sldtr3D", "url": "/B0DYT4LK/status/1282044623154745346", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 23:10:32", "is_reply": false, "is_retweet": false, "user_id": "900089725050081281"}

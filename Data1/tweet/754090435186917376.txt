@@ -1,0 +1,1 @@
+{"usernameTweet": "yilanyapkendini", "ID": "754090435186917376", "text": "# SokağaSakınÇıkma", "url": "/yilanyapkendini/status/754090435186917376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:04", "is_reply": false, "is_retweet": false, "user_id": "219038802"}

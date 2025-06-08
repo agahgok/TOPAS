@@ -1,0 +1,1 @@
+{"usernameTweet": "tayancgorkem", "ID": "754076676594819076", "text": "Buraya tweet atanları belirleyip vatan hainliğinden vatandaşlıktan atmak lazım net... #SokağaSakınÇıkma", "url": "/tayancgorkem/status/754076676594819076", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:24", "is_reply": false, "is_retweet": false, "user_id": "246780950"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Selim40788011", "ID": "754090049013215232", "text": "Rezillik lan bu tayyibin yaptigi , halki askerle karsi karsiya getirmek!  #SokağaSakınÇıkma", "url": "/Selim40788011/status/754090049013215232", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:07:32", "is_reply": false, "is_retweet": false, "user_id": "750617557007294464"}

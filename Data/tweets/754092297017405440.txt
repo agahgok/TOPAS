@@ -1,0 +1,1 @@
+{"usernameTweet": "Elminaaaa", "ID": "754092297017405440", "text": "# SokağaSakınÇıkma  hocalar bugün okuduğu selayı,salavatı her gün okusa millet cennete vip almıştı.", "url": "/Elminaaaa/status/754092297017405440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:28", "is_reply": false, "is_retweet": false, "user_id": "3138439403"}

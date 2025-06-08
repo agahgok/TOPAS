@@ -1,0 +1,1 @@
+{"usernameTweet": "direnbukii", "ID": "754083619875000321", "text": "Ezanla mı sokağa dökcen milleti bre gerizekalı! #SokağaSakınÇıkma", "url": "/direnbukii/status/754083619875000321", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:59", "is_reply": false, "is_retweet": false, "user_id": "194294571"}

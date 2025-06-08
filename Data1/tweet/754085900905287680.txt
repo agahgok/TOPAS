@@ -1,0 +1,1 @@
+{"usernameTweet": "PopiHaks", "ID": "754085900905287680", "text": "# SokağaSakınÇıkma  oyuna düşmeyin", "url": "/PopiHaks/status/754085900905287680", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:51:03", "is_reply": false, "is_retweet": false, "user_id": "2372575746"}

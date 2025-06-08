@@ -1,0 +1,1 @@
+{"usernameTweet": "julalasya", "ID": "754078807473160192", "text": "takır takır silah sesleri ve korna sesleri geliyor ve bu durumdan nefret ediyorum #SokağaSakınÇıkma", "url": "/julalasya/status/754078807473160192", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:22:52", "is_reply": false, "is_retweet": false, "user_id": "126998361"}

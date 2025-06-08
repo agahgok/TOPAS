@@ -1,0 +1,1 @@
+{"usernameTweet": "HudaiSelma", "ID": "754108632778809344", "text": "Korkmayalim sokaktakiler hakim oldular duruma hukumeti koruyolar hahaha komedii ulkesiyiz #SokağaÇıkma", "url": "/HudaiSelma/status/754108632778809344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:21:23", "is_reply": false, "is_retweet": false, "user_id": "2303351535"}

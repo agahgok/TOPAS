@@ -1,0 +1,1 @@
+{"usernameTweet": "bngszn", "ID": "1282240790132121600", "text": "\"Ama sen onu gel anlat kalbe\n Yürüyor önümde büyük harbe \n Darbe  üstüne  darbe  \nUslanmıyor bu...\"", "url": "/bngszn/status/1282240790132121600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 12:10:01", "is_reply": true, "is_retweet": false, "user_id": "726105544721850373"}

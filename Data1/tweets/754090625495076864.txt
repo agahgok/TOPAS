@@ -1,0 +1,1 @@
+{"usernameTweet": "Oyqueen_", "ID": "754090625495076864", "text": "Bişey sorucam şimdi sokağa çıkmadık diye vatan haini ilan edilmeyiz değil mi ? #SokağaSakınÇıkma", "url": "/Oyqueen_/status/754090625495076864", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:09:50", "is_reply": false, "is_retweet": false, "user_id": "271073246"}

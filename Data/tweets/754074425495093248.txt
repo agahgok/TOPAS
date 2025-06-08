@@ -1,0 +1,1 @@
+{"usernameTweet": "iilhan76", "ID": "754074425495093248", "text": "Haydi Türkiye meydanlara  #SokağaSakınÇıkma", "url": "/iilhan76/status/754074425495093248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:27", "is_reply": false, "is_retweet": false, "user_id": "151208035"}

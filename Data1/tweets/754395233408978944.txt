@@ -1,0 +1,1 @@
+{"usernameTweet": "izgiBarlass", "ID": "754395233408978944", "text": "Cadde de korna sesleri,isliklar duyuluyor kutlama yapar gibi #sokağasakınçıkma", "url": "/izgiBarlass/status/754395233408978944", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 22:20:14", "is_reply": false, "is_retweet": false, "user_id": "71583966"}

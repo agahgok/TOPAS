@@ -1,0 +1,1 @@
+{"usernameTweet": "hamal_y", "ID": "754094983850954753", "text": "Darbe olacak ama hükümet be avaneleri canlı yayından şov yapacak  #SokağaSakınÇıkma", "url": "/hamal_y/status/754094983850954753", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:09", "is_reply": false, "is_retweet": false, "user_id": "4764754096"}

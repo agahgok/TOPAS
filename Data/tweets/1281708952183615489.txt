@@ -1,0 +1,1 @@
+{"usernameTweet": "nneslihankaya", "ID": "1281708952183615489", "text": "Bu yaz kesin staj yapıyorum dediğimden beri görmediğim ne  darbe  kaldı ne pandemisi", "url": "/nneslihankaya/status/1281708952183615489", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 00:56:41", "is_reply": false, "is_retweet": false, "user_id": "819161968582000640"}

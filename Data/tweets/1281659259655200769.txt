@@ -1,0 +1,1 @@
+{"usernameTweet": "PCamlar", "ID": "1281659259655200769", "text": "Dolar olur mu? Sonrasında da gbpusd den 2. darbe  şimdi borsada", "url": "/PCamlar/status/1281659259655200769", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 21:39:14", "is_reply": true, "is_retweet": false, "user_id": "832879168329281536"}

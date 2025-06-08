@@ -1,0 +1,1 @@
+{"usernameTweet": "hemdeherzaman", "ID": "754094864330096641", "text": "darbeymiş yersen ! #SokağaSakınÇıkma", "url": "/hemdeherzaman/status/754094864330096641", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:26:40", "is_reply": false, "is_retweet": false, "user_id": "4474200621"}

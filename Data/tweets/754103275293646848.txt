@@ -1,0 +1,1 @@
+{"usernameTweet": "Ilgisizler", "ID": "754103275293646848", "text": "Kimseye uyma #SokağaSakınÇıkma  bu asker polisle omuz omuza doğuda milletimizi korudu bizi korudu kimseye uyma", "url": "/Ilgisizler/status/754103275293646848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:00:06", "is_reply": false, "is_retweet": false, "user_id": "633954158"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "iamete_", "ID": "1281336837051686913", "text": "hain kemalist cehapeli seni yine hangi  darbe  planları bunlar", "url": "/iamete_/status/1281336837051686913", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 00:18:02", "is_reply": true, "is_retweet": false, "user_id": "1161021867026722818"}

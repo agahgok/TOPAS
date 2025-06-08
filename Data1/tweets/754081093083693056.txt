@@ -1,0 +1,1 @@
+{"usernameTweet": "alpbatuna", "ID": "754081093083693056", "text": "# SokağaSakınÇıkma  bayram paşa çevik kuvvet...  pic.twitter.com/hI7TaGpY4a", "url": "/alpbatuna/status/754081093083693056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:57", "is_reply": false, "is_retweet": false, "user_id": "114840657"}

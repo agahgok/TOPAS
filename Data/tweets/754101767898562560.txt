@@ -1,0 +1,1 @@
+{"usernameTweet": "terellli", "ID": "754101767898562560", "text": "Bütün dünyaya rezil olduk\nHala 3. Dünya ülkesi olduğumuzu gösterdik\n #SokağaÇıkma", "url": "/terellli/status/754101767898562560", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:54:06", "is_reply": false, "is_retweet": false, "user_id": "3010261636"}

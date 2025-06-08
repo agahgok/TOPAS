@@ -1,0 +1,1 @@
+{"usernameTweet": "DarbeSavar16", "ID": "1281953692967669763", "text": "65 bin zarar var istesede vermem malımı", "url": "/DarbeSavar16/status/1281953692967669763", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 17:09:12", "is_reply": true, "is_retweet": false, "user_id": "832306810925248512"}

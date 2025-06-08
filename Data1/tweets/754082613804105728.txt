@@ -1,0 +1,1 @@
+{"usernameTweet": "coban_elif", "ID": "754082613804105728", "text": "biz demokrasi adina sokaga ciktigimizda capulcu, darbeciydik #SokağaSakınÇıkma", "url": "/coban_elif/status/754082613804105728", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:37:59", "is_reply": false, "is_retweet": false, "user_id": "466263676"}

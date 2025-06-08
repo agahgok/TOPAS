@@ -1,0 +1,1 @@
+{"usernameTweet": "97meloss", "ID": "754069248163647489", "text": "# SokağaSakınÇıkma", "url": "/97meloss/status/754069248163647489", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 00:44:53", "is_reply": false, "is_retweet": false, "user_id": "400847816"}

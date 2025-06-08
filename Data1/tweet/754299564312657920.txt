@@ -1,0 +1,1 @@
+{"usernameTweet": "CananYagmur", "ID": "754299564312657920", "text": "# SokağaSakınÇıkma  Ga niet de straat op.", "url": "/CananYagmur/status/754299564312657920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 16:00:04", "is_reply": false, "is_retweet": false, "user_id": "104127858"}

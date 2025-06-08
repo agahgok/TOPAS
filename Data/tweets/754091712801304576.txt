@@ -1,0 +1,1 @@
+{"usernameTweet": "yasyasyasmi", "ID": "754091712801304576", "text": "# SokağaSakınÇıkma  bu sela insani daha da cok geriyor yeter artikkk sanki ölduk ulke olarak", "url": "/yasyasyasmi/status/754091712801304576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:09", "is_reply": false, "is_retweet": false, "user_id": "396800380"}

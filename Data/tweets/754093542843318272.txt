@@ -1,0 +1,1 @@
+{"usernameTweet": "dnamesiz", "ID": "754093542843318272", "text": "Sabah neye uyanacağız?başkanlığa mı askere mi polise mi? Öyle ya da böyle sıçtınız ülkenin içine #SokağaSakınÇıkma", "url": "/dnamesiz/status/754093542843318272", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:21:25", "is_reply": false, "is_retweet": false, "user_id": "67590906"}

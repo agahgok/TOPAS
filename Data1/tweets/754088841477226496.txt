@@ -1,0 +1,1 @@
+{"usernameTweet": "napcambensimdi", "ID": "754088841477226496", "text": "# SokağaSakınÇıkma", "url": "/napcambensimdi/status/754088841477226496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:44", "is_reply": false, "is_retweet": false, "user_id": "4829848319"}

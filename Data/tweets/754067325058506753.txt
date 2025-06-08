@@ -1,0 +1,1 @@
+{"usernameTweet": "didemklc76", "ID": "754067325058506753", "text": "Bilal çıksın önce #SokağaSakınÇıkma", "url": "/didemklc76/status/754067325058506753", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:37:14", "is_reply": false, "is_retweet": false, "user_id": "1477089931"}

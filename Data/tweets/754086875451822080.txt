@@ -1,0 +1,1 @@
+{"usernameTweet": "Yunus_Guler", "ID": "754086875451822080", "text": "# SokağaSakınÇıkma  Atatürk havalani anlik  pic.twitter.com/qC0KA06EzR", "url": "/Yunus_Guler/status/754086875451822080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:56", "is_reply": false, "is_retweet": false, "user_id": "145634470"}

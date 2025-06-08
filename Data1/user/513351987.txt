@@ -1,0 +1,1 @@
+{"ID": "513351987", "name": "キヨシ語録bot", "screen_name": "kiyoshi_56_bot", "avatar": "https://pbs.twimg.com/profile_images/378800000642180121/cd9a986076a9c25a09e94f86a4ef8c0a_bigger.jpeg"}

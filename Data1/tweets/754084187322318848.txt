@@ -1,0 +1,1 @@
+{"usernameTweet": "ElvnGrmz", "ID": "754084187322318848", "text": "Ölümüne sokaktayiz #SokağaSakınÇıkma", "url": "/ElvnGrmz/status/754084187322318848", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:15", "is_reply": false, "is_retweet": false, "user_id": "3359317421"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AllBlackenedSky", "ID": "754086383061463040", "text": "Cep telefonundan yayınlara bağlanıp halkı sokağa davet ediyorlar. Şaka gibi... #SokağaSakınÇıkma", "url": "/AllBlackenedSky/status/754086383061463040", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:52:58", "is_reply": false, "is_retweet": false, "user_id": "1024638108"}

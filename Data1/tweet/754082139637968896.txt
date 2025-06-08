@@ -1,0 +1,1 @@
+{"usernameTweet": "extreme8741", "ID": "754082139637968896", "text": "# SokağaSakınÇıkma  bütün ülke aynı anda aynı filmi izliyoruz...", "url": "/extreme8741/status/754082139637968896", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:36:06", "is_reply": false, "is_retweet": false, "user_id": "483358278"}

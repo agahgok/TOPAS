@@ -1,0 +1,1 @@
+{"usernameTweet": "sahrasln", "ID": "754084540017156096", "text": "Askerimizi de saf halkımıza düşman ettirdin ya.. #SokağaSakınÇıkma", "url": "/sahrasln/status/754084540017156096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:39", "is_reply": false, "is_retweet": false, "user_id": "752958016501219328"}

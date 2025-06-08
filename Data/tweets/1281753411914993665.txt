@@ -1,0 +1,1 @@
+{"usernameTweet": "Btutuncu19", "ID": "1281753411914993665", "text": "BU NASIL  DARBE *", "url": "/Btutuncu19/status/1281753411914993665", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 03:53:21", "is_reply": false, "is_retweet": false, "user_id": "1167592162797785089"}

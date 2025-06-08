@@ -1,0 +1,1 @@
+{"usernameTweet": "ibrahimsen6634", "ID": "1282511713640816642", "text": "Bunların ağa papaları gelse ne olur. Sırada ki  darbe  Musul/Kerkük inşallah. ", "url": "/ibrahimsen6634/status/1282511713640816642", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 06:06:35", "is_reply": true, "is_retweet": false, "user_id": "325495511"}

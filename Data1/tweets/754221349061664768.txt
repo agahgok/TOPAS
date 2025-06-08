@@ -1,0 +1,1 @@
+{"usernameTweet": "capkin_omer", "ID": "754221349061664768", "text": "# sokağaçıkma   pic.twitter.com/ss64AAc1Sb", "url": "/capkin_omer/status/754221349061664768", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 10:49:17", "is_reply": false, "is_retweet": false, "user_id": "4795261795"}

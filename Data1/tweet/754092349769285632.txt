@@ -1,0 +1,1 @@
+{"usernameTweet": "SelviCandan01", "ID": "754092349769285632", "text": "Selalar veriliyor cagrı yapılıyor \n #SokağaSakınÇıkma", "url": "/SelviCandan01/status/754092349769285632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:41", "is_reply": false, "is_retweet": false, "user_id": "2719725784"}

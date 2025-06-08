@@ -1,0 +1,1 @@
+{"usernameTweet": "MediaDandiq", "ID": "1281229256153018368", "text": "Hangi  darbe ? 17-25 mi 15temmuz mu", "url": "/MediaDandiq/status/1281229256153018368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 17:10:33", "is_reply": true, "is_retweet": false, "user_id": "4663952833"}

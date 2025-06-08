@@ -1,0 +1,1 @@
+{"usernameTweet": "twitsoruisareti", "ID": "754094936149098496", "text": "# SokağaSakınÇıkma  Kafam allak bullak oldu..", "url": "/twitsoruisareti/status/754094936149098496", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:26:57", "is_reply": false, "is_retweet": false, "user_id": "709102646137909250"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "PlevneOsmanPasa", "ID": "1281323970294407168", "text": "Kontrollü  darbe  dedikleri olsa olsa İmamoğlunun İBB başkanı seçilmesi olmalı.", "url": "/PlevneOsmanPasa/status/1281323970294407168", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 23:26:55", "is_reply": true, "is_retweet": false, "user_id": "841720733361438721"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ERSEZEN52", "ID": "754089569339965440", "text": "Lan döncek dolancak bu iş yine bize gircek #SokağaSakınÇıkma", "url": "/ERSEZEN52/status/754089569339965440", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:38", "is_reply": false, "is_retweet": false, "user_id": "227245296"}

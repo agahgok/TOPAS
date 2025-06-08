@@ -1,0 +1,1 @@
+{"usernameTweet": "Snmacr1234", "ID": "754072202870423552", "text": "Kendi yazıyo kendi oynuyo yiyosa sen çık sokağa?  #SokağaSakınÇıkma", "url": "/Snmacr1234/status/754072202870423552", "nbr_retweet": 2, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 00:56:37", "is_reply": false, "is_retweet": false, "user_id": "718536604269350912"}

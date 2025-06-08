@@ -1,0 +1,1 @@
+{"usernameTweet": "By_cosmostr", "ID": "754092676316737537", "text": "Lan şerefsizler hergün asker ölürken niye sokağa cikmiyordunuz? #SokağaSakınÇıkma", "url": "/By_cosmostr/status/754092676316737537", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:59", "is_reply": false, "is_retweet": false, "user_id": "577491001"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sahrasln", "ID": "754083070194675712", "text": "Demokrasiyi siz bitirdiniz bide demokrasi için çıkın diyor şerefsizler oyuna gelmeyin #SokağaSakınÇıkma", "url": "/sahrasln/status/754083070194675712", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:39:48", "is_reply": false, "is_retweet": false, "user_id": "752958016501219328"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "O__Gutan", "ID": "754086351239340032", "text": "Mantar tabancası patlasa Twitter'ı kapatanlar minareden sokağa çık diyor yazıklar olsun.  #SokağaSakınÇıkma", "url": "/O__Gutan/status/754086351239340032", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:52:51", "is_reply": false, "is_retweet": false, "user_id": "2545603178"}

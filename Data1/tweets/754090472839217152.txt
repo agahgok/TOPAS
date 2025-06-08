@@ -1,0 +1,1 @@
+{"usernameTweet": "Z1B1D1", "ID": "754090472839217152", "text": "Gölbaşı’nda 17 polis şehit olduğu söyleniyor umarım doğru değildir.. #SokağaSakınÇıkma  #DarbeyeHayır", "url": "/Z1B1D1/status/754090472839217152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:13", "is_reply": false, "is_retweet": false, "user_id": "1043052588"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "EyenEnn", "ID": "754097876289007617", "text": "# Turkey  soldiers withdraw from the airport, people waiting for the president to arrive  #SokağaSakınÇıkma", "url": "/EyenEnn/status/754097876289007617", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:38:38", "is_reply": false, "is_retweet": false, "user_id": "431719608"}

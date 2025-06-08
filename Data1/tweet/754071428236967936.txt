@@ -1,0 +1,1 @@
+{"usernameTweet": "M_U_F_G", "ID": "754071428236967936", "text": "# SokağaSakınÇıkma   pic.twitter.com/cLH4NtkJmG", "url": "/M_U_F_G/status/754071428236967936", "nbr_retweet": 10, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:53:33", "is_reply": false, "is_retweet": false, "user_id": "411498504"}

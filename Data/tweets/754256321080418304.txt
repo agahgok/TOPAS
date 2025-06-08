@@ -1,0 +1,1 @@
+{"usernameTweet": "SerdarZ4", "ID": "754256321080418304", "text": "Sokaklar çok boş ve sakin .. #SokağaSakınÇıkma  #Katilsiniz  #İSTANBUL", "url": "/SerdarZ4/status/754256321080418304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 13:08:15", "is_reply": false, "is_retweet": false, "user_id": "370678819"}

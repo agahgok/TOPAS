@@ -1,0 +1,1 @@
+{"usernameTweet": "AlpaslanPelin", "ID": "754068429926268928", "text": "# SokağaSakınÇıkma  !", "url": "/AlpaslanPelin/status/754068429926268928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:41:38", "is_reply": false, "is_retweet": false, "user_id": "2305140152"}

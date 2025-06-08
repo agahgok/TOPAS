@@ -1,0 +1,1 @@
+{"usernameTweet": "LichKingArthas_", "ID": "754087212136837120", "text": "# SokağaSakınÇıkma \nBen arapmıyım neden arapça çağrılıyoruz sokağa.", "url": "/LichKingArthas_/status/754087212136837120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:16", "is_reply": false, "is_retweet": false, "user_id": "897507878"}

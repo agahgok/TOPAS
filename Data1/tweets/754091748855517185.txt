@@ -1,0 +1,1 @@
+{"usernameTweet": "cayaanx", "ID": "754091748855517185", "text": "2 saatlik darbe mi olur lan? bu nasıl tiyatro yüzüklerin efendisi bile 3 saat sürüyor, yersen. #SokağaSakınÇıkma", "url": "/cayaanx/status/754091748855517185", "nbr_retweet": 9, "nbr_favorite": 30, "nbr_reply": 0, "datetime": "2016-07-16 02:14:17", "is_reply": false, "is_retweet": false, "user_id": "1596242352"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Ridvans25", "ID": "1282430288782675977", "text": "Darbe  *", "url": "/Ridvans25/status/1282430288782675977", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 00:43:01", "is_reply": true, "is_retweet": false, "user_id": "1207335315154853888"}

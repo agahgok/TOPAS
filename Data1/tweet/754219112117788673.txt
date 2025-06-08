@@ -1,0 +1,1 @@
+{"usernameTweet": "eness989", "ID": "754219112117788673", "text": "c.baskanini goren duyan varmi.. yoktur saniyorum.. cunku almanya ya sigindi..  #SokagaSakinCikma", "url": "/eness989/status/754219112117788673", "nbr_retweet": 2, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2016-07-16 10:40:23", "is_reply": false, "is_retweet": false, "user_id": "754084130279813120"}

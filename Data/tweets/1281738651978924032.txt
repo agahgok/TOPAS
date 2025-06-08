@@ -1,0 +1,1 @@
+{"usernameTweet": "kineyla", "ID": "1281738651978924032", "text": "Ay nolcak canım bir  darbe  tiyatrosu daha uydurur bu millet yine kuzu kuzu uyur", "url": "/kineyla/status/1281738651978924032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 02:54:42", "is_reply": true, "is_retweet": false, "user_id": "1277463554615119881"}

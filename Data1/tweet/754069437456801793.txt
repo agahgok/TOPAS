@@ -1,0 +1,1 @@
+{"usernameTweet": "StgtVo", "ID": "754069437456801793", "text": "Madem öyle kendi çocuklarını göndersin sokağa Erdoğan. Siz kesinlikle çıkmayın. \n#SokağaSakınÇıkma", "url": "/StgtVo/status/754069437456801793", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:45:38", "is_reply": false, "is_retweet": false, "user_id": "3198036456"}

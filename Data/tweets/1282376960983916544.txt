@@ -1,0 +1,1 @@
+{"usernameTweet": "uiyypolatbuu", "ID": "1282376960983916544", "text": "o kadar  darbe  yedik ki acıyı unuttuk - Polat Alemdar", "url": "/uiyypolatbuu/status/1282376960983916544", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-12 21:11:07", "is_reply": true, "is_retweet": false, "user_id": "1045905014903001090"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Ba_Bengu", "ID": "754092785549078528", "text": "MİLLETİNI SEVEN HALKINI SOKAĞA ÇAĞIRMAZ.. KENDİNİ KURTARMAK İCİN HALKINI YAKMAZ..  #SokağaSakınÇıkma", "url": "/Ba_Bengu/status/754092785549078528", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:18:25", "is_reply": false, "is_retweet": false, "user_id": "2249260742"}

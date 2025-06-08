@@ -1,0 +1,1 @@
+{"usernameTweet": "uzak_uzun", "ID": "1281217506376589312", "text": "Teyibin senaryosu mu? Sen  darbe  nasıl olur bilirmisin admin", "url": "/uzak_uzun/status/1281217506376589312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 16:23:52", "is_reply": true, "is_retweet": false, "user_id": "1183293070286168064"}

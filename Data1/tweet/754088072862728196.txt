@@ -1,0 +1,1 @@
+{"usernameTweet": "atlantssss", "ID": "754088072862728196", "text": "Artık dikiş tutmayız. Belki de hiç tutmazdık... #SokağaSakınÇıkma", "url": "/atlantssss/status/754088072862728196", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:41", "is_reply": false, "is_retweet": false, "user_id": "478615363"}

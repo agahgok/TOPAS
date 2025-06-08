@@ -1,0 +1,1 @@
+{"usernameTweet": "demetkrtkn", "ID": "1282338948849766404", "text": "Beyaz tenli olup yüzüne bir  darbe  aldığında kızarman allah kahretsinn", "url": "/demetkrtkn/status/1282338948849766404", "nbr_retweet": 0, "nbr_favorite": 17, "nbr_reply": 0, "datetime": "2020-07-12 18:40:04", "is_reply": false, "is_retweet": false, "user_id": "1245461149333753863"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mrnstlms", "ID": "1282040564565909504", "text": "Her yerden  darbe  aldık :)", "url": "/mrnstlms/status/1282040564565909504", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 22:54:24", "is_reply": true, "is_retweet": false, "user_id": "1277586230239277064"}

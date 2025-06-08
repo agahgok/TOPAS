@@ -1,0 +1,1 @@
+{"usernameTweet": "gonencsirin", "ID": "754078444460408832", "text": "masum insanlara zarar gelmemesi için #SokağaSakınÇıkma  bu senin savaşın değil. Alet olma! #darbe", "url": "/gonencsirin/status/754078444460408832", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:25", "is_reply": false, "is_retweet": false, "user_id": "63455597"}

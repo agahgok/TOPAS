@@ -1,0 +1,1 @@
+{"usernameTweet": "zafiroanejo_", "ID": "1282017700076761090", "text": "vatan partisi iktidarı da aşağı yukarı  darbe  hükümeti gibi olur...", "url": "/zafiroanejo_/status/1282017700076761090", "nbr_retweet": 0, "nbr_favorite": 13, "nbr_reply": 1, "datetime": "2020-07-11 21:23:33", "is_reply": true, "is_retweet": false, "user_id": "893210667313922048"}

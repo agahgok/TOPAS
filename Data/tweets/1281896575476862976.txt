@@ -1,0 +1,1 @@
+{"usernameTweet": "cihansahaksoyy", "ID": "1281896575476862976", "text": "6-7  darbe  teşebbüsünü say bakalım sırasıyla", "url": "/cihansahaksoyy/status/1281896575476862976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 13:22:14", "is_reply": true, "is_retweet": false, "user_id": "2230340853"}

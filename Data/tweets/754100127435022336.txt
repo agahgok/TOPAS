@@ -1,0 +1,1 @@
+{"usernameTweet": "cmknylmz", "ID": "754100127435022336", "text": "evine dön kardeşim, evine dön lütfen! #SokağaSakınÇıkma  sokaklar güvenli değil. oyuna gelme!!", "url": "/cmknylmz/status/754100127435022336", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:47:35", "is_reply": false, "is_retweet": false, "user_id": "244968268"}

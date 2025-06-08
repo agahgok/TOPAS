@@ -1,0 +1,1 @@
+{"usernameTweet": "numancitak", "ID": "754086043968610304", "text": "# Ankara  #SokağaSakınÇıkma \n\nözel kuvvetlerde 10 şehidimiz var uçak ile bombalar atılmış net bilgi", "url": "/numancitak/status/754086043968610304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:51:37", "is_reply": false, "is_retweet": false, "user_id": "158045453"}

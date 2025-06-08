@@ -1,0 +1,1 @@
+{"usernameTweet": "MustafaAlinca", "ID": "754083032584351748", "text": "Ankara'da  F-16 lar hâlâ uçuyor, bomba ve silah sesleri var\n#SokağaSakınÇıkma", "url": "/MustafaAlinca/status/754083032584351748", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:39", "is_reply": false, "is_retweet": false, "user_id": "48107769"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "super_kampanya", "ID": "754089238304436224", "text": "Allah'ım sen memleketimizi koru.. #SokağaSakınÇıkma  #DarbelereHayır pic.twitter.com/Xy0slA5SLp", "url": "/super_kampanya/status/754089238304436224", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:19", "is_reply": false, "is_retweet": false, "user_id": "453229541"}

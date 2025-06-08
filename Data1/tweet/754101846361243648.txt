@@ -1,0 +1,1 @@
+{"usernameTweet": "noblemurmur", "ID": "754101846361243648", "text": "# darbeyi  bile sulandırdınız. Gerçekten darbe olursa kimse inanmayacak size #SokağaSakınÇıkma", "url": "/noblemurmur/status/754101846361243648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:54:25", "is_reply": false, "is_retweet": false, "user_id": "1491666367"}

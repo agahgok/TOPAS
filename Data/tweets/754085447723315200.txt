@@ -1,0 +1,1 @@
+{"usernameTweet": "esraaailhann", "ID": "754085447723315200", "text": "Can güvenliğin için #sokağaçıkma", "url": "/esraaailhann/status/754085447723315200", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:49:15", "is_reply": false, "is_retweet": false, "user_id": "429664324"}

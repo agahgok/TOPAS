@@ -1,0 +1,1 @@
+{"usernameTweet": "hedefpozitif", "ID": "754078233033904128", "text": "Polis askeri,\nAsker polisi,\nSonra hepsi halkı...\n\n#Turchia \n #SokağaSakınÇıkma \n#Turkey", "url": "/hedefpozitif/status/754078233033904128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:35", "is_reply": false, "is_retweet": false, "user_id": "738458153709391873"}

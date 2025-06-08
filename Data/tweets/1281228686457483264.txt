@@ -1,0 +1,1 @@
+{"usernameTweet": "resul3380", "ID": "1281228686457483264", "text": "Babacan, büyük  darbe  minik  darbe  nasıl oluyor.", "url": "/resul3380/status/1281228686457483264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 17:08:17", "is_reply": true, "is_retweet": false, "user_id": "760089917586300928"}

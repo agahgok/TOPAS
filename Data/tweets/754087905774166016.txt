@@ -1,0 +1,1 @@
+{"usernameTweet": "TORAMANSerdar", "ID": "754087905774166016", "text": "# SokağaSakınÇıkma  akp mitingine döndü sokaklar devlet hikaye oldu yine", "url": "/TORAMANSerdar/status/754087905774166016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:01", "is_reply": false, "is_retweet": false, "user_id": "501669866"}

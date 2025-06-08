@@ -1,0 +1,1 @@
+{"usernameTweet": "gulbenatesss", "ID": "1281591163926052864", "text": "Görüldü atmak kadar öldürücü bir  darbe  yok.", "url": "/gulbenatesss/status/1281591163926052864", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-10 17:08:38", "is_reply": false, "is_retweet": false, "user_id": "1264896749258366982"}

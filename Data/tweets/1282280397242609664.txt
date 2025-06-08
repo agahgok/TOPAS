@@ -1,0 +1,1 @@
+{"usernameTweet": "Nothinglos_", "ID": "1282280397242609664", "text": "Demek ki 15 temuzda asıl  darbe  kürt taymına yapılmış kshjdjshs", "url": "/Nothinglos_/status/1282280397242609664", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 14:47:24", "is_reply": true, "is_retweet": false, "user_id": "1167426569394098179"}

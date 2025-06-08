@@ -1,0 +1,1 @@
+{"usernameTweet": "ssunakus", "ID": "754092350616592384", "text": "Halkı galeyana getirip sokağa davet edenlerden inen var mı gören oldu acaba ? #SokağaSakınÇıkma", "url": "/ssunakus/status/754092350616592384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:41", "is_reply": false, "is_retweet": false, "user_id": "1483120634"}

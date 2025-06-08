@@ -1,0 +1,1 @@
+{"usernameTweet": "herkesermis", "ID": "754072926828265476", "text": "# SokağaSakınÇıkma  sözünü söyleyenler ne oldu zorunuza mı gittin halkın sokağa çıkması", "url": "/herkesermis/status/754072926828265476", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:30", "is_reply": false, "is_retweet": false, "user_id": "4925445886"}

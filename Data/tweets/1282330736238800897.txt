@@ -1,0 +1,1 @@
+{"usernameTweet": "ComensalEnDF", "ID": "1282330736238800897", "text": "¿Entonces para qué hay líderes? Te leo atento", "url": "/ComensalEnDF/status/1282330736238800897", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2020-07-12 18:07:26", "is_reply": true, "is_retweet": false, "user_id": "82769670"}

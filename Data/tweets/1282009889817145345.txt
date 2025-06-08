@@ -1,0 +1,1 @@
+{"usernameTweet": "Ozge5010", "ID": "1282009889817145345", "text": "Bir de  darbe  yapacaktılar. Sidikliler....\n#15TemmuzMehteri pic.twitter.com/j7i2jsRXzx", "url": "/Ozge5010/status/1282009889817145345", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 20:52:30", "is_reply": false, "is_retweet": false, "user_id": "935637656062570496"}

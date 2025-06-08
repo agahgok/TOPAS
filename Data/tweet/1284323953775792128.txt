@@ -1,0 +1,1 @@
+{"usernameTweet": "rexxiii_", "ID": "1284323953775792128", "text": "napakagandang paksa para sa mga kabataan hahaha", "url": "/rexxiii_/status/1284323953775792128", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 06:07:46", "is_reply": false, "is_retweet": false, "user_id": "1219099303437725696"}

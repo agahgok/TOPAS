@@ -1,0 +1,1 @@
+{"usernameTweet": "mirayaca", "ID": "1282464195636801536", "text": "Yunbardan  darbe  yedim zaten bdndn beko gözlerini açtı bana ne zaman sıra gelecek diye bekledi kaçtır", "url": "/mirayaca/status/1282464195636801536", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 02:57:45", "is_reply": true, "is_retweet": false, "user_id": "809359917379452929"}

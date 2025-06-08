@@ -1,0 +1,1 @@
+{"usernameTweet": "brkatsfb", "ID": "1282661410623938560", "text": "Siyasi ayagin arastirilmasina izin verilseydi ogun  darbe  olduguna inanirdim", "url": "/brkatsfb/status/1282661410623938560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:01:25", "is_reply": true, "is_retweet": false, "user_id": "1132196395329441792"}

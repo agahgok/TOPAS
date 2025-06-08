@@ -1,0 +1,1 @@
+{"usernameTweet": "NEDMSALIK", "ID": "754074028353159169", "text": "Her zaman dışarıda olacağız ve demokrasiyi savunacağız #SokağaSakınÇıkma", "url": "/NEDMSALIK/status/754074028353159169", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:53", "is_reply": false, "is_retweet": false, "user_id": "317344101"}

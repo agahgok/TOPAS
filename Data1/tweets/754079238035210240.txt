@@ -1,0 +1,1 @@
+{"usernameTweet": "atacal", "ID": "754079238035210240", "text": "# SokağaSakınÇıkma  neden mi? asker halka bişey yapmaz. çünkü askerin derdi halkla değil.", "url": "/atacal/status/754079238035210240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:35", "is_reply": false, "is_retweet": false, "user_id": "73497786"}

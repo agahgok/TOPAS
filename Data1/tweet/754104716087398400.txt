@@ -1,0 +1,1 @@
+{"usernameTweet": "darginucuzler", "ID": "754104716087398400", "text": "# SokağaSakınÇıkma  hainlerimize bakın hele siz hainler evden nasıl çıksın ki ", "url": "/darginucuzler/status/754104716087398400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:05:49", "is_reply": false, "is_retweet": false, "user_id": "750155259650142210"}

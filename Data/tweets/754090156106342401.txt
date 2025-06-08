@@ -1,0 +1,1 @@
+{"usernameTweet": "hayatsarkisi4", "ID": "754090156106342401", "text": "# SokağaSakınÇıkma  Türk'ü Türk'e vurdurdunuz. Allah belanızı versin.", "url": "/hayatsarkisi4/status/754090156106342401", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:58", "is_reply": false, "is_retweet": false, "user_id": "742814679983136768"}

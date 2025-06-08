@@ -1,0 +1,1 @@
+{"usernameTweet": "TCFenerist76", "ID": "754075320093769728", "text": "# SokağaSakınÇıkma", "url": "/TCFenerist76/status/754075320093769728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:01", "is_reply": false, "is_retweet": false, "user_id": "331919358"}

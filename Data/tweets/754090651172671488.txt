@@ -1,0 +1,1 @@
+{"usernameTweet": "B10ck3r", "ID": "754090651172671488", "text": "# SokağaSakınÇıkma  reco darbesi bu. Geziye cebap", "url": "/B10ck3r/status/754090651172671488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:56", "is_reply": false, "is_retweet": false, "user_id": "1019172014"}

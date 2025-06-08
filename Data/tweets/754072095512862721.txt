@@ -1,0 +1,1 @@
+{"usernameTweet": "Ist_devotee", "ID": "754072095512862721", "text": "# SokağaSakınÇıkma", "url": "/Ist_devotee/status/754072095512862721", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:12", "is_reply": false, "is_retweet": false, "user_id": "861982663"}

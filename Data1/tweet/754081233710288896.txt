@@ -1,0 +1,1 @@
+{"usernameTweet": "enginkarayilan", "ID": "754081233710288896", "text": "Ezan okunuyor?(/&:&(-#SokağaSakınÇıkma", "url": "/enginkarayilan/status/754081233710288896", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:30", "is_reply": false, "is_retweet": false, "user_id": "290442336"}

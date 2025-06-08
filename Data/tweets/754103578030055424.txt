@@ -1,0 +1,1 @@
+{"usernameTweet": "OzenSadece", "ID": "754103578030055424", "text": "# SokağaSakınÇıkma   https:// twitter.com/hamdiyeoyuk/st atus/754103458274291712   …", "url": "/OzenSadece/status/754103578030055424", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:01:18", "is_reply": false, "is_retweet": false, "user_id": "328510790"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ti_zerdem", "ID": "754078115903729664", "text": "Hani sokağa çıkan üç beş çapulcuydu hani vandallıktı... #SokağaSakınÇıkma", "url": "/ti_zerdem/status/754078115903729664", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:20:07", "is_reply": false, "is_retweet": false, "user_id": "2288478345"}

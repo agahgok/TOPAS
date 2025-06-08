@@ -1,0 +1,1 @@
+{"usernameTweet": "Senakoymenn", "ID": "1281349466960928768", "text": "bu bir  darbe  ve cuntası sensin", "url": "/Senakoymenn/status/1281349466960928768", "nbr_retweet": 0, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2020-07-10 01:08:13", "is_reply": false, "is_retweet": false, "user_id": "1052277973729112065"}

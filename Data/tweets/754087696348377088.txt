@@ -1,0 +1,1 @@
+{"usernameTweet": "el_turco05", "ID": "754087696348377088", "text": "Sokağa değil duaya...\n#SokağaSakınÇıkma \n#DarbeyeKarsıUElkeneSahipCık  \n#DarbeyeHayır", "url": "/el_turco05/status/754087696348377088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:11", "is_reply": false, "is_retweet": false, "user_id": "894227994"}

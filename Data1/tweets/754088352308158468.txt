@@ -1,0 +1,1 @@
+{"usernameTweet": "Fatih_Dursun_", "ID": "754088352308158468", "text": "Show Must Go On \n         \"Reis Mercury\"\n#SokağaSakınÇıkma \n#DarbeyeHayır", "url": "/Fatih_Dursun_/status/754088352308158468", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:48", "is_reply": false, "is_retweet": false, "user_id": "483008929"}

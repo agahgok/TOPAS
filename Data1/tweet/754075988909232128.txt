@@ -1,0 +1,1 @@
+{"usernameTweet": "tembelkoalaaa", "ID": "754075988909232128", "text": "# SokağaSakınÇıkma  , Sokağa çıkan tiplere bir bakın ya, cehalet azizim ne tehlikeli şey. #darbe", "url": "/tembelkoalaaa/status/754075988909232128", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:11:40", "is_reply": false, "is_retweet": false, "user_id": "4870041881"}

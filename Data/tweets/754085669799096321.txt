@@ -1,0 +1,1 @@
+{"usernameTweet": "dikmenismail", "ID": "754085669799096321", "text": "# SokağaSakınÇıkma  çünkü onun 1509 koruması var seninse hiç bir şeyin. ", "url": "/dikmenismail/status/754085669799096321", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:50:08", "is_reply": false, "is_retweet": false, "user_id": "348115622"}

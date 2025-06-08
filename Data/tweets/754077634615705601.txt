@@ -1,0 +1,1 @@
+{"usernameTweet": "merababenbeetul", "ID": "754077634615705601", "text": "Havada savaş uçakları varken silah sesleri duyulurken #SokağaSakınÇıkma", "url": "/merababenbeetul/status/754077634615705601", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:12", "is_reply": false, "is_retweet": false, "user_id": "1625198858"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "burcakland", "ID": "754076946770829312", "text": "söz konusu senin canın #SokağaSakınÇıkma", "url": "/burcakland/status/754076946770829312", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:15:28", "is_reply": false, "is_retweet": false, "user_id": "2873986447"}

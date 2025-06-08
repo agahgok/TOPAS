@@ -1,0 +1,1 @@
+{"usernameTweet": "droidyan", "ID": "754086617179095040", "text": "Herkes sokakta halk demokrasi istiyor. \n#SokağaSakınÇıkma", "url": "/droidyan/status/754086617179095040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:54", "is_reply": false, "is_retweet": false, "user_id": "130143858"}

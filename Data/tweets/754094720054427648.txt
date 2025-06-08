@@ -1,0 +1,1 @@
+{"usernameTweet": "idilsu11", "ID": "754094720054427648", "text": "Sakallı cübbeli tipler demokrasiye sahip çıkmak için sokağa dökülmüşler #SokağaSakınÇıkma", "url": "/idilsu11/status/754094720054427648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:06", "is_reply": false, "is_retweet": false, "user_id": "1474330736"}

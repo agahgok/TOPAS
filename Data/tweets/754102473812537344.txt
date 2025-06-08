@@ -1,0 +1,1 @@
+{"usernameTweet": "gul_aslgl", "ID": "754102473812537344", "text": "# SokağaSakınÇıkma  oyuna gelmeyin !!", "url": "/gul_aslgl/status/754102473812537344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:56:54", "is_reply": false, "is_retweet": false, "user_id": "740991758239141889"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_myusufcelegen", "ID": "754084759588962304", "text": "BİZ BURDAYIZ MEYDANLARDAYIZ ULAN..!\n#SokağaSakınÇıkma   pic.twitter.com/DWPslkxx7f", "url": "/_myusufcelegen/status/754084759588962304", "nbr_retweet": 3, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2016-07-16 01:46:31", "is_reply": false, "is_retweet": false, "user_id": "578981215"}

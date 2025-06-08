@@ -1,0 +1,1 @@
+{"usernameTweet": "alikemal_dagci", "ID": "1284265416248963074", "text": "Senin mevzu en temizi emmi şıkır şıkır 25i akşamı kadehler tokuşmasın mı sıra selviler gibi", "url": "/alikemal_dagci/status/1284265416248963074", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 02:15:10", "is_reply": true, "is_retweet": false, "user_id": "303497983"}

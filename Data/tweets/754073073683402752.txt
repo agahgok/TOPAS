@@ -1,0 +1,1 @@
+{"usernameTweet": "meltemoz87", "ID": "754073073683402752", "text": "Asla ve asla #SokağaSakınÇıkma", "url": "/meltemoz87/status/754073073683402752", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:00:05", "is_reply": false, "is_retweet": false, "user_id": "2975359688"}

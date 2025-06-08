@@ -1,0 +1,1 @@
+{"usernameTweet": "marjinaloduncu", "ID": "754093208444035072", "text": "Yarın darbeyi önleyen halife benim diyecek. Sende buna alet olmuş olacaksın. #SokağaSakınÇıkma", "url": "/marjinaloduncu/status/754093208444035072", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:20:05", "is_reply": false, "is_retweet": false, "user_id": "3216002163"}

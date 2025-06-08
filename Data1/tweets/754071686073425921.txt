@@ -1,0 +1,1 @@
+{"usernameTweet": "Derya43797259", "ID": "754071686073425921", "text": "# SokağaSakınÇıkma", "url": "/Derya43797259/status/754071686073425921", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:34", "is_reply": false, "is_retweet": false, "user_id": "742133551685107712"}

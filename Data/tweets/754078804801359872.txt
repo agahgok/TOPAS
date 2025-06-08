@@ -1,0 +1,1 @@
+{"usernameTweet": "buraktukenmez", "ID": "754078804801359872", "text": "# SokağaSakınÇıkma  diyen anasını siktiğimin çocukları ne yaparsanız yapın kazanamayacaksınız", "url": "/buraktukenmez/status/754078804801359872", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:51", "is_reply": false, "is_retweet": false, "user_id": "202400978"}

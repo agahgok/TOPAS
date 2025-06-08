@@ -1,0 +1,1 @@
+{"usernameTweet": "handanrodop", "ID": "754081103321890816", "text": "Gezide sokağa dökülene vatan haini diyen şimdi sokağa dökülün diyor #oyunagelme  #sokağaçıkma  #oturevinde", "url": "/handanrodop/status/754081103321890816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:59", "is_reply": false, "is_retweet": false, "user_id": "190432240"}

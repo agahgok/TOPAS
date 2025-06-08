@@ -1,0 +1,1 @@
+{"usernameTweet": "osmanhiyto", "ID": "754085057296379905", "text": "Nasıl bir ülke olduk #Turkey  #Ankara  #İstanbul  #Darbe  #SokağaSakınÇıkma", "url": "/osmanhiyto/status/754085057296379905", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:47:42", "is_reply": false, "is_retweet": false, "user_id": "171828147"}

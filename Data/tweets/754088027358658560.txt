@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynepmenefse", "ID": "754088027358658560", "text": "Demokrasi için sokağa çıkanlar Allahuekber diye bağırıyor anlayabilen ?!? #SokağaSakınÇıkma", "url": "/zeynepmenefse/status/754088027358658560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:30", "is_reply": false, "is_retweet": false, "user_id": "4091488097"}

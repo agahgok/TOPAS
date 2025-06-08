@@ -1,0 +1,1 @@
+{"usernameTweet": "Derron_McNelly", "ID": "448971612306427904", "text": "Wey they rel on  ronaldo  smh", "url": "/Derron_McNelly/status/448971612306427904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:55:48", "is_reply": false, "is_retweet": false, "user_id": "1186952364"}

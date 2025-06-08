@@ -1,0 +1,1 @@
+{"usernameTweet": "BaburRealer", "ID": "754071241225539584", "text": "# Sokagasakincikma", "url": "/BaburRealer/status/754071241225539584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:48", "is_reply": false, "is_retweet": false, "user_id": "28457806"}

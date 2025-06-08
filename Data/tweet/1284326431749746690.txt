@@ -1,0 +1,1 @@
+{"usernameTweet": "LRAQ_SA", "ID": "1284326431749746690", "text": "صــــبــﮧ‌‌‍اح الــ؏ـــــﮧ‌‌‍افــيـﮧ‌‌‍…❀  .", "url": "/LRAQ_SA/status/1284326431749746690", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 06:17:37", "is_reply": true, "is_retweet": false, "user_id": "1054066804707000328"}

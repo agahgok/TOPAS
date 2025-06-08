@@ -1,0 +1,1 @@
+{"usernameTweet": "AuseEsua", "ID": "754084763498143744", "text": "seni,sizi ve hepinizi düşündüğümden lütfen #SokağaSakınÇıkma    -", "url": "/AuseEsua/status/754084763498143744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:32", "is_reply": false, "is_retweet": false, "user_id": "422574527"}

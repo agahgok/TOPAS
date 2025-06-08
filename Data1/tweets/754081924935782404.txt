@@ -1,0 +1,1 @@
+{"usernameTweet": "beykozhasan61", "ID": "754081924935782404", "text": "# SokağaSakınÇıkma  #Ankara  böyle asker olmaz olsun darbeci köpekler su ülkeyi size  yedirmeyiz", "url": "/beykozhasan61/status/754081924935782404", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:15", "is_reply": false, "is_retweet": false, "user_id": "581955425"}

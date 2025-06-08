@@ -1,0 +1,1 @@
+{"usernameTweet": "HepcanMelis", "ID": "754072755105038336", "text": "Asgari ücretli yurttaşım Saraylarda yaşayan Tayyibe kalkan olma  #SokağaSakınÇıkma", "url": "/HepcanMelis/status/754072755105038336", "nbr_retweet": 125, "nbr_favorite": 257, "nbr_reply": 10, "datetime": "2016-07-16 00:58:49", "is_reply": false, "is_retweet": false, "user_id": "1643691769"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "imherajusthera", "ID": "1282059758351122434", "text": "Vurucu  darbe  kızlar teklif ediyor demek", "url": "/imherajusthera/status/1282059758351122434", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 00:10:40", "is_reply": true, "is_retweet": false, "user_id": "1194373181638881280"}

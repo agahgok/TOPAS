@@ -1,0 +1,1 @@
+{"usernameTweet": "ne_kadar", "ID": "754093451248009216", "text": "# SokağaSakınÇıkma  hayret en ufak bir olayda yavaslayan twetter koskocaman darbe girisiminde yavaslamadi", "url": "/ne_kadar/status/754093451248009216", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:03", "is_reply": false, "is_retweet": false, "user_id": "556652345"}

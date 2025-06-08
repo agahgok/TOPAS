@@ -1,0 +1,1 @@
+{"usernameTweet": "SineMasaLL", "ID": "754070891009564672", "text": "# sokağaçıkma  !  Cumhurbaşkanı Erdoğan çıksın kolaysa ama sen çıkma!!", "url": "/SineMasaLL/status/754070891009564672", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:51:25", "is_reply": false, "is_retweet": false, "user_id": "223800251"}

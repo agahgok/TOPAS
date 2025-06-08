@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754231524770414592", "text": "Varankın abisi ölmüş, ismini adresini bilen var mı cenazesine gideriz belki.  #SokağaSakınÇıkma  #ÇakmaDarbe", "url": "/vakkaff/status/754231524770414592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 11:29:43", "is_reply": false, "is_retweet": false, "user_id": "943942980"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "berberelifnur", "ID": "754073792264241152", "text": "Çıkmayın #SokağaSakınÇıkma", "url": "/berberelifnur/status/754073792264241152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:56", "is_reply": false, "is_retweet": false, "user_id": "719050111310032896"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "merveozarslan", "ID": "754072285242327041", "text": "# SokağaSakınÇıkma  o gün geldiğinde korkanlardan olmayacağız.  pic.twitter.com/bwY4a3B3pR", "url": "/merveozarslan/status/754072285242327041", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:57", "is_reply": false, "is_retweet": false, "user_id": "317904748"}

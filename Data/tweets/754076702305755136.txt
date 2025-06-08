@@ -1,0 +1,1 @@
+{"usernameTweet": "ElaErmutaf", "ID": "754076702305755136", "text": "Oyuna gelme senin onlarca koruman yok sen sivilsin canını düşün.. #SokağaSakınÇıkma  !!!!", "url": "/ElaErmutaf/status/754076702305755136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:30", "is_reply": false, "is_retweet": false, "user_id": "461936290"}

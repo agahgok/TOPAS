@@ -1,0 +1,1 @@
+{"usernameTweet": "Asikbiradam1407", "ID": "754088706739433473", "text": "Suriyelileri sokaklara bekliyorum..\n#SokağaSakınÇıkma", "url": "/Asikbiradam1407/status/754088706739433473", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:12", "is_reply": false, "is_retweet": false, "user_id": "4838108200"}

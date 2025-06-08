@@ -1,0 +1,1 @@
+{"usernameTweet": "mmachine_gunnn", "ID": "754084278883983361", "text": "# SokağaSakınÇıkma  Bunu yazan terbiyesiz, darbe yandaşı mısın!!! Herkes sokağaaaaa!!!!!", "url": "/mmachine_gunnn/status/754084278883983361", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:36", "is_reply": false, "is_retweet": false, "user_id": "3965170953"}

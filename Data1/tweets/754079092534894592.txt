@@ -1,0 +1,1 @@
+{"usernameTweet": "hlyaece3", "ID": "754079092534894592", "text": "Sokağa çıkanları eleştirenler, şimdi milleti sokaklara dökülmeye çağırıyor\n\n#SokağaÇıkma", "url": "/hlyaece3/status/754079092534894592", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:24:00", "is_reply": false, "is_retweet": false, "user_id": "606134778"}

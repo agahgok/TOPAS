@@ -1,0 +1,1 @@
+{"usernameTweet": "CetNfat", "ID": "1281941281195855873", "text": "Reisten yemediği  darbe ,yumruk  http://xn--kalmad-u9a.Art kalmadı.Art   ık ne dediğini bilemiyor .Pert", "url": "/CetNfat/status/1281941281195855873", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 16:19:53", "is_reply": true, "is_retweet": false, "user_id": "4099967482"}

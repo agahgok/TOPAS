@@ -1,0 +1,1 @@
+{"usernameTweet": "pinarry_", "ID": "754080558335070208", "text": "Zenginler savaşır fakirler ölür #SokağaSakınÇıkma", "url": "/pinarry_/status/754080558335070208", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:29:49", "is_reply": false, "is_retweet": false, "user_id": "127221435"}

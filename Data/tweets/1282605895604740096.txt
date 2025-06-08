@@ -1,0 +1,1 @@
+{"usernameTweet": "blueeskyxx", "ID": "1282605895604740096", "text": "Alsemuttan  darbe  mi yedik gerçektenn bak o kadar emek verdik hakkımız var olmasın böyle bişeey :(", "url": "/blueeskyxx/status/1282605895604740096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 12:20:49", "is_reply": false, "is_retweet": false, "user_id": "1257339900636073984"}

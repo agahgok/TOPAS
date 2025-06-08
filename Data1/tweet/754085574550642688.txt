@@ -1,0 +1,1 @@
+{"usernameTweet": "ezggia", "ID": "754085574550642688", "text": "Ülkede bu kadar terör ve canlı bomba varken insanları sokağa dökmek nasıl bir zihniyettir #SokağaSakınÇıkma", "url": "/ezggia/status/754085574550642688", "nbr_retweet": 5, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:49:45", "is_reply": false, "is_retweet": false, "user_id": "155459352"}

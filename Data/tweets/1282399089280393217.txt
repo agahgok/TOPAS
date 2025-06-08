@@ -1,0 +1,1 @@
+{"usernameTweet": "mkubilay0023", "ID": "1282399089280393217", "text": "Darbe  gecesi herkes safını belli etti bunu millette gördü....", "url": "/mkubilay0023/status/1282399089280393217", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:39:03", "is_reply": true, "is_retweet": false, "user_id": "341616620"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "troisbleu", "ID": "754100563260825601", "text": "ülkeyi yabancı ülkelerl etti, niye  sürekli ezanla çağrı yapılıyor #SokağaSakınÇıkma", "url": "/troisbleu/status/754100563260825601", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:49:19", "is_reply": false, "is_retweet": false, "user_id": "222567550"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hunharcaTBSSMLR", "ID": "754092340109795328", "text": "imamlar TSK dan daha organize mk darbeye bak jakljdasdkjasld:D\n#SokağaSakınÇıkma", "url": "/hunharcaTBSSMLR/status/754092340109795328", "nbr_retweet": 1, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 02:16:38", "is_reply": false, "is_retweet": false, "user_id": "2152922106"}

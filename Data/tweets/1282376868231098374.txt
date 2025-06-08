@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkanErtem", "ID": "1282376868231098374", "text": "Diyete  darbe  yaptım.", "url": "/TurkanErtem/status/1282376868231098374", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-12 21:10:45", "is_reply": false, "is_retweet": false, "user_id": "1245386565326639109"}

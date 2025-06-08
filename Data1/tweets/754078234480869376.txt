@@ -1,0 +1,1 @@
+{"usernameTweet": "hhatunm", "ID": "754078234480869376", "text": "# SokağaSakınÇıkma  DOĞUDA BATIDA HERKES SOKAKTAYSA BU VATAN HALA BİRDİR BERABERDİR !", "url": "/hhatunm/status/754078234480869376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:35", "is_reply": false, "is_retweet": false, "user_id": "703958940460122112"}

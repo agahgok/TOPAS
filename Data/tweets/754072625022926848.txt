@@ -1,0 +1,1 @@
+{"usernameTweet": "cync1982", "ID": "754072625022926848", "text": "# SokağaSakınÇıkma  sıkıyosa kendine başkomutanım diyen çıksın!!", "url": "/cync1982/status/754072625022926848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:18", "is_reply": false, "is_retweet": false, "user_id": "314441687"}

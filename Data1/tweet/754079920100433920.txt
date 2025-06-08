@@ -1,0 +1,1 @@
+{"usernameTweet": "beyzasslan", "ID": "754079920100433920", "text": "Halkı piyon gibi kullanmak niyetindeler #SokağaSakınÇıkma", "url": "/beyzasslan/status/754079920100433920", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:27:17", "is_reply": false, "is_retweet": false, "user_id": "2151554508"}

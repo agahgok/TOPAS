@@ -1,0 +1,1 @@
+{"usernameTweet": "cancobain", "ID": "754075447722409984", "text": "# SokağaSakınÇıkma", "url": "/cancobain/status/754075447722409984", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:09:31", "is_reply": false, "is_retweet": false, "user_id": "476071767"}

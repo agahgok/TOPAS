@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1282560003971223552", "text": "Muchas gracias mi Charlie!", "url": "/Darbe_LM/status/1282560003971223552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 09:18:28", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Eypaygn4", "ID": "754073768688021504", "text": "# SokağaSakınÇıkma  diye tag açan döl israfları siz kendinizi ne bok sanıyorsunuz gezici dimuzlar", "url": "/Eypaygn4/status/754073768688021504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:51", "is_reply": false, "is_retweet": false, "user_id": "732886346516291584"}

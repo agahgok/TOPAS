@@ -1,0 +1,1 @@
+{"usernameTweet": "UnutmazSebahat", "ID": "754088988516945922", "text": "# SokağaSakınÇıkma   pic.twitter.com/OnJ4PBQr4v", "url": "/UnutmazSebahat/status/754088988516945922", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:19", "is_reply": false, "is_retweet": false, "user_id": "954483438"}

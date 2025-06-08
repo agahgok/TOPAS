@@ -1,0 +1,1 @@
+{"usernameTweet": "ER_K4N_07", "ID": "754104380794793985", "text": "# SokağaSakınÇıkma \n#Ankara  #Taksim  \nHulusi Akar\n\nköpekler o köprüyü bile yıkmaya çalışabilir..", "url": "/ER_K4N_07/status/754104380794793985", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:04:29", "is_reply": false, "is_retweet": false, "user_id": "331692093"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ty_yazici", "ID": "754087670889021440", "text": "# SokağaSakınÇıkma  Şu görmüş olduğunuz namlu varya... Neyse...  pic.twitter.com/7hjrrDW2rF", "url": "/ty_yazici/status/754087670889021440", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:58:05", "is_reply": false, "is_retweet": false, "user_id": "274442622"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "erkut_ahmet", "ID": "754077679050170370", "text": "Sizin aklınıza gezi geliyor dallamalar ama bir taş yerinden oynamadan bu is biter  #SokağaSakınÇıkma", "url": "/erkut_ahmet/status/754077679050170370", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:23", "is_reply": false, "is_retweet": false, "user_id": "504176290"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "aglayansufle", "ID": "1282371346480209924", "text": "Merveye bir  darbe  de biz indiremeyiz kendine gel xd", "url": "/aglayansufle/status/1282371346480209924", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 20:48:48", "is_reply": true, "is_retweet": false, "user_id": "924702343836381185"}

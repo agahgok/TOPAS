@@ -1,0 +1,1 @@
+{"usernameTweet": "jangmilu", "ID": "1282073522580459521", "text": "bugün aşırı dozda Monsta X yüklendim kalbim ağır  darbe  almış durumda", "url": "/jangmilu/status/1282073522580459521", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-12 01:05:22", "is_reply": false, "is_retweet": false, "user_id": "710013739"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "alper_ayaz2014", "ID": "754080718985302018", "text": "Ezani camiyi alet ettiler. Yaziklar olsun #SokağaSakınÇıkma", "url": "/alper_ayaz2014/status/754080718985302018", "nbr_retweet": 3, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:30:28", "is_reply": false, "is_retweet": false, "user_id": "2875542549"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "iremimooo", "ID": "754090071964385280", "text": "Ezanin namaza cagirmasi gerekirken sokaga cagirmasi da pek bi nacizane. #SokağaSakınÇıkma", "url": "/iremimooo/status/754090071964385280", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:07:38", "is_reply": false, "is_retweet": false, "user_id": "4581149367"}

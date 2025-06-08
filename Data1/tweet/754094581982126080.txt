@@ -1,0 +1,1 @@
+{"usernameTweet": "CemalGeyveli", "ID": "754094581982126080", "text": "# SokağaSakınÇıkma  Bu gece  ezan , Sela manyağı oldum resmen tüm ev ahalisi uyandı yeter artık", "url": "/CemalGeyveli/status/754094581982126080", "nbr_retweet": 2, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:25:33", "is_reply": false, "is_retweet": false, "user_id": "3153578514"}

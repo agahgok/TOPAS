@@ -1,0 +1,1 @@
+{"usernameTweet": "DrVeren", "ID": "1282619121545482241", "text": "MIT cakmasi hakan fidan nerde?  darbe  öncesi korkudan tirnaklarini mi yedi.", "url": "/DrVeren/status/1282619121545482241", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 13:13:23", "is_reply": true, "is_retweet": false, "user_id": "1259459936611962880"}

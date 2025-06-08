@@ -1,0 +1,1 @@
+{"usernameTweet": "Serazad_21", "ID": "754094686948691971", "text": "# SokağaSakınÇıkma   pic.twitter.com/jpnWWFzxTV", "url": "/Serazad_21/status/754094686948691971", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:58", "is_reply": false, "is_retweet": false, "user_id": "706556842604777472"}

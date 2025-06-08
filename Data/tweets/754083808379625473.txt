@@ -1,0 +1,1 @@
+{"usernameTweet": "bussva", "ID": "754083808379625473", "text": "# SokağaSakınÇıkma", "url": "/bussva/status/754083808379625473", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:42:44", "is_reply": false, "is_retweet": false, "user_id": "4281926542"}

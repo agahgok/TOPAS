@@ -1,0 +1,1 @@
+{"usernameTweet": "Fatmana81890041", "ID": "1282356239108898818", "text": "Darbe  olurken tv karşısında darbeyi izlemek", "url": "/Fatmana81890041/status/1282356239108898818", "nbr_retweet": 0, "nbr_favorite": 15, "nbr_reply": 4, "datetime": "2020-07-12 19:48:47", "is_reply": true, "is_retweet": false, "user_id": "1183411967647801345"}

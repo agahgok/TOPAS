@@ -1,0 +1,1 @@
+{"usernameTweet": "gigiosc_um", "ID": "754350681407053824", "text": "Yeni masum canlar yanmasın. İşi ehline bırakın #SokağaSakınÇıkma", "url": "/gigiosc_um/status/754350681407053824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 19:23:12", "is_reply": false, "is_retweet": false, "user_id": "314018086"}

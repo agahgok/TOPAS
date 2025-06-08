@@ -1,0 +1,1 @@
+{"usernameTweet": "gkcblt", "ID": "754072620061093888", "text": "Devlet olarak sen engelleyemiyorsun milleti tankların önüne sürüyorsun #sokagacikma", "url": "/gkcblt/status/754072620061093888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:17", "is_reply": false, "is_retweet": false, "user_id": "107811885"}

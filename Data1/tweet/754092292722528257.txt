@@ -1,0 +1,1 @@
+{"usernameTweet": "ceylangoresim", "ID": "754092292722528257", "text": "# oyunagelme  #sokağaçıkma   https://www. instagram.com/p/BH5nVibgkoCv LPnSkidHpQfZ9qmNf4NPpGFPOw0/   …", "url": "/ceylangoresim/status/754092292722528257", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:27", "is_reply": false, "is_retweet": false, "user_id": "444019087"}

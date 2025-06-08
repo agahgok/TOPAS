@@ -1,0 +1,1 @@
+{"usernameTweet": "suvari1071", "ID": "754082906457407488", "text": "# SokağaSakınÇıkma \nManisa başkanının emrinde..  pic.twitter.com/WU5eyhxhB2", "url": "/suvari1071/status/754082906457407488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:09", "is_reply": false, "is_retweet": false, "user_id": "3389634652"}

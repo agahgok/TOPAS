@@ -1,0 +1,1 @@
+{"usernameTweet": "enes62937683", "ID": "1281993994579386369", "text": "2002 öncesinde neredeydiniz.tabi  darbe  ve banka hortumlamakla mesgullerdi dimi pardon.özür.", "url": "/enes62937683/status/1281993994579386369", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2020-07-11 19:49:21", "is_reply": true, "is_retweet": false, "user_id": "1240374622329221120"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "beyzade155", "ID": "1281359502537826306", "text": "Darbe  gecesi atmış olduğun twet leride mi başkası atmıştı,", "url": "/beyzade155/status/1281359502537826306", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-10 01:48:06", "is_reply": true, "is_retweet": false, "user_id": "159359209"}

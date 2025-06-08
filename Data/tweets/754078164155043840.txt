@@ -1,0 +1,1 @@
+{"usernameTweet": "dorduncuatlisi", "ID": "754078164155043840", "text": "Asker TBMM'yi sardı  https:// shar.es/1lU7LF     #SokağaSakınÇıkma  #Ankara", "url": "/dorduncuatlisi/status/754078164155043840", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:19", "is_reply": false, "is_retweet": false, "user_id": "319032563"}

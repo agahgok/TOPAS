@@ -1,0 +1,1 @@
+{"usernameTweet": "ChpErenkoy", "ID": "754097621057302530", "text": "Oynanan oyuna gelme,kardeş kanı dökme  #SokağaSakınÇıkma   pic.twitter.com/p0aWbQB04z", "url": "/ChpErenkoy/status/754097621057302530", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:37:37", "is_reply": false, "is_retweet": false, "user_id": "1903466022"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Fight4ACB", "ID": "754073961038741505", "text": "Başarısız darbe girişimi nedeniyle hainler yine kahraman ilan edilecek.  #SokağaSakınÇıkma", "url": "/Fight4ACB/status/754073961038741505", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:03:36", "is_reply": false, "is_retweet": false, "user_id": "743994580777963520"}

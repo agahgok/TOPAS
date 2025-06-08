@@ -1,0 +1,1 @@
+{"usernameTweet": "Tegabbi", "ID": "754082231996542978", "text": "%49,5 sokağa çık geri kalanlar sakın #SokağaSakınÇıkma", "url": "/Tegabbi/status/754082231996542978", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:36:28", "is_reply": false, "is_retweet": false, "user_id": "42650524"}

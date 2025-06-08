@@ -1,0 +1,1 @@
+{"usernameTweet": "mozbagriacik", "ID": "754080552983138305", "text": "Neden camilerde ezan okunuyor? ? #SokağaSakınÇıkma", "url": "/mozbagriacik/status/754080552983138305", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:48", "is_reply": false, "is_retweet": false, "user_id": "419025268"}

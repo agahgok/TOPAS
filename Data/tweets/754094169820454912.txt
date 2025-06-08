@@ -1,0 +1,1 @@
+{"usernameTweet": "Seref_Koyuncu", "ID": "754094169820454912", "text": "Ülkene,Milletine Sahipçık #sokağaçıkma  #zamanı  \n #TürkiyeDikDuruyor", "url": "/Seref_Koyuncu/status/754094169820454912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:55", "is_reply": false, "is_retweet": false, "user_id": "195132677"}

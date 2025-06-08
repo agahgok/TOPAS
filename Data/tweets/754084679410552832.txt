@@ -1,0 +1,1 @@
+{"usernameTweet": "ZelihaKaradal", "ID": "754084679410552832", "text": "# SokağaSakınÇıkma \n#DarbeyeHayır  \n#İçSavaşaHayır", "url": "/ZelihaKaradal/status/754084679410552832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:12", "is_reply": false, "is_retweet": false, "user_id": "305458165"}

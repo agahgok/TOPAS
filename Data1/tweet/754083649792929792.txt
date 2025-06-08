@@ -1,0 +1,1 @@
+{"usernameTweet": "esraaaaatepe", "ID": "754083649792929792", "text": "# SokağaSakınÇıkma  baba film olur bu senaryodan!!!", "url": "/esraaaaatepe/status/754083649792929792", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:42:06", "is_reply": false, "is_retweet": false, "user_id": "338353856"}

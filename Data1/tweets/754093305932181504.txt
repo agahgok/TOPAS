@@ -1,0 +1,1 @@
+{"usernameTweet": "Mekavetronik", "ID": "754093305932181504", "text": "Ulan camilerden anons yapiyolar aq cildircam #sokagacikma", "url": "/Mekavetronik/status/754093305932181504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:29", "is_reply": false, "is_retweet": false, "user_id": "4128786748"}

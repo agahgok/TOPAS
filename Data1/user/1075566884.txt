@@ -1,0 +1,1 @@
+{"ID": "1075566884", "name": "シャムキャッツ歌詞bot", "screen_name": "s_cats_bot", "avatar": "https://pbs.twimg.com/profile_images/601219647141097472/fi5NOAmz_bigger.png"}

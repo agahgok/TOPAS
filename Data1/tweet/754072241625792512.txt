@@ -1,0 +1,1 @@
+{"usernameTweet": "SenCak_Bahire", "ID": "754072241625792512", "text": "# SokağaSakınÇıkma", "url": "/SenCak_Bahire/status/754072241625792512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:56:47", "is_reply": false, "is_retweet": false, "user_id": "1953752527"}

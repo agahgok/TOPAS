@@ -1,0 +1,1 @@
+{"usernameTweet": "y_karacapinar", "ID": "754082003096629248", "text": "Sakoga cikarak canini tehlikeye atma\n #SokağaSakınÇıkma", "url": "/y_karacapinar/status/754082003096629248", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:34", "is_reply": false, "is_retweet": false, "user_id": "2912958675"}

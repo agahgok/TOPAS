@@ -1,0 +1,1 @@
+{"usernameTweet": "SelnAygn", "ID": "754081997530824710", "text": "# SokağaSakınÇıkma   #Ankara pic.twitter.com/sYCUcVJMWP", "url": "/SelnAygn/status/754081997530824710", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:33", "is_reply": false, "is_retweet": false, "user_id": "1636191283"}

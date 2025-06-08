@@ -1,0 +1,1 @@
+{"usernameTweet": "emelsenn", "ID": "754073274296967168", "text": "# SokağaSakınÇıkma  sakin olun,sokağa çıktık çapulcu olduk.şimdi sokağa çağırıyor,kendine siper ariyor", "url": "/emelsenn/status/754073274296967168", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:00:53", "is_reply": false, "is_retweet": false, "user_id": "254712421"}

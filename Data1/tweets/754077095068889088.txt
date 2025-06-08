@@ -1,0 +1,1 @@
+{"usernameTweet": "dlkesy", "ID": "754077095068889088", "text": "# SokağaSakınÇıkma  bu nasıl bir oyundur ya halkı öne sürüyor kendi ailesi nerede acaba hepsi birlikte çıksın önce", "url": "/dlkesy/status/754077095068889088", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:16:04", "is_reply": false, "is_retweet": false, "user_id": "2465732547"}

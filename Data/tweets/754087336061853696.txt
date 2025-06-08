@@ -1,0 +1,1 @@
+{"usernameTweet": "hsynagcksn", "ID": "754087336061853696", "text": "# SokağaSakınÇıkma  milleti galyana getirmek isteyenlere prim verme.", "url": "/hsynagcksn/status/754087336061853696", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:45", "is_reply": false, "is_retweet": false, "user_id": "294124551"}

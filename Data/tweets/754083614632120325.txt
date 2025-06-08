@@ -1,0 +1,1 @@
+{"usernameTweet": "hilalygn46", "ID": "754083614632120325", "text": "Bu saatte okunan sela içimize nasıl işler bilmez misin \n#SokağaSakınÇıkma", "url": "/hilalygn46/status/754083614632120325", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:41:58", "is_reply": false, "is_retweet": false, "user_id": "702981456243630080"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "buketuznoglu", "ID": "1281969893567537157", "text": "bomba değil  darbe  slzkskxnskdn", "url": "/buketuznoglu/status/1281969893567537157", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 18:13:35", "is_reply": true, "is_retweet": false, "user_id": "842036851473018881"}

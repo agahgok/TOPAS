@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754145441508450304", "text": "# SokağaSakınÇıkma  bu sokaktakiler niye sokaktalar  olusayisi attsin diyeni", "url": "/orjinalkarakter/status/754145441508450304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:47:39", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

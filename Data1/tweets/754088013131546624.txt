@@ -1,0 +1,1 @@
+{"usernameTweet": "aysbenmiyim", "ID": "754088013131546624", "text": "# SokağaSakınÇıkma  sandığa da bi daha oy atma madem demokrasin umrunda değil", "url": "/aysbenmiyim/status/754088013131546624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:27", "is_reply": false, "is_retweet": false, "user_id": "445831720"}

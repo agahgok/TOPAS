@@ -1,0 +1,1 @@
+{"usernameTweet": "Keerkuklu", "ID": "1282309780766416898", "text": "HDP'nin Terör ayağı PKK'ya  darbe  vuruldu.  pic.twitter.com/lLACKqaskY", "url": "/Keerkuklu/status/1282309780766416898", "nbr_retweet": 22, "nbr_favorite": 63, "nbr_reply": 4, "datetime": "2020-07-12 16:44:10", "is_reply": false, "is_retweet": false, "user_id": "1234509364918210562"}

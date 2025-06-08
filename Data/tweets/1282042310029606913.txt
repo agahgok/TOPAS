@@ -1,0 +1,1 @@
+{"usernameTweet": "bmyaysu", "ID": "1282042310029606913", "text": "Darbe  üstüne  darbe  #nisbar  #aybar pic.twitter.com/TczrjQrR8a", "url": "/bmyaysu/status/1282042310029606913", "nbr_retweet": 4, "nbr_favorite": 23, "nbr_reply": 2, "datetime": "2020-07-11 23:01:20", "is_reply": false, "is_retweet": false, "user_id": "1265755610852794368"}

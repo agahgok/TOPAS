@@ -1,0 +1,1 @@
+{"usernameTweet": "YeisSensura", "ID": "754077333871558656", "text": "Lütfen #sokağaçıkma", "url": "/YeisSensura/status/754077333871558656", "nbr_retweet": 29, "nbr_favorite": 109, "nbr_reply": 7, "datetime": "2016-07-16 01:17:01", "is_reply": false, "is_retweet": false, "user_id": "184468948"}

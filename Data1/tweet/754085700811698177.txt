@@ -1,0 +1,1 @@
+{"usernameTweet": "Marioteslaa", "ID": "754085700811698177", "text": "Öyle bir ülke düşünün ki insanlar öldüğünde susup oyun oynandığında sokağa çıksınlar.. #SokağaSakınÇıkma", "url": "/Marioteslaa/status/754085700811698177", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:15", "is_reply": false, "is_retweet": false, "user_id": "1626172632"}

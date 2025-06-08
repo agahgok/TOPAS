@@ -1,0 +1,1 @@
+{"usernameTweet": "TarYorulmaz", "ID": "754074478544584705", "text": "# SokağaSakınÇıkma  darbeciler yıkıldı bizim buralar nasıl olacak haliniz", "url": "/TarYorulmaz/status/754074478544584705", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:40", "is_reply": false, "is_retweet": false, "user_id": "2870480425"}

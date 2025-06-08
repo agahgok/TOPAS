@@ -1,0 +1,1 @@
+{"usernameTweet": "oguzhan_birgin", "ID": "1282053372582002688", "text": "Biri mahallede son ses Ölürüm Türkiyem açmış dolaşıyor. Yine mi  darbe  girişimi oldu", "url": "/oguzhan_birgin/status/1282053372582002688", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-11 23:45:18", "is_reply": false, "is_retweet": false, "user_id": "1079038268983918593"}

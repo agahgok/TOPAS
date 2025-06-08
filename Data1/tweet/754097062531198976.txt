@@ -1,0 +1,1 @@
+{"usernameTweet": "MehmelFp", "ID": "754097062531198976", "text": "# sokagasakincikma  ulan ya size diyecek yok .... Kurgu diyenlere ,böyle kurgu mu olur 17 sehit var.", "url": "/MehmelFp/status/754097062531198976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:35:24", "is_reply": false, "is_retweet": false, "user_id": "752114822804860929"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "MMMuratoglu", "ID": "1282677138584477700", "text": "3 yılda 5 şampiyonluk gören kız bir daha şampiyon olamadı. Mental olarak da bence büyük  darbe  vurdu.", "url": "/MMMuratoglu/status/1282677138584477700", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 17:03:55", "is_reply": true, "is_retweet": false, "user_id": "351086375"}

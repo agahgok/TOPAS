@@ -1,0 +1,1 @@
+{"usernameTweet": "ozgurCavuss", "ID": "754090895461539840", "text": "# SokağaSakınÇıkma  halkin ne zaman bu olaylara çözum buldugumu gordun. Cikmayin disari.", "url": "/ozgurCavuss/status/754090895461539840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:54", "is_reply": false, "is_retweet": false, "user_id": "271521872"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "elkhalfii", "ID": "754089383188463616", "text": "الجزيرة: 17 شرطيا قتلوا في محاولة الانقلاب بتركيا\n\n#SokağaSakınÇıkma  #Ankara  #تركيا_تنقلب", "url": "/elkhalfii/status/754089383188463616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:53", "is_reply": false, "is_retweet": false, "user_id": "282777454"}

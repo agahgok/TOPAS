@@ -1,0 +1,1 @@
+{"usernameTweet": "ayvegunes35", "ID": "754074877649387520", "text": "# SokağaSakınÇıkma  Flash tv de halay çeken de yok. Durum bayağı ciddi ...", "url": "/ayvegunes35/status/754074877649387520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:15", "is_reply": false, "is_retweet": false, "user_id": "2665905439"}

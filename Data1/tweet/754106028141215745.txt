@@ -1,0 +1,1 @@
+{"usernameTweet": "rftarikan09", "ID": "754106028141215745", "text": "Demokrasiye zarar gelmeyecek TSK NIN arkasında dur destekle onların koyunlarıyla bir olma  #SokağaSakınÇıkma", "url": "/rftarikan09/status/754106028141215745", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:11:02", "is_reply": false, "is_retweet": false, "user_id": "2826520616"}

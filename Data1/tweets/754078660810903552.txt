@@ -1,0 +1,1 @@
+{"usernameTweet": "BayrakkMehmet", "ID": "754078660810903552", "text": "Suriyeliler sokağa çıkmak için vatandaşlık verilmesini bekliyormuş!! #SokağaSakınÇıkma", "url": "/BayrakkMehmet/status/754078660810903552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:17", "is_reply": false, "is_retweet": false, "user_id": "740363436752809984"}

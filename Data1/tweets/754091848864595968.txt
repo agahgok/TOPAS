@@ -1,0 +1,1 @@
+{"usernameTweet": "GobbelsDr", "ID": "754091848864595968", "text": "# SokağaSakınÇıkma  Helikopterler ates aciyor", "url": "/GobbelsDr/status/754091848864595968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:41", "is_reply": false, "is_retweet": false, "user_id": "326115833"}

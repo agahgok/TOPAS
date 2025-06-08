@@ -1,0 +1,1 @@
+{"usernameTweet": "Fetomatik1", "ID": "1282411146683863042", "text": "Peki güzel ülkem bağlı olduğun soysuzların  darbe  kalkışmasını haketti mi?", "url": "/Fetomatik1/status/1282411146683863042", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-12 23:26:58", "is_reply": true, "is_retweet": false, "user_id": "1276758242287329280"}

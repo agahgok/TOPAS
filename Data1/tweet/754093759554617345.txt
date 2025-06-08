@@ -1,0 +1,1 @@
+{"usernameTweet": "apranax_fort_", "ID": "754093759554617345", "text": "Sela-cihad!? Aklınızı kullanmasınlar, aklınızı sadece siz kullanın. #SokagaSakınÇıkma", "url": "/apranax_fort_/status/754093759554617345", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:17", "is_reply": false, "is_retweet": false, "user_id": "180554354"}

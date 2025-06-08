@@ -1,0 +1,1 @@
+{"usernameTweet": "poseidoncakmasi", "ID": "754072633730277380", "text": "O değilde gene içimizde patladı pokemon neyse napalım #sokağaçıkma", "url": "/poseidoncakmasi/status/754072633730277380", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:20", "is_reply": false, "is_retweet": false, "user_id": "400433243"}

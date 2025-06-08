@@ -1,0 +1,1 @@
+{"usernameTweet": "bizzatbenkendim", "ID": "754155736515633152", "text": "# sokağasakınçıkma  nasılsa evdesiniz tv seyredin canlı reis ekranda", "url": "/bizzatbenkendim/status/754155736515633152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 06:28:33", "is_reply": false, "is_retweet": false, "user_id": "441262110"}

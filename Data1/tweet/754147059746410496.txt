@@ -1,0 +1,1 @@
+{"usernameTweet": "kadindanzeplin", "ID": "754147059746410496", "text": "# SokağaÇıkma  çünkü bu bizim sorumluluğumuz değil. Aralarındaki şeye kurban gitme.", "url": "/kadindanzeplin/status/754147059746410496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:54:05", "is_reply": false, "is_retweet": false, "user_id": "177790858"}

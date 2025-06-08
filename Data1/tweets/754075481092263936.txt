@@ -1,0 +1,1 @@
+{"usernameTweet": "velidemir5", "ID": "754075481092263936", "text": "Bu tagı açan git ananı bacını fetöye nikahla #SokağaSakınÇıkma", "url": "/velidemir5/status/754075481092263936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:39", "is_reply": false, "is_retweet": false, "user_id": "375050052"}

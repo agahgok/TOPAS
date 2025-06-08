@@ -1,0 +1,1 @@
+{"usernameTweet": "ozlemyrtsvnn", "ID": "754086383816286214", "text": "Kardeşi kardeşe kirdirip ustune sela okutuyorlar !!!  #SokağaSakınÇıkma", "url": "/ozlemyrtsvnn/status/754086383816286214", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:58", "is_reply": false, "is_retweet": false, "user_id": "469547695"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Ret1ariuS", "ID": "754082552231694337", "text": "Gençliğe hitabeyi hatırlayalım.  #SokağaSakınÇıkma   pic.twitter.com/5UmLvd8ZF1", "url": "/Ret1ariuS/status/754082552231694337", "nbr_retweet": 1, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2016-07-16 01:37:45", "is_reply": false, "is_retweet": false, "user_id": "2307544087"}

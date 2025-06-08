@@ -1,0 +1,1 @@
+{"usernameTweet": "y1h2f3s542", "ID": "1281771888105095169", "text": "Şimdi Ayasofya nın yarattığı gündemle yargıya bir  darbe  daha oldu.", "url": "/y1h2f3s542/status/1281771888105095169", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 05:06:46", "is_reply": true, "is_retweet": false, "user_id": "1271800541212008448"}

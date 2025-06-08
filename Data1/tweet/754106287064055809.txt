@@ -1,0 +1,1 @@
+{"usernameTweet": "jalesezerdmrg", "ID": "754106287064055809", "text": "Peki meclis neden bombalaniyor #SokağaÇıkma", "url": "/jalesezerdmrg/status/754106287064055809", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:12:04", "is_reply": false, "is_retweet": false, "user_id": "305009098"}

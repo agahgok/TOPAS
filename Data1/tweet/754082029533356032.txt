@@ -1,0 +1,1 @@
+{"usernameTweet": "alperenomer1071", "ID": "754082029533356032", "text": "Ezan okunuyor Alluhu Ekber \n#SokağaSakınÇıkma", "url": "/alperenomer1071/status/754082029533356032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:40", "is_reply": false, "is_retweet": false, "user_id": "2201787085"}

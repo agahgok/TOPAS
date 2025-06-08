@@ -1,0 +1,1 @@
+{"usernameTweet": "gafur_eroglu", "ID": "754084900320505856", "text": "Bütün koyunlar sokakta ya camilerden tekbir çekiyorlar olmasi gereken oluyor :-) #SokağaSakınÇıkma", "url": "/gafur_eroglu/status/754084900320505856", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:47:05", "is_reply": false, "is_retweet": false, "user_id": "3653174717"}

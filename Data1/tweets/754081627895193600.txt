@@ -1,0 +1,1 @@
+{"usernameTweet": "bahadirozbey35", "ID": "754081627895193600", "text": "Saçma salak hareketler yapmayın sakin olun...Haklı veya haksız ne olursa olsun #SokağaSakınÇıkma", "url": "/bahadirozbey35/status/754081627895193600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:04", "is_reply": false, "is_retweet": false, "user_id": "1947467078"}

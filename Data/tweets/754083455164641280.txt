@@ -1,0 +1,1 @@
+{"usernameTweet": "tlysrn01", "ID": "754083455164641280", "text": "Adanada camilerde selağ veriliyor neoluyor ya  #SokağaSakınÇıkma", "url": "/tlysrn01/status/754083455164641280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:20", "is_reply": false, "is_retweet": false, "user_id": "2239290225"}

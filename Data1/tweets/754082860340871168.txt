@@ -1,0 +1,1 @@
+{"usernameTweet": "thorgiller", "ID": "754082860340871168", "text": "Devletin Toması var Biber gazı var..\nHalkı tankın önüne atmayın #SokağaSakınÇıkma", "url": "/thorgiller/status/754082860340871168", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:38:58", "is_reply": false, "is_retweet": false, "user_id": "3301066623"}

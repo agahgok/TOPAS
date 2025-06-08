@@ -1,0 +1,1 @@
+{"usernameTweet": "Sinanoktn", "ID": "1282065801210744836", "text": "Haklıymışsın.\n Darbe  üstüne  darbe .\n@zeynepbastk", "url": "/Sinanoktn/status/1282065801210744836", "nbr_retweet": 0, "nbr_favorite": 26, "nbr_reply": 0, "datetime": "2020-07-12 00:34:41", "is_reply": false, "is_retweet": false, "user_id": "1178481460262719488"}

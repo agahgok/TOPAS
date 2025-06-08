@@ -1,0 +1,1 @@
+{"usernameTweet": "msevindik", "ID": "754093245529989120", "text": "Gezi parkında sizin yanınızda olanları unutma #SokağaSakınÇıkma   pic.twitter.com/Hf70TndWkV", "url": "/msevindik/status/754093245529989120", "nbr_retweet": 3, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2016-07-16 02:20:14", "is_reply": false, "is_retweet": false, "user_id": "156192147"}

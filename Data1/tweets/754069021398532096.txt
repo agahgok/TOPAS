@@ -1,0 +1,1 @@
+{"usernameTweet": "gulizar72", "ID": "754069021398532096", "text": "# SokagaSakinCikma", "url": "/gulizar72/status/754069021398532096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:43:59", "is_reply": false, "is_retweet": false, "user_id": "574691792"}

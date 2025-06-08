@@ -1,0 +1,1 @@
+{"usernameTweet": "Fenerlifert", "ID": "754115273901342720", "text": "# SokağaSakınÇıkma  yin yatin evde..!!\nAma ülkesini sevenler \nVarlar\nBitmediler\nBitmeyecekler...!!!", "url": "/Fenerlifert/status/754115273901342720", "nbr_retweet": 1, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 03:47:46", "is_reply": false, "is_retweet": false, "user_id": "3082179639"}

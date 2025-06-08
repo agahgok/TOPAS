@@ -1,0 +1,1 @@
+{"usernameTweet": "dnzprfct", "ID": "1282372581039931392", "text": "yönetim!!!!!gs ye tffmhk tarafindan ilk  darbe  vurulunca ses cikaramayan pisiriklar ordusu gitmeli", "url": "/dnzprfct/status/1282372581039931392", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 20:53:43", "is_reply": true, "is_retweet": false, "user_id": "830738132"}

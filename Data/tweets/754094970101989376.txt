@@ -1,0 +1,1 @@
+{"usernameTweet": "FatihOduncuu", "ID": "754094970101989376", "text": "#sokağasakınçıkma #darbe", "url": "/FatihOduncuu/status/754094970101989376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:05", "is_reply": false, "is_retweet": false, "user_id": "2325320888"}

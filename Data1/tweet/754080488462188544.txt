@@ -1,0 +1,1 @@
+{"usernameTweet": "OZGUR_OZENIR", "ID": "754080488462188544", "text": "# SokağaSakınÇıkma  herkes sokakta", "url": "/OZGUR_OZENIR/status/754080488462188544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:33", "is_reply": false, "is_retweet": false, "user_id": "1488320089"}

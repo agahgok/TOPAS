@@ -1,0 +1,1 @@
+{"usernameTweet": "ozsaygi", "ID": "754069161609949185", "text": "Tahriklere kapılmayalım... Sokakta HAYAT yok... #darbe  #Istanbul  #SokağaSakınÇıkma  #Ankara  #SokağaSakınÇıkma", "url": "/ozsaygi/status/754069161609949185", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:44:32", "is_reply": false, "is_retweet": false, "user_id": "297001116"}

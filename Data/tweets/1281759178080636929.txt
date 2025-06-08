@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1281759178080636929", "text": "MANDA EMBORA CARAIO", "url": "/JoneDarbe/status/1281759178080636929", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 04:16:16", "is_reply": true, "is_retweet": false, "user_id": "1221530980965584896"}

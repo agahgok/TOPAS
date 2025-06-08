@@ -1,0 +1,1 @@
+{"usernameTweet": "ayse_can000", "ID": "754079194401873920", "text": "# SokağaSakınÇıkma  tanklar sokaklarda nedenn", "url": "/ayse_can000/status/754079194401873920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:24", "is_reply": false, "is_retweet": false, "user_id": "4793232623"}

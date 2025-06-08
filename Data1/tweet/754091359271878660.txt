@@ -1,0 +1,1 @@
+{"usernameTweet": "deeplife1907", "ID": "754091359271878660", "text": "Bu hamamböcekleriyle birlikte #SokağaSakınÇıkma  diyenleride ASACAKSIN", "url": "/deeplife1907/status/754091359271878660", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:45", "is_reply": false, "is_retweet": false, "user_id": "291280785"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "suayssss", "ID": "754073416299384832", "text": "# SokağaSakınÇıkma  ic savasa olanak vermeyin,sakince evde,guvende kalin", "url": "/suayssss/status/754073416299384832", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:01:27", "is_reply": false, "is_retweet": false, "user_id": "2752291469"}

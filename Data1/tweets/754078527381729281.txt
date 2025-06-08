@@ -1,0 +1,1 @@
+{"usernameTweet": "hulkigezer", "ID": "754078527381729281", "text": "# foxtv  #SokağaSakınÇıkma \nCumhurbaşkanını kesen #NuhYılmaz  kimsin sen? :)", "url": "/hulkigezer/status/754078527381729281", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:45", "is_reply": false, "is_retweet": false, "user_id": "71993163"}

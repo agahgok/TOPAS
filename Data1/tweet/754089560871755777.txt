@@ -1,0 +1,1 @@
+{"usernameTweet": "u_derman", "ID": "754089560871755777", "text": "Milleti sokağa dök, sen uçakla Almanyaya iltica et, yakıştı mı yani??? #SokağaSakınÇıkma", "url": "/u_derman/status/754089560871755777", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:36", "is_reply": false, "is_retweet": false, "user_id": "2924420732"}

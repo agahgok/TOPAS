@@ -1,0 +1,1 @@
+{"usernameTweet": "demirkan_yasin", "ID": "754085280571883520", "text": "Bu iş şaka değil can söz konusu #SokağaSakınÇıkma", "url": "/demirkan_yasin/status/754085280571883520", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:48:35", "is_reply": false, "is_retweet": false, "user_id": "707576733"}

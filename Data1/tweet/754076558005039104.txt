@@ -1,0 +1,1 @@
+{"usernameTweet": "OmerTC7", "ID": "754076558005039104", "text": "Dalga geçenler ülke bitti diyenler şimdi konuşun halk daima en üstündür #darbe  #ankara  #SokağaSakınÇıkma", "url": "/OmerTC7/status/754076558005039104", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:13:56", "is_reply": false, "is_retweet": false, "user_id": "753612732964929536"}

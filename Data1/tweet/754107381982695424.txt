@@ -1,0 +1,1 @@
+{"usernameTweet": "ilhanliboyu", "ID": "754107381982695424", "text": "Ayrışma isteyenlerin oyununa getiriliyoruz, etme Türkiye'm!\n #SokağaSakınÇıkma   pic.twitter.com/CvM0dW4oIz", "url": "/ilhanliboyu/status/754107381982695424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:16:25", "is_reply": false, "is_retweet": false, "user_id": "2332779851"}

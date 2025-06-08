@@ -1,0 +1,1 @@
+{"usernameTweet": "CanGne", "ID": "754075001805017088", "text": "... Kılları her zaman çıkabilir. #SokağaSakınÇıkma", "url": "/CanGne/status/754075001805017088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:45", "is_reply": false, "is_retweet": false, "user_id": "290085458"}

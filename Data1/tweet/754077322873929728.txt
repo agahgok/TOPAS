@@ -1,0 +1,1 @@
+{"usernameTweet": "Xenophanes_Eren", "ID": "754077322873929728", "text": "Çıkmayın dışarı falan oturun evde bırakın yesinler birbirlerini #SokağaSakınÇıkma \n#ÇakmaDarbe", "url": "/Xenophanes_Eren/status/754077322873929728", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:16:58", "is_reply": false, "is_retweet": false, "user_id": "1064013104"}

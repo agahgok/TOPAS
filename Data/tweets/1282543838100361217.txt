@@ -1,0 +1,1 @@
+{"usernameTweet": "claudiatocalle", "ID": "1282543838100361217", "text": "Responsabiliza te de tus actos", "url": "/claudiatocalle/status/1282543838100361217", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 08:14:14", "is_reply": true, "is_retweet": false, "user_id": "335989792"}

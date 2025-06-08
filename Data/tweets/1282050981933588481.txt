@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1282050981933588481", "text": "Kkkkkkkkkkkkkkkkkkkkkkkkkk https:// twitter.com/ComentCrakNeto /status/1282002291046981634   …", "url": "/JoneDarbe/status/1282050981933588481", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 23:35:48", "is_reply": false, "is_retweet": false, "user_id": "1221530980965584896"}

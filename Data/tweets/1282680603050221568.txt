@@ -1,0 +1,1 @@
+{"usernameTweet": "Sahmeran54Senem", "ID": "1282680603050221568", "text": "Bu darbeyi yapan yaptıran sözde  darbe   yapılan her kişi kimse o kişi darbeyi kurgulayan yapar.", "url": "/Sahmeran54Senem/status/1282680603050221568", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 17:17:41", "is_reply": true, "is_retweet": false, "user_id": "3001839548"}

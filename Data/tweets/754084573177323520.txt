@@ -1,0 +1,1 @@
+{"usernameTweet": "ozlemm_soylu", "ID": "754084573177323520", "text": "Aklını kullan!!!! Oyuna gelme!!!\n\n#SokağaSakınÇıkma", "url": "/ozlemm_soylu/status/754084573177323520", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:47", "is_reply": false, "is_retweet": false, "user_id": "114675867"}

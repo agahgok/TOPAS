@@ -1,0 +1,1 @@
+{"usernameTweet": "kenan00072", "ID": "754112540171444224", "text": "# SokağaSakınÇıkma  diyenler yakında kodese doğru ne zaman sağa cikabilecegiz diyecekler", "url": "/kenan00072/status/754112540171444224", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:36:54", "is_reply": false, "is_retweet": false, "user_id": "1221839948"}

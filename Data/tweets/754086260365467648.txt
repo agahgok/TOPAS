@@ -1,0 +1,1 @@
+{"usernameTweet": "thebanker16", "ID": "754086260365467648", "text": "müthiş bir tiyatro böyle darbe mi olur ? şimdi de tekbir getiriyorlar camilerden #SokağaSakınÇıkma", "url": "/thebanker16/status/754086260365467648", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:52:29", "is_reply": false, "is_retweet": false, "user_id": "394155624"}

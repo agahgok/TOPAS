@@ -1,0 +1,1 @@
+{"usernameTweet": "Dabe_08", "ID": "1284372947541479424", "text": "Ahy hahaha pubg", "url": "/Dabe_08/status/1284372947541479424", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 09:22:27", "is_reply": true, "is_retweet": false, "user_id": "916966803733061633"}

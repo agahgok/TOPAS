@@ -1,0 +1,1 @@
+{"usernameTweet": "Iiddyyllee", "ID": "754091424266747904", "text": "Yoksa evde tutamadıkları %50 ülkeyi mi terkediyor atatürk havalimanına akın varmışda #SokağaSakınÇıkma", "url": "/Iiddyyllee/status/754091424266747904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:00", "is_reply": false, "is_retweet": false, "user_id": "1473863305"}

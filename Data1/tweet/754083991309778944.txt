@@ -1,0 +1,1 @@
+{"usernameTweet": "GunesYenilmez", "ID": "754083991309778944", "text": "# SokağaSakınÇıkma \n https://www. youtube.com/watch?v=Tqmwy2 ZzXCI   …", "url": "/GunesYenilmez/status/754083991309778944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:28", "is_reply": false, "is_retweet": false, "user_id": "747825424030371840"}

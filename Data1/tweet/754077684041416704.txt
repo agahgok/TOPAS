@@ -1,0 +1,1 @@
+{"usernameTweet": "gngrmrymm", "ID": "754077684041416704", "text": "@ruzgargeliyor_ #SokağaSakınÇıkma", "url": "/gngrmrymm/status/754077684041416704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:24", "is_reply": true, "is_retweet": false, "user_id": "2290235215"}

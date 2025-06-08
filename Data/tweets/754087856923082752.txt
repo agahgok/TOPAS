@@ -1,0 +1,1 @@
+{"usernameTweet": "Tulnck", "ID": "754087856923082752", "text": "Kellerle sağırlar birbirini ağırlar,nasıl olsa. Biz yatalım artık! #sokağaSakınçıkma", "url": "/Tulnck/status/754087856923082752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:50", "is_reply": false, "is_retweet": false, "user_id": "554354724"}

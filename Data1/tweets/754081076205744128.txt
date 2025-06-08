@@ -1,0 +1,1 @@
+{"usernameTweet": "MuhacirKubra", "ID": "754081076205744128", "text": "# SokağaSakınÇıkma  deme! Bak yine ufak taslar tanklari yendii!!!", "url": "/MuhacirKubra/status/754081076205744128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:53", "is_reply": false, "is_retweet": false, "user_id": "1581358501"}

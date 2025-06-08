@@ -1,0 +1,1 @@
+{"usernameTweet": "CDAvtan", "ID": "754071988033945600", "text": "# SokağaSakınÇıkma  Telefondan sokağa çıkın demek kolay. Kışkırtmaya uymayın", "url": "/CDAvtan/status/754071988033945600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:55:46", "is_reply": false, "is_retweet": false, "user_id": "262716382"}

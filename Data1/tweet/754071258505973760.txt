@@ -1,0 +1,1 @@
+{"usernameTweet": "burcturan", "ID": "754071258505973760", "text": "# SokağaSakınÇıkma  bu bir oyun, alet olma.", "url": "/burcturan/status/754071258505973760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:52", "is_reply": false, "is_retweet": false, "user_id": "71331607"}

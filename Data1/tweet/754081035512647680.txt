@@ -1,0 +1,1 @@
+{"usernameTweet": "nry888", "ID": "754081035512647680", "text": "Vatan caddesinde #darbeci  bir Albay göz altina alindi..! #SokağaSakınÇıkma", "url": "/nry888/status/754081035512647680", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:31:43", "is_reply": false, "is_retweet": false, "user_id": "313245302"}

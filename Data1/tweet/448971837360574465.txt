@@ -1,0 +1,1 @@
+{"usernameTweet": "Wofa___Kay", "ID": "448971837360574465", "text": "Lol\"@IamDeeMerlon : Herh that free kick Bale no make  Ronaldo  play de3 e go ma niqqa forken\"", "url": "/Wofa___Kay/status/448971837360574465", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:56:42", "is_reply": false, "is_retweet": false, "user_id": "159461774"}

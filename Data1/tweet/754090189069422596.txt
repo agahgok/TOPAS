@@ -1,0 +1,1 @@
+{"usernameTweet": "MuloRave", "ID": "754090189069422596", "text": "# SokağaSakınÇıkma  bu ulkedeki herkesin akil sagligiyla oynanmistir.nokta", "url": "/MuloRave/status/754090189069422596", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:06", "is_reply": false, "is_retweet": false, "user_id": "3092369475"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "takumi_dabe", "ID": "1284329147917975553", "text": "飼い犬がたぬきに見えてしょうがない", "url": "/takumi_dabe/status/1284329147917975553", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 06:28:25", "is_reply": false, "is_retweet": false, "user_id": "3328140312"}

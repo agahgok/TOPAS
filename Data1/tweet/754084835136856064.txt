@@ -1,0 +1,1 @@
+{"usernameTweet": "abdullahsolmazz", "ID": "754084835136856064", "text": "Emniyet güçleri acil mit binasına destek olması lazım. Acil rt #Ankara  #SokağaSakınÇıkma", "url": "/abdullahsolmazz/status/754084835136856064", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:46:49", "is_reply": false, "is_retweet": false, "user_id": "208234337"}

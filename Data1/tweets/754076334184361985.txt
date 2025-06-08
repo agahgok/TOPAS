@@ -1,0 +1,1 @@
+{"usernameTweet": "DemirsoyZa", "ID": "754076334184361985", "text": "Demokrasi icin zamaninda sokaga cikmayin diyenler sizi sokaga cagiriyor.. Kanmayin!\n\n #SokağaSakınÇıkma", "url": "/DemirsoyZa/status/754076334184361985", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:02", "is_reply": false, "is_retweet": false, "user_id": "4718136563"}

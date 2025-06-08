@@ -1,0 +1,1 @@
+{"usernameTweet": "emellylmz", "ID": "754075014048182277", "text": "# SokağaSakınÇıkma  oyuna gelme sokaga cikma", "url": "/emellylmz/status/754075014048182277", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:48", "is_reply": false, "is_retweet": false, "user_id": "371705246"}

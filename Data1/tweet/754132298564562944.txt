@@ -1,0 +1,1 @@
+{"usernameTweet": "oya_kuyumcu", "ID": "754132298564562944", "text": "# sokağasakınçıkma  #darbeyehayır  ulkeyi bu hale getirenler hepiniz iskenceyle geberin", "url": "/oya_kuyumcu/status/754132298564562944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:55:25", "is_reply": false, "is_retweet": false, "user_id": "2261826057"}

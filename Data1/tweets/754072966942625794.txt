@@ -1,0 +1,1 @@
+{"usernameTweet": "selloshaaa", "ID": "754072966942625794", "text": "Yuzde ellinle cik sen meydana  #sokagacikma", "url": "/selloshaaa/status/754072966942625794", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 00:59:39", "is_reply": false, "is_retweet": false, "user_id": "470160802"}

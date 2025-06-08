@@ -1,0 +1,1 @@
+{"usernameTweet": "saitakdogan", "ID": "754073571949891584", "text": "Retweeted Yaren Akdağlı (@senayaren28):\n\n200 korumam yokki senin gibi çıkayım be tayip  #SokağaSakınÇıkma", "url": "/saitakdogan/status/754073571949891584", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:02:04", "is_reply": false, "is_retweet": false, "user_id": "302484452"}

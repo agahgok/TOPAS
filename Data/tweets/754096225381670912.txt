@@ -1,0 +1,1 @@
+{"usernameTweet": "aryasertsari", "ID": "754096225381670912", "text": "HALKI SOKAĞA ÇAĞIRMAK TOPLU KATLİAMDAN BAŞKA BİRŞEY DEĞİLDİR.. #SokağaSakınÇıkma  #SokağaÇıkma", "url": "/aryasertsari/status/754096225381670912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:32:05", "is_reply": false, "is_retweet": false, "user_id": "737624573382922240"}

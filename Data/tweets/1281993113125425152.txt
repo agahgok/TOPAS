@@ -1,0 +1,1 @@
+{"usernameTweet": "Ares400", "ID": "1281993113125425152", "text": "Ee büyük  darbe  ne zaman  başlıyor", "url": "/Ares400/status/1281993113125425152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 19:45:51", "is_reply": true, "is_retweet": false, "user_id": "296742702"}

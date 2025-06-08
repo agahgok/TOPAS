@@ -1,0 +1,1 @@
+{"usernameTweet": "rotasizbiri", "ID": "754075017919422464", "text": "OYUNA GELME ASKER SENİN İÇİN VAR #SOKAĞASAKINÇIKMA", "url": "/rotasizbiri/status/754075017919422464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:48", "is_reply": false, "is_retweet": false, "user_id": "4227875352"}

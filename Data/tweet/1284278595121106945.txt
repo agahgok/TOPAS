@@ -1,0 +1,1 @@
+{"usernameTweet": "dabe_hagakure", "ID": "1284278595121106945", "text": "おいおい…いつまで続ける気だって…", "url": "/dabe_hagakure/status/1284278595121106945", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 03:07:32", "is_reply": false, "is_retweet": false, "user_id": "364637373"}

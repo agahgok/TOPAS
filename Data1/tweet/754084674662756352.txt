@@ -1,0 +1,1 @@
+{"usernameTweet": "EylulThoughts", "ID": "754084674662756352", "text": "# SokağaSakınÇıkma   https:// twitter.com/geccecom/statu s/754084359746031616   …", "url": "/EylulThoughts/status/754084674662756352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:11", "is_reply": false, "is_retweet": false, "user_id": "4150124174"}

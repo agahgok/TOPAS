@@ -1,0 +1,1 @@
+{"usernameTweet": "orhananildemir", "ID": "754085041257353216", "text": "Koyunlar otlanıyor gibi.. #SokağaSakınÇıkma", "url": "/orhananildemir/status/754085041257353216", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:38", "is_reply": false, "is_retweet": false, "user_id": "1557934778"}

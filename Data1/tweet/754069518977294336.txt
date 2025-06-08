@@ -1,0 +1,1 @@
+{"usernameTweet": "shamankurt", "ID": "754069518977294336", "text": "Kesin bilgimi bilmiyorum ama CB şu an Türkiye sınırları içinde değil miş. #SokağaÇıkma", "url": "/shamankurt/status/754069518977294336", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:45:57", "is_reply": false, "is_retweet": false, "user_id": "539142661"}

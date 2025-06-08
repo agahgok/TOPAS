@@ -1,0 +1,1 @@
+{"usernameTweet": "comikase", "ID": "754079113359527936", "text": "Asker insanları mı vuruyor? Değmez lan hiç bir cana. Mantığı devreye sokmak lazım. #SokağaSakınÇıkma", "url": "/comikase/status/754079113359527936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:05", "is_reply": false, "is_retweet": false, "user_id": "564761535"}

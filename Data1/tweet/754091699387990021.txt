@@ -1,0 +1,1 @@
+{"usernameTweet": "cerennarslannn", "ID": "754091699387990021", "text": "Anlamakta zorlanıyorum artık  olanları #SokağaSakınÇıkma", "url": "/cerennarslannn/status/754091699387990021", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:06", "is_reply": false, "is_retweet": false, "user_id": "541683955"}

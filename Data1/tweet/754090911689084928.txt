@@ -1,0 +1,1 @@
+{"usernameTweet": "ezel_bahar", "ID": "754090911689084928", "text": "# SokağasakınÇıkma  'Nerden baksan ahmakçaaaaa'  İler tutar yanı yok. Her şey çok saçma. Ahhh azıcık izan...", "url": "/ezel_bahar/status/754090911689084928", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:10:58", "is_reply": false, "is_retweet": false, "user_id": "418713458"}

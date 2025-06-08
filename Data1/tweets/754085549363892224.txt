@@ -1,0 +1,1 @@
+{"usernameTweet": "Staropramen_", "ID": "754085549363892224", "text": "Sakın  #SokağaSakınÇıkma", "url": "/Staropramen_/status/754085549363892224", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:39", "is_reply": false, "is_retweet": false, "user_id": "141541425"}

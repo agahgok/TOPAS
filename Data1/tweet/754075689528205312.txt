@@ -1,0 +1,1 @@
+{"usernameTweet": "sevvalnur2016", "ID": "754075689528205312", "text": "Taksim olaylarında çıktıkda ne oldu nomissiz #SokağaSakınÇıkma", "url": "/sevvalnur2016/status/754075689528205312", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:10:29", "is_reply": false, "is_retweet": false, "user_id": "3047396342"}

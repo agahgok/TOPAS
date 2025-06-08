@@ -1,0 +1,1 @@
+{"usernameTweet": "Cem_ayaydin", "ID": "754084756762001408", "text": "Camilere darbe yapiliyor herkes Camilere #SokağaSakınÇıkma", "url": "/Cem_ayaydin/status/754084756762001408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:30", "is_reply": false, "is_retweet": false, "user_id": "3252638158"}

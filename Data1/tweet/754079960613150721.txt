@@ -1,0 +1,1 @@
+{"usernameTweet": "guleray1907", "ID": "754079960613150721", "text": "Zaten vatan hainleri ve darbeden yana olanlar çıkmasın.  #SokağaSakınÇıkma", "url": "/guleray1907/status/754079960613150721", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:27", "is_reply": false, "is_retweet": false, "user_id": "3662057723"}

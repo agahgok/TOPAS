@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754080461945614336", "text": "3G ile sokaga çıkın deyip 3,5G atanların laflarına uymayın\n#SokağaSakınÇıkma  yın", "url": "/ekicifaruk1/status/754080461945614336", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:29:26", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

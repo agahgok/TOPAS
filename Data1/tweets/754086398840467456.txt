@@ -1,0 +1,1 @@
+{"usernameTweet": "Cem_ayaydin", "ID": "754086398840467456", "text": "Darbe diye başladi AKP mitingine döndü #SokağaSakınÇıkma", "url": "/Cem_ayaydin/status/754086398840467456", "nbr_retweet": 11, "nbr_favorite": 15, "nbr_reply": 0, "datetime": "2016-07-16 01:53:02", "is_reply": false, "is_retweet": false, "user_id": "3252638158"}

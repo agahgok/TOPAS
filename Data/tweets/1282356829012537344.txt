@@ -1,0 +1,1 @@
+{"usernameTweet": "Yolcu44784903", "ID": "1282356829012537344", "text": "Korkudan konusamayan cocuk nasil  darbe  yapabilir?", "url": "/Yolcu44784903/status/1282356829012537344", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-12 19:51:07", "is_reply": true, "is_retweet": false, "user_id": "1242889094910423050"}

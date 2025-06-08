@@ -1,0 +1,1 @@
+{"usernameTweet": "elfmia1903", "ID": "754324172071964672", "text": "# sokağasakınçıkma", "url": "/elfmia1903/status/754324172071964672", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 17:37:51", "is_reply": false, "is_retweet": false, "user_id": "115162028"}

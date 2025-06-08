@@ -1,0 +1,1 @@
+{"usernameTweet": "6mtkoybakiiim", "ID": "754093593204260864", "text": "Darbe görmeseler gerçekten darbe diycekler ha başarılı #darbeyehayır  #Ankara  Aela #Sokağasakınçıkma", "url": "/6mtkoybakiiim/status/754093593204260864", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:21:37", "is_reply": false, "is_retweet": false, "user_id": "286162119"}

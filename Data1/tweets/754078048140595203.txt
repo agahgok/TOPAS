@@ -1,0 +1,1 @@
+{"usernameTweet": "YuceStark", "ID": "754078048140595203", "text": "KOYUN YERİNE KOYULMAYI DA KOYUN ROLÜNÜ ÜSTLENMEYİ DE KESİN ARTIK HERKES KENDİ CANININ DERDİNE #SokağaSakınÇıkma", "url": "/YuceStark/status/754078048140595203", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:51", "is_reply": false, "is_retweet": false, "user_id": "3025486871"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sevcannn_", "ID": "754081971509288965", "text": "EY SOKAĞA DÖKÜLEN HALK! ASKERİMİZ ŞEHİD OLURKENDE SİZLERİ   BÖYLE GÖRMEK İSTERİZ #SokağaSakınÇıkma", "url": "/sevcannn_/status/754081971509288965", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:35:26", "is_reply": false, "is_retweet": false, "user_id": "719634449420402689"}

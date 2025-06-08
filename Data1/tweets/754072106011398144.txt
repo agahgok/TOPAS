@@ -1,0 +1,1 @@
+{"usernameTweet": "AyCigdemay3", "ID": "754072106011398144", "text": "sülalesini zengin etti kaçıyor sizi sokağa çağırıyor çıkmayın #SokağaSakınÇıkma", "url": "/AyCigdemay3/status/754072106011398144", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 00:56:14", "is_reply": false, "is_retweet": false, "user_id": "714868356407554049"}

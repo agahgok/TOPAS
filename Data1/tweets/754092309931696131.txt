@@ -1,0 +1,1 @@
+{"usernameTweet": "capulnecla", "ID": "754092309931696131", "text": "# SokağaSakınÇıkma  Tayyibin yerini bilen var mı???", "url": "/capulnecla/status/754092309931696131", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:31", "is_reply": false, "is_retweet": false, "user_id": "239982962"}

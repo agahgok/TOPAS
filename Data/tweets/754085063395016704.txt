@@ -1,0 +1,1 @@
+{"usernameTweet": "baypolar", "ID": "754085063395016704", "text": "3 milyon suriyeli ve %50 sokağa çıksın önce #SokağaSakınÇıkma", "url": "/baypolar/status/754085063395016704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:43", "is_reply": false, "is_retweet": false, "user_id": "115447207"}

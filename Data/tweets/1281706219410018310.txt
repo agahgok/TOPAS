@@ -1,0 +1,1 @@
+{"usernameTweet": "1cihandogan", "ID": "1281706219410018310", "text": "Bugün bir  darbe  daha yedim.", "url": "/1cihandogan/status/1281706219410018310", "nbr_retweet": 0, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2020-07-11 00:45:50", "is_reply": false, "is_retweet": false, "user_id": "1202668098773495809"}

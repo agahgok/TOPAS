@@ -1,0 +1,1 @@
+{"usernameTweet": "yalmanahmet1", "ID": "754084274517794816", "text": "# SokağaSakınÇıkma", "url": "/yalmanahmet1/status/754084274517794816", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:44:35", "is_reply": false, "is_retweet": false, "user_id": "3252068368"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mavilergiyim", "ID": "754075652110880768", "text": "# SokağaSakınÇıkma  bu başlıkta dedtek twiti atanların alayı şerefsiz...", "url": "/mavilergiyim/status/754075652110880768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:20", "is_reply": false, "is_retweet": false, "user_id": "343465030"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Gunay_Baran", "ID": "754093283404615681", "text": "Darbeniz bile yalan.! \n\n#SokağaSakınÇıkma", "url": "/Gunay_Baran/status/754093283404615681", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:23", "is_reply": false, "is_retweet": false, "user_id": "875759707"}

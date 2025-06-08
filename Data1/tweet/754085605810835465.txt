@@ -1,0 +1,1 @@
+{"usernameTweet": "Si_Belius", "ID": "754085605810835465", "text": "Camilerden sokaga - meydanlara cikin anonslari yapiliyor,  #SokağaSakınÇıkma  ..", "url": "/Si_Belius/status/754085605810835465", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:53", "is_reply": false, "is_retweet": false, "user_id": "2376974330"}

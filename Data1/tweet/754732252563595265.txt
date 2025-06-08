@@ -1,0 +1,1 @@
+{"usernameTweet": "brs4721", "ID": "754732252563595265", "text": "# MilletTarihYazıyor  #SokağaSakınÇıkma   pic.twitter.com/aa4PcSzLRr", "url": "/brs4721/status/754732252563595265", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-17 20:39:25", "is_reply": false, "is_retweet": false, "user_id": "1898254506"}

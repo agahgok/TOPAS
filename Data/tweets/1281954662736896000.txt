@@ -1,0 +1,1 @@
+{"usernameTweet": "sutasaklar", "ID": "1281954662736896000", "text": "8-“15 temmuz  darbe  girişimi sonrası ruhsal sonuçlar ve ilişkili etkenlerin incelenmesi”", "url": "/sutasaklar/status/1281954662736896000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 17:13:03", "is_reply": false, "is_retweet": false, "user_id": "1069638633177649152"}

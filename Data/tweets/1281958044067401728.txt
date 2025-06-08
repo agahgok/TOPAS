@@ -1,0 +1,1 @@
+{"usernameTweet": "Shn23_", "ID": "1281958044067401728", "text": "\" Darbe  Üstüne  Darbe   Darbe  Üstüne  Darbe  Fazla Değilmi Söyle Yaşattığın Bu Kalbe", "url": "/Shn23_/status/1281958044067401728", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 17:26:29", "is_reply": false, "is_retweet": false, "user_id": "1280737048610177024"}

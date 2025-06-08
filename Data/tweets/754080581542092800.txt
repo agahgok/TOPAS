@@ -1,0 +1,1 @@
+{"usernameTweet": "2kafadar1beyin", "ID": "754080581542092800", "text": "Şu an binlerce insan havaalanına doğru yürüyoruz,Yakmadan yıkmadan\n #SokağaSakınÇıkma", "url": "/2kafadar1beyin/status/754080581542092800", "nbr_retweet": 8, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2016-07-16 01:29:55", "is_reply": false, "is_retweet": false, "user_id": "1150676239"}

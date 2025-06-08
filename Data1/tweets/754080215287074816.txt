@@ -1,0 +1,1 @@
+{"usernameTweet": "EbuMusabBinHakk", "ID": "754080215287074816", "text": "# SokağaSakınÇıkma \nHalk meydanlarda...  pic.twitter.com/6CxrxCRKcE", "url": "/EbuMusabBinHakk/status/754080215287074816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:28", "is_reply": false, "is_retweet": false, "user_id": "1182583094"}

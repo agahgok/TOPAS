@@ -1,0 +1,1 @@
+{"usernameTweet": "kancasurat", "ID": "754087287563190272", "text": "Guzel tiyatroydu senaryoda emeği geçenler film senaristliginde de başarılar  #SokağaSakınÇıkma", "url": "/kancasurat/status/754087287563190272", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:56:34", "is_reply": false, "is_retweet": false, "user_id": "3636702195"}

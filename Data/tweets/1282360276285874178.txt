@@ -1,0 +1,1 @@
+{"usernameTweet": "twiceumoguring", "ID": "1282360276285874178", "text": "Jaebum bi tane vurdu jeongin ve hyunjin den de  darbe  yersem yaşayamam ben ya...", "url": "/twiceumoguring/status/1282360276285874178", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 20:04:49", "is_reply": true, "is_retweet": false, "user_id": "1161721289880588288"}

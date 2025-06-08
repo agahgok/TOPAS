@@ -1,0 +1,1 @@
+{"usernameTweet": "EdaDemiraslan07", "ID": "754080343490256896", "text": "\"Türkiye Cumhuriyeti ilelebet payidar kalacaktır.\"\n#Ankara  #SokağaSakınÇıkma \n#DarbeyeHayır", "url": "/EdaDemiraslan07/status/754080343490256896", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:28:58", "is_reply": false, "is_retweet": false, "user_id": "2637417019"}

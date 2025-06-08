@@ -1,0 +1,1 @@
+{"usernameTweet": "omurgrbz07", "ID": "1282059881072271367", "text": "Bu aralar çok mutluyum acaba ne zaman  darbe  yicem", "url": "/omurgrbz07/status/1282059881072271367", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-12 00:11:09", "is_reply": false, "is_retweet": false, "user_id": "1278309701562896384"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bbcmll", "ID": "754076295961640961", "text": "Eyüp'te durmadan ezan ve selâ okunuyor.. Silah sesleri çok şiddetlendi #SokağaÇıkma  #Darbe", "url": "/bbcmll/status/754076295961640961", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:53", "is_reply": false, "is_retweet": false, "user_id": "344559292"}

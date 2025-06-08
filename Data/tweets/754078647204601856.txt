@@ -1,0 +1,1 @@
+{"usernameTweet": "Cetinbalci2", "ID": "754078647204601856", "text": "# SokağaSakınÇıkma", "url": "/Cetinbalci2/status/754078647204601856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:14", "is_reply": false, "is_retweet": false, "user_id": "3381929679"}

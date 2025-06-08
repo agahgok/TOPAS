@@ -1,0 +1,1 @@
+{"usernameTweet": "mhmtbykn", "ID": "754072776156209152", "text": "# SokağaSakınÇıkma \nYandaş medya halkı sokağa dökme adam gibi yayın yap. Kaç kornada duracak bu iş.", "url": "/mhmtbykn/status/754072776156209152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:54", "is_reply": false, "is_retweet": false, "user_id": "743842721241006081"}

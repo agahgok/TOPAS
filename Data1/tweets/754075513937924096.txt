@@ -1,0 +1,1 @@
+{"usernameTweet": "filiz_babuc", "ID": "754075513937924096", "text": "# SokağaSakınÇıkma  Diyen gafil Vatan namustur Sen de namus yok mu ??", "url": "/filiz_babuc/status/754075513937924096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:47", "is_reply": false, "is_retweet": false, "user_id": "2972269401"}

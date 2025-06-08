@@ -1,0 +1,1 @@
+{"usernameTweet": "cadiyimcadii", "ID": "754301951328878592", "text": "# SokağaSakınÇıkma  #darbeyehayır  #AskerimeDokunma  #BuÜlkeBizim", "url": "/cadiyimcadii/status/754301951328878592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 16:09:34", "is_reply": false, "is_retweet": false, "user_id": "227776221"}

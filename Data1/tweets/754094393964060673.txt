@@ -1,0 +1,1 @@
+{"usernameTweet": "OrcunGulce", "ID": "754094393964060673", "text": "# SokağaSakınÇıkma  hala burda dışarıya çıkın diyorlar. İzmirin halkı yer mi bunu hala iyi pokemon çıkmadı", "url": "/OrcunGulce/status/754094393964060673", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:48", "is_reply": false, "is_retweet": false, "user_id": "525450472"}

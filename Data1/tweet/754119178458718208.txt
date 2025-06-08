@@ -1,0 +1,1 @@
+{"usernameTweet": "KTMert90", "ID": "754119178458718208", "text": "Darbeye hayir #SokağaSakınÇıkma", "url": "/KTMert90/status/754119178458718208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:03:17", "is_reply": false, "is_retweet": false, "user_id": "746405057428594689"}

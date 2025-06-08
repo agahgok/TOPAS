@@ -1,0 +1,1 @@
+{"usernameTweet": "BayrFurkan", "ID": "754071902784741376", "text": "Kimse oyuna gelmesin . #darbe  #SokağaSakınÇıkma", "url": "/BayrFurkan/status/754071902784741376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:55:26", "is_reply": false, "is_retweet": false, "user_id": "457680546"}

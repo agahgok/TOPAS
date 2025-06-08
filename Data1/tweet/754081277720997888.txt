@@ -1,0 +1,1 @@
+{"usernameTweet": "edanazulusoy", "ID": "754081277720997888", "text": "# sokagacıkma", "url": "/edanazulusoy/status/754081277720997888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:41", "is_reply": false, "is_retweet": false, "user_id": "358363082"}

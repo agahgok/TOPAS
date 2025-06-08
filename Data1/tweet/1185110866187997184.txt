@@ -1,0 +1,1 @@
+{"usernameTweet": "alikemal_kemer", "ID": "1185110866187997184", "text": "Hey maşallah. Satanlardan olmayacağız", "url": "/alikemal_kemer/status/1185110866187997184", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2019-10-18 11:30:23", "is_reply": true, "is_retweet": false, "user_id": "828308094245560320"}

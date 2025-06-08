@@ -1,0 +1,1 @@
+{"usernameTweet": "1buhran", "ID": "1281577955525894145", "text": "kimseye en yakınım diyemiyorum herkesten bir  darbe", "url": "/1buhran/status/1281577955525894145", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-10 16:16:09", "is_reply": false, "is_retweet": false, "user_id": "1242161760305664004"}

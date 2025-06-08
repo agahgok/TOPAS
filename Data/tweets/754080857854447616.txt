@@ -1,0 +1,1 @@
+{"usernameTweet": "lambofateo", "ID": "754080857854447616", "text": "# SokağaSakınÇıkma  Sokağa çıkan halka çapulcu diyen adamın halka sokağa çıkma çağrısı yapması...", "url": "/lambofateo/status/754080857854447616", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:31:01", "is_reply": false, "is_retweet": false, "user_id": "798393402"}

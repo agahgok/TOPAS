@@ -1,0 +1,1 @@
+{"usernameTweet": "ggcengiz7", "ID": "754085931855077378", "text": "İnsanları askerin üzerine salmak ne demek? Kendin nerdesin? Akıllı davranın bu bir oyun.  #SokağaSakınÇıkma", "url": "/ggcengiz7/status/754085931855077378", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:51:11", "is_reply": false, "is_retweet": false, "user_id": "475657561"}

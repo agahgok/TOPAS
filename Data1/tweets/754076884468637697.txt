@@ -1,0 +1,1 @@
+{"usernameTweet": "aysun_ayd", "ID": "754076884468637697", "text": "# SokağaSakınÇıkma  diyenler bilmem ama iki rekat namaz kılmak ,fetih okumak ve bol dua lazım", "url": "/aysun_ayd/status/754076884468637697", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 01:15:13", "is_reply": false, "is_retweet": false, "user_id": "2687278185"}

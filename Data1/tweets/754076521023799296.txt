@@ -1,0 +1,1 @@
+{"usernameTweet": "3BTolunay", "ID": "754076521023799296", "text": "# SokağaSakınÇıkma  halka sokağa çıkın Diyen insan ölümünüzü istiyor amacı kaos yaratmak.", "url": "/3BTolunay/status/754076521023799296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:47", "is_reply": false, "is_retweet": false, "user_id": "288496678"}

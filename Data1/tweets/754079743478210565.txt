@@ -1,0 +1,1 @@
+{"usernameTweet": "elif_demirkan", "ID": "754079743478210565", "text": "Gezide sokağa dökülen herkesi hainlikle suçlayan cumhurbaşkanı şimdi sokağa çağırıyor #SokağaSakınÇıkma", "url": "/elif_demirkan/status/754079743478210565", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:35", "is_reply": false, "is_retweet": false, "user_id": "1052739613"}

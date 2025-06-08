@@ -1,0 +1,1 @@
+{"usernameTweet": "res_ull", "ID": "754070569935572992", "text": "# SokağaSakınÇıkma  ÇIKMAYIN SOKAĞA! Kendi çocuğu yurt dışında, senin ölmeni istiyor", "url": "/res_ull/status/754070569935572992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:08", "is_reply": false, "is_retweet": false, "user_id": "754069941456924676"}

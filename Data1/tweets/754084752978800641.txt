@@ -1,0 +1,1 @@
+{"usernameTweet": "ateistcesur", "ID": "754084752978800641", "text": "Şuan sadece ülkeden gitmek istiyorum. #SokağaSakınÇıkma", "url": "/ateistcesur/status/754084752978800641", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:29", "is_reply": false, "is_retweet": false, "user_id": "712209343471554560"}

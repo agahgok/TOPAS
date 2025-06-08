@@ -1,0 +1,1 @@
+{"usernameTweet": "tension1m", "ID": "754084538406563842", "text": "Sakin Kalin, darbe çok kötüdür, #sokagacikma  alet olma  #DarbeyeHayır", "url": "/tension1m/status/754084538406563842", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:38", "is_reply": false, "is_retweet": false, "user_id": "94422699"}

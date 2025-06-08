@@ -1,0 +1,1 @@
+{"usernameTweet": "UurAca", "ID": "754084657667436544", "text": "# SokağaSakınÇıkma  namusuna sahip çıkmayan evinde otursun demokrat geçinen şerefsizler", "url": "/UurAca/status/754084657667436544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:07", "is_reply": false, "is_retweet": false, "user_id": "290069217"}

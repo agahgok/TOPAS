@@ -1,0 +1,1 @@
+{"usernameTweet": "hacivelidayi", "ID": "1282505097818378241", "text": "Kimin ne mal olduğu ne güzel ortaya çıkıyor", "url": "/hacivelidayi/status/1282505097818378241", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 05:40:17", "is_reply": true, "is_retweet": false, "user_id": "1475815999"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "rakiiiy", "ID": "754092015428730880", "text": "# SokağaSakınÇıkma  mı dedi birileri!  pic.twitter.com/7tj2rkgS8k", "url": "/rakiiiy/status/754092015428730880", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:15:21", "is_reply": false, "is_retweet": false, "user_id": "710098139722739712"}

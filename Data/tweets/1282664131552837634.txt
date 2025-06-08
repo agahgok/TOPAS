@@ -1,0 +1,1 @@
+{"usernameTweet": "semaky3", "ID": "1282664131552837634", "text": "# 15Temmuz  işgal ve  darbe  girişimi   pic.twitter.com/aCzvKxeyzw", "url": "/semaky3/status/1282664131552837634", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:12:14", "is_reply": false, "is_retweet": false, "user_id": "2475968067"}

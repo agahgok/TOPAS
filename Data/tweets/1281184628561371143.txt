@@ -1,0 +1,1 @@
+{"usernameTweet": "anadolu2k", "ID": "1281184628561371143", "text": "Bilim Kurulu  darbe  yapmış olabilir mi acaba?", "url": "/anadolu2k/status/1281184628561371143", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 14:13:13", "is_reply": false, "is_retweet": false, "user_id": "1143171663573520384"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "amigdalae", "ID": "754098623403663360", "text": "# SokağaSakınÇıkma  darbe kötüdür kimseye faydası olmaz", "url": "/amigdalae/status/754098623403663360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:41:36", "is_reply": false, "is_retweet": false, "user_id": "744940275265576960"}

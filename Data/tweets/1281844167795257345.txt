@@ -1,0 +1,1 @@
+{"usernameTweet": "Yagmurrelik", "ID": "1281844167795257345", "text": "Ama sen onu gel anlat kalbe yürüyor önümde büyük harbe .  Darbe  üstüne  darbe  USLANMIYOR BU ", "url": "/Yagmurrelik/status/1281844167795257345", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 09:53:59", "is_reply": false, "is_retweet": false, "user_id": "927911068130832385"}

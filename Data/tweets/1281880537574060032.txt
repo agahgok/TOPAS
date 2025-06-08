@@ -1,0 +1,1 @@
+{"usernameTweet": "FancyPhobia", "ID": "1281880537574060032", "text": "Osmanlı  darbe  sonucu yıkılmadı?", "url": "/FancyPhobia/status/1281880537574060032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 2, "datetime": "2020-07-11 12:18:31", "is_reply": true, "is_retweet": false, "user_id": "1267490280997093376"}

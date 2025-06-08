@@ -1,0 +1,1 @@
+{"usernameTweet": "ilkayhizir", "ID": "1282377025915953153", "text": "Darbe  üstüne  darbe  uslanmıyordum...", "url": "/ilkayhizir/status/1282377025915953153", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 21:11:23", "is_reply": false, "is_retweet": false, "user_id": "2389812254"}

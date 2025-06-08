@@ -1,0 +1,1 @@
+{"usernameTweet": "klncglu", "ID": "1282063781120675841", "text": "Gta şifrelerini  darbe  şifreleri diye veren havuz kanalı değil mi o?", "url": "/klncglu/status/1282063781120675841", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 00:26:39", "is_reply": true, "is_retweet": false, "user_id": "1072347910728269824"}

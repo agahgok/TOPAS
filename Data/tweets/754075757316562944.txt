@@ -1,0 +1,1 @@
+{"usernameTweet": "babacanx07", "ID": "754075757316562944", "text": "Sende bu oyunun parçası olma!!! #SokağaSakınÇıkma", "url": "/babacanx07/status/754075757316562944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:45", "is_reply": false, "is_retweet": false, "user_id": "4180525522"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kancasurat", "ID": "754079841834631168", "text": "Avcilar mustafa kemal pasada ezan okunuyor saat 01.26 #darbe  #sokagacikma", "url": "/kancasurat/status/754079841834631168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:59", "is_reply": false, "is_retweet": false, "user_id": "3636702195"}

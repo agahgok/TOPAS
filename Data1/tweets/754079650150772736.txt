@@ -1,0 +1,1 @@
+{"usernameTweet": "mesutibraimov", "ID": "754079650150772736", "text": "# SokağaSakınÇıkma  diyenler darbeden sonra heppiniz asılacaksınız şerefsizler!!!", "url": "/mesutibraimov/status/754079650150772736", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 01:26:13", "is_reply": false, "is_retweet": false, "user_id": "164688690"}

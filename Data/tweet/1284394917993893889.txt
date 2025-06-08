@@ -1,0 +1,1 @@
+{"usernameTweet": "18yildo", "ID": "1284394917993893889", "text": "15 Temmuz hain  darbe  girişimi yaladık gö dük", "url": "/18yildo/status/1284394917993893889", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 10:49:46", "is_reply": true, "is_retweet": false, "user_id": "1101891239685820416"}

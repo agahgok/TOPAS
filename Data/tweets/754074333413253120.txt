@@ -1,0 +1,1 @@
+{"usernameTweet": "barca7212", "ID": "754074333413253120", "text": "# SokağaSakınÇıkma", "url": "/barca7212/status/754074333413253120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:05", "is_reply": false, "is_retweet": false, "user_id": "317360605"}

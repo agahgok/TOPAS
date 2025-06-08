@@ -1,0 +1,1 @@
+{"usernameTweet": "mineserolu", "ID": "754077041410973696", "text": "# TskCumhuriyetinTeminatıdır \n#SokağaSakınÇıkma \n#Ankara", "url": "/mineserolu/status/754077041410973696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:51", "is_reply": false, "is_retweet": false, "user_id": "721410907855831040"}

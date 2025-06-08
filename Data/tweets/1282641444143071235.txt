@@ -1,0 +1,1 @@
+{"usernameTweet": "tiesiogandrius", "ID": "1282641444143071235", "text": "Mane žudo du dalykai: burdakas  darbe  ir darbas burdake.", "url": "/tiesiogandrius/status/1282641444143071235", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 14:42:05", "is_reply": false, "is_retweet": false, "user_id": "186063604"}

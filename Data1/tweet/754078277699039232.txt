@@ -1,0 +1,1 @@
+{"usernameTweet": "kaaanover", "ID": "754078277699039232", "text": "Ben çıkmam suriyeliler çıksın #SokağaSakınÇıkma", "url": "/kaaanover/status/754078277699039232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:46", "is_reply": false, "is_retweet": false, "user_id": "110985297"}

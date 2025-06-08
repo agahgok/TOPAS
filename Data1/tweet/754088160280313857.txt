@@ -1,0 +1,1 @@
+{"usernameTweet": "ne_kadar", "ID": "754088160280313857", "text": "# SokağaSakınÇıkma  Islam hic bir zaman bu kadar kullanılmamıstı. Yazık dinimize ülkemize insanlarımıza", "url": "/ne_kadar/status/754088160280313857", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:00:02", "is_reply": false, "is_retweet": false, "user_id": "556652345"}

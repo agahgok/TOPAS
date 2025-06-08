@@ -1,0 +1,1 @@
+{"usernameTweet": "Furkan4Baser", "ID": "1282581296103948288", "text": "allah tarafından ağır bir  darbe  geldi  pic.twitter.com/FkiGUmY23N", "url": "/Furkan4Baser/status/1282581296103948288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 10:43:04", "is_reply": false, "is_retweet": false, "user_id": "561129635"}

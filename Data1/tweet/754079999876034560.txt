@@ -1,0 +1,1 @@
+{"usernameTweet": "hohirserna", "ID": "754079999876034560", "text": "# SokağaSakınÇıkma  dini bu işe alet ettinizya başka bişey demiyorum resmen din tüccarlığı", "url": "/hohirserna/status/754079999876034560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:36", "is_reply": false, "is_retweet": false, "user_id": "807025033"}

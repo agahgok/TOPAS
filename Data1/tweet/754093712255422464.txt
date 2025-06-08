@@ -1,0 +1,1 @@
+{"usernameTweet": "virtus1903", "ID": "754093712255422464", "text": "# SokağaSakınÇıkma  lan bu saray soytarısına telefonumu kim verdi    pic.twitter.com/L4KhtcAi1D", "url": "/virtus1903/status/754093712255422464", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:22:06", "is_reply": false, "is_retweet": false, "user_id": "1473380808"}

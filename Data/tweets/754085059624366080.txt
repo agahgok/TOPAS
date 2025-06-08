@@ -1,0 +1,1 @@
+{"usernameTweet": "Pinaryxl", "ID": "754085059624366080", "text": "# SokağaSakınÇıkma", "url": "/Pinaryxl/status/754085059624366080", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:47:43", "is_reply": false, "is_retweet": false, "user_id": "295326139"}

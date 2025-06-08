@@ -1,0 +1,1 @@
+{"usernameTweet": "berkayont", "ID": "754082707009892352", "text": "# SokağaSakınÇıkma  #ankara  Camilerden sokağa çıkın propagandası!!! Ankaradan patlama sesleri geliyor!", "url": "/berkayont/status/754082707009892352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:22", "is_reply": false, "is_retweet": false, "user_id": "3522009807"}

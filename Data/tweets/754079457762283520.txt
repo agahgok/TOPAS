@@ -1,0 +1,1 @@
+{"usernameTweet": "mrerdogan34", "ID": "754079457762283520", "text": "Darbe falan yok rahat olun... #SokağaSakınÇıkma", "url": "/mrerdogan34/status/754079457762283520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:27", "is_reply": false, "is_retweet": false, "user_id": "741717659985838080"}

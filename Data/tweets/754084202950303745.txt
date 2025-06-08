@@ -1,0 +1,1 @@
+{"usernameTweet": "Sahmeran54Senem", "ID": "754084202950303745", "text": "# SokağaSakınÇıkma  AKPRTEINOYUNUNAGELMEGAZYERSIN.", "url": "/Sahmeran54Senem/status/754084202950303745", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:44:18", "is_reply": false, "is_retweet": false, "user_id": "3001839548"}

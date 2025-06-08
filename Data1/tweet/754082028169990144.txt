@@ -1,0 +1,1 @@
+{"usernameTweet": "Revolute89", "ID": "754082028169990144", "text": "# sokağasakıncıkma   Turkey is falling apart! Time for Russia to make it's next move! #Constantinople", "url": "/Revolute89/status/754082028169990144", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:35:40", "is_reply": false, "is_retweet": false, "user_id": "751588258044272641"}

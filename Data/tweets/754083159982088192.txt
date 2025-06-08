@@ -1,0 +1,1 @@
+{"usernameTweet": "talaterkutt", "ID": "754083159982088192", "text": "Bu emperyalizmin kardeş kerdeşi birbirine düşürme,bir ülkeyi yok etme çabasıdır.Oyuna gelme. #SokağaÇıkma", "url": "/talaterkutt/status/754083159982088192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:10", "is_reply": false, "is_retweet": false, "user_id": "594642185"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "5illage", "ID": "1282078285111988225", "text": "darbe  ustune  darbe  yiyoz sonumuz guzwl olur ins", "url": "/5illage/status/1282078285111988225", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 01:24:17", "is_reply": true, "is_retweet": false, "user_id": "1229757028953882629"}

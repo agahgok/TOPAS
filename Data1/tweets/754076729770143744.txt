@@ -1,0 +1,1 @@
+{"usernameTweet": "bardo_biricikk", "ID": "754076729770143744", "text": "# SokağaSakınÇıkma", "url": "/bardo_biricikk/status/754076729770143744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:37", "is_reply": false, "is_retweet": false, "user_id": "3353976591"}

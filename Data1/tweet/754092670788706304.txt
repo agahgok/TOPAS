@@ -1,0 +1,1 @@
+{"usernameTweet": "deryaa_erdass", "ID": "754092670788706304", "text": "Birçok darbe görmüş bu millet gerçeği ve düzmeceyi ayırt edebilir sanırım  #SokağaSakınÇıkma", "url": "/deryaa_erdass/status/754092670788706304", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:17:57", "is_reply": false, "is_retweet": false, "user_id": "514489604"}

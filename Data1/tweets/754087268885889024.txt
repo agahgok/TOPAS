@@ -1,0 +1,1 @@
+{"usernameTweet": "ecissss_", "ID": "754087268885889024", "text": "Sanırım dünya tarihinin en kısa darbesi oldu. Bari sabaha kadar sürseydi de daha inandırıcı olsaydı. #sokagacikma", "url": "/ecissss_/status/754087268885889024", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:56:29", "is_reply": false, "is_retweet": false, "user_id": "1288655833"}

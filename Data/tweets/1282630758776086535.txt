@@ -1,0 +1,1 @@
+{"usernameTweet": "binnazdemir28", "ID": "1282630758776086535", "text": "Darbe  üstüne  darbe  yinede akıllanmıyorum", "url": "/binnazdemir28/status/1282630758776086535", "nbr_retweet": 0, "nbr_favorite": 16, "nbr_reply": 1, "datetime": "2020-07-13 13:59:37", "is_reply": false, "is_retweet": false, "user_id": "882352033524846592"}

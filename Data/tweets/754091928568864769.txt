@@ -1,0 +1,1 @@
+{"usernameTweet": "vldnkcmmk", "ID": "754091928568864769", "text": "Sen tankları tüfekleri doğrultup cirit atıon ama.\nDefolun gidin \n#SokağaSakınÇıkma", "url": "/vldnkcmmk/status/754091928568864769", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:00", "is_reply": false, "is_retweet": false, "user_id": "965051066"}

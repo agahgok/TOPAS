@@ -1,0 +1,1 @@
+{"usernameTweet": "Emeequis1", "ID": "1282450659736985600", "text": "Tenía que llegar el primer idiota, culpando al gobierno.", "url": "/Emeequis1/status/1282450659736985600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 02:03:58", "is_reply": true, "is_retweet": false, "user_id": "1273080019531845632"}

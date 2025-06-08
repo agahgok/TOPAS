@@ -1,0 +1,1 @@
+{"usernameTweet": "Mehmet_Ozsoy_", "ID": "754093583561621504", "text": "# SokağaSakınÇıkma  diyenler sokağa çıkacak yüzünüzmü var lan", "url": "/Mehmet_Ozsoy_/status/754093583561621504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:35", "is_reply": false, "is_retweet": false, "user_id": "356081207"}

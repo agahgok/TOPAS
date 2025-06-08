@@ -1,0 +1,1 @@
+{"usernameTweet": "bekinta", "ID": "754075854469230593", "text": "Hepsi bir oyun mu? Kafam karıştı benim #Turkey  #SokağaSakınÇıkma  #15temmuz2016", "url": "/bekinta/status/754075854469230593", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:08", "is_reply": false, "is_retweet": false, "user_id": "67116770"}

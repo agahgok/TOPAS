@@ -1,0 +1,1 @@
+{"usernameTweet": "muce1453", "ID": "754076387925979136", "text": "# SokağaSakınÇıkma  darbe olsun ardından demoklesin kılıcını huzurla götünuze sokarsiniz", "url": "/muce1453/status/754076387925979136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:15", "is_reply": false, "is_retweet": false, "user_id": "2374042229"}

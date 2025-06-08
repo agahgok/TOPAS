@@ -1,0 +1,1 @@
+{"usernameTweet": "JalinoGarten", "ID": "1282619438458646528", "text": "Kahpeliğin diğer adı  Darbe  \nOruspuluğun diğer adı İkiyüzlülük değil mi?", "url": "/JalinoGarten/status/1282619438458646528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 13:14:38", "is_reply": false, "is_retweet": false, "user_id": "1260105557102526464"}

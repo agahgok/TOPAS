@@ -1,0 +1,1 @@
+{"usernameTweet": "kubiizmm", "ID": "754107848150310912", "text": "Kendi helikopterlerimiz birbirini vuruyor.Türkün Türkten başka dostu yokTU! #DarbeyeHayır  #SokağaÇıkma", "url": "/kubiizmm/status/754107848150310912", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:18:16", "is_reply": false, "is_retweet": false, "user_id": "396459570"}

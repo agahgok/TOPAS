@@ -1,0 +1,1 @@
+{"usernameTweet": "yeliz_incigunes", "ID": "754089079264964608", "text": "hangi görüşten olursan ol ... #SokağaSakınÇıkma", "url": "/yeliz_incigunes/status/754089079264964608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:41", "is_reply": false, "is_retweet": false, "user_id": "323492333"}

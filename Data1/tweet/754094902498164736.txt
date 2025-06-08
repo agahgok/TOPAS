@@ -1,0 +1,1 @@
+{"usernameTweet": "FerhatiAlem", "ID": "754094902498164736", "text": "Lan tamam cumhurbaşkanı Erdoğan ama\nBAŞKOMUTAN ATATÜRK \nBunu unutmayın !!!\n\n #SokağaSakınÇıkma", "url": "/FerhatiAlem/status/754094902498164736", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:26:49", "is_reply": false, "is_retweet": false, "user_id": "103096244"}

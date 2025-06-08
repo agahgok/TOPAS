@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetnadir912", "ID": "754094597903712258", "text": "Durmadan ezan ve sela okuyorlar sürekli !!! #SokağaSakınÇıkma", "url": "/ahmetnadir912/status/754094597903712258", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:37", "is_reply": false, "is_retweet": false, "user_id": "97151213"}

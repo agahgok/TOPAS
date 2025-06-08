@@ -1,0 +1,1 @@
+{"usernameTweet": "okatanchukonu", "ID": "754081444423688193", "text": "Hep beraber Suriye ye kacalim #SokağaSakınÇıkma", "url": "/okatanchukonu/status/754081444423688193", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:21", "is_reply": false, "is_retweet": false, "user_id": "4883311095"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "arli_funda", "ID": "754084003116965888", "text": "Darbe filmi bitti mutluyumm....\nMağduriyet filmi basliycak simdi mutsuzzumm.... #SokağaSakınÇıkma", "url": "/arli_funda/status/754084003116965888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:31", "is_reply": false, "is_retweet": false, "user_id": "2883318587"}

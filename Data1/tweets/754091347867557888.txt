@@ -1,0 +1,1 @@
+{"usernameTweet": "turna_saim", "ID": "754091347867557888", "text": "Allahım bizi ne hale getirdiler böyle. Sana sığınıyoruz... \nAhh ülkem ...\n#SokağaSakınÇıkma", "url": "/turna_saim/status/754091347867557888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:42", "is_reply": false, "is_retweet": false, "user_id": "720684756841676800"}

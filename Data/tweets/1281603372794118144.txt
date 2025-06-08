@@ -1,0 +1,1 @@
+{"usernameTweet": "selahattin__06", "ID": "1281603372794118144", "text": "Haçlılara ilk  darbe  vuruldu şimdi sıra geldi 2 .darbeye", "url": "/selahattin__06/status/1281603372794118144", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 3, "datetime": "2020-07-10 17:57:09", "is_reply": true, "is_retweet": false, "user_id": "1269783236"}

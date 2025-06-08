@@ -1,0 +1,1 @@
+{"usernameTweet": "carlos1995ggaa", "ID": "754095592947720192", "text": "# SokağaSakınÇıkma", "url": "/carlos1995ggaa/status/754095592947720192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:34", "is_reply": false, "is_retweet": false, "user_id": "177348345"}

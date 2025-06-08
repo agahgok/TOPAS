@@ -1,0 +1,1 @@
+{"usernameTweet": "gonencsirin", "ID": "754095783251734529", "text": "Bir senaryo veya gerçek yaşanıyor. Umarım kimsenin canına zarar gelmez. #darbeyehayir  #SokağaSakınÇıkma", "url": "/gonencsirin/status/754095783251734529", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:30:19", "is_reply": false, "is_retweet": false, "user_id": "63455597"}

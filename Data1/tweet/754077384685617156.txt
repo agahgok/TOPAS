@@ -1,0 +1,1 @@
+{"usernameTweet": "benimbestem", "ID": "754077384685617156", "text": "# SokağaSakınÇıkma   pic.twitter.com/IKzvKflNw2", "url": "/benimbestem/status/754077384685617156", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:13", "is_reply": false, "is_retweet": false, "user_id": "319729681"}

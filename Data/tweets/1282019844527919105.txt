@@ -1,0 +1,1 @@
+{"usernameTweet": "1dkbekletiyorum", "ID": "1282019844527919105", "text": "darbe  üstüne  darbe  ıslanmıyor bu diye şarkı mı yazılır ya eril diliniz batsın", "url": "/1dkbekletiyorum/status/1282019844527919105", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-11 21:32:04", "is_reply": false, "is_retweet": false, "user_id": "3320520670"}

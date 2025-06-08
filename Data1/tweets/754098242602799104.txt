@@ -1,0 +1,1 @@
+{"usernameTweet": "neanlatiyoon", "ID": "754098242602799104", "text": "Bu darbe girişimi amerika desteklidir de bu hükümet amerika destekli değil midir? #SokağaSakınÇıkma", "url": "/neanlatiyoon/status/754098242602799104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:40:06", "is_reply": false, "is_retweet": false, "user_id": "2938649075"}

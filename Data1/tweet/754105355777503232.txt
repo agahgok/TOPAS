@@ -1,0 +1,1 @@
+{"usernameTweet": "erdoganyeliz061", "ID": "754105355777503232", "text": "askerime kalkan eller kırılsınn #SokağaSakınÇıkma", "url": "/erdoganyeliz061/status/754105355777503232", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:08:22", "is_reply": false, "is_retweet": false, "user_id": "754074380938932224"}

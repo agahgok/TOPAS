@@ -1,0 +1,1 @@
+{"usernameTweet": "e_akbb", "ID": "1281734409725648902", "text": "Iki hafta önce ettiğim dua  darbe  yedim sonrasında ama hala akıllanmadım ", "url": "/e_akbb/status/1281734409725648902", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 02:37:51", "is_reply": true, "is_retweet": false, "user_id": "2576669797"}

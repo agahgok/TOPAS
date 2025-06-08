@@ -1,0 +1,1 @@
+{"usernameTweet": "hayatmatrak", "ID": "754082774605303808", "text": "ne meydanlarmis hep halk dolduruyor siz anca havaalanlarina...  #SokağaSakınÇıkma", "url": "/hayatmatrak/status/754082774605303808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:38", "is_reply": false, "is_retweet": false, "user_id": "180052155"}

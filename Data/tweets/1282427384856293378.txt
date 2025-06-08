@@ -1,0 +1,1 @@
+{"usernameTweet": "Yesilyurt2535", "ID": "1282427384856293378", "text": "Erdoğan kadar başınıza taş düşsün sen önce  darbe  gecesi kahve yudumlayan genel başkanıni sorgula", "url": "/Yesilyurt2535/status/1282427384856293378", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 00:31:29", "is_reply": true, "is_retweet": false, "user_id": "3807622216"}

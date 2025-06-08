@@ -1,0 +1,1 @@
+{"usernameTweet": "PamcanU", "ID": "754066345529073664", "text": "# sokagacikma", "url": "/PamcanU/status/754066345529073664", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:33:21", "is_reply": false, "is_retweet": false, "user_id": "722722062"}

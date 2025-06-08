@@ -1,0 +1,1 @@
+{"usernameTweet": "enes_gnhan", "ID": "754083383517519873", "text": "Hassiktir #SokağaSakınÇıkma", "url": "/enes_gnhan/status/754083383517519873", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:03", "is_reply": false, "is_retweet": false, "user_id": "352044593"}

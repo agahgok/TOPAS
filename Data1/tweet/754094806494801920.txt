@@ -1,0 +1,1 @@
+{"usernameTweet": "Kayip_Atlantis", "ID": "754094806494801920", "text": "Gezi'de planlar tutmayınca şimdide darbe Tiyatrosuyla iç savaş çıkarma peşinde uzun! #SokağaSakınÇıkma", "url": "/Kayip_Atlantis/status/754094806494801920", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:26:26", "is_reply": false, "is_retweet": false, "user_id": "159979437"}

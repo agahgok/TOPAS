@@ -1,0 +1,1 @@
+{"usernameTweet": "CekdarB", "ID": "754066245796888576", "text": "AKKOYUNLAR  SOKAGAA CIKSIN  #SokağaSakınÇıkma", "url": "/CekdarB/status/754066245796888576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:32:57", "is_reply": false, "is_retweet": false, "user_id": "1560403886"}

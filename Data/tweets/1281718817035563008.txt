@@ -1,0 +1,1 @@
+{"usernameTweet": "acikgoz46", "ID": "1281718817035563008", "text": "Ne  darbe  yediniz beee mansur başkanda size gol attı", "url": "/acikgoz46/status/1281718817035563008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 01:35:53", "is_reply": true, "is_retweet": false, "user_id": "217162650"}

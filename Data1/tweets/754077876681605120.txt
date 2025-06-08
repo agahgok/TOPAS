@@ -1,0 +1,1 @@
+{"usernameTweet": "CanelGrbey", "ID": "754077876681605120", "text": "# SokağaSakınÇıkma", "url": "/CanelGrbey/status/754077876681605120", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:19:10", "is_reply": false, "is_retweet": false, "user_id": "610111086"}

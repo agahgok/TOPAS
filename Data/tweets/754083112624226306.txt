@@ -1,0 +1,1 @@
+{"usernameTweet": "obsesifokuz", "ID": "754083112624226306", "text": "# SokağaSakınÇıkma  Birilerin ekmeğine yağ bal olma!..", "url": "/obsesifokuz/status/754083112624226306", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:58", "is_reply": false, "is_retweet": false, "user_id": "718182871865913344"}

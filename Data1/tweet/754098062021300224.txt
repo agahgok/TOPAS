@@ -1,0 +1,1 @@
+{"usernameTweet": "mervemelek1", "ID": "754098062021300224", "text": "# Turkey  #DarbeyeHayır  #SokağaSakınÇıkma   pic.twitter.com/sC9dNoL3K0", "url": "/mervemelek1/status/754098062021300224", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:39:23", "is_reply": false, "is_retweet": false, "user_id": "316508620"}

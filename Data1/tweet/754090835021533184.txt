@@ -1,0 +1,1 @@
+{"usernameTweet": "ebabursah", "ID": "754090835021533184", "text": "Sokağa çıkma #SokağaSakınÇıkma", "url": "/ebabursah/status/754090835021533184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:40", "is_reply": false, "is_retweet": false, "user_id": "1594218805"}

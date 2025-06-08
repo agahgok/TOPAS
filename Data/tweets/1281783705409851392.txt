@@ -1,0 +1,1 @@
+{"usernameTweet": "Murat_darbe", "ID": "1281783705409851392", "text": "Yapalım.", "url": "/Murat_darbe/status/1281783705409851392", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 05:53:44", "is_reply": true, "is_retweet": false, "user_id": "961127958"}

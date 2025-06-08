@@ -1,0 +1,1 @@
+{"usernameTweet": "Alperde92879117", "ID": "754073162330103852", "text": "# SokağaSakınÇıkma  sokağa şimdi çıkmazsak ne zaman çıkarız", "url": "/Alperde92879117/status/754073162330103852", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:26", "is_reply": false, "is_retweet": false, "user_id": "4851236169"}

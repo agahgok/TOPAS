@@ -1,0 +1,1 @@
+{"usernameTweet": "zllktlr", "ID": "754067701941796864", "text": "YÜCE ATATÜRK' #TskCumhuriyetinTeminatıdır   #SokağaSakınÇıkma   pic.twitter.com/6dbsJ6uxbv", "url": "/zllktlr/status/754067701941796864", "nbr_retweet": 14, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2016-07-16 00:38:44", "is_reply": false, "is_retweet": false, "user_id": "345759584"}

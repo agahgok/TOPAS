@@ -1,0 +1,1 @@
+{"usernameTweet": "DonTwitre", "ID": "1281658016224423942", "text": "Bugün aynı zamanda dinler arası diyalog projesine büyük bir  darbe  vurulmuş oldu", "url": "/DonTwitre/status/1281658016224423942", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-10 21:34:17", "is_reply": false, "is_retweet": false, "user_id": "1179176193930797062"}

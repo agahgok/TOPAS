@@ -1,0 +1,1 @@
+{"usernameTweet": "sturan73", "ID": "754082790803636225", "text": "Oyunun bilmem kaçıncı perdesine hoş geldiniz #SokağaSakınÇıkma", "url": "/sturan73/status/754082790803636225", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:42", "is_reply": false, "is_retweet": false, "user_id": "2827134478"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "b_mert_ka", "ID": "754076994191683589", "text": "Ülken e sahip çık Ey halk  #SokağaSakınÇıkma  diyenlere inat git hesabı sandıkta kes", "url": "/b_mert_ka/status/754076994191683589", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:40", "is_reply": false, "is_retweet": false, "user_id": "2318646536"}

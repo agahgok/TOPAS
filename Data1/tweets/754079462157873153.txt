@@ -1,0 +1,1 @@
+{"usernameTweet": "CemZelluhoglu", "ID": "754079462157873153", "text": "Kör bir kurşunla hayata veda etmek istemiyorsan.. #SokağaSakınÇıkma  Burası yeni Türkiye..", "url": "/CemZelluhoglu/status/754079462157873153", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:25:28", "is_reply": false, "is_retweet": false, "user_id": "339246922"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AltintepeSeckin", "ID": "754116045393235968", "text": "# SokağaSakınÇıkma  Asker kışlasına, insanlar evine dönsün.", "url": "/AltintepeSeckin/status/754116045393235968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:50:50", "is_reply": false, "is_retweet": false, "user_id": "700753584443539457"}

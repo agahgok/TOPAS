@@ -1,0 +1,1 @@
+{"usernameTweet": "lepiska_kiz", "ID": "1281160443172659201", "text": "Yakında  darbe  girişimi de olur ama. Netflixde", "url": "/lepiska_kiz/status/1281160443172659201", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 12:37:07", "is_reply": true, "is_retweet": false, "user_id": "1197647248852688896"}

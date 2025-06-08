@@ -1,0 +1,1 @@
+{"usernameTweet": "jordanodonata", "ID": "754095971898884097", "text": "Demokrasi yi korumak sana mı düştü simdi !!!  #SokağaÇıkma", "url": "/jordanodonata/status/754095971898884097", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:04", "is_reply": false, "is_retweet": false, "user_id": "485831464"}

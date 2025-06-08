@@ -1,0 +1,1 @@
+{"usernameTweet": "pasaci_", "ID": "754074343303442432", "text": "# SokağaSakınÇıkma  #SokağaSakınÇıkma  #SokağaSakınÇıkma", "url": "/pasaci_/status/754074343303442432", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:08", "is_reply": false, "is_retweet": false, "user_id": "1272853783"}

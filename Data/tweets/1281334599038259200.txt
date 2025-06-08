@@ -1,0 +1,1 @@
+{"usernameTweet": "nurgulllaydinn", "ID": "1281334599038259200", "text": "Aşk duyunca sinirleniyorum sjdjdjdjs büyük  darbe  yedim de zamanında :(", "url": "/nurgulllaydinn/status/1281334599038259200", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-10 00:09:09", "is_reply": true, "is_retweet": false, "user_id": "1192870390915379207"}

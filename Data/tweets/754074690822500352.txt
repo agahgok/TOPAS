@@ -1,0 +1,1 @@
+{"usernameTweet": "samikarahan42", "ID": "754074690822500352", "text": "Başkomutanıda meydanlarda görmek isteriz\n#Ankara \n#SokağaSakınÇıkma   pic.twitter.com/m0qGJFKU7n", "url": "/samikarahan42/status/754074690822500352", "nbr_retweet": 8, "nbr_favorite": 10, "nbr_reply": 3, "datetime": "2016-07-16 01:06:30", "is_reply": false, "is_retweet": false, "user_id": "2821593606"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "savaskaya_35", "ID": "754094124203114496", "text": "Elhamdülillah çıktık sokağa uyuyalımmı Allah devlete millete zeval vermesin #SokağaSakınÇıkma", "url": "/savaskaya_35/status/754094124203114496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:44", "is_reply": false, "is_retweet": false, "user_id": "4018440502"}

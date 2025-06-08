@@ -1,0 +1,1 @@
+{"usernameTweet": "erhandogan35", "ID": "1282676256065101824", "text": "# 15TemmuzuUnutma  \nFETÖCÜ ŞEREFSİZLERİN  DARBE  YAPACAĞINI BİLE BİLE\nGÖZ YUMANLAR\nASLA UNUTLMAZ.", "url": "/erhandogan35/status/1282676256065101824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 17:00:25", "is_reply": false, "is_retweet": false, "user_id": "97766215"}

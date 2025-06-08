@@ -1,0 +1,1 @@
+{"usernameTweet": "Coni_Dip", "ID": "754077297427222528", "text": "@ tcdenizaydin  #SokağaSakınÇıkma", "url": "/Coni_Dip/status/754077297427222528", "nbr_retweet": 3, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:52", "is_reply": true, "is_retweet": false, "user_id": "599322969"}

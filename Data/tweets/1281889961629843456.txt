@@ -1,0 +1,1 @@
+{"usernameTweet": "Deniz415841", "ID": "1281889961629843456", "text": "Güvenilirmi çok  darbe  yedik bunu da kaldıramayız gerçi sen attıysan kesin saglamdır", "url": "/Deniz415841/status/1281889961629843456", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 12:55:57", "is_reply": true, "is_retweet": false, "user_id": "973209424557957120"}

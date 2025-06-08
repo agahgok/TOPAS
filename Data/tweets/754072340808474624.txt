@@ -1,0 +1,1 @@
+{"usernameTweet": "dolumetrobus", "ID": "754072340808474624", "text": "Lütfen #SokağaSakınÇıkma", "url": "/dolumetrobus/status/754072340808474624", "nbr_retweet": 22, "nbr_favorite": 22, "nbr_reply": 0, "datetime": "2016-07-16 00:57:10", "is_reply": false, "is_retweet": false, "user_id": "1637848447"}

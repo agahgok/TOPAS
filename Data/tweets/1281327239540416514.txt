@@ -1,0 +1,1 @@
+{"usernameTweet": "eduardogarcez14", "ID": "1281327239540416514", "text": "Que inconveniente tuvo Pacheco? Se le perdió un safiro, dicen...", "url": "/eduardogarcez14/status/1281327239540416514", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 23:39:54", "is_reply": true, "is_retweet": false, "user_id": "445244335"}

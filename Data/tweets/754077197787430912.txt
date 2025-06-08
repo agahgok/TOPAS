@@ -1,0 +1,1 @@
+{"usernameTweet": "burcih", "ID": "754077197787430912", "text": "Sokak kapısındayım çıkıyım mı çıkmıyim mi anlamadım kafam çok karışık #SokağaSakınÇıkma", "url": "/burcih/status/754077197787430912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:28", "is_reply": false, "is_retweet": false, "user_id": "124447780"}

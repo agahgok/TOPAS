@@ -1,0 +1,1 @@
+{"usernameTweet": "Appi35", "ID": "754085461585498113", "text": "Eğer ölürsen seni Asker öldürdü olacak ama sana sokağa çık diyen kimdi? #SokağaSakınÇıkma", "url": "/Appi35/status/754085461585498113", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:49:18", "is_reply": false, "is_retweet": false, "user_id": "3716309476"}

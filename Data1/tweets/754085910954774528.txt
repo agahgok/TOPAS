@@ -1,0 +1,1 @@
+{"usernameTweet": "ozutopya", "ID": "754085910954774528", "text": "Sokağa çıkmazsanız kimse kimseye silah doğrultamaz.  Sokağa çıkmayın,  çıkartmayın!!!!  #SokağaSakınÇıkma", "url": "/ozutopya/status/754085910954774528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:06", "is_reply": false, "is_retweet": false, "user_id": "742964843934801920"}

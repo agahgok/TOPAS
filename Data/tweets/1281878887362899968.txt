@@ -1,0 +1,1 @@
+{"usernameTweet": "yemreuygur", "ID": "1281878887362899968", "text": "senin için yeniçeri ocağını baştan kurup  darbe  yapar bu deliceri görmez misin", "url": "/yemreuygur/status/1281878887362899968", "nbr_retweet": 0, "nbr_favorite": 27, "nbr_reply": 0, "datetime": "2020-07-11 12:11:57", "is_reply": false, "is_retweet": false, "user_id": "1272609409257144322"}

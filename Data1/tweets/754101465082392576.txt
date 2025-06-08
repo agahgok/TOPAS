@@ -1,0 +1,1 @@
+{"usernameTweet": "dumrul75", "ID": "754101465082392576", "text": "EY TURK MILLETI BIRILERI KENDI PACASINI KURTARMAK ICIN SIZLERI ASKERIN ONUNE SURUYOR.  #SokağaÇıkma  YIN...", "url": "/dumrul75/status/754101465082392576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:52:54", "is_reply": false, "is_retweet": false, "user_id": "4926612887"}

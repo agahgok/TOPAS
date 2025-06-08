@@ -1,0 +1,1 @@
+{"usernameTweet": "iboamk", "ID": "754076970984419328", "text": "# SokağaSakınÇıkma  SALAKLIK YAPIP GALEYANA GELMEYİN TAYYİBİN GÖTÜNÜ KORUMAK SİZE Mİ DÜŞTÜ ???", "url": "/iboamk/status/754076970984419328", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:15:34", "is_reply": false, "is_retweet": false, "user_id": "577953329"}

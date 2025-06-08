@@ -1,0 +1,1 @@
+{"usernameTweet": "Metinn_oztrk", "ID": "1281356988333666304", "text": "Yaranı deşmek istemem ama sanki senin  darbe  bayrama yakın falan anladın sen", "url": "/Metinn_oztrk/status/1281356988333666304", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 2, "datetime": "2020-07-10 01:38:07", "is_reply": true, "is_retweet": false, "user_id": "1100822516849954816"}

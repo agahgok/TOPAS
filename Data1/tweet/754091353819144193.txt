@@ -1,0 +1,1 @@
+{"usernameTweet": "gelyunusum", "ID": "754091353819144193", "text": "# SokağaSakınÇıkma  Halk sokakta, vekiller mecliste. Çatlayın da patlayın şerefsizler. Vatan hainleri...", "url": "/gelyunusum/status/754091353819144193", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:43", "is_reply": false, "is_retweet": false, "user_id": "367029176"}

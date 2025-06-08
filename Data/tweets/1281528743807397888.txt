@@ -1,0 +1,1 @@
+{"usernameTweet": "TechiLa2", "ID": "1281528743807397888", "text": "Ozaman senin zihniyetine göre darbede  darbe  değil bir oyun bir kurmacamı?", "url": "/TechiLa2/status/1281528743807397888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 13:00:36", "is_reply": true, "is_retweet": false, "user_id": "1488781490"}

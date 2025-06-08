@@ -1,0 +1,1 @@
+{"usernameTweet": "mahirimkaram", "ID": "754113657278259201", "text": "Tayyipçi kanallar bir bir kapanıyor\n#SokağaSakınÇıkma", "url": "/mahirimkaram/status/754113657278259201", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:41:21", "is_reply": false, "is_retweet": false, "user_id": "3406224695"}

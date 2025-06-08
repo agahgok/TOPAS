@@ -1,0 +1,1 @@
+{"usernameTweet": "makmekmuk", "ID": "754084986119135232", "text": "emniyet halkı sokağa çağırıyor. bu da oldu ya.. #sokagaçıkma", "url": "/makmekmuk/status/754084986119135232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:25", "is_reply": false, "is_retweet": false, "user_id": "748223267832377344"}

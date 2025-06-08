@@ -1,0 +1,1 @@
+{"usernameTweet": "bllmes", "ID": "754075786781532160", "text": "Neden çıkma sokağa cikilacak zaman bu zaman #SokağaSakınÇıkma", "url": "/bllmes/status/754075786781532160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:52", "is_reply": false, "is_retweet": false, "user_id": "3333678844"}

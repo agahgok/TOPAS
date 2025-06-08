@@ -1,0 +1,1 @@
+{"usernameTweet": "alexxxmora", "ID": "1282400697795870720", "text": "No me creas pero... Detectó que estas haciendo copy/paste de algún lado...", "url": "/alexxxmora/status/1282400697795870720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:45:26", "is_reply": true, "is_retweet": false, "user_id": "71853119"}

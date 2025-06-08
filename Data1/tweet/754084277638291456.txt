@@ -1,0 +1,1 @@
+{"usernameTweet": "dadas_kizi", "ID": "754084277638291456", "text": "# SokağaSakınÇıkma  Semalar da yükselen SELA lar hainlerin nefesini kessin", "url": "/dadas_kizi/status/754084277638291456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:36", "is_reply": false, "is_retweet": false, "user_id": "111721153"}

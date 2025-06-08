@@ -1,0 +1,1 @@
+{"usernameTweet": "ummu_varakaa", "ID": "754085954726588416", "text": "# SokağaSakınÇıkma  diyenler halk darbeye el koydu haberiniz olsun #DarbeyeHayır", "url": "/ummu_varakaa/status/754085954726588416", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:51:16", "is_reply": false, "is_retweet": false, "user_id": "3314953322"}

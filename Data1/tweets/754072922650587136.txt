@@ -1,0 +1,1 @@
+{"usernameTweet": "superguluTV", "ID": "754072922650587136", "text": "BİLAL ÇIKSIN SOKAĞA #SokağaSakınÇıkma", "url": "/superguluTV/status/754072922650587136", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:59:29", "is_reply": false, "is_retweet": false, "user_id": "3650738896"}

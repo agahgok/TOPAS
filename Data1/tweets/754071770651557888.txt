@@ -1,0 +1,1 @@
+{"usernameTweet": "gundogdu1969", "ID": "754071770651557888", "text": "Aklini basina al Turkiye Misir olmayacak #SokağaSakınÇıkma", "url": "/gundogdu1969/status/754071770651557888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:54", "is_reply": false, "is_retweet": false, "user_id": "733997305192321024"}

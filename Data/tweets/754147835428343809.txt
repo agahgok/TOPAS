@@ -1,0 +1,1 @@
+{"usernameTweet": "ezgiabali", "ID": "754147835428343809", "text": "Hitler Almanya'sinda Hitler'in  kendi kendine darbe teşebbüsü yaptırdığını unutmayalım  #sokağasakınçıkma", "url": "/ezgiabali/status/754147835428343809", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:57:10", "is_reply": false, "is_retweet": false, "user_id": "2422100147"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Burcudran", "ID": "754073290843578368", "text": "Askerin vur emrini bekliyorum cidden.... #SokağaSakınÇıkma", "url": "/Burcudran/status/754073290843578368", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:00:57", "is_reply": false, "is_retweet": false, "user_id": "2238713573"}

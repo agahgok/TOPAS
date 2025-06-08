@@ -1,0 +1,1 @@
+{"usernameTweet": "silan_zivar", "ID": "754081337108144129", "text": "HDP'den açıklama: Her koşulda ve ilkesel olarak her tür darbeye karşıyız..#SokağaSakınÇıkma", "url": "/silan_zivar/status/754081337108144129", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:32:55", "is_reply": false, "is_retweet": false, "user_id": "2370358698"}

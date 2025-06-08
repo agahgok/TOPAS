@@ -1,0 +1,1 @@
+{"usernameTweet": "sgorenoglu", "ID": "754074597662883840", "text": "# SokağaSakınÇıkma  oyuna gelme sokağa çıkma", "url": "/sgorenoglu/status/754074597662883840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:08", "is_reply": false, "is_retweet": false, "user_id": "569168569"}

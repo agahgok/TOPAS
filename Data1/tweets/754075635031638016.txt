@@ -1,0 +1,1 @@
+{"usernameTweet": "smterzn", "ID": "754075635031638016", "text": "# SokağaSakınÇıkma", "url": "/smterzn/status/754075635031638016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:16", "is_reply": false, "is_retweet": false, "user_id": "439530745"}

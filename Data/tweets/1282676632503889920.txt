@@ -1,0 +1,1 @@
+{"usernameTweet": "diegomaritimo", "ID": "1282676632503889920", "text": "me dejas tranquilo !! pero del kks me\nimagino que mucho? disfrúta la larga e infinita espera !!", "url": "/diegomaritimo/status/1282676632503889920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 17:01:54", "is_reply": true, "is_retweet": false, "user_id": "572169712"}

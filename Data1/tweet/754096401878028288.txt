@@ -1,0 +1,1 @@
+{"usernameTweet": "alibeyoglu_", "ID": "754096401878028288", "text": "Çıkama diyen hainlere karşı sokağa çık #SokağaÇıkma", "url": "/alibeyoglu_/status/754096401878028288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:32:47", "is_reply": false, "is_retweet": false, "user_id": "405860637"}

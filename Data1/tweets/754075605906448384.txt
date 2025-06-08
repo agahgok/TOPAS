@@ -1,0 +1,1 @@
+{"usernameTweet": "cutiepadaleckii", "ID": "754075605906448384", "text": "# SokağaSakınÇıkma", "url": "/cutiepadaleckii/status/754075605906448384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:09", "is_reply": false, "is_retweet": false, "user_id": "4905086321"}

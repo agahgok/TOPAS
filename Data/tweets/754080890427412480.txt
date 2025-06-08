@@ -1,0 +1,1 @@
+{"usernameTweet": "nazliuygun1905", "ID": "754080890427412480", "text": "Bizim korumamız yok kii sokağa çıkalım tayip,bence sen çık yerimize #SokağaSakınÇıkma", "url": "/nazliuygun1905/status/754080890427412480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:09", "is_reply": false, "is_retweet": false, "user_id": "2729880999"}

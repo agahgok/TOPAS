@@ -1,0 +1,1 @@
+{"usernameTweet": "evrencetin80", "ID": "754081945877970944", "text": "Olan millete olmasın #SokağaSakınÇıkma", "url": "/evrencetin80/status/754081945877970944", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:35:20", "is_reply": false, "is_retweet": false, "user_id": "3001177581"}

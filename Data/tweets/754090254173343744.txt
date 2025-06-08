@@ -1,0 +1,1 @@
+{"usernameTweet": "Chapulcoo", "ID": "754090254173343744", "text": "# SokağaSakınÇıkma  camiden anons yapan imamları; telsiz kulubeden arayp jandarmaya ihbar edin amk.", "url": "/Chapulcoo/status/754090254173343744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:21", "is_reply": false, "is_retweet": false, "user_id": "2961840814"}

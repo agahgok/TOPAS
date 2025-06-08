@@ -1,0 +1,1 @@
+{"usernameTweet": "tayancgorkem", "ID": "754075803277819904", "text": "Vatan hainleri evinde oturabilir BİZ SOKAKTAYIZ #SokağaSakınÇıkma", "url": "/tayancgorkem/status/754075803277819904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:56", "is_reply": false, "is_retweet": false, "user_id": "246780950"}

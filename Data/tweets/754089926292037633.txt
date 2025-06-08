@@ -1,0 +1,1 @@
+{"usernameTweet": "deeplife1907", "ID": "754089926292037633", "text": "# SokağaSakınÇıkma  diyenlerin alayı katiksiz oruspu cocugudur nokta", "url": "/deeplife1907/status/754089926292037633", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:03", "is_reply": false, "is_retweet": false, "user_id": "291280785"}

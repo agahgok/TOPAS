@@ -1,0 +1,1 @@
+{"usernameTweet": "yusufpekdemirr", "ID": "754093406041890818", "text": "Adeta bir game of başkanlık değil de ne?  #SokağaSakınÇıkma", "url": "/yusufpekdemirr/status/754093406041890818", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:20:53", "is_reply": false, "is_retweet": false, "user_id": "416212656"}

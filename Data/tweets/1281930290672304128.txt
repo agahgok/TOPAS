@@ -1,0 +1,1 @@
+{"usernameTweet": "1Adetibo", "ID": "1281930290672304128", "text": "Arkadaşlar 4 gün sonra  darbe  olabilir ", "url": "/1Adetibo/status/1281930290672304128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 15:36:13", "is_reply": false, "is_retweet": false, "user_id": "3058475969"}

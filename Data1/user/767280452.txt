@@ -1,0 +1,1 @@
+{"ID": "767280452", "name": "がみbot", "screen_name": "Gami_brziBot", "avatar": "https://pbs.twimg.com/profile_images/3102300731/4589043cf10ef5e60623bb76322b3012_bigger.png"}

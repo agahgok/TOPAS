@@ -1,0 +1,1 @@
+{"usernameTweet": "gkara616161", "ID": "754084031965167622", "text": "Gemiyi ilk fareler terk edecek  #SokağaSakınÇıkma", "url": "/gkara616161/status/754084031965167622", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:43:38", "is_reply": false, "is_retweet": false, "user_id": "754080108802039808"}

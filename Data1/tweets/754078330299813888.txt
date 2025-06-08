@@ -1,0 +1,1 @@
+{"usernameTweet": "__HastaSiempre", "ID": "754078330299813888", "text": "Sokağa çıkanlar çapulcu degilmiydi ? #SokağaSakınÇıkma", "url": "/__HastaSiempre/status/754078330299813888", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:20:58", "is_reply": false, "is_retweet": false, "user_id": "776023364"}

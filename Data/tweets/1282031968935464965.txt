@@ -1,0 +1,1 @@
+{"usernameTweet": "lidererdogan44", "ID": "1282031968935464965", "text": "Ülkeye korkmamayi,sessiz kalmamayi öğretti adam.\nYoksa 15 temmuz  darbe  olurdu ama millet kazandı", "url": "/lidererdogan44/status/1282031968935464965", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 2, "datetime": "2020-07-11 22:20:15", "is_reply": true, "is_retweet": false, "user_id": "370145926"}

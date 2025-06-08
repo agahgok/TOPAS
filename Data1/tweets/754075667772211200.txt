@@ -1,0 +1,1 @@
+{"usernameTweet": "capulcucocukk", "ID": "754075667772211200", "text": "# SokağaSakınÇıkma  kimse bize demokrasi insan haklarına saygı göstereçek bir açıklama vermiyor", "url": "/capulcucocukk/status/754075667772211200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:23", "is_reply": false, "is_retweet": false, "user_id": "1472970672"}

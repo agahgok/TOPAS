@@ -1,0 +1,1 @@
+{"usernameTweet": "Ali_Cylan", "ID": "754114680587706368", "text": "İÇİNE PÜSKÜRTTÜNÜZ HERALDE MK #SokağaSakınÇıkma  #SokağaBilalCiksin", "url": "/Ali_Cylan/status/754114680587706368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:45:25", "is_reply": false, "is_retweet": false, "user_id": "582208378"}

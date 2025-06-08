@@ -1,0 +1,1 @@
+{"usernameTweet": "tiyatroynuyorum", "ID": "754067383506075651", "text": "# sokağaçıkma", "url": "/tiyatroynuyorum/status/754067383506075651", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:28", "is_reply": false, "is_retweet": false, "user_id": "218618057"}

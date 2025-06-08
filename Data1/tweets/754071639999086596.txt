@@ -1,0 +1,1 @@
+{"usernameTweet": "CosgunTecavuzcu", "ID": "754071639999086596", "text": "# SokağaSakınÇıkma  manyak mıyım niye çıkayım...", "url": "/CosgunTecavuzcu/status/754071639999086596", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:54:23", "is_reply": false, "is_retweet": false, "user_id": "717982895005106176"}

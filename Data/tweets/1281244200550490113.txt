@@ -1,0 +1,1 @@
+{"usernameTweet": "__sakuraD", "ID": "1281244200550490113", "text": "Çok büyük bir  darbe  versin ya Bi de sözleri anlasam #OnMeBySEHUN pic.twitter.com/hAgA2rbaIy", "url": "/__sakuraD/status/1281244200550490113", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-09 18:09:56", "is_reply": false, "is_retweet": false, "user_id": "1228734269373272067"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gabrielnesta", "ID": "448972128084189184", "text": "Ahora que justificación va a tener C.  Ronaldo  y Ramos por su derrota con el Sevilla. Pinches chillones...", "url": "/gabrielnesta/status/448972128084189184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:57:51", "is_reply": false, "is_retweet": false, "user_id": "95517757"}

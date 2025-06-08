@@ -1,0 +1,1 @@
+{"usernameTweet": "bordo_dereli", "ID": "754082798483476480", "text": "# SokağaSakınÇıkma  tiyatro bitti ben yatar...", "url": "/bordo_dereli/status/754082798483476480", "nbr_retweet": 1, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:38:43", "is_reply": false, "is_retweet": false, "user_id": "705097296"}

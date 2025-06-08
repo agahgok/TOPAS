@@ -1,0 +1,1 @@
+{"ID": "165373286", "name": "パンク・コア系bot", "screen_name": "punk_bot", "avatar": "https://pbs.twimg.com/profile_images/1069775771/how-to-style-punk-hair_bigger.jpg"}

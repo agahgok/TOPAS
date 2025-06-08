@@ -1,0 +1,1 @@
+{"usernameTweet": "erdiklvz", "ID": "754079735479672834", "text": "# SokağaSakınÇıkma  bu kadar tank uçak helikopter asker. Bu Nasıl küçük grup lan.", "url": "/erdiklvz/status/754079735479672834", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:33", "is_reply": false, "is_retweet": false, "user_id": "111501644"}

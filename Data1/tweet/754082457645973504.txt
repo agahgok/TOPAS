@@ -1,0 +1,1 @@
+{"usernameTweet": "emili27mercan", "ID": "754082457645973504", "text": "Evde otur iş askerde ise korkma. Sınırı koruyan asker içinde de korur sabırla bekle #SokağaSakınÇıkma", "url": "/emili27mercan/status/754082457645973504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:22", "is_reply": false, "is_retweet": false, "user_id": "2850177259"}

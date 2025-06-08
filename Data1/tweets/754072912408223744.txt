@@ -1,0 +1,1 @@
+{"usernameTweet": "sasmazilker", "ID": "754072912408223744", "text": "Akli bakanlar ve vekiller nerde neden tankların önünde durmuyorlar #SokağaSakınÇıkma", "url": "/sasmazilker/status/754072912408223744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:26", "is_reply": false, "is_retweet": false, "user_id": "528319017"}

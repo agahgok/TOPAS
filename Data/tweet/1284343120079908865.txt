@@ -1,0 +1,1 @@
+{"usernameTweet": "ellbngyn", "ID": "1284343120079908865", "text": "DABE  DABES TALAGA ANG JANJAN HAHHAHAHAHAHHAAHAHAHHAHAHAHHAHAHAHAHAHAHAAH", "url": "/ellbngyn/status/1284343120079908865", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 07:23:56", "is_reply": false, "is_retweet": false, "user_id": "934394288699457536"}

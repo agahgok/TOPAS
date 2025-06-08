@@ -1,0 +1,1 @@
+{"usernameTweet": "Mertcanyaar123", "ID": "754088346402643968", "text": "# SokağaSakınÇıkma   http:// i.hizliresim.com/qBND6q.gif  ", "url": "/Mertcanyaar123/status/754088346402643968", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:46", "is_reply": false, "is_retweet": false, "user_id": "754081690415271936"}

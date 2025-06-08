@@ -1,0 +1,1 @@
+{"usernameTweet": "trkrsaNcak", "ID": "1282630175277162496", "text": "Sahib astsb  darbe  gunu nerdeydi ?", "url": "/trkrsaNcak/status/1282630175277162496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 13:57:18", "is_reply": true, "is_retweet": false, "user_id": "1221481714528276481"}

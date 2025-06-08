@@ -1,0 +1,1 @@
+{"usernameTweet": "rftarikan09", "ID": "754105713887154176", "text": "Medya kandırıyor  #SokağaSakınÇıkma", "url": "/rftarikan09/status/754105713887154176", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:09:47", "is_reply": false, "is_retweet": false, "user_id": "2826520616"}

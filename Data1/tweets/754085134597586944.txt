@@ -1,0 +1,1 @@
+{"usernameTweet": "BayramTilci", "ID": "754085134597586944", "text": "Siktirin amk çocukları Sokaktayım Millet ve Devlet için  #SokağaSakınÇıkma", "url": "/BayramTilci/status/754085134597586944", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:48:00", "is_reply": false, "is_retweet": false, "user_id": "305085745"}

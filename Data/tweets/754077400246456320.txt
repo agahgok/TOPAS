@@ -1,0 +1,1 @@
+{"usernameTweet": "EmreDursunkaya", "ID": "754077400246456320", "text": "# SokağaSakınÇıkma  NEREDE BU IMAMLAR HOCALAR CIKIN ULAN EZAN OKUYUN SAVAS HALIDIR BU.", "url": "/EmreDursunkaya/status/754077400246456320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:16", "is_reply": false, "is_retweet": false, "user_id": "541610963"}

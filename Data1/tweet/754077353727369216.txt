@@ -1,0 +1,1 @@
+{"usernameTweet": "1453ata", "ID": "754077353727369216", "text": "Kısıklı en az 10000 kişi var siz çıkmayın çok kalabalık zaten  #SokağaSakınÇıkma", "url": "/1453ata/status/754077353727369216", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:17:05", "is_reply": false, "is_retweet": false, "user_id": "216509908"}

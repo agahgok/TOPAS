@@ -1,0 +1,1 @@
+{"usernameTweet": "Lopitos_", "ID": "1281329605555691527", "text": "Qué pela le están poniendo a Miguel Sesma Quibrera. No sean gachos, dejenlo respirar.\n#MoralmenteDerrotados", "url": "/Lopitos_/status/1281329605555691527", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 23:49:18", "is_reply": true, "is_retweet": false, "user_id": "339391457"}

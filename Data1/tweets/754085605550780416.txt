@@ -1,0 +1,1 @@
+{"usernameTweet": "Emrecnr_0006", "ID": "754085605550780416", "text": "ULAN YİNE MORT OLDUNUZ! #SokağaSakınÇıkma  #Ankara", "url": "/Emrecnr_0006/status/754085605550780416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:53", "is_reply": false, "is_retweet": false, "user_id": "3395246578"}

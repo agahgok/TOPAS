@@ -1,0 +1,1 @@
+{"usernameTweet": "ozan_turhal", "ID": "754056893706932224", "text": "# sokagaçıkma", "url": "/ozan_turhal/status/754056893706932224", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-15 23:55:47", "is_reply": false, "is_retweet": false, "user_id": "348976598"}

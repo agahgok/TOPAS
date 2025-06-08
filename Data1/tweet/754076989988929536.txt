@@ -1,0 +1,1 @@
+{"usernameTweet": "elfbrkts", "ID": "754076989988929536", "text": "Bu bir tiyatro oyunudur böyle darbemi olur komedi #SokağaSakınÇıkma  #TskCumhuriyetinTeminatıdır  #SokağaÇıkmakYOK", "url": "/elfbrkts/status/754076989988929536", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:39", "is_reply": false, "is_retweet": false, "user_id": "359053308"}

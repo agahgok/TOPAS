@@ -1,0 +1,1 @@
+{"usernameTweet": "oguzdymz", "ID": "754081798313897984", "text": "Bir liderin peşinden sokağa çıkacaksan eğer,\nen önden o lider çıkacak ki, liderliği anlaşılsın! #SokağaSakınÇıkma", "url": "/oguzdymz/status/754081798313897984", "nbr_retweet": 5, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2016-07-16 01:34:45", "is_reply": false, "is_retweet": false, "user_id": "162387967"}

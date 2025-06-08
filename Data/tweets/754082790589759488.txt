@@ -1,0 +1,1 @@
+{"usernameTweet": "seyozce", "ID": "754082790589759488", "text": "# SokağaSakınÇıkma  Sokağa çıkanlara çapulcu diyen adam halkını sokağa çağırıp askerin önüne atıyor", "url": "/seyozce/status/754082790589759488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:42", "is_reply": false, "is_retweet": false, "user_id": "345984180"}

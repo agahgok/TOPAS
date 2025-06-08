@@ -1,0 +1,1 @@
+{"usernameTweet": "salihcan_tr", "ID": "754091347288686592", "text": "Hangi siyasi görüşe sahip olursan ol #SokağaSakınÇıkma  ", "url": "/salihcan_tr/status/754091347288686592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:42", "is_reply": false, "is_retweet": false, "user_id": "863385824"}

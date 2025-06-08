@@ -1,0 +1,1 @@
+{"usernameTweet": "syfllhtkgz", "ID": "754079952157507584", "text": "HERKES SOKAKTA\nDARBE GİRİŞİMİ   BALON\n\n #SokağaSakınÇıkma", "url": "/syfllhtkgz/status/754079952157507584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:25", "is_reply": false, "is_retweet": false, "user_id": "3434598243"}

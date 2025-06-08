@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754094167530303488", "text": "Tum general arif çetin dediği kelime milli irade diyor film senoryası çok kötü #SokağaSakınÇıkma", "url": "/mertbzky/status/754094167530303488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:54", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

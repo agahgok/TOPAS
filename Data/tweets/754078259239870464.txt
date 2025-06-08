@@ -1,0 +1,1 @@
+{"usernameTweet": "hliya", "ID": "754078259239870464", "text": "# SokağaSakınÇıkma  #oyunagelme pic.twitter.com/uO0wSsXW12", "url": "/hliya/status/754078259239870464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:41", "is_reply": false, "is_retweet": false, "user_id": "163819512"}

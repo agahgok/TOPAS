@@ -1,0 +1,1 @@
+{"usernameTweet": "ilkaytknn", "ID": "1281159020338991104", "text": "Kene kimden ne  darbe  yedi kim bilir olan bize oluyo", "url": "/ilkaytknn/status/1281159020338991104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 12:31:27", "is_reply": true, "is_retweet": false, "user_id": "1213928781338927105"}

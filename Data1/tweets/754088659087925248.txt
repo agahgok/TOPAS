@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafaegin85", "ID": "754088659087925248", "text": "# SokağaSakınÇıkma  İç savaş tehlikesi var. İnsanları gaza getirmenin kötü sonuçları olabilir.", "url": "/mustafaegin85/status/754088659087925248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:01", "is_reply": false, "is_retweet": false, "user_id": "2502029034"}

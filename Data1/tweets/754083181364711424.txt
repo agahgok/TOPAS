@@ -1,0 +1,1 @@
+{"usernameTweet": "Atilla51542441", "ID": "754083181364711424", "text": "Benim korumam yok ama dayanıyorum\n#Darbe \n #SokağaSakınÇıkma", "url": "/Atilla51542441/status/754083181364711424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:15", "is_reply": false, "is_retweet": false, "user_id": "3311765319"}

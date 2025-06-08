@@ -1,0 +1,1 @@
+{"usernameTweet": "Kalplerharap", "ID": "1281632186966450176", "text": "Noldu  darbe  mi var  https:// twitter.com/t24comtr/statu s/1281580009094864897   …", "url": "/Kalplerharap/status/1281632186966450176", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 19:51:39", "is_reply": false, "is_retweet": false, "user_id": "1030798476291002368"}

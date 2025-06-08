@@ -1,0 +1,1 @@
+{"usernameTweet": "EnesFahrettin", "ID": "1281925909768024088", "text": "Denize döktükleri Yunanlar da bir hafta sonra Yunanistan'da  darbe  yapmışlardı zaten", "url": "/EnesFahrettin/status/1281925909768024088", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 3, "datetime": "2020-07-11 15:18:48", "is_reply": true, "is_retweet": false, "user_id": "1223150327052095491"}

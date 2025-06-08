@@ -1,0 +1,1 @@
+{"usernameTweet": "WiSTHiRI", "ID": "754077890124316673", "text": "Tüm Halkin Dikkatine AKP/SARAY OYUNUNA GELME\n#SokağaSakınÇıkma", "url": "/WiSTHiRI/status/754077890124316673", "nbr_retweet": 3, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:19:13", "is_reply": false, "is_retweet": false, "user_id": "3432928697"}

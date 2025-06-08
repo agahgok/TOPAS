@@ -1,0 +1,1 @@
+{"usernameTweet": "Bebeto27778091", "ID": "1281168182926065664", "text": "Döneminde  darbe  yapılan genelkurmay başkanı terfi ederek bakan oldu", "url": "/Bebeto27778091/status/1281168182926065664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:07:52", "is_reply": true, "is_retweet": false, "user_id": "1260867111947243521"}

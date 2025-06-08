@@ -1,0 +1,1 @@
+{"usernameTweet": "wwalkeriv4", "ID": "754080019723456512", "text": "KENDİNİ,ÜLKENİ SAVUNMAK İSTİYORSAN EVİNDE KAL #SokağaSakınÇıkma", "url": "/wwalkeriv4/status/754080019723456512", "nbr_retweet": 5, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:27:41", "is_reply": false, "is_retweet": false, "user_id": "2327520620"}

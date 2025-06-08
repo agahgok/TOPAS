@@ -1,0 +1,1 @@
+{"usernameTweet": "BozkrTTurk", "ID": "754077427790409728", "text": "Doldurusa gelmeyin\n #SokağaÇıkma", "url": "/BozkrTTurk/status/754077427790409728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:23", "is_reply": false, "is_retweet": false, "user_id": "248227327"}

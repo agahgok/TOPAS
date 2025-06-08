@@ -1,0 +1,1 @@
+{"usernameTweet": "aysezurell", "ID": "754101732750360576", "text": "Elhamdülillah elhamdülillah elhamdülillah...  La galibe İllallah... #SokağaSakınÇıkma  #darbeyehayır", "url": "/aysezurell/status/754101732750360576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:53:58", "is_reply": false, "is_retweet": false, "user_id": "130794858"}

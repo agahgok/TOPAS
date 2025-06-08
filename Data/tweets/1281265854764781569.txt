@@ -1,0 +1,1 @@
+{"usernameTweet": "boke_erdenet", "ID": "1281265854764781569", "text": "Hayatım bu koçovalılara nasıl bir  darbe  vursam onu planlıyorum..", "url": "/boke_erdenet/status/1281265854764781569", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 19:35:59", "is_reply": true, "is_retweet": false, "user_id": "1092797704617558016"}

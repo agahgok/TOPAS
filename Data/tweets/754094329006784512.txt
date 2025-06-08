@@ -1,0 +1,1 @@
+{"usernameTweet": "berfinbektaas", "ID": "754094329006784512", "text": "İnsanları dışarı çıkar ki kendin kaçabilesin. Böyle kahpelik görülmedi. #SokagaSakınÇıkma", "url": "/berfinbektaas/status/754094329006784512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:24:33", "is_reply": false, "is_retweet": false, "user_id": "519553558"}

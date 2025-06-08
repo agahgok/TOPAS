@@ -1,0 +1,1 @@
+{"usernameTweet": "nahidedalda", "ID": "754073209205583872", "text": "Das ist kein Film......#SokağaSakınÇıkma   pic.twitter.com/D0pE8AteNv", "url": "/nahidedalda/status/754073209205583872", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:37", "is_reply": false, "is_retweet": false, "user_id": "2259193107"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sezinseringel", "ID": "754074613710254081", "text": "# SokağaSakınÇıkma", "url": "/sezinseringel/status/754074613710254081", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:12", "is_reply": false, "is_retweet": false, "user_id": "22176924"}

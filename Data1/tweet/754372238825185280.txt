@@ -1,0 +1,1 @@
+{"usernameTweet": "engintaschp", "ID": "754372238825185280", "text": "# askerimedokunma   #askerimedokunma  #SokağaSakınÇıkma  #VicdaniRetHaktır  olan yine masuma oldu", "url": "/engintaschp/status/754372238825185280", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 20:48:51", "is_reply": false, "is_retweet": false, "user_id": "4838719600"}

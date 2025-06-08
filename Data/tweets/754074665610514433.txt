@@ -1,0 +1,1 @@
+{"usernameTweet": "DemYusonsuzz", "ID": "754074665610514433", "text": "Çıkmayın sokağa kendinizi öldürmekmi istiyorsunuz siz #SokağaSakınÇıkma", "url": "/DemYusonsuzz/status/754074665610514433", "nbr_retweet": 3, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:06:24", "is_reply": false, "is_retweet": false, "user_id": "742018809645666304"}

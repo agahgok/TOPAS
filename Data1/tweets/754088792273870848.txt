@@ -1,0 +1,1 @@
+{"usernameTweet": "Muhamme16905277", "ID": "754088792273870848", "text": "Siz hepiniz kuklasiniz   #SokağaSakınÇıkma", "url": "/Muhamme16905277/status/754088792273870848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:33", "is_reply": false, "is_retweet": false, "user_id": "752902110300270593"}

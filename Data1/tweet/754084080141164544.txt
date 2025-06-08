@@ -1,0 +1,1 @@
+{"usernameTweet": "ERTANS", "ID": "754084080141164544", "text": "Seçimle gelen seçimle gider herkes sokağaa  #SokağaSakınÇıkma", "url": "/ERTANS/status/754084080141164544", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:43:49", "is_reply": false, "is_retweet": false, "user_id": "74673354"}

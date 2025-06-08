@@ -1,0 +1,1 @@
+{"usernameTweet": "Thelordofthings", "ID": "754094744372781056", "text": "yine dini kullanarak göt kılllarını kölesi yapıyor #SokağaSakınÇıkma", "url": "/Thelordofthings/status/754094744372781056", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:26:12", "is_reply": false, "is_retweet": false, "user_id": "1175385692"}

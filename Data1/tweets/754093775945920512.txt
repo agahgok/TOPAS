@@ -1,0 +1,1 @@
+{"usernameTweet": "maavigibiadam", "ID": "754093775945920512", "text": "Çıkmayın öldürmek istiyorlar sizi hani nerde Başbakan Cumhurbaşkanı ?  #SokağaSakınÇıkma", "url": "/maavigibiadam/status/754093775945920512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:21", "is_reply": false, "is_retweet": false, "user_id": "587730935"}

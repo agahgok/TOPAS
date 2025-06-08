@@ -1,0 +1,1 @@
+{"usernameTweet": "msklcc", "ID": "754090571371864065", "text": "Cıkın amk bakmayın bu şerefsiz cemaatcilere #SokağaSakınÇıkma", "url": "/msklcc/status/754090571371864065", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:09:37", "is_reply": false, "is_retweet": false, "user_id": "739123990992654337"}

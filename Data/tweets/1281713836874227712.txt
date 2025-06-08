@@ -1,0 +1,1 @@
+{"usernameTweet": "eminhatip", "ID": "1281713836874227712", "text": "Bunun atletinden en az üç tankı durduracak malzeme çıkardı, malum  darbe  şeysinde ulkede olmamasi kayip..", "url": "/eminhatip/status/1281713836874227712", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 01:16:06", "is_reply": true, "is_retweet": false, "user_id": "151564900"}

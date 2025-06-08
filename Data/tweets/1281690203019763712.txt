@@ -1,0 +1,1 @@
+{"usernameTweet": "sultaan0671", "ID": "1281690203019763712", "text": "İnsani vurur bir  darbe ...", "url": "/sultaan0671/status/1281690203019763712", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-10 23:42:11", "is_reply": false, "is_retweet": false, "user_id": "1036733567391485952"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "serenesenere", "ID": "754069780986990592", "text": "Piyon olma #SokağaÇıkma", "url": "/serenesenere/status/754069780986990592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:47:00", "is_reply": false, "is_retweet": false, "user_id": "569265378"}

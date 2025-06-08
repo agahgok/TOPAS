@@ -1,0 +1,1 @@
+{"usernameTweet": "firatiye", "ID": "754207705221464064", "text": "Bi bir darbe oyunu kardeşi kardeşe düşürme oyunu #sokağasakınçıkma", "url": "/firatiye/status/754207705221464064", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 09:55:04", "is_reply": false, "is_retweet": false, "user_id": "747857185745543168"}

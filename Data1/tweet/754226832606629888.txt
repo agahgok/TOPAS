@@ -1,0 +1,1 @@
+{"usernameTweet": "yarpuz77", "ID": "754226832606629888", "text": "Oyuna gelme Türkiye\n #SokağaSakınÇıkma", "url": "/yarpuz77/status/754226832606629888", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 11:11:04", "is_reply": false, "is_retweet": false, "user_id": "3402837935"}

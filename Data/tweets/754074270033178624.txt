@@ -1,0 +1,1 @@
+{"usernameTweet": "canannkenarr", "ID": "754074270033178624", "text": "Koruman felan varsa bilemem de yoksa  #SokağaSakınÇıkma", "url": "/canannkenarr/status/754074270033178624", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:04:50", "is_reply": false, "is_retweet": false, "user_id": "987317826"}

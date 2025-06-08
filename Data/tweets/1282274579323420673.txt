@@ -1,0 +1,1 @@
+{"usernameTweet": "HikmetBenoll", "ID": "1282274579323420673", "text": "Ne oldu YSK  darbe  yaptı da belediye ak partiye mi geçti?  Darbe  görmek istiyorsan 15 Temmuz’a bak.", "url": "/HikmetBenoll/status/1282274579323420673", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 14:24:17", "is_reply": true, "is_retweet": false, "user_id": "97285801"}

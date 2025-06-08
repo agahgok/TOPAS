@@ -1,0 +1,1 @@
+{"usernameTweet": "ayakliabajur", "ID": "754336438687264769", "text": "# sokağasakınçıkma  #askerimedokunma https:// twitter.com/AKKADINMALTEPE /status/754315299701329920   …", "url": "/ayakliabajur/status/754336438687264769", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 18:26:36", "is_reply": false, "is_retweet": false, "user_id": "745737726"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "okcknet", "ID": "754095985257832448", "text": "Cumhurbaşkanı SMS attı az önce sokağa çıkın diye... #sokagacikma  #TurkeyCoup pic.twitter.com/iw2Y3EFtyO", "url": "/okcknet/status/754095985257832448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:07", "is_reply": false, "is_retweet": false, "user_id": "14909030"}

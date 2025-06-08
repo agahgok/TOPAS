@@ -1,0 +1,1 @@
+{"usernameTweet": "elcekr", "ID": "754099555659022337", "text": "# sokağaçıkma  denildi neden dinlemediniz bok vardı tarandınız işte inanamıyorum hala olanlara gördüklerime", "url": "/elcekr/status/754099555659022337", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:45:19", "is_reply": false, "is_retweet": false, "user_id": "2501192682"}

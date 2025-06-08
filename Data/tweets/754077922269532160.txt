@@ -1,0 +1,1 @@
+{"usernameTweet": "estebansonofsun", "ID": "754077922269532160", "text": "# sokağasakınçıkma   https:// twitter.com/degendarious/s tatus/754077822625480705   …", "url": "/estebansonofsun/status/754077922269532160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:21", "is_reply": false, "is_retweet": false, "user_id": "45935617"}

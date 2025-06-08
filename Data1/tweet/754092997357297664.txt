@@ -1,0 +1,1 @@
+{"usernameTweet": "gmeydannci", "ID": "754092997357297664", "text": "# SokağaSakınÇıkma", "url": "/gmeydannci/status/754092997357297664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:15", "is_reply": false, "is_retweet": false, "user_id": "1586717845"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "arabistanl1", "ID": "1281711820999479304", "text": "Çok ciddi sonuçları ne olabilir mesela? Yine bir  darbe  mi planlayacaklar?", "url": "/arabistanl1/status/1281711820999479304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 01:08:05", "is_reply": true, "is_retweet": false, "user_id": "1197071735889309696"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "MiyusaAsya", "ID": "754103108091904000", "text": "# SokağaSakınÇıkma   pic.twitter.com/E4cuvLjWx1", "url": "/MiyusaAsya/status/754103108091904000", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:59:26", "is_reply": false, "is_retweet": false, "user_id": "1180056762"}

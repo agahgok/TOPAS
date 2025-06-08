@@ -1,0 +1,1 @@
+{"usernameTweet": "sevgi1705", "ID": "754073924493799424", "text": "Siz nasıl hain namussuzsunuz  #SokağaSakınÇıkma  diye tag açmışsınız o.. cocukları", "url": "/sevgi1705/status/754073924493799424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:28", "is_reply": false, "is_retweet": false, "user_id": "4237404802"}

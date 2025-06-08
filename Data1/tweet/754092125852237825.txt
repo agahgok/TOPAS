@@ -1,0 +1,1 @@
+{"usernameTweet": "nykcc", "ID": "754092125852237825", "text": "# SokağaSakınÇıkma  başkanlık için oyun bu galyana gelme", "url": "/nykcc/status/754092125852237825", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:47", "is_reply": false, "is_retweet": false, "user_id": "1477782661"}

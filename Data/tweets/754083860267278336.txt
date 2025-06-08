@@ -1,0 +1,1 @@
+{"usernameTweet": "katipoglu26", "ID": "754083860267278336", "text": "# sokağasakıncıkma  bu gece darbe yapildi,yarin sabah bastirilir,ögleden sonrada baskanlik ilan edilir...", "url": "/katipoglu26/status/754083860267278336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:57", "is_reply": false, "is_retweet": false, "user_id": "193091748"}

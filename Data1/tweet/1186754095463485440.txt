@@ -1,0 +1,1 @@
+{"usernameTweet": "AsiArslan11", "ID": "1186754095463485440", "text": "Sen görevini iyi yapınca karın daha da azgın oturuyor yarrağımın üzerinde  alikemal", "url": "/AsiArslan11/status/1186754095463485440", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2019-10-23 00:19:59", "is_reply": true, "is_retweet": false, "user_id": "1177918890900443136"}

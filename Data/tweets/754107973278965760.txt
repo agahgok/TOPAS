@@ -1,0 +1,1 @@
+{"usernameTweet": "troisbleu", "ID": "754107973278965760", "text": "meclis'e bomba \"bunlar bizim çocuklar değil\" diyebilmek için mi atıldı? #SokağaSakınÇıkma", "url": "/troisbleu/status/754107973278965760", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:18:46", "is_reply": false, "is_retweet": false, "user_id": "222567550"}

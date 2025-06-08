@@ -1,0 +1,1 @@
+{"usernameTweet": "kadiircan", "ID": "754085776342806529", "text": "# SokağaSakınÇıkma  Diyenler çıkmasın askere karşı değil kimse darbe yapmak isteyen şerefsizlere bizim lafımız", "url": "/kadiircan/status/754085776342806529", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:33", "is_reply": false, "is_retweet": false, "user_id": "348100941"}

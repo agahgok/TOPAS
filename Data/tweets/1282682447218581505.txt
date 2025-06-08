@@ -1,0 +1,1 @@
+{"usernameTweet": "kucukduyumlar", "ID": "1282682447218581505", "text": "# 15TemmuzuUnutma \nBir tiyatroyu nasıl  darbe  diye sana yuttururlar bunu unutma", "url": "/kucukduyumlar/status/1282682447218581505", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 17:25:01", "is_reply": false, "is_retweet": false, "user_id": "1141652065195843584"}

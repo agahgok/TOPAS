@@ -1,0 +1,1 @@
+{"usernameTweet": "dnztkklc", "ID": "754083622332792834", "text": "# SokağaSakınÇıkma   pic.twitter.com/SJ6Nxw7whW", "url": "/dnztkklc/status/754083622332792834", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:42:00", "is_reply": false, "is_retweet": false, "user_id": "3938769989"}

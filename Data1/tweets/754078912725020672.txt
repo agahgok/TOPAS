@@ -1,0 +1,1 @@
+{"usernameTweet": "turkcu_yol", "ID": "754078912725020672", "text": "# SokağaSakınÇıkma  Uzun süredir tasarlanan bir plan olduğu bariz belli", "url": "/turkcu_yol/status/754078912725020672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:17", "is_reply": false, "is_retweet": false, "user_id": "701191166474244097"}

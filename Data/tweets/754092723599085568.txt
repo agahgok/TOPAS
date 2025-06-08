@@ -1,0 +1,1 @@
+{"usernameTweet": "M_E_T_E_H_H_A_N", "ID": "754092723599085568", "text": "# SokağaSakınÇıkma  PERİSCOPE'u açın. Çok sayıda yaralı var...", "url": "/M_E_T_E_H_H_A_N/status/754092723599085568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:10", "is_reply": false, "is_retweet": false, "user_id": "746480481294782464"}

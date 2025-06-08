@@ -1,0 +1,1 @@
+{"usernameTweet": "ZeynepBallkaya2", "ID": "754092001889574912", "text": "İÇ SAVAŞIN ÇIKMASINI İSTEMİYORSAN #SokağaSakınÇıkma", "url": "/ZeynepBallkaya2/status/754092001889574912", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:15:18", "is_reply": false, "is_retweet": false, "user_id": "2964744616"}

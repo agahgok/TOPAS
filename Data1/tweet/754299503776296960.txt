@@ -1,0 +1,1 @@
+{"usernameTweet": "asudekck", "ID": "754299503776296960", "text": "# askerimedokunma  #DarbeDeğilTiyatro  #sokağasakınçıkma  ", "url": "/asudekck/status/754299503776296960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 15:59:50", "is_reply": false, "is_retweet": false, "user_id": "752833862217175041"}

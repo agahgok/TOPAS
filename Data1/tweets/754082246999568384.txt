@@ -1,0 +1,1 @@
+{"usernameTweet": "yavuzselim20231", "ID": "754082246999568384", "text": "# SokağaSakınÇıkma  BU ASKER İLE MİLLETİ KARŞI KARŞIYA  GETİRME  pic.twitter.com/lRrPdHSpqN", "url": "/yavuzselim20231/status/754082246999568384", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:36:32", "is_reply": false, "is_retweet": false, "user_id": "2968114161"}

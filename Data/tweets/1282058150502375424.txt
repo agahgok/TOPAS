@@ -1,0 +1,1 @@
+{"usernameTweet": "hmhayal", "ID": "1282058150502375424", "text": "aşırı modum yüksek acaba ne zaman  darbe  yicem", "url": "/hmhayal/status/1282058150502375424", "nbr_retweet": 21, "nbr_favorite": 1424, "nbr_reply": 17, "datetime": "2020-07-12 00:04:17", "is_reply": false, "is_retweet": false, "user_id": "1165339220237594624"}

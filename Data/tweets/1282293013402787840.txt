@@ -1,0 +1,1 @@
+{"usernameTweet": "rescavente", "ID": "1282293013402787840", "text": "Erken  darbe  var ", "url": "/rescavente/status/1282293013402787840", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 15:37:32", "is_reply": true, "is_retweet": false, "user_id": "195211910"}

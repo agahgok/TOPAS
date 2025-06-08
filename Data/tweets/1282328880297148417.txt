@@ -1,0 +1,1 @@
+{"usernameTweet": "deadpollllll", "ID": "1282328880297148417", "text": "Biraz zor karar ya  darbe  olsaydı saf önceden belli olmaz ", "url": "/deadpollllll/status/1282328880297148417", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 18:00:04", "is_reply": true, "is_retweet": false, "user_id": "3068998091"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "527430", "ID": "754098923816353793", "text": "Yaptığınız 1453 ten bile ucuzdu. Fragmanda kaldınız yine. Papucumun senaristleri #SokağaSakınÇıkma", "url": "/527430/status/754098923816353793", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:42:48", "is_reply": false, "is_retweet": false, "user_id": "3044025869"}

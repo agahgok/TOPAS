@@ -1,0 +1,1 @@
+{"usernameTweet": "csknbrs", "ID": "754073479289372674", "text": "Oyuna gelmeyin provokasyona gelmeyin sokağa çıkmayın  #SokağaSakınÇıkma", "url": "/csknbrs/status/754073479289372674", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:42", "is_reply": false, "is_retweet": false, "user_id": "318507224"}

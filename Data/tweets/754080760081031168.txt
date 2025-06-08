@@ -1,0 +1,1 @@
+{"usernameTweet": "yesilperiniz", "ID": "754080760081031168", "text": "Devletin çıkmadığı sokakta haklın ne işi var? #SokağaSakınÇıkma", "url": "/yesilperiniz/status/754080760081031168", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:30:38", "is_reply": false, "is_retweet": false, "user_id": "463645200"}

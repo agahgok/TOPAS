@@ -1,0 +1,1 @@
+{"usernameTweet": "noaccidence", "ID": "754096008108371969", "text": "Asker, paralel bahane\nDarbe, baskanlik sahane\n#SokağaSakınÇıkma", "url": "/noaccidence/status/754096008108371969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:13", "is_reply": false, "is_retweet": false, "user_id": "2568538736"}

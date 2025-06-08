@@ -1,0 +1,1 @@
+{"usernameTweet": "Canerzbk58", "ID": "754068486008270848", "text": "# SokagaCikma", "url": "/Canerzbk58/status/754068486008270848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:41:51", "is_reply": false, "is_retweet": false, "user_id": "2372831498"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Cu50417684", "ID": "1282005903584243712", "text": "Bitti o eski Türkiye yıkmak yok  darbe  yok Ab şikayet alpence durmak yok", "url": "/Cu50417684/status/1282005903584243712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 20:36:40", "is_reply": true, "is_retweet": false, "user_id": "1281656370819936256"}

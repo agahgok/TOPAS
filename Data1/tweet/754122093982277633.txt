@@ -1,0 +1,1 @@
+{"usernameTweet": "mmikerinoss", "ID": "754122093982277633", "text": "ulan şansa yaşıyoruz  #DarbeyeHayır  #DarbeDeğilTiyatro  #SokağaÇıkma", "url": "/mmikerinoss/status/754122093982277633", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 04:14:52", "is_reply": false, "is_retweet": false, "user_id": "721004109407645696"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "atunahanyucel", "ID": "754099430698131456", "text": "Onca şehit verdik sokağa çıkın dedi mi? Demedi kananlardan olma!  #SokağaÇıkma", "url": "/atunahanyucel/status/754099430698131456", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:44:49", "is_reply": false, "is_retweet": false, "user_id": "2240372182"}

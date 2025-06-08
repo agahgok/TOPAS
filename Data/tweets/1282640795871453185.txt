@@ -1,0 +1,1 @@
+{"usernameTweet": "Damlag_8", "ID": "1282640795871453185", "text": "Darbe  üstüne darbee", "url": "/Damlag_8/status/1282640795871453185", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2020-07-13 14:39:30", "is_reply": false, "is_retweet": false, "user_id": "1266820534601428999"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Fairy_0101", "ID": "754079084704100352", "text": "Ezan sesleri geliyor, noluyoruz yahu #SokağaSakınÇıkma", "url": "/Fairy_0101/status/754079084704100352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:58", "is_reply": false, "is_retweet": false, "user_id": "333413805"}

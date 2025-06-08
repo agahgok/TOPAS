@@ -1,0 +1,1 @@
+{"usernameTweet": "Rmkgood", "ID": "1281454254167855106", "text": "Bence levent özerende fetöcülük de olabilir.  Darbe  zamanı attığı tweetler ortada.", "url": "/Rmkgood/status/1281454254167855106", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 08:04:37", "is_reply": false, "is_retweet": false, "user_id": "1158000110808326144"}

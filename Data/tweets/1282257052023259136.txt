@@ -1,0 +1,1 @@
+{"usernameTweet": "__sakuraD", "ID": "1282257052023259136", "text": "Jongdae hafiften yaşlanmış gibi duruyor, bu bende ağır bir  darbe  yarattı ", "url": "/__sakuraD/status/1282257052023259136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 13:14:39", "is_reply": false, "is_retweet": false, "user_id": "1228734269373272067"}

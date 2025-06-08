@@ -1,0 +1,1 @@
+{"usernameTweet": "bakla171", "ID": "754082844180295681", "text": "# darbeyehayır  #Sokağasakınçıkma", "url": "/bakla171/status/754082844180295681", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:54", "is_reply": false, "is_retweet": false, "user_id": "4067572948"}

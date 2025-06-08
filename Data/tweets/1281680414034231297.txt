@@ -1,0 +1,1 @@
+{"usernameTweet": "denzel_seks", "ID": "1281680414034231297", "text": "Evet https:// twitter.com/cok_sacmaa/sta tus/1281677382487875584   …", "url": "/denzel_seks/status/1281680414034231297", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-10 23:03:17", "is_reply": false, "is_retweet": false, "user_id": "936237142010925056"}

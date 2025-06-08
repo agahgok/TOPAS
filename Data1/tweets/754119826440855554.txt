@@ -1,0 +1,1 @@
+{"usernameTweet": "batyremin", "ID": "754119826440855554", "text": "# SokağaSakınçıkma", "url": "/batyremin/status/754119826440855554", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:05:52", "is_reply": false, "is_retweet": false, "user_id": "229173834"}

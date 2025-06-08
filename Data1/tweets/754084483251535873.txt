@@ -1,0 +1,1 @@
+{"usernameTweet": "beykozhasan61", "ID": "754084483251535873", "text": "# Ankara  #SokağaSakınÇıkma   YEDİRMEYİZ    pic.twitter.com/LojHwTbfxX", "url": "/beykozhasan61/status/754084483251535873", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:25", "is_reply": false, "is_retweet": false, "user_id": "581955425"}

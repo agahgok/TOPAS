@@ -1,0 +1,1 @@
+{"usernameTweet": "gecem_sessiz", "ID": "754092378118557697", "text": "# SokağaSakınÇıkma  cok pis seyler dönüyor", "url": "/gecem_sessiz/status/754092378118557697", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:47", "is_reply": false, "is_retweet": false, "user_id": "711118821336162304"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yakamoz_2763", "ID": "754074272063164416", "text": "Pic kurtları sonuna kadar sokakta olacağız #SokağaSakınÇıkma", "url": "/yakamoz_2763/status/754074272063164416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:51", "is_reply": false, "is_retweet": false, "user_id": "251125984"}

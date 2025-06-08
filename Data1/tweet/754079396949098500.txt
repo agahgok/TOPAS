@@ -1,0 +1,1 @@
+{"usernameTweet": "candygirlss_", "ID": "754079396949098500", "text": "Sakin cikmayin  #SokağaSakınÇıkma", "url": "/candygirlss_/status/754079396949098500", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:25:13", "is_reply": false, "is_retweet": false, "user_id": "714090765383806976"}

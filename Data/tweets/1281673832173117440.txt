@@ -1,0 +1,1 @@
+{"usernameTweet": "xuajiyng", "ID": "1281673832173117440", "text": "Her gün bir  darbe  Osmanlı olsam böyle cokmezdim", "url": "/xuajiyng/status/1281673832173117440", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 22:37:08", "is_reply": true, "is_retweet": false, "user_id": "1213743230770012161"}

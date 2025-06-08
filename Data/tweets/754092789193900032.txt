@@ -1,0 +1,1 @@
+{"usernameTweet": "yaaaaaaaaaaazz", "ID": "754092789193900032", "text": "tayyip vs tayyip #sokağasakınçıkma", "url": "/yaaaaaaaaaaazz/status/754092789193900032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:25", "is_reply": false, "is_retweet": false, "user_id": "1487499415"}

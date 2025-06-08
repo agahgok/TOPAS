@@ -1,0 +1,1 @@
+{"usernameTweet": "Leclerc16Goat", "ID": "1281632203420598272", "text": "Löklök lobisi devreye girmeli en yakın zamanda Ferrari yönetimine  darbe  vurma zamanı", "url": "/Leclerc16Goat/status/1281632203420598272", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 19:51:43", "is_reply": true, "is_retweet": false, "user_id": "1027234217606955008"}

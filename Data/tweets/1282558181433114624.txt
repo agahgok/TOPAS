@@ -1,0 +1,1 @@
+{"usernameTweet": "Mesutzbay4", "ID": "1282558181433114624", "text": "Demokrasi ye  darbe  vurulurken demokratların yaptığı  pic.twitter.com/4EGpw7qQ0f", "url": "/Mesutzbay4/status/1282558181433114624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 09:11:13", "is_reply": false, "is_retweet": false, "user_id": "967057824537825280"}

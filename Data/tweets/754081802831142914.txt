@@ -1,0 +1,1 @@
+{"usernameTweet": "feyzanurrcelebi", "ID": "754081802831142914", "text": "HAYDİ MEYDANLARA fetö nün itleri yıldıramaz bizleri!! #SokağaSakınÇıkma", "url": "/feyzanurrcelebi/status/754081802831142914", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:34:46", "is_reply": false, "is_retweet": false, "user_id": "2234991035"}

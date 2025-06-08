@@ -1,0 +1,1 @@
+{"usernameTweet": "gunes_gazetesi", "ID": "1281566990159749121", "text": "MSB açıkladı! PKK'ya bir  darbe  daha!  https:// bit.ly/2ZdrKad   pic.twitter.com/8EvvZydQls", "url": "/gunes_gazetesi/status/1281566990159749121", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 15:32:35", "is_reply": false, "is_retweet": false, "user_id": "2200166471"}

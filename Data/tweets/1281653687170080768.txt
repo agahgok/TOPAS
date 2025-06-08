@@ -1,0 +1,1 @@
+{"usernameTweet": "musician788", "ID": "1281653687170080768", "text": "Vallahi çok sert bi  darbe  yapiyoruz..Şimdi coniler düşünsün ", "url": "/musician788/status/1281653687170080768", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 21:17:05", "is_reply": true, "is_retweet": false, "user_id": "219720364"}

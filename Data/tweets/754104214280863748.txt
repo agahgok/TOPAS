@@ -1,0 +1,1 @@
+{"usernameTweet": "SmrGzc", "ID": "754104214280863748", "text": "# SokağaSakınÇıkma  senin yerine Ailesi çıksın sokağa da görelimmm\n#yalancıdarbe", "url": "/SmrGzc/status/754104214280863748", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:03:49", "is_reply": false, "is_retweet": false, "user_id": "2149918335"}

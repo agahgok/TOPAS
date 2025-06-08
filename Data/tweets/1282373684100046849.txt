@@ -1,0 +1,1 @@
+{"usernameTweet": "mkara58", "ID": "1282373684100046849", "text": "Duruşunuz ' darbe  tiyatrodur' duruşu mu?", "url": "/mkara58/status/1282373684100046849", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 20:58:06", "is_reply": true, "is_retweet": false, "user_id": "142410402"}

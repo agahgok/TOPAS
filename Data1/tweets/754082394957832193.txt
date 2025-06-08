@@ -1,0 +1,1 @@
+{"usernameTweet": "AhmetYoruk0", "ID": "754082394957832193", "text": "Bu saatte sela okutarak insanları ölüme davet ediyor \n#Turkey  #SokağaSakınÇıkma", "url": "/AhmetYoruk0/status/754082394957832193", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:37:07", "is_reply": false, "is_retweet": false, "user_id": "392778839"}

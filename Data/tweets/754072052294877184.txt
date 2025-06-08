@@ -1,0 +1,1 @@
+{"usernameTweet": "gundogdu1969", "ID": "754072052294877184", "text": "Bence bu darbe cok amatorce #SokağaSakınÇıkma", "url": "/gundogdu1969/status/754072052294877184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:01", "is_reply": false, "is_retweet": false, "user_id": "733997305192321024"}

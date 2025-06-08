@@ -1,0 +1,1 @@
+{"usernameTweet": "belitsenturk", "ID": "754067132317634560", "text": "Halkı sokağa çağırırken, kendi facetime ile bağlanıyor. Önce sen çıksana sokağa ? #darbe  #sokağasakınçıkma", "url": "/belitsenturk/status/754067132317634560", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:36:28", "is_reply": false, "is_retweet": false, "user_id": "192213714"}

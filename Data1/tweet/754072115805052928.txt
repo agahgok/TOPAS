@@ -1,0 +1,1 @@
+{"usernameTweet": "VetHek1", "ID": "754072115805052928", "text": "İç savaş çıkartılmak isteniyor #SokağaSakınÇıkma", "url": "/VetHek1/status/754072115805052928", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:56:17", "is_reply": false, "is_retweet": false, "user_id": "2382040033"}

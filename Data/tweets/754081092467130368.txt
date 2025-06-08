@@ -1,0 +1,1 @@
+{"usernameTweet": "CaRpeDieM_B", "ID": "754081092467130368", "text": "Cami meydanlara çıkın diyor imam diyor bunu #SokağaSakınÇıkma", "url": "/CaRpeDieM_B/status/754081092467130368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:57", "is_reply": false, "is_retweet": false, "user_id": "116510784"}

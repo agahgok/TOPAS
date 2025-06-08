@@ -1,0 +1,1 @@
+{"usernameTweet": "baqale", "ID": "754082687351136256", "text": "Bu işin içinde bir SADAT var !!! #DarbeSenaryosu  #SokağaSakınÇıkma", "url": "/baqale/status/754082687351136256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:17", "is_reply": false, "is_retweet": false, "user_id": "870022681"}

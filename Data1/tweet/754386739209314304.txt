@@ -1,0 +1,1 @@
+{"usernameTweet": "YaseminYuruk", "ID": "754386739209314304", "text": "# sokağasakınçıkma  lutfen!!!", "url": "/YaseminYuruk/status/754386739209314304", "nbr_retweet": 4, "nbr_favorite": 14, "nbr_reply": 1, "datetime": "2016-07-16 21:46:29", "is_reply": false, "is_retweet": false, "user_id": "138365024"}

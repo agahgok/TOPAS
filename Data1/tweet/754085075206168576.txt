@@ -1,0 +1,1 @@
+{"usernameTweet": "IMHeavym", "ID": "754085075206168576", "text": "saat  1:45 (yer şişli) ve ezan olunuyor ne ezanı acaba bu?? \n#Ankara \n#SokağaSakınÇıkma", "url": "/IMHeavym/status/754085075206168576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:46", "is_reply": false, "is_retweet": false, "user_id": "146962003"}

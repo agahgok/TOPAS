@@ -1,0 +1,1 @@
+{"usernameTweet": "gursoyselin1", "ID": "754081818270437377", "text": "Erdogan sokağa çıkın diyosa emin olun kendi kaçıyordur. #SokağaSakınÇıkma", "url": "/gursoyselin1/status/754081818270437377", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:34:50", "is_reply": false, "is_retweet": false, "user_id": "3307421944"}

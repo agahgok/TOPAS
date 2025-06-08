@@ -1,0 +1,1 @@
+{"usernameTweet": "erdkzem", "ID": "754080125583437824", "text": "Çok kan dökülecek. Sokağa çıkmayın. #SokağaSakınÇıkma", "url": "/erdkzem/status/754080125583437824", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:28:06", "is_reply": false, "is_retweet": false, "user_id": "631099271"}

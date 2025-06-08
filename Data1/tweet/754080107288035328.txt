@@ -1,0 +1,1 @@
+{"usernameTweet": "mecitogrenci", "ID": "754080107288035328", "text": "Biraz önce telefonuma gelen video  #SokağaSakınÇıkma   pic.twitter.com/nWYJoTq6dk", "url": "/mecitogrenci/status/754080107288035328", "nbr_retweet": 10, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:28:02", "is_reply": false, "is_retweet": false, "user_id": "180954257"}

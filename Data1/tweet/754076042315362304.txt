@@ -1,0 +1,1 @@
+{"usernameTweet": "hlylcn", "ID": "754076042315362304", "text": "# sokağaçıkma  #meydanainmiyoruz", "url": "/hlylcn/status/754076042315362304", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:53", "is_reply": false, "is_retweet": false, "user_id": "156655329"}

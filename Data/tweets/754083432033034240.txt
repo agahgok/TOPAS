@@ -1,0 +1,1 @@
+{"usernameTweet": "muratmalt", "ID": "754083432033034240", "text": "Joleli çıksın önce, sen #SokağaSakınÇıkma", "url": "/muratmalt/status/754083432033034240", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:41:15", "is_reply": false, "is_retweet": false, "user_id": "1163804984"}

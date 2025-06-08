@@ -1,0 +1,1 @@
+{"usernameTweet": "k_gozutok", "ID": "754081407778127876", "text": "# SokağaSakınÇıkma  Erzurum  pic.twitter.com/k4LkmiOeyO", "url": "/k_gozutok/status/754081407778127876", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:12", "is_reply": false, "is_retweet": false, "user_id": "276874016"}

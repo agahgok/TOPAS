@@ -1,0 +1,1 @@
+{"usernameTweet": "y_karacapinar", "ID": "754071664216932352", "text": "Bu isin sakasi yok asker onune geleni ezer \n #SokağaSakınÇıkma", "url": "/y_karacapinar/status/754071664216932352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:29", "is_reply": false, "is_retweet": false, "user_id": "2912958675"}

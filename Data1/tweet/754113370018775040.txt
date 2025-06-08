@@ -1,0 +1,1 @@
+{"usernameTweet": "35_Alkim_35", "ID": "754113370018775040", "text": "Bugün kurban bayramı erken gelmiş gibiydi tüm koyunlar sokaktaydı.. #darbedeğiltiyatro  #SokağaSakınÇıkma", "url": "/35_Alkim_35/status/754113370018775040", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:40:12", "is_reply": false, "is_retweet": false, "user_id": "2246770073"}

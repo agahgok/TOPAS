@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafa46425", "ID": "754074551114461188", "text": "Kefenimi giydim ve an itibariyle sokaktayım #SokağaSakınÇıkma", "url": "/mustafa46425/status/754074551114461188", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:57", "is_reply": false, "is_retweet": false, "user_id": "712698269395263489"}

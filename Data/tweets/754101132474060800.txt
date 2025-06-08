@@ -1,0 +1,1 @@
+{"usernameTweet": "AyferBoyle", "ID": "754101132474060800", "text": "# SokağaSakınÇıkma  Son aylarda o kadar şehitimiz oldu, bu kadar çok sela duymadık", "url": "/AyferBoyle/status/754101132474060800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:51:35", "is_reply": false, "is_retweet": false, "user_id": "4602379937"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "CoksennUtku", "ID": "754095365566103552", "text": "# SokağaSakınÇıkma", "url": "/CoksennUtku/status/754095365566103552", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:28:40", "is_reply": false, "is_retweet": false, "user_id": "2391845885"}

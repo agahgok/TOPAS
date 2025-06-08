@@ -1,0 +1,1 @@
+{"usernameTweet": "CanTurkalp", "ID": "754088794224222214", "text": "# SokağaSakınÇıkma  bunlar tiyatro oyuna gelme", "url": "/CanTurkalp/status/754088794224222214", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:33", "is_reply": false, "is_retweet": false, "user_id": "2299641791"}

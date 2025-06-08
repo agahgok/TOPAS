@@ -1,0 +1,1 @@
+{"usernameTweet": "htctanrisevsin", "ID": "754077752169533440", "text": "Koyun değilsen #SokağaSakınÇıkma", "url": "/htctanrisevsin/status/754077752169533440", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:18:40", "is_reply": false, "is_retweet": false, "user_id": "2162339383"}

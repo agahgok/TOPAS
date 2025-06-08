@@ -1,0 +1,1 @@
+{"usernameTweet": "elifkayaa__", "ID": "754073519386918912", "text": "alet olmayın.  #SokağaSakınÇıkma", "url": "/elifkayaa__/status/754073519386918912", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:01:51", "is_reply": false, "is_retweet": false, "user_id": "2957559868"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Vakiaben", "ID": "754276861786656768", "text": "# SokağaSakınÇıkma  diyenlere inat #sokaklardançıkma", "url": "/Vakiaben/status/754276861786656768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 14:29:52", "is_reply": false, "is_retweet": false, "user_id": "1590503610"}

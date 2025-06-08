@@ -1,0 +1,1 @@
+{"usernameTweet": "ferhatdogan", "ID": "754090566300860416", "text": "# SokağaSakınÇıkma \n#DarbeyeHayır \n#DarbeyeKarşıÜlkeneSahipÇık pic.twitter.com/Gn7qYP3cAk", "url": "/ferhatdogan/status/754090566300860416", "nbr_retweet": 1, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 02:09:35", "is_reply": false, "is_retweet": false, "user_id": "76460562"}

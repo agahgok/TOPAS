@@ -1,0 +1,1 @@
+{"usernameTweet": "M_ergul47", "ID": "1282082737344700419", "text": "\"Kaç  darbe  alıp hayatta yoluna devam edebiliyorsun?\nİşte kazanmak böyle bir şey!\"", "url": "/M_ergul47/status/1282082737344700419", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 01:41:59", "is_reply": false, "is_retweet": false, "user_id": "485926493"}

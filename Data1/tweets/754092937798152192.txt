@@ -1,0 +1,1 @@
+{"usernameTweet": "bets_bety", "ID": "754092937798152192", "text": "# SokağaSakınÇıkma  tiyatro süper, way be ne oynadınız!", "url": "/bets_bety/status/754092937798152192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:01", "is_reply": false, "is_retweet": false, "user_id": "108393955"}

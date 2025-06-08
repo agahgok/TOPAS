@@ -1,0 +1,1 @@
+{"usernameTweet": "gotlalelerim", "ID": "1281687512549908483", "text": "DARBE  USTUNE  DARBE \n\n#SahteDokuz pic.twitter.com/sYbAQPPlnC", "url": "/gotlalelerim/status/1281687512549908483", "nbr_retweet": 0, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2020-07-10 23:31:30", "is_reply": false, "is_retweet": false, "user_id": "1104474555433844738"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ne_kadar", "ID": "754087462805307392", "text": "# SokağaSakınÇıkma  Halk TV uydu yayını kesildi, sitesinede giremiyorum, bilgisi olan var mı", "url": "/ne_kadar/status/754087462805307392", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:16", "is_reply": false, "is_retweet": false, "user_id": "556652345"}

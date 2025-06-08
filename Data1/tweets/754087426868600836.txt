@@ -1,0 +1,1 @@
+{"usernameTweet": "berguzarrrrrr", "ID": "754087426868600836", "text": "Sermayesi din olanın kılavuzu şeytandır güzelim dinimizi alet etmeyin oyunlarınıza #SokağaSakınÇıkma", "url": "/berguzarrrrrr/status/754087426868600836", "nbr_retweet": 3, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:57:07", "is_reply": false, "is_retweet": false, "user_id": "2719887029"}

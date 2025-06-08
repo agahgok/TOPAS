@@ -1,0 +1,1 @@
+{"usernameTweet": "kgoz_gokhan", "ID": "754081517077467137", "text": "Herkes sokağa darbeciler cuntacılar toprağın altına.. #SokağaSakınÇıkma", "url": "/kgoz_gokhan/status/754081517077467137", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:38", "is_reply": false, "is_retweet": false, "user_id": "741299838273388545"}

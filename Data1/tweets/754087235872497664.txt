@@ -1,0 +1,1 @@
+{"usernameTweet": "CemalGeyveli", "ID": "754087235872497664", "text": "# SokağaSakınÇıkma  Bu saatte birde ezan okunmaya başladı yeminlen bunlar kafayı yedi dinden  de soğudum", "url": "/CemalGeyveli/status/754087235872497664", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2016-07-16 01:56:21", "is_reply": false, "is_retweet": false, "user_id": "3153578514"}

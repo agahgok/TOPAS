@@ -1,0 +1,1 @@
+{"usernameTweet": "Alikemal_uzun", "ID": "1185541297102295040", "text": "# LGBT pic.twitter.com/wqvycBy1Q3", "url": "/Alikemal_uzun/status/1185541297102295040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2019-10-19 16:00:46", "is_reply": false, "is_retweet": false, "user_id": "149129212"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "meervesahiin", "ID": "754090501243039744", "text": "Bu okunan selalar ölen Türkiyenindir.\n\n#SokağaSakınÇıkma", "url": "/meervesahiin/status/754090501243039744", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:09:20", "is_reply": false, "is_retweet": false, "user_id": "2156979367"}

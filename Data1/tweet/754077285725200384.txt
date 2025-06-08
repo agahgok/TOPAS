@@ -1,0 +1,1 @@
+{"usernameTweet": "atillalu", "ID": "754077285725200384", "text": "Bu oyun kimin işine yarayacak acaba?? #SokağaSakınÇıkma", "url": "/atillalu/status/754077285725200384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:49", "is_reply": false, "is_retweet": false, "user_id": "1480752408"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TunaliSuel", "ID": "754076895696814080", "text": "# SokağaSakınÇıkma  !!!!!!!!!!!!!!!!!", "url": "/TunaliSuel/status/754076895696814080", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:15:16", "is_reply": false, "is_retweet": false, "user_id": "3400526651"}

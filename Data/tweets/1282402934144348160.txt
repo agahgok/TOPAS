@@ -1,0 +1,1 @@
+{"usernameTweet": "djnobran", "ID": "1282402934144348160", "text": "darbe  oldu kardeş", "url": "/djnobran/status/1282402934144348160", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 22:54:20", "is_reply": true, "is_retweet": false, "user_id": "1173846131421396992"}

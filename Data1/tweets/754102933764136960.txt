@@ -1,0 +1,1 @@
+{"usernameTweet": "Bumerang_TT", "ID": "754102933764136960", "text": "AKP yandasi degilsen .. Size hemen kanitlayayim  #SokağaSakınÇıkma   pic.twitter.com/SOyvFgs2Dz", "url": "/Bumerang_TT/status/754102933764136960", "nbr_retweet": 6, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2016-07-16 02:58:44", "is_reply": false, "is_retweet": false, "user_id": "169008346"}

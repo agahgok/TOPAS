@@ -1,0 +1,1 @@
+{"usernameTweet": "Serhat_Ermez", "ID": "754077434459332609", "text": "Sokağa çıkanlara çapulcu diyenler şimdi sokağa çağrı yapıyor; hemde evinde oturarak..!\n#SokağaSakınÇıkma", "url": "/Serhat_Ermez/status/754077434459332609", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:17:25", "is_reply": false, "is_retweet": false, "user_id": "207032666"}

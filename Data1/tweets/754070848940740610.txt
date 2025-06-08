@@ -1,0 +1,1 @@
+{"usernameTweet": "shamankurt", "ID": "754070848940740610", "text": "İç Anadolu da bazı illerde halk sokağa dökülmüş. Gaza gelmişler iç savaşa doğru sürükleniyoruz. #SokağaÇıkma", "url": "/shamankurt/status/754070848940740610", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:51:15", "is_reply": false, "is_retweet": false, "user_id": "539142661"}

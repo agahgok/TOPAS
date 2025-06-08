@@ -1,0 +1,1 @@
+{"usernameTweet": "19FRMZ19", "ID": "754082351903346689", "text": "Alman kanallarında Erdoğan, Alman'yadan sığınma talebinde bulundu diyor.!! #SokağaSakınÇıkma", "url": "/19FRMZ19/status/754082351903346689", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:36:57", "is_reply": false, "is_retweet": false, "user_id": "2168734365"}

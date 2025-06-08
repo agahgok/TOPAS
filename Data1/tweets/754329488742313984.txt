@@ -1,0 +1,1 @@
+{"usernameTweet": "ynscn42", "ID": "754329488742313984", "text": "# SokağaSakınÇıkma  diyenler DARBECİLERİN ta kendisidir.\nSokağa çık DARBEYE DUR DE !..", "url": "/ynscn42/status/754329488742313984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 17:58:59", "is_reply": false, "is_retweet": false, "user_id": "2213835222"}

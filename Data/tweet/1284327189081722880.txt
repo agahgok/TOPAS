@@ -1,0 +1,1 @@
+{"usernameTweet": "Joninha_Dabe", "ID": "1284327189081722880", "text": "Somos cobras amorosas kkkkk ", "url": "/Joninha_Dabe/status/1284327189081722880", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 06:20:38", "is_reply": true, "is_retweet": false, "user_id": "1075976884104650752"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "calimero_h", "ID": "754079431447154690", "text": "# SokağaSakınÇıkma  oyuna gelme", "url": "/calimero_h/status/754079431447154690", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:21", "is_reply": false, "is_retweet": false, "user_id": "1064225119"}

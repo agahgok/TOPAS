@@ -1,0 +1,1 @@
+{"usernameTweet": "leylamutluer", "ID": "754075969825013760", "text": "Tayyip bizi canlı kalkan yapacağına Bilal'i alıp çık sokağa  #SokağaSakınÇıkma", "url": "/leylamutluer/status/754075969825013760", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:11:35", "is_reply": false, "is_retweet": false, "user_id": "1070853566"}

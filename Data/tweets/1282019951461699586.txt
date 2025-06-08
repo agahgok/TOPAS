@@ -1,0 +1,1 @@
+{"usernameTweet": "Feyza59918084", "ID": "1282019951461699586", "text": "# rektörüninsafınakaldık  geleceğimize bir  darbe  de siz vurmayın. @atauni_rektor", "url": "/Feyza59918084/status/1282019951461699586", "nbr_retweet": 7, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-11 21:32:29", "is_reply": false, "is_retweet": false, "user_id": "1281647436805681160"}

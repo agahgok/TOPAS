@@ -1,0 +1,1 @@
+{"usernameTweet": "seelenophile", "ID": "754080070491316224", "text": "Gaziantep te ezan okundu  #Turkey  #Türkei  #Sokağasakınçıkma", "url": "/seelenophile/status/754080070491316224", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:53", "is_reply": false, "is_retweet": false, "user_id": "251123837"}

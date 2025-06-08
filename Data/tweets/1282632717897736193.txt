@@ -1,0 +1,1 @@
+{"usernameTweet": "IspartaMuhtarii", "ID": "1282632717897736193", "text": "Şu Isparta’da kriz gördük,  darbe  gördük, virüs gördük ama bi gerçek aşkı göremedik", "url": "/IspartaMuhtarii/status/1282632717897736193", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-13 14:07:24", "is_reply": false, "is_retweet": false, "user_id": "1271982719203934215"}

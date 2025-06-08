@@ -1,0 +1,1 @@
+{"usernameTweet": "ol6PZFbaAZGEPdE", "ID": "1284320101014134784", "text": "اللهم عجل لوليك الفرج والنصر والغلبه ياكريم", "url": "/ol6PZFbaAZGEPdE/status/1284320101014134784", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 05:52:28", "is_reply": true, "is_retweet": false, "user_id": "1201242336124002304"}

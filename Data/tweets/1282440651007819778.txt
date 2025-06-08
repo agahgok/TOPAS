@@ -1,0 +1,1 @@
+{"usernameTweet": "LordAiswatchin", "ID": "1282440651007819778", "text": "*HUGS* w b5sous l 6 months, bymshe l 7al b coma baed  darbe  awiye?", "url": "/LordAiswatchin/status/1282440651007819778", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 01:24:12", "is_reply": true, "is_retweet": false, "user_id": "1267528393953869832"}

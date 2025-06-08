@@ -1,0 +1,1 @@
+{"usernameTweet": "TC_Kimyager", "ID": "754087216549330944", "text": "Camileride oyunlarına alet ettiler.\nNe de 3000 lira maaş alan imamların başka işi ne...\n #SokağaSakınÇıkma", "url": "/TC_Kimyager/status/754087216549330944", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:56:17", "is_reply": false, "is_retweet": false, "user_id": "2260126574"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "comikase", "ID": "754072869185945600", "text": "Olm patlama sesleri geliyor dışarıdan. Göztepe civarı.  #SokağaSakınÇıkma  #darbe", "url": "/comikase/status/754072869185945600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:16", "is_reply": false, "is_retweet": false, "user_id": "564761535"}

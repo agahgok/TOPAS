@@ -1,0 +1,1 @@
+{"usernameTweet": "AbdulSener", "ID": "754085655953768448", "text": "Bu hastagi kulanan herkes VATAN HAINI!!! Zalimler icin yasasin CEHENNEM!! #SokağaSakınÇıkma", "url": "/AbdulSener/status/754085655953768448", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:50:05", "is_reply": false, "is_retweet": false, "user_id": "586035015"}

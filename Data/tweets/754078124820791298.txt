@@ -1,0 +1,1 @@
+{"usernameTweet": "evriimcarkcii", "ID": "754078124820791298", "text": "# SokagaCikma  !!", "url": "/evriimcarkcii/status/754078124820791298", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:09", "is_reply": false, "is_retweet": false, "user_id": "3081929103"}

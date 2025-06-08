@@ -1,0 +1,1 @@
+{"usernameTweet": "sezgindogan75", "ID": "754091124478861313", "text": "Levent Kırca'nın darbe skeci bile daha gerçekçiydi lan. Kim kurguladı bu tiyatroyu:) \n#SokağaSakınÇıkma", "url": "/sezgindogan75/status/754091124478861313", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:49", "is_reply": false, "is_retweet": false, "user_id": "2264115572"}

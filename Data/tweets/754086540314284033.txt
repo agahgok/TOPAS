@@ -1,0 +1,1 @@
+{"usernameTweet": "crnzrl", "ID": "754086540314284033", "text": "darbe olsaydi zaten sokaga cikamazdik niye boyle panikledinizki\n#SokağaSakınÇıkma", "url": "/crnzrl/status/754086540314284033", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:36", "is_reply": false, "is_retweet": false, "user_id": "365573519"}

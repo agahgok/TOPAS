@@ -1,0 +1,1 @@
+{"usernameTweet": "Hsyncelik35", "ID": "754078211403907073", "text": "Bu bir Oruspu çocukluğu bunun bedelini ağır ödeyeciksiniz #SokağaSakınÇıkma", "url": "/Hsyncelik35/status/754078211403907073", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:30", "is_reply": false, "is_retweet": false, "user_id": "1309939111"}

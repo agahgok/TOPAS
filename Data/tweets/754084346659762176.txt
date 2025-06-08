@@ -1,0 +1,1 @@
+{"usernameTweet": "brnzan", "ID": "754084346659762176", "text": "Bilali sokakta görmeden sakın çıkmayın! Sizi sevmesekte salaklık ölmeniz için mazeret değil! #SokağaSakınÇıkma", "url": "/brnzan/status/754084346659762176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:53", "is_reply": false, "is_retweet": false, "user_id": "4662289414"}

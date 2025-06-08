@@ -1,0 +1,1 @@
+{"usernameTweet": "M_Kaplan2", "ID": "754086259518300160", "text": "# SokağaSakınÇıkma  Oyunu gör #SokağaSakınÇıkma", "url": "/M_Kaplan2/status/754086259518300160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:29", "is_reply": false, "is_retweet": false, "user_id": "2850858344"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "CVPHZR", "ID": "754082167433682944", "text": "Sokağa çıkanlar tekbir getiriyor bu nasıl iş gerçekten demokrasiye sahip çıkıyorlar ışid gibi #SokağaSakınÇıkma", "url": "/CVPHZR/status/754082167433682944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:13", "is_reply": false, "is_retweet": false, "user_id": "451368171"}

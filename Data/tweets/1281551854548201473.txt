@@ -1,0 +1,1 @@
+{"usernameTweet": "ailurossa", "ID": "1281551854548201473", "text": "darbe  üstüne  darbe , uslanmıyor bu  pic.twitter.com/5JymwWD4u4", "url": "/ailurossa/status/1281551854548201473", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-10 14:32:26", "is_reply": false, "is_retweet": false, "user_id": "3071982275"}

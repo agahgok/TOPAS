@@ -1,0 +1,1 @@
+{"usernameTweet": "sanal_manita", "ID": "754081590716821504", "text": "Camilerde başladı türkçeye geçince ne dediğini anlayacağiz inşallah #SokağaSakınÇıkma", "url": "/sanal_manita/status/754081590716821504", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:33:56", "is_reply": false, "is_retweet": false, "user_id": "4344195981"}

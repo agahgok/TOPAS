@@ -1,0 +1,1 @@
+{"usernameTweet": "Seco327", "ID": "754093520869265408", "text": "# SokağaSakınÇıkma  niye bu saatte ezan okunuyor???\nAsker ve vatandaş karşı karşıya. Hayra alamet değil.", "url": "/Seco327/status/754093520869265408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:20", "is_reply": false, "is_retweet": false, "user_id": "2215311699"}

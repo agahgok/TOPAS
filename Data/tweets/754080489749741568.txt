@@ -1,0 +1,1 @@
+{"usernameTweet": "harbi_metin", "ID": "754080489749741568", "text": "# SokağaSakınÇıkma  diyen vatan düsmanlarına meydan bırakmayalım hep birlikte sokağa çıkalım..", "url": "/harbi_metin/status/754080489749741568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:33", "is_reply": false, "is_retweet": false, "user_id": "2312645008"}

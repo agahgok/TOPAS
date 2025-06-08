@@ -1,0 +1,1 @@
+{"usernameTweet": "cepnisoylu", "ID": "754102559917350913", "text": "Gazi Meclisimizi Bombalayanlar Orospu Çocuğudur..  \n\n#SokağaSakınÇıkma", "url": "/cepnisoylu/status/754102559917350913", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:57:15", "is_reply": false, "is_retweet": false, "user_id": "3645429796"}

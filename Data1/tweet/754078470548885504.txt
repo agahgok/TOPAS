@@ -1,0 +1,1 @@
+{"usernameTweet": "SametUlar", "ID": "754078470548885504", "text": "Kimi seçtiğini bilmiyorum ama bunu seçmediğini biliyorum #SokağaÇıkma  #darbe  #BuMemleketBizim  #BurasiBiLGi", "url": "/SametUlar/status/754078470548885504", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:32", "is_reply": false, "is_retweet": false, "user_id": "319856664"}

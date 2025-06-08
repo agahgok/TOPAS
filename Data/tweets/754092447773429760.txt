@@ -1,0 +1,1 @@
+{"usernameTweet": "Hulya91252915", "ID": "754092447773429760", "text": "İbneler icin sokaga dokulenler siz zaten cikmayin   #SokağaSakınÇıkma", "url": "/Hulya91252915/status/754092447773429760", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:17:04", "is_reply": false, "is_retweet": false, "user_id": "713020718183804928"}

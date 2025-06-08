@@ -1,0 +1,1 @@
+{"usernameTweet": "birgul_baran", "ID": "754090826393907200", "text": "# SokağaSakınÇıkma", "url": "/birgul_baran/status/754090826393907200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:37", "is_reply": false, "is_retweet": false, "user_id": "721862639085887488"}

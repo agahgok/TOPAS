@@ -1,0 +1,1 @@
+{"usernameTweet": "Berkkcevik", "ID": "754070978112651264", "text": "Telefondan bağlananlar halkı sokağa davet ediyor  #SokağaSakınÇıkma", "url": "/Berkkcevik/status/754070978112651264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:45", "is_reply": false, "is_retweet": false, "user_id": "549480152"}

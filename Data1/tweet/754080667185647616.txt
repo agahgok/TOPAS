@@ -1,0 +1,1 @@
+{"usernameTweet": "HnerSucuolu", "ID": "754080667185647616", "text": "# SokağaSakınÇıkma  askerin geri dönüşü yok anlayın cikmayın yasağa oyuna gelmeyin lütfen..", "url": "/HnerSucuolu/status/754080667185647616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:15", "is_reply": false, "is_retweet": false, "user_id": "428570426"}

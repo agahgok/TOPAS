@@ -1,0 +1,1 @@
+{"usernameTweet": "Entogiii", "ID": "754095726704156672", "text": "# SokağaSakınÇıkma  yine abcunuzu yaladiniz degil mi. Tayyip ananizi siti degil mi", "url": "/Entogiii/status/754095726704156672", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:30:06", "is_reply": false, "is_retweet": false, "user_id": "728676879557873664"}

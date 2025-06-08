@@ -1,0 +1,1 @@
+{"usernameTweet": "SucaeddinBeg", "ID": "754089610775527424", "text": "# SokağaSakınÇıkma   pic.twitter.com/t2NtVAqsjX", "url": "/SucaeddinBeg/status/754089610775527424", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:48", "is_reply": false, "is_retweet": false, "user_id": "3002782773"}

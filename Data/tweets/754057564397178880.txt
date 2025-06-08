@@ -1,0 +1,1 @@
+{"usernameTweet": "kronikleyla", "ID": "754057564397178880", "text": "# sokagasakincikma", "url": "/kronikleyla/status/754057564397178880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-15 23:58:27", "is_reply": false, "is_retweet": false, "user_id": "1633522872"}

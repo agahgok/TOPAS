@@ -1,0 +1,1 @@
+{"usernameTweet": "AysuSAGDIC", "ID": "754074938265534464", "text": "Twitter bile kapanmadı... Sen düşün algı yönetimini artık. Başkanlık hayırlı olsun... #SokağaSakınÇıkma", "url": "/AysuSAGDIC/status/754074938265534464", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:29", "is_reply": false, "is_retweet": false, "user_id": "390128055"}

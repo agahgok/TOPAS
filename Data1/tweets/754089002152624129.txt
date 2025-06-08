@@ -1,0 +1,1 @@
+{"usernameTweet": "yarenilyass", "ID": "754089002152624129", "text": "Başkanlık için yapılan tiyatro müthişti tebrikler. #SokağaSakınÇıkma", "url": "/yarenilyass/status/754089002152624129", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:23", "is_reply": false, "is_retweet": false, "user_id": "3503941882"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Yiit09812148", "ID": "1281308474681503744", "text": "Aynen, baya  darbe  olmuş ya", "url": "/Yiit09812148/status/1281308474681503744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 22:25:20", "is_reply": true, "is_retweet": false, "user_id": "1249017660085592066"}

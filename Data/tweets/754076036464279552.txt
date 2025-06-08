@@ -1,0 +1,1 @@
+{"usernameTweet": "fardiplisinhaa", "ID": "754076036464279552", "text": "# SokağaSakınÇıkma  MISIR MI LAN BURA.. TÜRKİYE BURASI TÜRKİYE", "url": "/fardiplisinhaa/status/754076036464279552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:51", "is_reply": false, "is_retweet": false, "user_id": "2400528492"}

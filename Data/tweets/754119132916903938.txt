@@ -1,0 +1,1 @@
+{"usernameTweet": "skairipagibi", "ID": "754119132916903938", "text": "# DarbeDeğilTiyatro \r#SokağaSakınÇıkma \r#Turkey \r\rBu kadar basit ! pic.twitter.com/kdV5oykVJ4", "url": "/skairipagibi/status/754119132916903938", "nbr_retweet": 3, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 04:03:06", "is_reply": false, "is_retweet": false, "user_id": "4405648097"}

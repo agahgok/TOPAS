@@ -1,0 +1,1 @@
+{"usernameTweet": "objektifsport", "ID": "754075100597682178", "text": "Hiçbir diktatör iç savaş çıkarmadan gitmez.. -Lenin\n#SokağaSakınÇıkma", "url": "/objektifsport/status/754075100597682178", "nbr_retweet": 10, "nbr_favorite": 47, "nbr_reply": 1, "datetime": "2016-07-16 01:08:08", "is_reply": false, "is_retweet": false, "user_id": "322069220"}

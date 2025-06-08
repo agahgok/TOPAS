@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754081068840550400", "text": "Pis ellerinizle ayyıldızlı bayraklarını sallamayın daha dun ustune oturuyordunuz #SokağaSakınÇıkma", "url": "/mertbzky/status/754081068840550400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:51", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

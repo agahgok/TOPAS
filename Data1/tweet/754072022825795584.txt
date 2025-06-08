@@ -1,0 +1,1 @@
+{"usernameTweet": "xpointless_", "ID": "754072022825795584", "text": "Çıkmayın dışarı! #SokağaSakınÇıkma", "url": "/xpointless_/status/754072022825795584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:55:54", "is_reply": false, "is_retweet": false, "user_id": "3349649621"}

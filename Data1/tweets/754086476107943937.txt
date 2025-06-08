@@ -1,0 +1,1 @@
+{"usernameTweet": "sunkeydan", "ID": "754086476107943937", "text": "Gercekse de sakaysa da sen #SokağaSakınÇıkma  biraz daha bekle lutfen", "url": "/sunkeydan/status/754086476107943937", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:20", "is_reply": false, "is_retweet": false, "user_id": "3986801423"}

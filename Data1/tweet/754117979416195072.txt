@@ -1,0 +1,1 @@
+{"usernameTweet": "KochVon", "ID": "754117979416195072", "text": "# SokağaSakınÇıkma  cikan vatan hayinidir kendisi dedi capulcular evde kalin degmez bunlara ne demokrasisi", "url": "/KochVon/status/754117979416195072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:58:31", "is_reply": false, "is_retweet": false, "user_id": "2169573185"}

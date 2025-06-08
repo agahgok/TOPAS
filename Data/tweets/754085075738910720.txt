@@ -1,0 +1,1 @@
+{"usernameTweet": "punargrbz", "ID": "754085075738910720", "text": "Oyuna Gelme #SokağaSakınÇıkma", "url": "/punargrbz/status/754085075738910720", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:46", "is_reply": false, "is_retweet": false, "user_id": "261150671"}

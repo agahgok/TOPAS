@@ -1,0 +1,1 @@
+{"usernameTweet": "anteplii_osman", "ID": "1281157383314702338", "text": "Gezi direnisi nedir yaw? Neyin direnisi? Bildigin  darbe  girisimi bunun adi", "url": "/anteplii_osman/status/1281157383314702338", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 12:24:57", "is_reply": true, "is_retweet": false, "user_id": "785918362874437633"}

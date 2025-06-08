@@ -1,0 +1,1 @@
+{"usernameTweet": "galatashorror", "ID": "1282642850996420609", "text": "Darbe  üstüne  darbe     https:// twitter.com/the_lionnss_15 /status/1282621603839447040   …", "url": "/galatashorror/status/1282642850996420609", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 14:47:40", "is_reply": false, "is_retweet": false, "user_id": "865058735630241793"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Chapulcoo", "ID": "754090553789255684", "text": "Anons yapan camilere bira şişesimi koysam   İmam belki susamıştır.#SokağaSakınÇıkma", "url": "/Chapulcoo/status/754090553789255684", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:33", "is_reply": false, "is_retweet": false, "user_id": "2961840814"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sapparig", "ID": "754073492946034689", "text": "Eflak ve Boğdanı da verelim mi? #SokağaSakınÇıkma   https:// twitter.com/unsalunlu/stat us/754071959789506560   …", "url": "/sapparig/status/754073492946034689", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:45", "is_reply": false, "is_retweet": false, "user_id": "398333331"}

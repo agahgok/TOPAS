@@ -1,0 +1,1 @@
+{"usernameTweet": "ottoman_empirem", "ID": "754092059322187776", "text": "Bunlarda darbe destekçisi aşağıda görüldüğü üzere #SokağaSakınÇıkma", "url": "/ottoman_empirem/status/754092059322187776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:31", "is_reply": false, "is_retweet": false, "user_id": "1360440200"}

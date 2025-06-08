@@ -1,0 +1,1 @@
+{"usernameTweet": "Ecevit_ER", "ID": "754077266158596096", "text": "Trafik polislerinin silahlar toplanıyor askerlerin gözetimi altındalar...\n\n#SokağaSakınÇıkma", "url": "/Ecevit_ER/status/754077266158596096", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:16:44", "is_reply": false, "is_retweet": false, "user_id": "2844392078"}

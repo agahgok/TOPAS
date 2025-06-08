@@ -1,0 +1,1 @@
+{"usernameTweet": "peaceamongearth", "ID": "754091347183828992", "text": "Kör bir kurşunla hayata veda etmek istemiyorsan #SokağaSakınÇıkma", "url": "/peaceamongearth/status/754091347183828992", "nbr_retweet": 11, "nbr_favorite": 40, "nbr_reply": 2, "datetime": "2016-07-16 02:12:42", "is_reply": false, "is_retweet": false, "user_id": "3354641447"}

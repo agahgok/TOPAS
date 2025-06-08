@@ -1,0 +1,1 @@
+{"usernameTweet": "EocTh", "ID": "754086682811662337", "text": "Mal mısınız amk #SokağaSakınÇıkma", "url": "/EocTh/status/754086682811662337", "nbr_retweet": 0, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2016-07-16 01:54:10", "is_reply": false, "is_retweet": false, "user_id": "3325549973"}

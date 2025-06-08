@@ -1,0 +1,1 @@
+{"usernameTweet": "mrymdlbdk21", "ID": "754079894687117312", "text": "Hani sokağa çağırmak terör işiydi ne oldu da insanları sokağa dökmeye çalışıyorsun ? #SokağaSakınÇıkma", "url": "/mrymdlbdk21/status/754079894687117312", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:27:11", "is_reply": false, "is_retweet": false, "user_id": "4311491967"}

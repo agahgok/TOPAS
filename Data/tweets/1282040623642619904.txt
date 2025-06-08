@@ -1,0 +1,1 @@
+{"usernameTweet": "ppisipisicik2", "ID": "1282040623642619904", "text": "Darbe  gördük savaş gördük kriz gördük virüs gördük ama bi gerçek aşkı göremedik..", "url": "/ppisipisicik2/status/1282040623642619904", "nbr_retweet": 1, "nbr_favorite": 30, "nbr_reply": 0, "datetime": "2020-07-11 22:54:38", "is_reply": false, "is_retweet": false, "user_id": "1273002142387838977"}

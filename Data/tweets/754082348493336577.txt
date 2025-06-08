@@ -1,0 +1,1 @@
+{"usernameTweet": "ELelfide", "ID": "754082348493336577", "text": "Cok keskin kokular yayiliyor her yere,\nBurun direklerimiz kirilacak nerdeyse,\nAKILLI OLUN.\n#SokağaSakınÇıkma", "url": "/ELelfide/status/754082348493336577", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:56", "is_reply": false, "is_retweet": false, "user_id": "1511833992"}

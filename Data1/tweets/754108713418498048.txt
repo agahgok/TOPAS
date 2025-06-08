@@ -1,0 +1,1 @@
+{"usernameTweet": "idembebek1", "ID": "754108713418498048", "text": "# SokagaSakinCikma  OYUNA GELMEYİN SOKAĞA CİKMAYİN  pic.twitter.com/dn1pXOC63N", "url": "/idembebek1/status/754108713418498048", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:21:42", "is_reply": false, "is_retweet": false, "user_id": "2842242742"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kemalistofke31", "ID": "754093636938326016", "text": "akp lilerin provakasyonuna gelme #SokağaSakınÇıkma", "url": "/kemalistofke31/status/754093636938326016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:48", "is_reply": false, "is_retweet": false, "user_id": "701502456501501952"}

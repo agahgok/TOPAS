@@ -1,0 +1,1 @@
+{"usernameTweet": "kubradevrez", "ID": "754091359032737794", "text": "Vurmayin o askerlere ! Onlar size vuramadigi icin sokaklardasiniz #sokağasakincikma", "url": "/kubradevrez/status/754091359032737794", "nbr_retweet": 5, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2016-07-16 02:12:44", "is_reply": false, "is_retweet": false, "user_id": "1883456821"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Ismailyildiz67", "ID": "754085720353112064", "text": "Herkes sokağa  #SokağaSakınÇıkma", "url": "/Ismailyildiz67/status/754085720353112064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:20", "is_reply": false, "is_retweet": false, "user_id": "862081141"}

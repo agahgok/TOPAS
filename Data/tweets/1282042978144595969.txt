@@ -1,0 +1,1 @@
+{"usernameTweet": "Sami8148", "ID": "1282042978144595969", "text": "400  Darbe  (1959)  pic.twitter.com/pA0RCcepFL", "url": "/Sami8148/status/1282042978144595969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 23:03:59", "is_reply": false, "is_retweet": false, "user_id": "3416335523"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "cutiepadaleckii", "ID": "754076131599548418", "text": "resmen ic savas baslatmaya caliyor cumhurbaskani... #SokağaSakınÇıkma", "url": "/cutiepadaleckii/status/754076131599548418", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:14", "is_reply": false, "is_retweet": false, "user_id": "4905086321"}

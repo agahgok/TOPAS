@@ -1,0 +1,1 @@
+{"usernameTweet": "idaninbabasi", "ID": "1281477280708132864", "text": "Darbe  gecesi Cumhurbaşkanı ile aynı otelde olması?", "url": "/idaninbabasi/status/1281477280708132864", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 09:36:07", "is_reply": true, "is_retweet": false, "user_id": "95369325"}

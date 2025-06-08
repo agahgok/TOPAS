@@ -1,0 +1,1 @@
+{"usernameTweet": "CansuKaraduman0", "ID": "1281331374054612993", "text": "Bedenim de en çok  darbe  alan organım \"kalp.\"", "url": "/CansuKaraduman0/status/1281331374054612993", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2020-07-09 23:56:20", "is_reply": true, "is_retweet": false, "user_id": "1001080404336697344"}

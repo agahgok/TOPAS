@@ -1,0 +1,1 @@
+{"usernameTweet": "serkantiamo8", "ID": "754138594802106368", "text": "# sokağaçıkma  seni askerle ve polisle catistirmayi isteyen bi zihniyetin kolesi olacaksin.", "url": "/serkantiamo8/status/754138594802106368", "nbr_retweet": 1, "nbr_favorite": 11, "nbr_reply": 1, "datetime": "2016-07-16 05:20:26", "is_reply": false, "is_retweet": false, "user_id": "2738442131"}

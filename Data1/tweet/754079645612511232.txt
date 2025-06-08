@@ -1,0 +1,1 @@
+{"usernameTweet": "ibrahim_merey", "ID": "754079645612511232", "text": "Başlatılıyorsa ben bu hükümeti savunamam arkadaş. Sozune uyup galyana gelmeyin #SokağaSakınÇıkma", "url": "/ibrahim_merey/status/754079645612511232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:12", "is_reply": false, "is_retweet": false, "user_id": "2457738976"}

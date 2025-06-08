@@ -1,0 +1,1 @@
+{"usernameTweet": "DagistanY", "ID": "754088537364926464", "text": "# SokağaSakınÇıkma  Osmaniye`de de EZANLAR BAŞLADI.LA ZATEN SOKAKTA NE ASKER NE POLİS NE SİVİL VAR.,", "url": "/DagistanY/status/754088537364926464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:32", "is_reply": false, "is_retweet": false, "user_id": "263265183"}

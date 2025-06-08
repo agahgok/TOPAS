@@ -1,0 +1,1 @@
+{"usernameTweet": "StgtVo", "ID": "754072225930682368", "text": "# SokağaSakınCıkma   pic.twitter.com/n9FQbip8cb", "url": "/StgtVo/status/754072225930682368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:43", "is_reply": false, "is_retweet": false, "user_id": "3198036456"}

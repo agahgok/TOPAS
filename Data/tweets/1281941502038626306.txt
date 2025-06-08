@@ -1,0 +1,1 @@
+{"usernameTweet": "gecewegokyuzu", "ID": "1281941502038626306", "text": "11 temmuz bkfc  darbe  gecesi nerdeydiniz? mülakat sorusu olmalıamkahajashshdjshshdhjs", "url": "/gecewegokyuzu/status/1281941502038626306", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-11 16:20:46", "is_reply": false, "is_retweet": false, "user_id": "705514394894073856"}

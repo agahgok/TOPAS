@@ -1,0 +1,1 @@
+{"usernameTweet": "mhtcbn", "ID": "881132103202738176", "text": "Aşağıdaki gibi sorgulayabilirsiniz\n Darbe  from:@...... lang:tr  since : 2016-07-15  until:2016-07-16", "url": "/mhtcbn/status/881132103202738176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2017-07-01 15:47:18", "is_reply": true, "is_retweet": false, "user_id": "169481378"}

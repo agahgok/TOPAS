@@ -1,0 +1,1 @@
+{"usernameTweet": "meltemsenyaprak", "ID": "754255270134546432", "text": "Bu askeri darbe degil dincinin dinciye yaptigi darbe. #darbeyedesanadakarsiyiz  #sokağasakınçıkma", "url": "/meltemsenyaprak/status/754255270134546432", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 13:04:04", "is_reply": false, "is_retweet": false, "user_id": "104269299"}

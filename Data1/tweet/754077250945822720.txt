@@ -1,0 +1,1 @@
+{"usernameTweet": "democratTR", "ID": "754077250945822720", "text": "# Asker  #Kışlaya  ,\n\n#SokağaSakınÇıkma  #mazlık  #yapma  ...!", "url": "/democratTR/status/754077250945822720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:41", "is_reply": false, "is_retweet": false, "user_id": "232839152"}

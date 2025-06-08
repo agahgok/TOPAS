@@ -1,0 +1,1 @@
+{"usernameTweet": "_ebukasim_", "ID": "754095369907277824", "text": "# SokağaSakınÇıkma  Darbecilere idam gelmesini destekler misiniz?", "url": "/_ebukasim_/status/754095369907277824", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:41", "is_reply": false, "is_retweet": false, "user_id": "814691647"}

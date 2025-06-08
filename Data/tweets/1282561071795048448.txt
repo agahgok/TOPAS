@@ -1,0 +1,1 @@
+{"usernameTweet": "AlexRangelCalvo", "ID": "1282561071795048448", "text": "Hay necesidad de politizar el tema?", "url": "/AlexRangelCalvo/status/1282561071795048448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 09:22:43", "is_reply": true, "is_retweet": false, "user_id": "797588778822926336"}

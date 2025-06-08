@@ -1,0 +1,1 @@
+{"usernameTweet": "wildernessarea", "ID": "754074815020036096", "text": "Canınızı koruyun\nSokağa çıkmayın \n#sokağasakınçıkma", "url": "/wildernessarea/status/754074815020036096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:00", "is_reply": false, "is_retweet": false, "user_id": "2924768957"}

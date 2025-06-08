@@ -1,0 +1,1 @@
+{"usernameTweet": "fehminaci", "ID": "754070633563185152", "text": "Oyuna gelip sakın #SokağaSakınÇıkma", "url": "/fehminaci/status/754070633563185152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:23", "is_reply": false, "is_retweet": false, "user_id": "940762346"}

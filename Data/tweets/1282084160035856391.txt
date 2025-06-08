@@ -1,0 +1,1 @@
+{"usernameTweet": "Ahsenbgs", "ID": "1282084160035856391", "text": "Darbe  üstüne  darbe ...", "url": "/Ahsenbgs/status/1282084160035856391", "nbr_retweet": 0, "nbr_favorite": 59, "nbr_reply": 0, "datetime": "2020-07-12 01:47:38", "is_reply": false, "is_retweet": false, "user_id": "1213913306936700928"}

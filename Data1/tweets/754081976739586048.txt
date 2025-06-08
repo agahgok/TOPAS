@@ -1,0 +1,1 @@
+{"usernameTweet": "dogrugozlem", "ID": "754081976739586048", "text": "# SokağaSakınÇıkma   pic.twitter.com/6fltQqPina", "url": "/dogrugozlem/status/754081976739586048", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:28", "is_reply": false, "is_retweet": false, "user_id": "2847040702"}

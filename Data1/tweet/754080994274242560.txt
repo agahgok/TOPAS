@@ -1,0 +1,1 @@
+{"usernameTweet": "esranrkiratli", "ID": "754080994274242560", "text": "Sonuna kadar askerimizin arkasındayım..\n\n #SokağaSakınÇıkma", "url": "/esranrkiratli/status/754080994274242560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:33", "is_reply": false, "is_retweet": false, "user_id": "2306446996"}

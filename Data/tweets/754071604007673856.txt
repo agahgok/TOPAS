@@ -1,0 +1,1 @@
+{"usernameTweet": "aygnbulkoy", "ID": "754071604007673856", "text": "KANMAYIN #sokagacıkma", "url": "/aygnbulkoy/status/754071604007673856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:15", "is_reply": false, "is_retweet": false, "user_id": "540004537"}

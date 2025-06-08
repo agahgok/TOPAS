@@ -1,0 +1,1 @@
+{"usernameTweet": "KFeridee", "ID": "754103319031930880", "text": "Evde zor tutulan %50 ! #Demokrasinesahipcik  #sokagacikma  zamani asil simdi !  pic.twitter.com/i00d1Xtafy", "url": "/KFeridee/status/754103319031930880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:00:16", "is_reply": false, "is_retweet": false, "user_id": "358745214"}

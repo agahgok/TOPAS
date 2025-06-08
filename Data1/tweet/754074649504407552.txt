@@ -1,0 +1,1 @@
+{"usernameTweet": "Dzugzwang", "ID": "754074649504407552", "text": "jöleli nerde cb yi korumaya gidecek mi ? #SokağaSakınÇıkma", "url": "/Dzugzwang/status/754074649504407552", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:06:21", "is_reply": false, "is_retweet": false, "user_id": "918442152"}

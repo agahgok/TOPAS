@@ -1,0 +1,1 @@
+{"usernameTweet": "AbhishekDarbe", "ID": "1281639660645527552", "text": "अब सुप्रीम कोर्ट इस पर क्या राय रखती है ?\nवो भी देश जानना चाहती है।", "url": "/AbhishekDarbe/status/1281639660645527552", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 20:21:21", "is_reply": true, "is_retweet": false, "user_id": "1253259806758051840"}

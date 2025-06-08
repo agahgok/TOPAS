@@ -1,0 +1,1 @@
+{"usernameTweet": "topbasrukiye872", "ID": "754107483707346944", "text": "# SokağaÇıkma  TAKSİM. e çıkanları bekliyoruz sokağa", "url": "/topbasrukiye872/status/754107483707346944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:16:49", "is_reply": false, "is_retweet": false, "user_id": "4903879995"}

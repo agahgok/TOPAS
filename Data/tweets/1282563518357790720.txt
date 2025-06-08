@@ -1,0 +1,1 @@
+{"usernameTweet": "Uzun92742495", "ID": "1282563518357790720", "text": "Müzeye çevirenlerin hükmü bitti,  darbe  yaptıkları Osmanlı geri geldi", "url": "/Uzun92742495/status/1282563518357790720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 09:32:26", "is_reply": true, "is_retweet": false, "user_id": "1028970136009678848"}

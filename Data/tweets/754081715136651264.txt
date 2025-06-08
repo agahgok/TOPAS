@@ -1,0 +1,1 @@
+{"usernameTweet": "vbaybarsbilim", "ID": "754081715136651264", "text": "Şehit cenazeleri gelirken sokağa çıkmayan halk sokağamı çıkıyor??? \nYazıklar olsun #SokağaSakınÇıkma", "url": "/vbaybarsbilim/status/754081715136651264", "nbr_retweet": 137, "nbr_favorite": 371, "nbr_reply": 9, "datetime": "2016-07-16 01:34:25", "is_reply": false, "is_retweet": false, "user_id": "395319078"}

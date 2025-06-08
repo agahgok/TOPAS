@@ -1,0 +1,1 @@
+{"usernameTweet": "anlasilmiyor", "ID": "1282282921806704640", "text": "Yeterince  darbe  yemişimdir zaten duyunca bi titreme geliyo ajsndkdn", "url": "/anlasilmiyor/status/1282282921806704640", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 14:57:26", "is_reply": true, "is_retweet": false, "user_id": "1171815941824532482"}

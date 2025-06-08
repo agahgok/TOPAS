@@ -1,0 +1,1 @@
+{"usernameTweet": "shr_pdr", "ID": "754091879302590466", "text": "# SokağaSakınÇıkma  diyenler Gezi olaylarında neden sokaktaydı acaba???", "url": "/shr_pdr/status/754091879302590466", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:14:49", "is_reply": false, "is_retweet": false, "user_id": "371687119"}

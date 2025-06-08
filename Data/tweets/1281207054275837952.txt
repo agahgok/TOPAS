@@ -1,0 +1,1 @@
+{"usernameTweet": "karadeniizm", "ID": "1281207054275837952", "text": "Darbe , pkk, daes, ekonomi yönünden operasyon. Ecevit 3 ay dayanamadı.", "url": "/karadeniizm/status/1281207054275837952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 15:42:20", "is_reply": true, "is_retweet": false, "user_id": "114316820"}

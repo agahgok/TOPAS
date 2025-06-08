@@ -1,0 +1,1 @@
+{"usernameTweet": "cetinandbuddy", "ID": "754067940543168512", "text": "# SOKAGACIKMA", "url": "/cetinandbuddy/status/754067940543168512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:39:41", "is_reply": false, "is_retweet": false, "user_id": "1485558692"}

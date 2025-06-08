@@ -1,0 +1,1 @@
+{"usernameTweet": "saim0487", "ID": "754090212431634432", "text": "# SokağaSakınÇıkma  Hamletten sonraki en iyi tiyatroyu izlediniz", "url": "/saim0487/status/754090212431634432", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:08:11", "is_reply": false, "is_retweet": false, "user_id": "2823261357"}

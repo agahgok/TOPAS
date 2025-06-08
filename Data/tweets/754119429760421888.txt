@@ -1,0 +1,1 @@
+{"usernameTweet": "BilgehanGokhan", "ID": "754119429760421888", "text": "# SokağaSakınÇıkma     https:// twitter.com/rt_erdogan/sta tus/444084067337011200   …", "url": "/BilgehanGokhan/status/754119429760421888", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:04:17", "is_reply": false, "is_retweet": false, "user_id": "3302605516"}

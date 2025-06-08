@@ -1,0 +1,1 @@
+{"usernameTweet": "dipbucak", "ID": "1281559326503563264", "text": "'Dönemin başbakanı Ahmet Davutoğlu'na karşı  darbe  yaparak' söylemleri ile yargılamalar yapılır mı? \nKim bilir..", "url": "/dipbucak/status/1281559326503563264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 15:02:08", "is_reply": false, "is_retweet": false, "user_id": "70015746"}

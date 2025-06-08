@@ -1,0 +1,1 @@
+{"usernameTweet": "Eviin_Delisi", "ID": "754073079719006208", "text": "# SokağaSakınÇıkma  iç savaş çıkarmak amaçları Allah belanizi versin", "url": "/Eviin_Delisi/status/754073079719006208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:06", "is_reply": false, "is_retweet": false, "user_id": "567187747"}

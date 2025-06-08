@@ -1,0 +1,1 @@
+{"usernameTweet": "ozer_ozz", "ID": "754087685258678272", "text": "Başkanlık hayırlı olsun. İyi günlerde kullanın. #SokağaSakınÇıkma", "url": "/ozer_ozz/status/754087685258678272", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:58:09", "is_reply": false, "is_retweet": false, "user_id": "44309637"}

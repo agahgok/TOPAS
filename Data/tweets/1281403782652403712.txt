@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1281403782652403712", "text": "jaja no te preocupes Miguel, si no te echas porras nadie te las va a echar jaja saludos.", "url": "/Darbe_LM/status/1281403782652403712", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 04:44:03", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

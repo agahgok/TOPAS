@@ -1,0 +1,1 @@
+{"usernameTweet": "kursatyilmazPF", "ID": "754087899130462208", "text": "# SokağaSakınÇıkma  Askerine ihanet etme !", "url": "/kursatyilmazPF/status/754087899130462208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:00", "is_reply": false, "is_retweet": false, "user_id": "3399066100"}

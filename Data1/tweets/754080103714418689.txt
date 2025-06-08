@@ -1,0 +1,1 @@
+{"usernameTweet": "sisfeneri", "ID": "754080103714418689", "text": "# ÇakmaDarbe  için #SokağaSakınÇıkma \n\nBiz gündemimize dönelim >> #diplomasızkaospeşinde", "url": "/sisfeneri/status/754080103714418689", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:01", "is_reply": false, "is_retweet": false, "user_id": "387672234"}

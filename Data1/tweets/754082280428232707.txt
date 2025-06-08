@@ -1,0 +1,1 @@
+{"usernameTweet": "mgumus61", "ID": "754082280428232707", "text": "# SokağaSakınÇıkma  diye heştek açan pic kurusu senin amina koyayım.", "url": "/mgumus61/status/754082280428232707", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:40", "is_reply": false, "is_retweet": false, "user_id": "2913676829"}

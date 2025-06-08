@@ -1,0 +1,1 @@
+{"usernameTweet": "samikarahan42", "ID": "754087897888878592", "text": "O kadar şehit varken sokağa çıkmadınız şimdi mi çıkıyorsunuz?\n#SokağaSakınÇıkma", "url": "/samikarahan42/status/754087897888878592", "nbr_retweet": 30, "nbr_favorite": 29, "nbr_reply": 0, "datetime": "2016-07-16 01:58:59", "is_reply": false, "is_retweet": false, "user_id": "2821593606"}

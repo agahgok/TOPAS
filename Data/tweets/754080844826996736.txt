@@ -1,0 +1,1 @@
+{"usernameTweet": "ImDobradam", "ID": "754080844826996736", "text": "# sokağasakınçıkma ! En azından güvenli bir ortam sağlanana kadar çıkmayın. TSK Askere vur emri vermiş.", "url": "/ImDobradam/status/754080844826996736", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:58", "is_reply": false, "is_retweet": false, "user_id": "1477897572"}

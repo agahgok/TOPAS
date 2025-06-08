@@ -1,0 +1,1 @@
+{"usernameTweet": "_konumsuz_", "ID": "754083477650280448", "text": "Adana hayal parkta önce sela verildi  şimdi de ezan okunuyor #SokağaSakınÇıkma", "url": "/_konumsuz_/status/754083477650280448", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:41:25", "is_reply": false, "is_retweet": false, "user_id": "1514443968"}

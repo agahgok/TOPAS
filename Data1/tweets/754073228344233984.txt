@@ -1,0 +1,1 @@
+{"usernameTweet": "ahcanimsena", "ID": "754073228344233984", "text": "G*t kılları hariç #SokağaSakınÇıkma", "url": "/ahcanimsena/status/754073228344233984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:42", "is_reply": false, "is_retweet": false, "user_id": "313824848"}

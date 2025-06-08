@@ -1,0 +1,1 @@
+{"usernameTweet": "sedosske", "ID": "1281738333920559104", "text": "Son söz her zaman daha az sevene mi aittir¿ çünkü  darbe  gibi bir cümle.", "url": "/sedosske/status/1281738333920559104", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-11 02:53:27", "is_reply": false, "is_retweet": false, "user_id": "1151618378244792320"}

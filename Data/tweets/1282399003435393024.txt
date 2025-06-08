@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1282399003435393024", "text": "¡Muchas gracias Omar! Igualmente un gusto conocerte!", "url": "/Darbe_LM/status/1282399003435393024", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 22:38:42", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

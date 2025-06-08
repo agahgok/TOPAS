@@ -1,0 +1,1 @@
+{"usernameTweet": "osgurrr", "ID": "754092728263307266", "text": "# SokağaSakınÇıkma  #DarbeyeHayır", "url": "/osgurrr/status/754092728263307266", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:11", "is_reply": false, "is_retweet": false, "user_id": "173088590"}

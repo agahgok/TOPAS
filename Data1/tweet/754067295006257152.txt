@@ -1,0 +1,1 @@
+{"usernameTweet": "SosyalOt", "ID": "754067295006257152", "text": "Kimin hain oldugunu herkes görecek. O Allah ki o ne güzel vekildir. Oyunlarinizda bogulacaksiniz. #sokağaçıkma", "url": "/SosyalOt/status/754067295006257152", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:37:07", "is_reply": false, "is_retweet": false, "user_id": "125087441"}

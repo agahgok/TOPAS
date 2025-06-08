@@ -1,0 +1,1 @@
+{"usernameTweet": "ibrahimxelilove", "ID": "1186378671373856774", "text": "Sus doktor sus adam kalpten gidecek  \n#inanbana \n#alikemal \n#çocukdizisi", "url": "/ibrahimxelilove/status/1186378671373856774", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2019-10-21 23:28:11", "is_reply": false, "is_retweet": false, "user_id": "1126572747839148034"}

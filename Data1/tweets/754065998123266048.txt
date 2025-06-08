@@ -1,0 +1,1 @@
+{"usernameTweet": "GNYNRCN", "ID": "754065998123266048", "text": "Demokrasiye sandikda sahip cikilir , sokaklarda degil... Sokaga cikma....#sokağaçıkma", "url": "/GNYNRCN/status/754065998123266048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:31:58", "is_reply": false, "is_retweet": false, "user_id": "445324262"}

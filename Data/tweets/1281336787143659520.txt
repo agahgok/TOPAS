@@ -1,0 +1,1 @@
+{"usernameTweet": "hayattanpisman", "ID": "1281336787143659520", "text": "Darbe  sonrası kabine nasıl oluşacaktı, bu muğlak kaldı", "url": "/hayattanpisman/status/1281336787143659520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 00:17:50", "is_reply": true, "is_retweet": false, "user_id": "2899049416"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "figen_yuksekdag", "ID": "754180893108035584", "text": "# SokağaSakınÇıkma   pic.twitter.com/vFk3hzFnRr", "url": "/figen_yuksekdag/status/754180893108035584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 08:08:31", "is_reply": false, "is_retweet": false, "user_id": "2914326496"}

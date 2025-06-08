@@ -1,0 +1,1 @@
+{"usernameTweet": "aylinnozn", "ID": "754071020986859521", "text": "Hala halkı sokağa çağırıyor hala, hala insanları fişekliyor. #SokağaSakınÇıkma  canını kimsenin maşası yapma!", "url": "/aylinnozn/status/754071020986859521", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:51:56", "is_reply": false, "is_retweet": false, "user_id": "310500367"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "onceadalet00", "ID": "754135477872123906", "text": "Bu dinciler kardesi kardese vurduruyorlar!!! Yapmayin artik yeterr #sokagacikma", "url": "/onceadalet00/status/754135477872123906", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 05:08:03", "is_reply": false, "is_retweet": false, "user_id": "52791854"}

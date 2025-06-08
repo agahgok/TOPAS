@@ -1,0 +1,1 @@
+{"usernameTweet": "seferseyir1", "ID": "754083701642895364", "text": "YAŞ oncesi TSK ya operasyonun kaldirim taslari doseniyor...\n\n#SokağaSakınÇıkma", "url": "/seferseyir1/status/754083701642895364", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:19", "is_reply": false, "is_retweet": false, "user_id": "2883795527"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "OMDOjowo", "ID": "1282174494589587457", "text": "Bener kang asale saka pengeran, iku lamun ora  darbe  sipat angkara murka, lan seneng gawe sangsaraning liyan.", "url": "/OMDOjowo/status/1282174494589587457", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 07:46:35", "is_reply": false, "is_retweet": false, "user_id": "2734453853"}

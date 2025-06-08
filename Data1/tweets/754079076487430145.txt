@@ -1,0 +1,1 @@
+{"usernameTweet": "cumhuriyet1905", "ID": "754079076487430145", "text": "# SokağaSakınÇıkma  Erdoğan'ın oyununa gelme!!", "url": "/cumhuriyet1905/status/754079076487430145", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:56", "is_reply": false, "is_retweet": false, "user_id": "2207218059"}

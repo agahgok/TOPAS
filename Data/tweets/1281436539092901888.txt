@@ -1,0 +1,1 @@
+{"usernameTweet": "RachelDarbe", "ID": "1281436539092901888", "text": "She dies from an infected paper cut ", "url": "/RachelDarbe/status/1281436539092901888", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-10 06:54:13", "is_reply": true, "is_retweet": false, "user_id": "1237033209893920770"}

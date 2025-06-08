@@ -1,0 +1,1 @@
+{"usernameTweet": "calsanadam", "ID": "754084272869343232", "text": "# SokağaSakınÇıkma  bu tagi acan serefsizlerin anasini....  pic.twitter.com/kgkYLlEmFq", "url": "/calsanadam/status/754084272869343232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:35", "is_reply": false, "is_retweet": false, "user_id": "149439879"}

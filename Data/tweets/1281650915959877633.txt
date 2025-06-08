@@ -1,0 +1,1 @@
+{"usernameTweet": "Maud_Bailey", "ID": "1281650915959877633", "text": "15 Temmuz’u değil, Lozan’ı ve aslında cumhuriyetin ilanını  darbe  olarak görüyorlar.", "url": "/Maud_Bailey/status/1281650915959877633", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 21:06:04", "is_reply": false, "is_retweet": false, "user_id": "100489602"}

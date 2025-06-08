@@ -1,0 +1,1 @@
+{"usernameTweet": "TEYO_SAVAR", "ID": "754073869527322624", "text": "# SokağaSakınÇıkma  Oyuna gelmeyin.askeri ücretli vatandaşım SOKAĞA çıkma.yeter", "url": "/TEYO_SAVAR/status/754073869527322624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:15", "is_reply": false, "is_retweet": false, "user_id": "155006736"}

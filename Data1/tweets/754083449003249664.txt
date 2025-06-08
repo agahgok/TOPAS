@@ -1,0 +1,1 @@
+{"usernameTweet": "SerhSko", "ID": "754083449003249664", "text": "Canımızı sokakta mı bulduk??? #SokağaSakınÇıkma", "url": "/SerhSko/status/754083449003249664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:19", "is_reply": false, "is_retweet": false, "user_id": "750641566738505729"}

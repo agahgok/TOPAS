@@ -1,0 +1,1 @@
+{"usernameTweet": "aysn_kck", "ID": "754079338803363841", "text": "Ne ee cikmamasi  suan bütün Bursa sokakta  darbeye karsi  vatanina milletine sahip cikma zamana #SokağaSakınÇıkma", "url": "/aysn_kck/status/754079338803363841", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:59", "is_reply": false, "is_retweet": false, "user_id": "3371797071"}

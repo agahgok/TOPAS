@@ -1,0 +1,1 @@
+{"usernameTweet": "ecaptaindaa", "ID": "754074050205483008", "text": "# SokağaSakınÇıkma   pic.twitter.com/Y4xXibGWaw", "url": "/ecaptaindaa/status/754074050205483008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:58", "is_reply": false, "is_retweet": false, "user_id": "3150704530"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "seyitrzaazad", "ID": "754092714254368768", "text": "# SokağaSakınÇıkma   https:// twitter.com/ozgurpazarcik/ status/754074020509720576   …", "url": "/seyitrzaazad/status/754092714254368768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:08", "is_reply": false, "is_retweet": false, "user_id": "401405748"}

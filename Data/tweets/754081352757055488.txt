@@ -1,0 +1,1 @@
+{"usernameTweet": "Revolute89", "ID": "754081352757055488", "text": "# SokağaSakınÇıkma   Turkey is going through a revolution! Islamist vs Secular Values!", "url": "/Revolute89/status/754081352757055488", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:32:59", "is_reply": false, "is_retweet": false, "user_id": "751588258044272641"}

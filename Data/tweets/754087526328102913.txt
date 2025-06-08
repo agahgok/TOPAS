@@ -1,0 +1,1 @@
+{"usernameTweet": "neredeysenormal", "ID": "754087526328102913", "text": "# SokağaSakınÇıkma  #Ankara  Camileri siyasete alet edenleri Allah kahretsin!", "url": "/neredeysenormal/status/754087526328102913", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:31", "is_reply": false, "is_retweet": false, "user_id": "1912357260"}

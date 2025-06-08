@@ -1,0 +1,1 @@
+{"usernameTweet": "haticeguneyyy", "ID": "754092128452632576", "text": "Darbe diye başladık Akp mitingine döndü #SokağaSakınÇıkma", "url": "/haticeguneyyy/status/754092128452632576", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:15:48", "is_reply": false, "is_retweet": false, "user_id": "2400244303"}

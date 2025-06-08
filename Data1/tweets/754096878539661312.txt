@@ -1,0 +1,1 @@
+{"usernameTweet": "fondipfondu", "ID": "754096878539661312", "text": "TBMM VURULDU #SokağaSakınÇıkma  #TUR", "url": "/fondipfondu/status/754096878539661312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:34:40", "is_reply": false, "is_retweet": false, "user_id": "1123136413"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "varcharian", "ID": "754072697127174145", "text": "# SokağaSakınÇıkma", "url": "/varcharian/status/754072697127174145", "nbr_retweet": 33, "nbr_favorite": 49, "nbr_reply": 0, "datetime": "2016-07-16 00:58:35", "is_reply": false, "is_retweet": false, "user_id": "269312744"}

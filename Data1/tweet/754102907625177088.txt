@@ -1,0 +1,1 @@
+{"usernameTweet": "Tegabbi", "ID": "754102907625177088", "text": "Bu yüzyılın oyunudur\n\n#TBMM \n#Turkey \n#Ankara \n#sokağaçıkma \n#DarbeyeHayır", "url": "/Tegabbi/status/754102907625177088", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:58:38", "is_reply": false, "is_retweet": false, "user_id": "42650524"}

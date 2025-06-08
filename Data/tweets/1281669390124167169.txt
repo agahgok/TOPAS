@@ -1,0 +1,1 @@
+{"usernameTweet": "kaanolojji34", "ID": "1281669390124167169", "text": "Ama sen onu gel anlat kalbe, yürüyor önümde büyük harbe,  darbe  üstüne  darbe  uslanmıyor buu", "url": "/kaanolojji34/status/1281669390124167169", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 22:19:29", "is_reply": false, "is_retweet": false, "user_id": "554290666"}

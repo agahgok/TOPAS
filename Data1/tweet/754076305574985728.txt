@@ -1,0 +1,1 @@
+{"usernameTweet": "buse_afsar", "ID": "754076305574985728", "text": "Kendi malinin derdinde o koltukda 1 saat daha oturmak icin 10000 bin kisi olse umrunda dagil\n #SokagaÇıkma", "url": "/buse_afsar/status/754076305574985728", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:55", "is_reply": false, "is_retweet": false, "user_id": "2770847881"}

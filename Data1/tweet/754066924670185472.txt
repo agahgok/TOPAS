@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkmenKuvva", "ID": "754066924670185472", "text": "Sıkıyönetim var CB tuvaletten canlınyayında kendisi nerede çıkacakmış meydana #SokağaSakınÇıkma", "url": "/TurkmenKuvva/status/754066924670185472", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:35:39", "is_reply": false, "is_retweet": false, "user_id": "1119941220"}

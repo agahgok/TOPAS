@@ -1,0 +1,1 @@
+{"usernameTweet": "emy_zynp_dnz", "ID": "754078601331478528", "text": "Allah'ım bu ikisi karşı karşıya gelmesin   #sokagacıkma  #icsavasahayır pic.twitter.com/RUn2aDXiOP", "url": "/emy_zynp_dnz/status/754078601331478528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:03", "is_reply": false, "is_retweet": false, "user_id": "486450736"}

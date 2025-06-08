@@ -1,0 +1,1 @@
+{"usernameTweet": "okyanuskrali", "ID": "754083779543699458", "text": "# SokağaSakınÇıkma  Diyenleri Samsun'da dövüp evine yolluyoruz. Vatan haini ibneler sizi.", "url": "/okyanuskrali/status/754083779543699458", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:37", "is_reply": false, "is_retweet": false, "user_id": "2581964739"}

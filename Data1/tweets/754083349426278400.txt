@@ -1,0 +1,1 @@
+{"usernameTweet": "TunahanKrty", "ID": "754083349426278400", "text": "Ankara'da bomba yağdırıyor uçaklar #SokağaSakınÇıkma", "url": "/TunahanKrty/status/754083349426278400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:55", "is_reply": false, "is_retweet": false, "user_id": "754046219777867776"}

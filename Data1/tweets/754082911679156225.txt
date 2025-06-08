@@ -1,0 +1,1 @@
+{"usernameTweet": "jerrywelbach", "ID": "754082911679156225", "text": "beni sokağa çıktım diye vatan haini ilan eden adam çağırdı diye sokağa çıkacak halim yok #SokağaSakınÇıkma", "url": "/jerrywelbach/status/754082911679156225", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:39:10", "is_reply": false, "is_retweet": false, "user_id": "69323279"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "curiousYB", "ID": "754069862520086528", "text": "# SokağaSakınÇıkma    !!!   bu aleni  provokasyondur  .", "url": "/curiousYB/status/754069862520086528", "nbr_retweet": 8, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 00:47:19", "is_reply": false, "is_retweet": false, "user_id": "525470625"}

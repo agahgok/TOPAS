@@ -1,0 +1,1 @@
+{"usernameTweet": "ElmasOzlemmm", "ID": "754083875601678336", "text": "Sela okunuyor noluyor abi böyle bir saçmalık varmı mahfettiniz be ülkeyi! #SokağaSakınÇıkma", "url": "/ElmasOzlemmm/status/754083875601678336", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:43:00", "is_reply": false, "is_retweet": false, "user_id": "2211072463"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bagci_ozgu", "ID": "754070831102304256", "text": "# SokağaSakınÇıkma", "url": "/bagci_ozgu/status/754070831102304256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:10", "is_reply": false, "is_retweet": false, "user_id": "452234431"}

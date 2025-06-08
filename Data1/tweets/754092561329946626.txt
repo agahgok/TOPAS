@@ -1,0 +1,1 @@
+{"usernameTweet": "eoloss", "ID": "754092561329946626", "text": "# SokağaSakınÇıkma  1.ci ordu komtani adam gibi adam ...", "url": "/eoloss/status/754092561329946626", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:31", "is_reply": false, "is_retweet": false, "user_id": "97686671"}

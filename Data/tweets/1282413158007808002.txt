@@ -1,0 +1,1 @@
+{"usernameTweet": "DrFeza", "ID": "1282413158007808002", "text": "Genel başkanınız kontrolü  darbe  diyor sen ne diyorsun. Biriniz yalan söylüyor sence kim.", "url": "/DrFeza/status/1282413158007808002", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:34:57", "is_reply": true, "is_retweet": false, "user_id": "1073819819374452736"}

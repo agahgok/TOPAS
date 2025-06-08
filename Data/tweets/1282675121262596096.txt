@@ -1,0 +1,1 @@
+{"usernameTweet": "Muhammeddakar", "ID": "1282675121262596096", "text": "Sabahtan beri  darbe  üstüne  darbe", "url": "/Muhammeddakar/status/1282675121262596096", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-13 16:55:54", "is_reply": false, "is_retweet": false, "user_id": "706329735"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sehideeliff", "ID": "1282562290181693441", "text": "Ayetler nakış nakış işlenmeli yüreğe...ahir Zaman karanlığına  darbe ..", "url": "/sehideeliff/status/1282562290181693441", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-13 09:27:33", "is_reply": false, "is_retweet": false, "user_id": "1277706524908019712"}

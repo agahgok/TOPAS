@@ -1,0 +1,1 @@
+{"usernameTweet": "azhul_sky", "ID": "1282482536673947648", "text": "En este país se cadece de sentido común , el pueblo necesita de grandes líderes  .", "url": "/azhul_sky/status/1282482536673947648", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 04:10:38", "is_reply": true, "is_retweet": false, "user_id": "853480795964678144"}

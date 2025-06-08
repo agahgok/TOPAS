@@ -1,0 +1,1 @@
+{"usernameTweet": "BurakBrandon", "ID": "754085429373263872", "text": "# SokağaSakınÇıkma  hayret erdoğan interneti yavaşlatmadı. :D", "url": "/BurakBrandon/status/754085429373263872", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:49:11", "is_reply": false, "is_retweet": false, "user_id": "572892557"}

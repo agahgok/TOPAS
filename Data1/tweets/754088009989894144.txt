@@ -1,0 +1,1 @@
+{"usernameTweet": "kobidestek", "ID": "754088009989894144", "text": "Allah'ım sen memleketimizi koru.. #SokağaSakınÇıkma  #DarbelereHayır pic.twitter.com/k9r8QoxjFa", "url": "/kobidestek/status/754088009989894144", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:59:26", "is_reply": false, "is_retweet": false, "user_id": "77982422"}

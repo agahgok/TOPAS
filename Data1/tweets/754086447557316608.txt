@@ -1,0 +1,1 @@
+{"usernameTweet": "S_zbeyto", "ID": "754086447557316608", "text": "Oyuna gelme #SokağaSakınÇıkma", "url": "/S_zbeyto/status/754086447557316608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:14", "is_reply": false, "is_retweet": false, "user_id": "714533467447500800"}

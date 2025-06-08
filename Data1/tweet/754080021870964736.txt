@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754080021870964736", "text": "hepımızın kalbınde bır asker vardır cunku bız zaten asker dogarız ve asker yasarız\n#SokağaSakınÇıkma", "url": "/ekicifaruk1/status/754080021870964736", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:27:42", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

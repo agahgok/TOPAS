@@ -1,0 +1,1 @@
+{"usernameTweet": "bilalcan_jk", "ID": "1281574957575806976", "text": "en son  darbe  gecesi geldim", "url": "/bilalcan_jk/status/1281574957575806976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 16:04:15", "is_reply": true, "is_retweet": false, "user_id": "1091393181030195201"}

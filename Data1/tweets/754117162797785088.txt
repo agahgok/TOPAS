@@ -1,0 +1,1 @@
+{"usernameTweet": "almirozcelik", "ID": "754117162797785088", "text": "Asker dağa çıkınca kahraman şehre inince terörist mi oldu? #SokağaÇıkma", "url": "/almirozcelik/status/754117162797785088", "nbr_retweet": 7, "nbr_favorite": 21, "nbr_reply": 2, "datetime": "2016-07-16 03:55:17", "is_reply": false, "is_retweet": false, "user_id": "747365028093911040"}

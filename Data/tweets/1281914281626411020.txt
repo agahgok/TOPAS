@@ -1,0 +1,1 @@
+{"usernameTweet": "faziayim", "ID": "1281914281626411020", "text": "darbe  falan almamış kardeşim pozisyon temiz  https:// twitter.com/aslsahinn_v/st atus/1281696543997865991   …", "url": "/faziayim/status/1281914281626411020", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 14:32:36", "is_reply": false, "is_retweet": false, "user_id": "904199934"}

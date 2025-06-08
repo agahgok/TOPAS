@@ -1,0 +1,1 @@
+{"usernameTweet": "Selnaltuntas", "ID": "754096930914000896", "text": "# SokağaÇıkma", "url": "/Selnaltuntas/status/754096930914000896", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:34:53", "is_reply": false, "is_retweet": false, "user_id": "481988257"}

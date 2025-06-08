@@ -1,0 +1,1 @@
+{"usernameTweet": "venuslightx", "ID": "1281293591126605830", "text": "Darbe  yapmış resmen  pic.twitter.com/XS8y8G4zxK", "url": "/venuslightx/status/1281293591126605830", "nbr_retweet": 3, "nbr_favorite": 25, "nbr_reply": 0, "datetime": "2020-07-09 21:26:12", "is_reply": false, "is_retweet": false, "user_id": "773485602109005824"}

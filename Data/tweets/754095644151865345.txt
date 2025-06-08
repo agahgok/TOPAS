@@ -1,0 +1,1 @@
+{"usernameTweet": "DCoskunirmak", "ID": "754095644151865345", "text": "TAYYİP SANA CANİMİZ FEDA #AskerKışlaya  #DarbeyeHayır  #BirliğeEvet  #SokağaSakınÇıkma", "url": "/DCoskunirmak/status/754095644151865345", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:46", "is_reply": false, "is_retweet": false, "user_id": "358803638"}

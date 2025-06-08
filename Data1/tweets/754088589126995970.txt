@@ -1,0 +1,1 @@
+{"usernameTweet": "gnltuna1", "ID": "754088589126995970", "text": "Hey sen  #SokağaSakınÇıkma !!zaten sana ihtiyacımız yok.hevesinizi kursağınıza gömdük bile......", "url": "/gnltuna1/status/754088589126995970", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:44", "is_reply": false, "is_retweet": false, "user_id": "425733434"}

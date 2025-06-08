@@ -1,0 +1,1 @@
+{"usernameTweet": "Gkhn_35_CKR", "ID": "754097310771077120", "text": "T.B.M.M f16 tarafından vuruldu son dakika... #SokağaSakınÇıkma", "url": "/Gkhn_35_CKR/status/754097310771077120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:36:23", "is_reply": false, "is_retweet": false, "user_id": "1106796050"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sergenada", "ID": "754074487633514496", "text": "# Sokagacikma", "url": "/sergenada/status/754074487633514496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:42", "is_reply": false, "is_retweet": false, "user_id": "270342796"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "VaTaN_MaNia", "ID": "754070377370947586", "text": "Gaza gelme #SokağaÇıkma", "url": "/VaTaN_MaNia/status/754070377370947586", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:49:22", "is_reply": false, "is_retweet": false, "user_id": "99665746"}

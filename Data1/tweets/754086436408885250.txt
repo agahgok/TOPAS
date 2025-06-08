@@ -1,0 +1,1 @@
+{"usernameTweet": "ozgeisilay", "ID": "754086436408885250", "text": "Her şeyi geçtim de bitmeyen sela ve ezan okunması nedir? Din yine en güçlü oyuncak!!! #sokağasakincikma", "url": "/ozgeisilay/status/754086436408885250", "nbr_retweet": 48, "nbr_favorite": 126, "nbr_reply": 8, "datetime": "2016-07-16 01:53:11", "is_reply": false, "is_retweet": false, "user_id": "84531411"}

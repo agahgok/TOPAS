@@ -1,0 +1,1 @@
+{"usernameTweet": "cheguevera4a", "ID": "754091748016742402", "text": "# SokağaSakınÇıkma   https:// twitter.com/otekilerpostas i/status/754091582270439424   …", "url": "/cheguevera4a/status/754091748016742402", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:17", "is_reply": false, "is_retweet": false, "user_id": "361784627"}

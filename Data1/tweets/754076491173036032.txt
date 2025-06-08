@@ -1,0 +1,1 @@
+{"usernameTweet": "rosemariegbach", "ID": "754076491173036032", "text": "# SokağaSakınÇıkma", "url": "/rosemariegbach/status/754076491173036032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:40", "is_reply": false, "is_retweet": false, "user_id": "707356349550690304"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mahpeyker", "ID": "754087528546836480", "text": "# SokağaSakınÇıkma  darbeymiş ", "url": "/mahpeyker/status/754087528546836480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:31", "is_reply": false, "is_retweet": false, "user_id": "65866032"}

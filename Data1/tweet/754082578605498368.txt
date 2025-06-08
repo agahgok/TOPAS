@@ -1,0 +1,1 @@
+{"usernameTweet": "OzGundem", "ID": "754082578605498368", "text": "# SokağaSakınÇıkma  diyen darbeseverlere inat Millet Sokakta.\n#DarbeyeHayır  Türk Silahlı Kuvvetleri #Ankara", "url": "/OzGundem/status/754082578605498368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:51", "is_reply": false, "is_retweet": false, "user_id": "550599194"}

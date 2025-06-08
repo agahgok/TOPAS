@@ -1,0 +1,1 @@
+{"usernameTweet": "mertgureel", "ID": "754069720761065480", "text": "Kendi götünü kurtarmak için insanları öne sürüyo oyuna gelmeyin! #SokağaSakınÇıkma", "url": "/mertgureel/status/754069720761065480", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:46:46", "is_reply": false, "is_retweet": false, "user_id": "185397882"}

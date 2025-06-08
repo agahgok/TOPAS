@@ -1,0 +1,1 @@
+{"usernameTweet": "serkantamay", "ID": "754087882806222849", "text": "Facebook, twitter nasıl kapatılmadı anlamadım.#SokağaSakınÇıkma", "url": "/serkantamay/status/754087882806222849", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:56", "is_reply": false, "is_retweet": false, "user_id": "386499289"}

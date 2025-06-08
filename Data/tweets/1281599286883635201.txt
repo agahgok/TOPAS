@@ -1,0 +1,1 @@
+{"usernameTweet": "benerdo", "ID": "1281599286883635201", "text": "cuma günleri  darbe  yaparsanız\n\ncuma günleri gerekenleri yaparız\n\n #AyasofyaCamii", "url": "/benerdo/status/1281599286883635201", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 17:40:55", "is_reply": false, "is_retweet": false, "user_id": "577250666"}

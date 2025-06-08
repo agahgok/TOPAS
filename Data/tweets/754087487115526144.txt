@@ -1,0 +1,1 @@
+{"usernameTweet": "oordinaryusss", "ID": "754087487115526144", "text": "Bu akşam yapılan şov sonrası Akp Oy oranı % 60  #SokağaSakınÇıkma", "url": "/oordinaryusss/status/754087487115526144", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:57:21", "is_reply": false, "is_retweet": false, "user_id": "420604470"}

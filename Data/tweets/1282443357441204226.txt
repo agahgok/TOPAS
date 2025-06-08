@@ -1,0 +1,1 @@
+{"usernameTweet": "CaferZengin", "ID": "1282443357441204226", "text": "FETÖ  Darbe  girişiminin 4. Yıldönümü ve bitmeyen tartışma ayağı: Siyasi ayak!", "url": "/CaferZengin/status/1282443357441204226", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 01:34:57", "is_reply": false, "is_retweet": false, "user_id": "75007141"}

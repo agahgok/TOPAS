@@ -1,0 +1,1 @@
+{"usernameTweet": "mahirimkaram", "ID": "754120314435596289", "text": "# SokağaÇıkma   https:// twitter.com/gokhanozbek/st atus/754117873530966017   …", "url": "/mahirimkaram/status/754120314435596289", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:07:48", "is_reply": false, "is_retweet": false, "user_id": "3406224695"}

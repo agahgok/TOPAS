@@ -1,0 +1,1 @@
+{"usernameTweet": "musicmanhakan", "ID": "754077526369116160", "text": "Sokağa çıkan her kişinin başkanlık çorbasında tuzu olacak !... #SokağaSakınÇıkma", "url": "/musicmanhakan/status/754077526369116160", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:17:47", "is_reply": false, "is_retweet": false, "user_id": "370402911"}

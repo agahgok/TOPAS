@@ -1,0 +1,1 @@
+{"usernameTweet": "BarbarosBulbul", "ID": "754386560083234816", "text": "Kurtuluş savaşında korna seslerinin olmaması ne büyük talihsizliktir. #SokağaSakınÇıkma", "url": "/BarbarosBulbul/status/754386560083234816", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 21:45:46", "is_reply": false, "is_retweet": false, "user_id": "989723300"}

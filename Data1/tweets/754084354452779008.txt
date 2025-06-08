@@ -1,0 +1,1 @@
+{"usernameTweet": "sezeraltan", "ID": "754084354452779008", "text": "# sokağasakınçıkma   hamam böcekleri sizi darbe girişiminiz patladı mı", "url": "/sezeraltan/status/754084354452779008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:54", "is_reply": false, "is_retweet": false, "user_id": "307380708"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Alselhantol26", "ID": "754067318561439750", "text": "Ölmek isteyeni sokağa davet ediyoruz #SokağaSakınÇıkma", "url": "/Alselhantol26/status/754067318561439750", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:13", "is_reply": false, "is_retweet": false, "user_id": "4485401056"}

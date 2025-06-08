@@ -1,0 +1,1 @@
+{"usernameTweet": "selinksrre", "ID": "754093001186611200", "text": "Ne güzel senaryo ama halkı askere düşman etmek, insanları birbirine düşürmek için #SokağaSakınÇıkma", "url": "/selinksrre/status/754093001186611200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:16", "is_reply": false, "is_retweet": false, "user_id": "174790559"}

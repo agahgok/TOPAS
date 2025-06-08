@@ -1,0 +1,1 @@
+{"usernameTweet": "memet3085", "ID": "754092460423471105", "text": "%50 disari ciksin. #SokağaSakınÇıkma", "url": "/memet3085/status/754092460423471105", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:07", "is_reply": false, "is_retweet": false, "user_id": "738980804525596672"}

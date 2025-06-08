@@ -1,0 +1,1 @@
+{"usernameTweet": "krc1903_", "ID": "754068522511298560", "text": "# sokağaçıkma  galeyana gelme Türkiye.", "url": "/krc1903_/status/754068522511298560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:42:00", "is_reply": false, "is_retweet": false, "user_id": "1039594068"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "merve_nisan", "ID": "754078844387225603", "text": "# SokağaSakınÇıkma  #ankara  ezanlar okunuyo şakamı bu savaşamı girdik ne ezanı lan bu...", "url": "/merve_nisan/status/754078844387225603", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:23:01", "is_reply": false, "is_retweet": false, "user_id": "264390379"}

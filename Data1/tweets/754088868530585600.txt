@@ -1,0 +1,1 @@
+{"usernameTweet": "oran_melda", "ID": "754088868530585600", "text": "# SokağaSakınÇıkma   pic.twitter.com/CqHxaUkDpM", "url": "/oran_melda/status/754088868530585600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:51", "is_reply": false, "is_retweet": false, "user_id": "3078117550"}

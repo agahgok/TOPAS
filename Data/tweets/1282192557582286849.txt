@@ -1,0 +1,1 @@
+{"usernameTweet": "ayse_ozdemir_20", "ID": "1282192557582286849", "text": "Onlar  darbe  diye planladı, Rabbim destan nasip etti.#15TemmuzMehteri", "url": "/ayse_ozdemir_20/status/1282192557582286849", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 08:58:22", "is_reply": false, "is_retweet": false, "user_id": "827833508215263233"}

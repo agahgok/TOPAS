@@ -1,0 +1,1 @@
+{"usernameTweet": "RahimAkyol3", "ID": "754083610056069120", "text": "Allahın dediği olur #SokağaSakınÇıkma", "url": "/RahimAkyol3/status/754083610056069120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:57", "is_reply": false, "is_retweet": false, "user_id": "753828533395263488"}

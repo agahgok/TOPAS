@@ -1,0 +1,1 @@
+{"usernameTweet": "Istanbullu18Gul", "ID": "754073756725829632", "text": "# SokağaSakınÇıkma  BU TAGI AÇANLARIN ANASINI SİKEYİM O.Ç LARI DARBECİ PİÇLER", "url": "/Istanbullu18Gul/status/754073756725829632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:48", "is_reply": false, "is_retweet": false, "user_id": "3315575403"}

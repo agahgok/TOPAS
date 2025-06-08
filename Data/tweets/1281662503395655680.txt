@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1281662503395655680", "text": "pic.twitter.com/TgyGQZdQ6a", "url": "/Darbe_LM/status/1281662503395655680", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 21:52:07", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

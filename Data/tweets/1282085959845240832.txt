@@ -1,0 +1,1 @@
+{"usernameTweet": "onurcnncelik", "ID": "1282085959845240832", "text": "salak gibi gardımı indirmişim neyse ki  darbe  yedikçe güçlenmişim ;))", "url": "/onurcnncelik/status/1282085959845240832", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2020-07-12 01:54:47", "is_reply": false, "is_retweet": false, "user_id": "736989541664456704"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "semihaktan26", "ID": "754081918816247808", "text": "# SokağaSakınÇıkma  zamanlama manidar fetonun iade iddanamesi tamamlandiktan sonra olmasi ilginc...", "url": "/semihaktan26/status/754081918816247808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:14", "is_reply": false, "is_retweet": false, "user_id": "373873079"}

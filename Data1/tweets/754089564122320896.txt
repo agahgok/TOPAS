@@ -1,0 +1,1 @@
+{"usernameTweet": "atesclup", "ID": "754089564122320896", "text": "TSK'ya ait F-16'lar darbe girişimi yapanların kullandıkları Sikorsky'i düşürdü. #DarbeyeHayı  #SokağaSakınÇıkma", "url": "/atesclup/status/754089564122320896", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:37", "is_reply": false, "is_retweet": false, "user_id": "151444805"}

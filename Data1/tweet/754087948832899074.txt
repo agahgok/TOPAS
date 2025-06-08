@@ -1,0 +1,1 @@
+{"usernameTweet": "Beyzanuremre909", "ID": "754087948832899074", "text": "# SokağaSakınÇıkma  ürkütücü bir bilinmezlik...", "url": "/Beyzanuremre909/status/754087948832899074", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:11", "is_reply": false, "is_retweet": false, "user_id": "746470526554619904"}

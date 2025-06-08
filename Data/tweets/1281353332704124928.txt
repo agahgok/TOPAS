@@ -1,0 +1,1 @@
+{"usernameTweet": "neslidie", "ID": "1281353332704124928", "text": "bi gecede iki  darbe   pic.twitter.com/EqwFDiBJWf", "url": "/neslidie/status/1281353332704124928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 01:23:35", "is_reply": false, "is_retweet": false, "user_id": "1244741250483453953"}

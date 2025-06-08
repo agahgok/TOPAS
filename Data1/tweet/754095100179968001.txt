@@ -1,0 +1,1 @@
+{"usernameTweet": "bozcaada79", "ID": "754095100179968001", "text": "# SokağaSakınÇıkma  ama 40 yıl geriye git...öylemi. ?", "url": "/bozcaada79/status/754095100179968001", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:36", "is_reply": false, "is_retweet": false, "user_id": "2899386903"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "HelloHeloniiii", "ID": "754087816368390145", "text": "# SokağaSakınÇıkma  Dini Oyuncak ettiniz. Din ile Politikayi ayiracaktiniz.", "url": "/HelloHeloniiii/status/754087816368390145", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:40", "is_reply": false, "is_retweet": false, "user_id": "376331835"}

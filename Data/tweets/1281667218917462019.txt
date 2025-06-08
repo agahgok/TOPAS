@@ -1,0 +1,1 @@
+{"usernameTweet": "bavultuccari", "ID": "1281667218917462019", "text": "Darbe  girişimini eriştemden öğrendim  pic.twitter.com/r9Li3mJHPD", "url": "/bavultuccari/status/1281667218917462019", "nbr_retweet": 0, "nbr_favorite": 16, "nbr_reply": 1, "datetime": "2020-07-10 22:10:51", "is_reply": false, "is_retweet": false, "user_id": "1242380561223757824"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "denzel_seks", "ID": "1281231286267412481", "text": "Aaaaasa", "url": "/denzel_seks/status/1281231286267412481", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 17:18:37", "is_reply": true, "is_retweet": false, "user_id": "936237142010925056"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "7burak_bektas", "ID": "754094893069467648", "text": "Darbenin tatil gününe denk gelmesi tesadüf mü ? #SokağaSakınÇıkma  #OyunaGelme", "url": "/7burak_bektas/status/754094893069467648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:47", "is_reply": false, "is_retweet": false, "user_id": "377382011"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Ebruuyldzz_", "ID": "1281683049667874816", "text": "Hayattan ne kadar  darbe  alırsan al hala yaşamaya devam ediyorsun.", "url": "/Ebruuyldzz_/status/1281683049667874816", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 23:13:46", "is_reply": false, "is_retweet": false, "user_id": "1259272410915835905"}

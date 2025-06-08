@@ -1,0 +1,1 @@
+{"usernameTweet": "KemaMurathan", "ID": "754119055863345152", "text": "Sokağa çıkmanın mantığı yok.. #SokağaSakınÇıkma", "url": "/KemaMurathan/status/754119055863345152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:02:48", "is_reply": false, "is_retweet": false, "user_id": "754117318347722752"}

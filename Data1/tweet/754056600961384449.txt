@@ -1,0 +1,1 @@
+{"usernameTweet": "esindemirbag", "ID": "754056600961384449", "text": "# sokagasakincikma", "url": "/esindemirbag/status/754056600961384449", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-15 23:54:38", "is_reply": false, "is_retweet": false, "user_id": "505700508"}

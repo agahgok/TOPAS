@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754085588765184000", "text": "AKP üst yönetimi Halkı yem yapmaya çalışıyor. Sakın Evinizden çıkmayın #SokağaSakınÇıkma", "url": "/ekicifaruk1/status/754085588765184000", "nbr_retweet": 3, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:49:49", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

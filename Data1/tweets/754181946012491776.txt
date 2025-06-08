@@ -1,0 +1,1 @@
+{"usernameTweet": "BuMemleket", "ID": "754181946012491776", "text": "O zaman saatlerce #SokağaSakınÇıkma  diyerek tiyatroya neden destek verdiniz?  #DarbeDeğilTiyatro", "url": "/BuMemleket/status/754181946012491776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 08:12:42", "is_reply": false, "is_retweet": false, "user_id": "2268784447"}

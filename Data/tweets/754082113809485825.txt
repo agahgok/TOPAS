@@ -1,0 +1,1 @@
+{"usernameTweet": "izmircandiir", "ID": "754082113809485825", "text": "# SokağaSakınÇıkma  izmirde ezanlar okunuyor gecenin bu saatinde", "url": "/izmircandiir/status/754082113809485825", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 01:36:00", "is_reply": false, "is_retweet": false, "user_id": "298766083"}

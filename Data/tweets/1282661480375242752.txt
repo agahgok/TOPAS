@@ -1,0 +1,1 @@
+{"usernameTweet": "Dnymaxis", "ID": "1282661480375242752", "text": "Lan anasını siktimin hamdi yobazı,binali yıldırımın en güzel projesi değilmiydi bu  darbe ,piç kurusu", "url": "/Dnymaxis/status/1282661480375242752", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 16:01:42", "is_reply": true, "is_retweet": false, "user_id": "1275546990001246209"}

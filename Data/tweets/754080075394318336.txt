@@ -1,0 +1,1 @@
+{"usernameTweet": "AyberkPolat", "ID": "754080075394318336", "text": "Gerçekten darbe varsa bile durdurması gereken halk değil, devletin başındakilerdir. #SokağaSakınÇıkma", "url": "/AyberkPolat/status/754080075394318336", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:27:54", "is_reply": false, "is_retweet": false, "user_id": "319536895"}

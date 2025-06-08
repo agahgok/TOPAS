@@ -1,0 +1,1 @@
+{"usernameTweet": "Emre_Puka", "ID": "754116537754259456", "text": "Oooo yine vatan hainleri toplanmış burda  #SokağaSakınÇıkma", "url": "/Emre_Puka/status/754116537754259456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:52:48", "is_reply": false, "is_retweet": false, "user_id": "4513030755"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "50Evik", "ID": "1281876899778658306", "text": "DARBE  YAPMAKTA YANILDIĞIN GİBİ HERDE YANIL BETER OL  https:// twitter.com/Haber7/status/ 1281851906797838336   …", "url": "/50Evik/status/1281876899778658306", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 12:04:03", "is_reply": false, "is_retweet": false, "user_id": "947359950"}

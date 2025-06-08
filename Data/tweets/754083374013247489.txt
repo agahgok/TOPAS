@@ -1,0 +1,1 @@
+{"usernameTweet": "seda_sumer", "ID": "754083374013247489", "text": "Ezan duymak çok güzelde vakti gelmedi yemeyin bunları #sokağaçıkma", "url": "/seda_sumer/status/754083374013247489", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:01", "is_reply": false, "is_retweet": false, "user_id": "3039399508"}

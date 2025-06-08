@@ -1,0 +1,1 @@
+{"usernameTweet": "_EsraKayar", "ID": "754097698983272448", "text": "# SokağaSakınÇıkma  yazık günah ya insanları ne hale düşürdüler Ankara'da peş peşe patlamalar oluyo ", "url": "/_EsraKayar/status/754097698983272448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:37:56", "is_reply": false, "is_retweet": false, "user_id": "543422424"}

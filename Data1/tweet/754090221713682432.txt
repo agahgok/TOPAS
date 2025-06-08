@@ -1,0 +1,1 @@
+{"usernameTweet": "gs_kasim", "ID": "754090221713682432", "text": "# SokağaSakınÇıkma  komedi bitti.", "url": "/gs_kasim/status/754090221713682432", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:13", "is_reply": false, "is_retweet": false, "user_id": "2328776091"}

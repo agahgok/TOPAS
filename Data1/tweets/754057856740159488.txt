@@ -1,0 +1,1 @@
+{"usernameTweet": "cagkanmerter", "ID": "754057856740159488", "text": "Tiyatro da figüran olursun  #SokağaSakınÇıkma", "url": "/cagkanmerter/status/754057856740159488", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-15 23:59:37", "is_reply": false, "is_retweet": false, "user_id": "1473427200"}

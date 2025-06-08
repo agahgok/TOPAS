@@ -1,0 +1,1 @@
+{"usernameTweet": "Ebru_Smyrna", "ID": "754094595605159936", "text": "Yılın filmi\n\nDARBE GİRİŞİMİ\nYazan-Yöneten-Oynayan : RTE ve AKP Hükümeti \n\n #SokağaSakınÇıkma", "url": "/Ebru_Smyrna/status/754094595605159936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:36", "is_reply": false, "is_retweet": false, "user_id": "1374814123"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "muzayhan", "ID": "754065127956029442", "text": "# SokağaSakınÇıkma   pic.twitter.com/ugrhSl3RCB", "url": "/muzayhan/status/754065127956029442", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:28:31", "is_reply": false, "is_retweet": false, "user_id": "2845223800"}

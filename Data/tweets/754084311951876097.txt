@@ -1,0 +1,1 @@
+{"usernameTweet": "BerkayEfe96", "ID": "754084311951876097", "text": "Her zaman olduğu gibi yine dinimizi kullanıyolar kanma !!!!\n#SokağaSakınÇıkma", "url": "/BerkayEfe96/status/754084311951876097", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:44:44", "is_reply": false, "is_retweet": false, "user_id": "2233500445"}

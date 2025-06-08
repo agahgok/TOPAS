@@ -1,0 +1,1 @@
+{"usernameTweet": "Abidernegi", "ID": "754099403695284226", "text": "Hain sen  #SokağaÇıkma \nVatansever sen #SokağaÇık", "url": "/Abidernegi/status/754099403695284226", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:44:42", "is_reply": false, "is_retweet": false, "user_id": "3095729952"}

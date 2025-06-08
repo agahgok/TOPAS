@@ -1,0 +1,1 @@
+{"usernameTweet": "PoliRik1", "ID": "1282631397765713921", "text": "Vos quieres un fascismo a la Mexicana, estas viendo cómo nos fue con el neoliberalismo, y ni asi", "url": "/PoliRik1/status/1282631397765713921", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 14:02:10", "is_reply": true, "is_retweet": false, "user_id": "792105258680025088"}

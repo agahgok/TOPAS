@@ -1,0 +1,1 @@
+{"usernameTweet": "organicwhisper", "ID": "754088737731215360", "text": "# SokağaSakınÇıkma  imamlar fazla mesai yapıyor bu amk bitmeyen ezan", "url": "/organicwhisper/status/754088737731215360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:20", "is_reply": false, "is_retweet": false, "user_id": "267089597"}

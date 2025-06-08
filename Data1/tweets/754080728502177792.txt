@@ -1,0 +1,1 @@
+{"usernameTweet": "hseyn0007", "ID": "754080728502177792", "text": "Darbeciler 2 saat dayanabilmis tukureyim yapcaginiz ise #SokağaSakınÇıkma", "url": "/hseyn0007/status/754080728502177792", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:30", "is_reply": false, "is_retweet": false, "user_id": "3432969310"}

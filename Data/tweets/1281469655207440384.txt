@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1281469655207440384", "text": "Sí, eso puede suponerse válidamente.", "url": "/Darbe_LM/status/1281469655207440384", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 09:05:49", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

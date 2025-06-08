@@ -1,0 +1,1 @@
+{"usernameTweet": "yagmur__luk", "ID": "754078737856094208", "text": "# SokağaSakınÇıkma  diyenler. sokağa çıkanlar Allah tan başka kimseden korkmuyorlar.", "url": "/yagmur__luk/status/754078737856094208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:35", "is_reply": false, "is_retweet": false, "user_id": "2680875647"}

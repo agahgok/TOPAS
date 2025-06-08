@@ -1,0 +1,1 @@
+{"usernameTweet": "ArdaErgani", "ID": "754077739829854208", "text": "Bu darbeyi Bahçeliye karşı yapsaydık şimdi çoktan seçimle gitmişlerdi darbesiz #SokağaSakınÇıkma  #Ankara", "url": "/ArdaErgani/status/754077739829854208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:37", "is_reply": false, "is_retweet": false, "user_id": "313798341"}

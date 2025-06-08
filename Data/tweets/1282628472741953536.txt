@@ -1,0 +1,1 @@
+{"usernameTweet": "haklisincagla", "ID": "1282628472741953536", "text": "aşkta devrimi anlarım da  darbe  neden", "url": "/haklisincagla/status/1282628472741953536", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 13:50:32", "is_reply": false, "is_retweet": false, "user_id": "845409453444923396"}

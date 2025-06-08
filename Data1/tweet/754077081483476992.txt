@@ -1,0 +1,1 @@
+{"usernameTweet": "SerifeKarapinar", "ID": "754077081483476992", "text": "Senin canın ne zaman değerli oldu arkadaşım, oyuna gelme, piyon olma #SokağaSakınÇıkma", "url": "/SerifeKarapinar/status/754077081483476992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:00", "is_reply": false, "is_retweet": false, "user_id": "1198655456"}

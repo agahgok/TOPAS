@@ -1,0 +1,1 @@
+{"usernameTweet": "yesimgursel", "ID": "754073182492033024", "text": "Çığlık atcam şimdi çıkma sokağa! #sokağaçıkma", "url": "/yesimgursel/status/754073182492033024", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:31", "is_reply": false, "is_retweet": false, "user_id": "144238522"}

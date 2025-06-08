@@ -1,0 +1,1 @@
+{"usernameTweet": "misler77", "ID": "754077857954066434", "text": "Cami hocası ezan sonrası açıklama yaptı, bu basit bir girişiödir diyor #darbe  #SokağaSakınÇıkma  #İstanbul  #Darbe", "url": "/misler77/status/754077857954066434", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:06", "is_reply": false, "is_retweet": false, "user_id": "96786085"}

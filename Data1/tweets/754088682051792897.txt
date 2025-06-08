@@ -1,0 +1,1 @@
+{"usernameTweet": "yekgul_birgul", "ID": "754088682051792897", "text": "# SokağaSakınÇıkma  bu Saate ne bitmez ezan", "url": "/yekgul_birgul/status/754088682051792897", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:06", "is_reply": false, "is_retweet": false, "user_id": "709076937965215745"}

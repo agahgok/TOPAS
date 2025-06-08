@@ -1,0 +1,1 @@
+{"usernameTweet": "MiyusaAsya", "ID": "754098445187706880", "text": "# SokağaSakınÇıkma  asker bundan sonra\n kılını kıpırdatmasa yeri", "url": "/MiyusaAsya/status/754098445187706880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:40:54", "is_reply": false, "is_retweet": false, "user_id": "1180056762"}

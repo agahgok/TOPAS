@@ -1,0 +1,1 @@
+{"usernameTweet": "ozcelik_k", "ID": "754077370785595392", "text": "Hani meydanlara inmek yasaktı sıkışınca halkın iradesi sokağa çıksın olur başka #SokağaSakınÇıkma", "url": "/ozcelik_k/status/754077370785595392", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:09", "is_reply": false, "is_retweet": false, "user_id": "2233523239"}

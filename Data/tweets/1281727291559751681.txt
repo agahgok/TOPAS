@@ -1,0 +1,1 @@
+{"usernameTweet": "XoxoCemnis", "ID": "1281727291559751681", "text": "ÖLDÜRMEYEN HER  DARBE  GÜÇ VERİR BANA #cemnis", "url": "/XoxoCemnis/status/1281727291559751681", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 02:09:34", "is_reply": false, "is_retweet": false, "user_id": "1274743477457301504"}

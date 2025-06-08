@@ -1,0 +1,1 @@
+{"usernameTweet": "CerennnCe", "ID": "754110737711263748", "text": "Askere karşı  gelen vatan hainidir diyenler askeri terörist  ilan etti .  #SokağaSakınÇıkma", "url": "/CerennnCe/status/754110737711263748", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:29:45", "is_reply": false, "is_retweet": false, "user_id": "1667628997"}

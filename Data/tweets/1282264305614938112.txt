@@ -1,0 +1,1 @@
+{"usernameTweet": "yldrmm_2", "ID": "1282264305614938112", "text": "Eğer Bir Amaç Uğruna Aykata Değilseniz Her  Darbe  Sizi Yere Yığabilir !! ", "url": "/yldrmm_2/status/1282264305614938112", "nbr_retweet": 0, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2020-07-12 13:43:28", "is_reply": false, "is_retweet": false, "user_id": "1228432395952705536"}

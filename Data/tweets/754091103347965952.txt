@@ -1,0 +1,1 @@
+{"usernameTweet": "cokcokozge", "ID": "754091103347965952", "text": "ashgasfhgasf #SokağaSakınÇıkma   https:// twitter.com/varcharian/sta tus/754090346762661888   …", "url": "/cokcokozge/status/754091103347965952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:44", "is_reply": false, "is_retweet": false, "user_id": "3675551416"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ozgulocak1", "ID": "754096058486194176", "text": "# SokağaSakınÇıkma   https:// twitter.com/ustaege/status /754093986663505920   …", "url": "/ozgulocak1/status/754096058486194176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:25", "is_reply": false, "is_retweet": false, "user_id": "2264098843"}

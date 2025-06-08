@@ -1,0 +1,1 @@
+{"usernameTweet": "Herkulses", "ID": "754071231247310850", "text": "# SokağaSakınÇıkma \nSarayın darbe oyununa gelme!", "url": "/Herkulses/status/754071231247310850", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:46", "is_reply": false, "is_retweet": false, "user_id": "2192598617"}

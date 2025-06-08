@@ -1,0 +1,1 @@
+{"usernameTweet": "filazicemre", "ID": "754074020585336832", "text": "\"ya allah bismillah allahu ekber\" diyerek akın akın anıt alanına gidiyorlar bu nedir ya! #sokagacikma", "url": "/filazicemre/status/754074020585336832", "nbr_retweet": 4, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2016-07-16 01:03:51", "is_reply": false, "is_retweet": false, "user_id": "728535966"}

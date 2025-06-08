@@ -1,0 +1,1 @@
+{"usernameTweet": "demir_firatcan", "ID": "1282072444673626119", "text": "0,25 vasifla ablacığım.. ya 0,50 yada 0,99 olsaydı kesin  darbe  yapardı..", "url": "/demir_firatcan/status/1282072444673626119", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 01:01:05", "is_reply": true, "is_retweet": false, "user_id": "938052356356395013"}

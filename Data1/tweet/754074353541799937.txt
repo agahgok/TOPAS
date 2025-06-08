@@ -1,0 +1,1 @@
+{"usernameTweet": "iilhan76", "ID": "754074353541799937", "text": "Şimdi istiklal için sokaklara çıkma demokrasiye sahip çıkma zamanı  #SokağaSakınÇıkma", "url": "/iilhan76/status/754074353541799937", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:10", "is_reply": false, "is_retweet": false, "user_id": "151208035"}

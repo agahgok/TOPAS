@@ -1,0 +1,1 @@
+{"usernameTweet": "LaraKaramahmut3", "ID": "1282245204741967873", "text": "zamanında yaptık   darbe", "url": "/LaraKaramahmut3/status/1282245204741967873", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 12:27:34", "is_reply": true, "is_retweet": false, "user_id": "1280318400988884992"}

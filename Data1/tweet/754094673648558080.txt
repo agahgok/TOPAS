@@ -1,0 +1,1 @@
+{"usernameTweet": "Trabzon49997101", "ID": "754094673648558080", "text": "PKK dan farkiniz ne Allah belanızı versin 17 şehit Mekanınız cennet olsun #SokağaSakınÇıkma", "url": "/Trabzon49997101/status/754094673648558080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:55", "is_reply": false, "is_retweet": false, "user_id": "4745151393"}

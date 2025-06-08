@@ -1,0 +1,1 @@
+{"usernameTweet": "firatdicle_021", "ID": "754072711740133376", "text": "# SokağaSakınÇıkma", "url": "/firatdicle_021/status/754072711740133376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:39", "is_reply": false, "is_retweet": false, "user_id": "732887013666525184"}

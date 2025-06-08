@@ -1,0 +1,1 @@
+{"usernameTweet": "Son_SoyLu", "ID": "754069875606319109", "text": "HALKI SOKAĞA ÇIKMAYA DAVET ETMEK\nİÇ SAVAŞ İSTEYENLERİN UMUTLARIDIR.\n\n#SokağaSakınÇıkma", "url": "/Son_SoyLu/status/754069875606319109", "nbr_retweet": 124, "nbr_favorite": 164, "nbr_reply": 5, "datetime": "2016-07-16 00:47:22", "is_reply": false, "is_retweet": false, "user_id": "203671647"}

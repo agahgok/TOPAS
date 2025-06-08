@@ -1,0 +1,1 @@
+{"usernameTweet": "hasanbaysal056", "ID": "754086740151898112", "text": "# sokağasakınçıkma  akp oyununa gelme...", "url": "/hasanbaysal056/status/754086740151898112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:23", "is_reply": false, "is_retweet": false, "user_id": "531681499"}

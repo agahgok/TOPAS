@@ -1,0 +1,1 @@
+{"usernameTweet": "crnzrl", "ID": "754097901345902592", "text": "# SokağaSakınÇıkma \nbaska ulkede yasayamam abi\nhangi ulkede var boyle darbe", "url": "/crnzrl/status/754097901345902592", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:38:44", "is_reply": false, "is_retweet": false, "user_id": "365573519"}

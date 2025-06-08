@@ -1,0 +1,1 @@
+{"usernameTweet": "mosyoliquid", "ID": "754089155991330816", "text": "# SokağaSakınÇıkma  bu darbe değil apple virali", "url": "/mosyoliquid/status/754089155991330816", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:03:59", "is_reply": false, "is_retweet": false, "user_id": "209545323"}

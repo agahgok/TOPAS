@@ -1,0 +1,1 @@
+{"usernameTweet": "Denizdebanaa", "ID": "1282266155013595138", "text": "Bak yaa her gecen gün stalker kişiliğime  darbe  vuruluyor", "url": "/Denizdebanaa/status/1282266155013595138", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-12 13:50:49", "is_reply": false, "is_retweet": false, "user_id": "843690836969820160"}

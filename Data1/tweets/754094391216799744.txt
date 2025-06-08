@@ -1,0 +1,1 @@
+{"usernameTweet": "mrttrs1", "ID": "754094391216799744", "text": "Figüran olma  #SokağaSakınÇıkma", "url": "/mrttrs1/status/754094391216799744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:47", "is_reply": false, "is_retweet": false, "user_id": "341785327"}

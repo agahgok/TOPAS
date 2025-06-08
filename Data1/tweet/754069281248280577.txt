@@ -1,0 +1,1 @@
+{"usernameTweet": "kwseli", "ID": "754069281248280577", "text": "# SokağaÇıkma \nHerif kendi kaçmış zaten.", "url": "/kwseli/status/754069281248280577", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:45:01", "is_reply": false, "is_retweet": false, "user_id": "74537602"}

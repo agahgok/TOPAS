@@ -1,0 +1,1 @@
+{"usernameTweet": "Protogaea", "ID": "1281549352482332672", "text": "Kanal İstanbul ve  darbe  yaygarası tutmadı herhalde. Şimdi de Ayasofya ile gündemi oyalıyorlar.", "url": "/Protogaea/status/1281549352482332672", "nbr_retweet": 1, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2020-07-10 14:22:30", "is_reply": true, "is_retweet": false, "user_id": "1235544978987847681"}

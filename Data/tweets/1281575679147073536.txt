@@ -1,0 +1,1 @@
+{"usernameTweet": "1papatya_", "ID": "1281575679147073536", "text": "Darbe  gördük, savaş gördük, kriz gördük, virüs gördük ama Günyüzü göremedik.", "url": "/1papatya_/status/1281575679147073536", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-10 16:07:07", "is_reply": false, "is_retweet": false, "user_id": "1108138879280996354"}

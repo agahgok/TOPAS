@@ -1,0 +1,1 @@
+{"usernameTweet": "lamarvibe", "ID": "754066873956704256", "text": "OYUNA GELMEYİN! #SokağaSakınÇıkma", "url": "/lamarvibe/status/754066873956704256", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:35:27", "is_reply": false, "is_retweet": false, "user_id": "718897607926509568"}

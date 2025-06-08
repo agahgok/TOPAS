@@ -1,0 +1,1 @@
+{"usernameTweet": "kentincadisi", "ID": "754095847168585728", "text": "çadır tiyatrosu sona erdi #SokağaSakınÇıkma  git evine yat uyu zaten en iyi bildiğimiz şey", "url": "/kentincadisi/status/754095847168585728", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:30:35", "is_reply": false, "is_retweet": false, "user_id": "374736312"}

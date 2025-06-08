@@ -1,0 +1,1 @@
+{"usernameTweet": "ulkuyss", "ID": "754082507100946432", "text": "Hatırlatma\nRTE: 2013 Sokağa çıkanlar teröristtir.\n\n#SokağaSakınÇıkma", "url": "/ulkuyss/status/754082507100946432", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:37:34", "is_reply": false, "is_retweet": false, "user_id": "3105020027"}

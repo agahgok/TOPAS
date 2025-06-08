@@ -1,0 +1,1 @@
+{"usernameTweet": "ZincidiOkyanus", "ID": "754077930742026240", "text": "Suriyeli vatandaslarını çağırsana toki lerden çıkıp gelsinler... #SokağaSakınÇıkma", "url": "/ZincidiOkyanus/status/754077930742026240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:23", "is_reply": false, "is_retweet": false, "user_id": "754048274009554944"}

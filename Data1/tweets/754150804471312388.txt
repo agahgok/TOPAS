@@ -1,0 +1,1 @@
+{"usernameTweet": "mervekunuk", "ID": "754150804471312388", "text": "Bu ülkede istihbaratta mit de halkmış meğerse .. God bless me or others #DarbeyeHayır  #SokağaSakınÇıkma  ", "url": "/mervekunuk/status/754150804471312388", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 06:08:57", "is_reply": false, "is_retweet": false, "user_id": "456947228"}

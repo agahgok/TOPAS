@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754084825988866049", "text": "hayalde gercek oldu ulkeyı bu hala getırdıler\n#SokağaSakınÇıkma", "url": "/ekicifaruk1/status/754084825988866049", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:47", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

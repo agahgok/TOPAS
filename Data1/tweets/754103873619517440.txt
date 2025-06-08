@@ -1,0 +1,1 @@
+{"usernameTweet": "soravalevan", "ID": "754103873619517440", "text": "# SokağaÇıkma  güvenliğin için otur sabaha kadar bekle!", "url": "/soravalevan/status/754103873619517440", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:02:28", "is_reply": false, "is_retweet": false, "user_id": "323363947"}

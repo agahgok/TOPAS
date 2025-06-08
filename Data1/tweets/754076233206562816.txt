@@ -1,0 +1,1 @@
+{"usernameTweet": "avukatyoraz", "ID": "754076233206562816", "text": "# SokağaSakınÇıkma  #TayyipSokağaKendiÇıksın @Ankara, Turkey  https://www. instagram.com/p/BH5gCJ6A76h/  ", "url": "/avukatyoraz/status/754076233206562816", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:12:38", "is_reply": false, "is_retweet": false, "user_id": "114324385"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "__HastaSiempre", "ID": "754078628057640960", "text": "Facetime'dan ülke korumaca oyunu #SokağaSakınÇıkma", "url": "/__HastaSiempre/status/754078628057640960", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:22:09", "is_reply": false, "is_retweet": false, "user_id": "776023364"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "denizgecmis_24", "ID": "754094526537592832", "text": "# SokağaSakınÇıkma  cıkacaksan askeriyeye katılın", "url": "/denizgecmis_24/status/754094526537592832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:20", "is_reply": false, "is_retweet": false, "user_id": "1090252764"}

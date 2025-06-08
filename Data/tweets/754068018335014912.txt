@@ -1,0 +1,1 @@
+{"usernameTweet": "revolution0034", "ID": "754068018335014912", "text": "Milleti sokağa çıkmaya çağıracak kadar alçaksınız korkaksınız #SokağaSakınÇıkma", "url": "/revolution0034/status/754068018335014912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:40:00", "is_reply": false, "is_retweet": false, "user_id": "352212721"}

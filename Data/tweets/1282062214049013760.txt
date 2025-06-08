@@ -1,0 +1,1 @@
+{"usernameTweet": "hepbirazburukk", "ID": "1282062214049013760", "text": "Daha ne yapsın amk, dünya nüfusuna  darbe , doğal afetler ve daha niceleri", "url": "/hepbirazburukk/status/1282062214049013760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 00:20:26", "is_reply": true, "is_retweet": false, "user_id": "1153696303"}

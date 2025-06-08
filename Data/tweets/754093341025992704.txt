@@ -1,0 +1,1 @@
+{"usernameTweet": "yesilakik", "ID": "754093341025992704", "text": "# SokağaSakınÇıkma  Biz koyun ve akmal değiliz ki sokağa çıkalımmm!!!!", "url": "/yesilakik/status/754093341025992704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:37", "is_reply": false, "is_retweet": false, "user_id": "470407896"}

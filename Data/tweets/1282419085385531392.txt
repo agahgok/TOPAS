@@ -1,0 +1,1 @@
+{"usernameTweet": "merveegurbuzz", "ID": "1282419085385531392", "text": "gün geçmiyor ki \"psikoloji\"mize bir  darbe  daha yapılmasın\n\n#psikolojiaçıköğretimolamaz", "url": "/merveegurbuzz/status/1282419085385531392", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-12 23:58:30", "is_reply": false, "is_retweet": false, "user_id": "925050101231472640"}

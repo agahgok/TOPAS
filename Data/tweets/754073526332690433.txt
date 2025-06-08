@@ -1,0 +1,1 @@
+{"usernameTweet": "gokhansaler", "ID": "754073526332690433", "text": "# SokağaSakınÇıkma  das nicht witzig", "url": "/gokhansaler/status/754073526332690433", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:01:53", "is_reply": false, "is_retweet": false, "user_id": "47039322"}

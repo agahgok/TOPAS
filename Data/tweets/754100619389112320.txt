@@ -1,0 +1,1 @@
+{"usernameTweet": "berkeozgur", "ID": "754100619389112320", "text": "Ankara allah yardımcınız olsun #SokağaSakınÇıkma", "url": "/berkeozgur/status/754100619389112320", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:49:32", "is_reply": false, "is_retweet": false, "user_id": "357098599"}

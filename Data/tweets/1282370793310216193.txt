@@ -1,0 +1,1 @@
+{"usernameTweet": "luzgv", "ID": "1282370793310216193", "text": "Pero por supuesto. Necesitamos un buen líder y desafortunadamente no lo hemos tenido.", "url": "/luzgv/status/1282370793310216193", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 20:46:37", "is_reply": true, "is_retweet": false, "user_id": "135316646"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1282050155793928192", "text": "E no duelo da Page Van Zant?", "url": "/JoneDarbe/status/1282050155793928192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 23:32:31", "is_reply": true, "is_retweet": false, "user_id": "1221530980965584896"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet19aydin", "ID": "754073785683279873", "text": "Fetonun piclerinin hastagi bu #SokağaSakınÇıkma  inanmayin cikin", "url": "/mehmet19aydin/status/754073785683279873", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:55", "is_reply": false, "is_retweet": false, "user_id": "731507795850346496"}

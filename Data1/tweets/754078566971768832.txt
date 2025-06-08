@@ -1,0 +1,1 @@
+{"usernameTweet": "SiirKadinSaclar", "ID": "754078566971768832", "text": "Berlin işgal altındayken \"sokağa çık\" diyordu hitler. #SokağaSakınÇıkma", "url": "/SiirKadinSaclar/status/754078566971768832", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:55", "is_reply": false, "is_retweet": false, "user_id": "1124797783"}

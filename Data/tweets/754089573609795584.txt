@@ -1,0 +1,1 @@
+{"usernameTweet": "erkamklc", "ID": "754089573609795584", "text": "17 Şehit Var Pisi Pisine Gitti Buyrun Sizce Neden Tabiki Tayyip Erdoğan Primi Yüzünden #SokağaSakınÇıkma", "url": "/erkamklc/status/754089573609795584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:39", "is_reply": false, "is_retweet": false, "user_id": "1660588159"}

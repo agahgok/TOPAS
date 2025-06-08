@@ -1,0 +1,1 @@
+{"usernameTweet": "Sabricobanoglu1", "ID": "1281840211652116481", "text": "Aslında  darbe  yapan fetö değilmiş derler mi derler.", "url": "/Sabricobanoglu1/status/1281840211652116481", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 09:38:16", "is_reply": true, "is_retweet": false, "user_id": "1077608051149021184"}

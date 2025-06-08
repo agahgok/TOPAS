@@ -1,0 +1,1 @@
+{"usernameTweet": "MamdohZaky", "ID": "754092045338308608", "text": "الهاشتاج الترند الاول في #تركيا  الان\nًًًًً#SokağaSakınÇıkma\nبالعربي= لا تخرج في الشارع\n#turkey", "url": "/MamdohZaky/status/754092045338308608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:28", "is_reply": false, "is_retweet": false, "user_id": "376375773"}

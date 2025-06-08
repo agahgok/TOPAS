@@ -1,0 +1,1 @@
+{"usernameTweet": "ecpaepcon", "ID": "754085777307566080", "text": "Şimdi hep birlikte Başkanlık sistemine merhaba diyelim! #sokağaçıkma", "url": "/ecpaepcon/status/754085777307566080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:34", "is_reply": false, "is_retweet": false, "user_id": "2904839361"}

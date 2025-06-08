@@ -1,0 +1,1 @@
+{"usernameTweet": "Franli_Adam", "ID": "754108846667366400", "text": "# SokağaSakınÇıkma  bunu isteyen gezici köpekler sokaklardan asrın darbesini yaptık namussuzlara", "url": "/Franli_Adam/status/754108846667366400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:22:14", "is_reply": false, "is_retweet": false, "user_id": "3918083777"}

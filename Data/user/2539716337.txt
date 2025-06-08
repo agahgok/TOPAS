@@ -1,0 +1,1 @@
+{"ID": "2539716337", "name": "ミラターボ横転寸前bot (L70系)", "screen_name": "l70_mira_turbot", "avatar": "https://pbs.twimg.com/profile_images/597063404642140160/qytz2mlB_bigger.jpg"}

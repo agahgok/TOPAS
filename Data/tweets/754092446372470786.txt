@@ -1,0 +1,1 @@
+{"usernameTweet": "Burak_KRHN1903", "ID": "754092446372470786", "text": "Darbeciler, İmamlar kadar organize olamamış #SokağaSakınÇıkma", "url": "/Burak_KRHN1903/status/754092446372470786", "nbr_retweet": 15, "nbr_favorite": 58, "nbr_reply": 0, "datetime": "2016-07-16 02:17:04", "is_reply": false, "is_retweet": false, "user_id": "1682992429"}

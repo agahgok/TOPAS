@@ -1,0 +1,1 @@
+{"usernameTweet": "ittati", "ID": "754078646592212992", "text": "Aksine Bugün Sokağa çıkma günüdür. #SokağaSakınÇıkma", "url": "/ittati/status/754078646592212992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:14", "is_reply": false, "is_retweet": false, "user_id": "594764080"}

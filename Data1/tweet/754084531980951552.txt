@@ -1,0 +1,1 @@
+{"usernameTweet": "2b8423341a7341a", "ID": "754084531980951552", "text": "# SokağaSakınÇıkma  Allah belanızı versin darbe 50 yılınızı çalacak ...", "url": "/2b8423341a7341a/status/754084531980951552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:37", "is_reply": false, "is_retweet": false, "user_id": "2944276798"}

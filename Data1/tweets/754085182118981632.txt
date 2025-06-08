@@ -1,0 +1,1 @@
+{"usernameTweet": "ercancakir_90", "ID": "754085182118981632", "text": "Gece bu selası bunların alayı dini kullanıyor #SokağaSakınÇıkma", "url": "/ercancakir_90/status/754085182118981632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:12", "is_reply": false, "is_retweet": false, "user_id": "706140232744361984"}

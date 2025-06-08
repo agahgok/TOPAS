@@ -1,0 +1,1 @@
+{"usernameTweet": "mugeeofficial", "ID": "754090442283679744", "text": "Ulkece Adana'ya döndük. Kendi kendimizi trolluyoruz \n#darbe  #SokağaSakınÇıkma", "url": "/mugeeofficial/status/754090442283679744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:06", "is_reply": false, "is_retweet": false, "user_id": "167326320"}

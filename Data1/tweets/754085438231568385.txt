@@ -1,0 +1,1 @@
+{"usernameTweet": "EmrahKarabudak", "ID": "754085438231568385", "text": "Sela okunuyor hadi sokaklara milli irade    #SokağaSakınÇıkma", "url": "/EmrahKarabudak/status/754085438231568385", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:13", "is_reply": false, "is_retweet": false, "user_id": "152168331"}

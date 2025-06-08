@@ -1,0 +1,1 @@
+{"usernameTweet": "FeyziAkn4", "ID": "1281700759818711040", "text": "Ortasında kaldığım bu muharebede,bir tek senden  darbe  yemediğim kalmıştı.", "url": "/FeyziAkn4/status/1281700759818711040", "nbr_retweet": 1, "nbr_favorite": 22, "nbr_reply": 0, "datetime": "2020-07-11 00:24:08", "is_reply": false, "is_retweet": false, "user_id": "1170237532241637376"}

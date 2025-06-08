@@ -1,0 +1,1 @@
+{"usernameTweet": "NesrinDindar", "ID": "1282026280440025088", "text": "Darbe  üstüne  darbe", "url": "/NesrinDindar/status/1282026280440025088", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-11 21:57:38", "is_reply": false, "is_retweet": false, "user_id": "1141639271536873472"}

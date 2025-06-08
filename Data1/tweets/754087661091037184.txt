@@ -1,0 +1,1 @@
+{"usernameTweet": "Ycel741", "ID": "754087661091037184", "text": "Bugün sokağa çıkmazsan yarın senin seçtiğin lidere ne yapar bu fetocu lar  #SokağaSakınÇıkma", "url": "/Ycel741/status/754087661091037184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:03", "is_reply": false, "is_retweet": false, "user_id": "1480064408"}

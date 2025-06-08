@@ -1,0 +1,1 @@
+{"usernameTweet": "YusufEn07794182", "ID": "1281368511479189506", "text": "Bu kadar askeri  darbe  uçurmaya yapılsaydı, herhalde ben de bilirdim uçurtma uçurtmayı ", "url": "/YusufEn07794182/status/1281368511479189506", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 02:23:54", "is_reply": true, "is_retweet": false, "user_id": "1265341898497167369"}

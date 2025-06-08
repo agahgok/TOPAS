@@ -1,0 +1,1 @@
+{"usernameTweet": "ElBrujitoZeta", "ID": "1282675746998296578", "text": "Yo no espero nada de ti. Jajajajajajaja", "url": "/ElBrujitoZeta/status/1282675746998296578", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 16:58:23", "is_reply": true, "is_retweet": false, "user_id": "1010593032612335616"}

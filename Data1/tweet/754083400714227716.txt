@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754083400714227716", "text": "Camilerden sela veriyor imamlar halkı sokağa çağırıyor! Pes!!! Oyuna gelme!\n#SokağaSakınÇıkma", "url": "/ekicifaruk1/status/754083400714227716", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:07", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

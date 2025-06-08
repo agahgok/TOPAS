@@ -1,0 +1,1 @@
+{"usernameTweet": "AhmedHoca1", "ID": "754084565749272576", "text": "# SokağaSakınÇıkma  Meydanlara çağrı yapılıp ışıklar neden kararıyor?", "url": "/AhmedHoca1/status/754084565749272576", "nbr_retweet": 1, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2016-07-16 01:45:45", "is_reply": false, "is_retweet": false, "user_id": "2990002233"}

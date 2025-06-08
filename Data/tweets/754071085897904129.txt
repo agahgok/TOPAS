@@ -1,0 +1,1 @@
+{"usernameTweet": "MoiElif", "ID": "754071085897904129", "text": "# SokağaSakınÇıkma  diyoz da o akmallar anlarmi ???", "url": "/MoiElif/status/754071085897904129", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:11", "is_reply": false, "is_retweet": false, "user_id": "279144418"}

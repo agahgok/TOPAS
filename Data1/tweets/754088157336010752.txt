@@ -1,0 +1,1 @@
+{"usernameTweet": "Gizgizz1903", "ID": "754088157336010752", "text": "Camileri çağrı yapmak halkı sokağa dökmek için kullanıyolar hepinizden tiksiniyorum! #SokağaSakınÇıkma", "url": "/Gizgizz1903/status/754088157336010752", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:00:01", "is_reply": false, "is_retweet": false, "user_id": "1887132878"}

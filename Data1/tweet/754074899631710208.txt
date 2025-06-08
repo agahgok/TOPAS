@@ -1,0 +1,1 @@
+{"usernameTweet": "semihmercan34", "ID": "754074899631710208", "text": "Aga icin sokaga cikanlar vatan millet icin cikmiyor diyor kahpesiniz #SokağaSakınÇıkma", "url": "/semihmercan34/status/754074899631710208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:20", "is_reply": false, "is_retweet": false, "user_id": "119781500"}

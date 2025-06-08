@@ -1,0 +1,1 @@
+{"usernameTweet": "Be_y10d", "ID": "754081794153127937", "text": "Oyuna gelmeyin darbe falan yokkkk #SokağaSakınÇıkma", "url": "/Be_y10d/status/754081794153127937", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:44", "is_reply": false, "is_retweet": false, "user_id": "361864986"}

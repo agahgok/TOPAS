@@ -1,0 +1,1 @@
+{"usernameTweet": "bozlanbaseda", "ID": "754075528894742528", "text": "Görevinin başında olanlar ülke bu hale  gelirken  neredeydi?  #SokağaSakınÇıkma  #darbe", "url": "/bozlanbaseda/status/754075528894742528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:50", "is_reply": false, "is_retweet": false, "user_id": "2312033192"}

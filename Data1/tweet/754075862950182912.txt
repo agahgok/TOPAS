@@ -1,0 +1,1 @@
+{"usernameTweet": "bluewall07", "ID": "754075862950182912", "text": "Neyin ezanı bu saatte?? #AtatürkünOrdusudurTSK  #sokagacikma", "url": "/bluewall07/status/754075862950182912", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:11:10", "is_reply": false, "is_retweet": false, "user_id": "77604444"}

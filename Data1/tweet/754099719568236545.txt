@@ -1,0 +1,1 @@
+{"usernameTweet": "ceeozlem", "ID": "754099719568236545", "text": "Sokağa cıkın diyen siyasiler hangi sokaklarda gören var mı #sokağaçıkma", "url": "/ceeozlem/status/754099719568236545", "nbr_retweet": 3, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2016-07-16 02:45:58", "is_reply": false, "is_retweet": false, "user_id": "169835404"}

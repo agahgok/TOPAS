@@ -1,0 +1,1 @@
+{"usernameTweet": "abu_hamza63", "ID": "754078028624519168", "text": "Emir komuta baş komutan da kimse endişelenmesin\n#SokağaSakınÇıkma \n#DarbeyeHayır  \nOrdu komutanı\nTRT1", "url": "/abu_hamza63/status/754078028624519168", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:19:46", "is_reply": false, "is_retweet": false, "user_id": "2764298525"}

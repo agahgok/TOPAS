@@ -1,0 +1,1 @@
+{"usernameTweet": "BKT_YLMZ", "ID": "754093153867751424", "text": "ulan bu anonslar nedir be ! Allah belanızı versin insanları birbirine kırdırtıyorlar ! #SokağaSakınÇıkma", "url": "/BKT_YLMZ/status/754093153867751424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:52", "is_reply": false, "is_retweet": false, "user_id": "214125471"}

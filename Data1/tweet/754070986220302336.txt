@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet19aydin", "ID": "754070986220302336", "text": "Cikin devletinin arkasinda olma vakti #SokağaSakınÇıkma", "url": "/mehmet19aydin/status/754070986220302336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:47", "is_reply": false, "is_retweet": false, "user_id": "731507795850346496"}

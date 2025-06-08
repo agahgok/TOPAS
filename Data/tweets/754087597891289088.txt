@@ -1,0 +1,1 @@
+{"usernameTweet": "syfllhtkgz", "ID": "754087597891289088", "text": "KAYBETTİNİZ KÖPEKLER,\nYİNE KAYBETTİNİZ\n\n #SokağaSakınÇıkma   pic.twitter.com/7M39UqJrn6", "url": "/syfllhtkgz/status/754087597891289088", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:48", "is_reply": false, "is_retweet": false, "user_id": "3434598243"}

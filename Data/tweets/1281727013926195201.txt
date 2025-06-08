@@ -1,0 +1,1 @@
+{"usernameTweet": "Art0641845542", "ID": "1281727013926195201", "text": "\"Çok şükür ki mazlum oldum, zalim\nolmadım.\" \n\n#İskenderPala  - İki  Darbe  Arasında", "url": "/Art0641845542/status/1281727013926195201", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 02:08:28", "is_reply": false, "is_retweet": false, "user_id": "1231390498495062016"}

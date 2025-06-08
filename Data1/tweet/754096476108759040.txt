@@ -1,0 +1,1 @@
+{"usernameTweet": "nizamialembilal", "ID": "754096476108759040", "text": "Bunları asmazsaniz iku elim yakanizda #SokağaSakınÇıkma", "url": "/nizamialembilal/status/754096476108759040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:33:04", "is_reply": false, "is_retweet": false, "user_id": "2590225479"}

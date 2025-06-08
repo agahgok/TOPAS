@@ -1,0 +1,1 @@
+{"usernameTweet": "hacer_ozil", "ID": "1281373053583319040", "text": "15 Temmuz’a 5 kala yine mi “ Darbe  “ dedirten köprü durumu    pic.twitter.com/IhYDOvfchK", "url": "/hacer_ozil/status/1281373053583319040", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 02:41:57", "is_reply": false, "is_retweet": false, "user_id": "401521893"}

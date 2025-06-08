@@ -1,0 +1,1 @@
+{"usernameTweet": "Lamekan_SA", "ID": "754211066910040065", "text": "Kızılay Meydanına toplanın diyor imam şimdi de.! #Ankara  #SokağaSakınÇıkma", "url": "/Lamekan_SA/status/754211066910040065", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2016-07-16 10:08:25", "is_reply": false, "is_retweet": false, "user_id": "708277547042267138"}

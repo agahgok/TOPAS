@@ -1,0 +1,1 @@
+{"usernameTweet": "AzzarinyAli1", "ID": "1284242544142974983", "text": "https:// twitter.com/Briagowsky/sta tus/1284241839499866112   …", "url": "/AzzarinyAli1/status/1284242544142974983", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 00:44:17", "is_reply": false, "is_retweet": false, "user_id": "1107670223438647299"}

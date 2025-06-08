@@ -1,0 +1,1 @@
+{"usernameTweet": "persephonelf", "ID": "754078461791203328", "text": "# SokağaSakınÇıkma  Oyuna gelme piyon olma", "url": "/persephonelf/status/754078461791203328", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:30", "is_reply": false, "is_retweet": false, "user_id": "114048521"}

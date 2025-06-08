@@ -1,0 +1,1 @@
+{"usernameTweet": "ylmzets", "ID": "1282228340821295104", "text": "Sizede de iktidar olma ruhu yok, hanım efendi.  Darbe  yapmadan CHP siddim sene iktidar olamayacak.", "url": "/ylmzets/status/1282228340821295104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 11:20:33", "is_reply": true, "is_retweet": false, "user_id": "334193299"}

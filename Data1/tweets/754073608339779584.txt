@@ -1,0 +1,1 @@
+{"usernameTweet": "GokBoru98", "ID": "754073608339779584", "text": "# SokağaSakınÇıkma  orduna karşı çıkma. Türk milleti yıllarca Ordu millet olarak yaşamıştır", "url": "/GokBoru98/status/754073608339779584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:12", "is_reply": false, "is_retweet": false, "user_id": "1478068472"}

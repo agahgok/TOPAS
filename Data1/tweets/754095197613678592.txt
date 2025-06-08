@@ -1,0 +1,1 @@
+{"usernameTweet": "weasleymelody", "ID": "754095197613678592", "text": "İki gün sonra asker şehit olsa siz ona da uzulmezsiniz #SokağaSakınÇıkma", "url": "/weasleymelody/status/754095197613678592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:00", "is_reply": false, "is_retweet": false, "user_id": "345701028"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Bwitchbrooke", "ID": "754078701231415297", "text": "# Sokagacikma", "url": "/Bwitchbrooke/status/754078701231415297", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:27", "is_reply": false, "is_retweet": false, "user_id": "101568079"}

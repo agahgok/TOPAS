@@ -1,0 +1,1 @@
+{"usernameTweet": "NevzatHartomaci", "ID": "754079472496893952", "text": "BU GİRİŞİME SUSMAK EN HAFİF TABİRLE VATAN HAİNLİĞİDİR. #SokağaSakınÇıkma", "url": "/NevzatHartomaci/status/754079472496893952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:31", "is_reply": false, "is_retweet": false, "user_id": "629347552"}

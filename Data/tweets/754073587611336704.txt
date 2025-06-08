@@ -1,0 +1,1 @@
+{"usernameTweet": "bas_lang", "ID": "754073587611336704", "text": "Sokağa pek çıkan olmaz zaten #SokağaSakınÇıkma", "url": "/bas_lang/status/754073587611336704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:07", "is_reply": false, "is_retweet": false, "user_id": "731108330060582912"}

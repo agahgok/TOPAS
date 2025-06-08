@@ -1,0 +1,1 @@
+{"usernameTweet": "cembarseviorm", "ID": "1282086056876290048", "text": "darbe  üstüne  darbe  yiyorum duygularım darmadağın", "url": "/cembarseviorm/status/1282086056876290048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 01:55:10", "is_reply": true, "is_retweet": false, "user_id": "1218948156114849793"}

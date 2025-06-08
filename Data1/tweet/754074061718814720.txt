@@ -1,0 +1,1 @@
+{"usernameTweet": "gizemli_seyyah", "ID": "754074061718814720", "text": "@ canli_fatma  @05semraarazgn  @nil_firuze #SokağaSakınÇıkma", "url": "/gizemli_seyyah/status/754074061718814720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:00", "is_reply": true, "is_retweet": false, "user_id": "3251524188"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "taehopereal", "ID": "754088702650028032", "text": "# SokağaSakınÇıkma  17 polis sehit var deniliyor dogrumu?", "url": "/taehopereal/status/754088702650028032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:11", "is_reply": false, "is_retweet": false, "user_id": "731853381841620993"}

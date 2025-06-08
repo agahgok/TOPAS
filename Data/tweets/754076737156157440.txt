@@ -1,0 +1,1 @@
+{"usernameTweet": "_meliscan_", "ID": "754076737156157440", "text": "Vatan haini, darbe destekçisi köpeksen #SokağaSakınÇıkma", "url": "/_meliscan_/status/754076737156157440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:38", "is_reply": false, "is_retweet": false, "user_id": "456095388"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "HDPBARAN", "ID": "754117649139953665", "text": "# SokağaSakınÇıkma  \n#SokağaBilalCiksin pic.twitter.com/MDkwyTo5ZW", "url": "/HDPBARAN/status/754117649139953665", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:57:13", "is_reply": false, "is_retweet": false, "user_id": "3135883366"}

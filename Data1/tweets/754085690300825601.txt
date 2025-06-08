@@ -1,0 +1,1 @@
+{"usernameTweet": "Arzunurgngr4", "ID": "754085690300825601", "text": "Ezanlar ezanlar sakın sokağa çıkmayın kimsenin aklına uyup #SokağaSakınÇıkma", "url": "/Arzunurgngr4/status/754085690300825601", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:13", "is_reply": false, "is_retweet": false, "user_id": "4897204845"}

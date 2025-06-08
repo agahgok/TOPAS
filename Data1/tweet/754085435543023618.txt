@@ -1,0 +1,1 @@
+{"usernameTweet": "pekiugur", "ID": "754085435543023618", "text": "Arkadaşlar askerin şakası olmaz dönün evinize sizi sokağa davet eden nerede? Onu koğuşturun!!! #SokağaSakınÇıkma", "url": "/pekiugur/status/754085435543023618", "nbr_retweet": 3, "nbr_favorite": 13, "nbr_reply": 0, "datetime": "2016-07-16 01:49:12", "is_reply": false, "is_retweet": false, "user_id": "478747359"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mhmdcelik", "ID": "754075150178459648", "text": "# SokağaSakınÇıkma  \nBiz Reisi Allah için sevdik. Bekleyin geliyoruz", "url": "/mhmdcelik/status/754075150178459648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:20", "is_reply": false, "is_retweet": false, "user_id": "2204581099"}

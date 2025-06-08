@@ -1,0 +1,1 @@
+{"usernameTweet": "HaldunTemiz2", "ID": "754095143855198208", "text": "# SokağaSakınÇıkma  neden hiç hoşunuza gitmedi dimi şerefsiz darbeciler...", "url": "/HaldunTemiz2/status/754095143855198208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:47", "is_reply": false, "is_retweet": false, "user_id": "740033154782769152"}

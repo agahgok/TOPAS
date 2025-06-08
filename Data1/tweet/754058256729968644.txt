@@ -1,0 +1,1 @@
+{"usernameTweet": "fevziyeerduran", "ID": "754058256729968644", "text": "# SokağaSakınÇıkma  %50 çıksın", "url": "/fevziyeerduran/status/754058256729968644", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2016-07-16 00:01:12", "is_reply": false, "is_retweet": false, "user_id": "343243228"}

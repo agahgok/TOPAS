@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1281442266981322752", "text": "Pesadíssimo", "url": "/JoneDarbe/status/1281442266981322752", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 07:16:59", "is_reply": true, "is_retweet": false, "user_id": "1221530980965584896"}

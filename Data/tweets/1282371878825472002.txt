@@ -1,0 +1,1 @@
+{"usernameTweet": "yazici5367", "ID": "1282371878825472002", "text": "Sanırsın her haftamız süper geçiyor gibi bi de her hafta Galatasaray’dan  darbe  yedik", "url": "/yazici5367/status/1282371878825472002", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 20:50:55", "is_reply": false, "is_retweet": false, "user_id": "2909880177"}

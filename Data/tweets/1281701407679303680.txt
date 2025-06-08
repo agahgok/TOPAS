@@ -1,0 +1,1 @@
+{"usernameTweet": "yegsek", "ID": "1281701407679303680", "text": "Maçta aldığı  darbe  ile sağ çapraz bağları (Emre Belözoğluna olan şeyden olmuş) haftaya kadro dışı", "url": "/yegsek/status/1281701407679303680", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 00:26:43", "is_reply": false, "is_retweet": false, "user_id": "1272602968731369472"}

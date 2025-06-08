@@ -1,0 +1,1 @@
+{"usernameTweet": "YDedikleri", "ID": "1282294776155574272", "text": "Hocalarının  Darbe  girişimini da? Pardon berattan öğrenen,mi söylemiş.", "url": "/YDedikleri/status/1282294776155574272", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 15:44:33", "is_reply": true, "is_retweet": false, "user_id": "1184817010926067712"}

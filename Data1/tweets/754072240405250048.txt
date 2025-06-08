@@ -1,0 +1,1 @@
+{"usernameTweet": "CosgunTecavuzcu", "ID": "754072240405250048", "text": "# DARBE   #SokağaSakınÇıkma  Yiyosa sen çıksana Tay-it.", "url": "/CosgunTecavuzcu/status/754072240405250048", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:56:46", "is_reply": false, "is_retweet": false, "user_id": "717982895005106176"}

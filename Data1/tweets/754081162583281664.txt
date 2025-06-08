@@ -1,0 +1,1 @@
+{"usernameTweet": "26kut10", "ID": "754081162583281664", "text": "# SokağaSakınÇıkma  bok var ulan çıkmayın işte", "url": "/26kut10/status/754081162583281664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:13", "is_reply": false, "is_retweet": false, "user_id": "3263769040"}

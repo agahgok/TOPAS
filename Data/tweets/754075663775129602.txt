@@ -1,0 +1,1 @@
+{"usernameTweet": "Dzugzwang", "ID": "754075663775129602", "text": "darbeler iyi değildir ama #SokağaSakınÇıkma", "url": "/Dzugzwang/status/754075663775129602", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:22", "is_reply": false, "is_retweet": false, "user_id": "918442152"}

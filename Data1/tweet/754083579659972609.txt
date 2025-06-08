@@ -1,0 +1,1 @@
+{"usernameTweet": "filizcakir84", "ID": "754083579659972609", "text": "Bu ne yaa!\nEmniyet Genel Müdürlüğü de içsavaş istiyor!!\n #SokağaSakınÇıkma   pic.twitter.com/fzKA8nQaSe", "url": "/filizcakir84/status/754083579659972609", "nbr_retweet": 8, "nbr_favorite": 10, "nbr_reply": 1, "datetime": "2016-07-16 01:41:50", "is_reply": false, "is_retweet": false, "user_id": "2278743575"}

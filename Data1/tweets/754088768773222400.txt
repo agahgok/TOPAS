@@ -1,0 +1,1 @@
+{"usernameTweet": "esriki", "ID": "754088768773222400", "text": "# Ankara  #SokağaSakınÇıkma  GOT dan önce kış türkiyeye geldi. daha tafrasından geçilmez.", "url": "/esriki/status/754088768773222400", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:27", "is_reply": false, "is_retweet": false, "user_id": "354844084"}

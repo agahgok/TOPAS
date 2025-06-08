@@ -1,0 +1,1 @@
+{"usernameTweet": "filiz_babuc", "ID": "754075961486938117", "text": "# SokağaSakınÇıkma  Vatan Bayrak Aşkına sokağa Türkiyem ", "url": "/filiz_babuc/status/754075961486938117", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:33", "is_reply": false, "is_retweet": false, "user_id": "2972269401"}

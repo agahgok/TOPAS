@@ -1,0 +1,1 @@
+{"usernameTweet": "izzetkalan", "ID": "754085809406382080", "text": "# SokağaSakınÇıkma  ezanlar bizim için okunuyor sevgilim", "url": "/izzetkalan/status/754085809406382080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:41", "is_reply": false, "is_retweet": false, "user_id": "360026462"}

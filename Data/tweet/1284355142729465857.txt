@@ -1,0 +1,1 @@
+{"usernameTweet": "BerkinLevent74", "ID": "1284355142729465857", "text": "Darbe  olursa ilk Tankların üstüne ben çıkarım diyen zübük zade. Koltuğu  Tank sanmış herhalde..", "url": "/BerkinLevent74/status/1284355142729465857", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:11:42", "is_reply": true, "is_retweet": false, "user_id": "267752267"}

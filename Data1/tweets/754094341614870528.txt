@@ -1,0 +1,1 @@
+{"usernameTweet": "mkbahadir", "ID": "754094341614870528", "text": "Asker #SokağaSakınÇıkma", "url": "/mkbahadir/status/754094341614870528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:36", "is_reply": false, "is_retweet": false, "user_id": "146488651"}

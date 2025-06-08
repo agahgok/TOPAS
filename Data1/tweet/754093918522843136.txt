@@ -1,0 +1,1 @@
+{"usernameTweet": "Ecevit_ER", "ID": "754093918522843136", "text": "# SokağaSakınÇıkma   pic.twitter.com/OLto05P46n", "url": "/Ecevit_ER/status/754093918522843136", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:55", "is_reply": false, "is_retweet": false, "user_id": "2844392078"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "CoNNRoaD", "ID": "754074763476238337", "text": "# SokağaSakınÇıkma     pic.twitter.com/TYTbfsyk7i", "url": "/CoNNRoaD/status/754074763476238337", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:48", "is_reply": false, "is_retweet": false, "user_id": "1110360348"}

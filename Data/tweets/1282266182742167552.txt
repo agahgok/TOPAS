@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1282266182742167552", "text": "Amém", "url": "/JoneDarbe/status/1282266182742167552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 13:50:55", "is_reply": true, "is_retweet": false, "user_id": "1221530980965584896"}

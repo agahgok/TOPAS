@@ -1,0 +1,1 @@
+{"usernameTweet": "alperensoydas", "ID": "754074123635159040", "text": "# SokağaSakınÇıkma  hayırlı olsun  https:// twitter.com/DrSteveneu/sta tus/754066696206479361   …", "url": "/alperensoydas/status/754074123635159040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:15", "is_reply": false, "is_retweet": false, "user_id": "2500855531"}

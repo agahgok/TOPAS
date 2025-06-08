@@ -1,0 +1,1 @@
+{"usernameTweet": "neyseyabosver", "ID": "754078460155494402", "text": "Bu saatte okunan ezanin anlami nedir? Ilk defa boyle bir sey goruyorum## SokağaSakınÇıkma  #Ankara", "url": "/neyseyabosver/status/754078460155494402", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:29", "is_reply": false, "is_retweet": false, "user_id": "534835644"}

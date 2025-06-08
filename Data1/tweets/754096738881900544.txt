@@ -1,0 +1,1 @@
+{"usernameTweet": "edavci", "ID": "754096738881900544", "text": "# SokağaSakınÇıkma  Evde kalanlarla uzun bir yurtdışı tatilene çıkmak istiyorum.", "url": "/edavci/status/754096738881900544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:34:07", "is_reply": false, "is_retweet": false, "user_id": "86206425"}

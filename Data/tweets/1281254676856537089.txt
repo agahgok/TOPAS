@@ -1,0 +1,1 @@
+{"usernameTweet": "cemalcanbabe", "ID": "1281254676856537089", "text": "15 temmuzda 2.  darbe  girisimini barıs sampiyon olamadıgında yasıycaz akoyim", "url": "/cemalcanbabe/status/1281254676856537089", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-09 18:51:34", "is_reply": false, "is_retweet": false, "user_id": "1264618284957216768"}

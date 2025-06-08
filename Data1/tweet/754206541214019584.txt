@@ -1,0 +1,1 @@
+{"usernameTweet": "oz_gmze34", "ID": "754206541214019584", "text": "Kendini korumak için halkı sokağa çağırma. #SokağaÇıkma", "url": "/oz_gmze34/status/754206541214019584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 09:50:26", "is_reply": false, "is_retweet": false, "user_id": "4839703119"}

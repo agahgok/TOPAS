@@ -1,0 +1,1 @@
+{"usernameTweet": "buuuuss_", "ID": "754079274949378048", "text": "Halk olmayan demokrasiye sahip çıkıyor.... Askerle polisi, halkla askeri birbirine düşürüyorlar.! #SokağaSakınÇıkma", "url": "/buuuuss_/status/754079274949378048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:43", "is_reply": false, "is_retweet": false, "user_id": "263216609"}

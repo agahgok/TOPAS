@@ -1,0 +1,1 @@
+{"usernameTweet": "BediTumen", "ID": "754087360854458372", "text": "daha dini ne kadar sömürceksiniz ezanla halkı sokaklara cağırmak nedir! #SokağaSakınÇıkma", "url": "/BediTumen/status/754087360854458372", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:51", "is_reply": false, "is_retweet": false, "user_id": "2454847553"}

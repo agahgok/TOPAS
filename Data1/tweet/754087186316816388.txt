@@ -1,0 +1,1 @@
+{"usernameTweet": "Hasbe1925", "ID": "754087186316816388", "text": "Ezan, ibadete çağrıdır. Allah'ınız tayyip değil! #SokağaSakınÇıkma", "url": "/Hasbe1925/status/754087186316816388", "nbr_retweet": 3, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2016-07-16 01:56:10", "is_reply": false, "is_retweet": false, "user_id": "1622801125"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Muzikolahayrola", "ID": "754095432251342849", "text": "Bize anlatılan darbe bu değildi. Nasıl bir oyun oynuyorsunuz yine? #sokagaÇIKMA", "url": "/Muzikolahayrola/status/754095432251342849", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:56", "is_reply": false, "is_retweet": false, "user_id": "1560186432"}

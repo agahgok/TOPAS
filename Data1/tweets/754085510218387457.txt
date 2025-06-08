@@ -1,0 +1,1 @@
+{"usernameTweet": "takipci_jeti", "ID": "754085510218387457", "text": "# SokağaSakınÇıkma", "url": "/takipci_jeti/status/754085510218387457", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:30", "is_reply": false, "is_retweet": false, "user_id": "742102761777602566"}

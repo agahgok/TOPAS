@@ -1,0 +1,1 @@
+{"usernameTweet": "andresmarah24", "ID": "1284373204585246721", "text": "HAHAHAHAHA isge maya, lowbat ako chat kita mamaya", "url": "/andresmarah24/status/1284373204585246721", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 09:23:29", "is_reply": true, "is_retweet": false, "user_id": "1195153907367833600"}

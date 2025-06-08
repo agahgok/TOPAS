@@ -1,0 +1,1 @@
+{"usernameTweet": "nejla_23", "ID": "754087634272526337", "text": "# SokağaSakınÇıkma  RTE ne zaman uzun süre ortalarda görünmese ülkede dehşet şeyler oluyor sanki", "url": "/nejla_23/status/754087634272526337", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:56", "is_reply": false, "is_retweet": false, "user_id": "534756821"}

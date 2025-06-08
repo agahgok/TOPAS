@@ -1,0 +1,1 @@
+{"usernameTweet": "murat_engin_", "ID": "754074317017772033", "text": "# SokağaSakınÇıkma", "url": "/murat_engin_/status/754074317017772033", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:01", "is_reply": false, "is_retweet": false, "user_id": "876224353"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "DabeePare", "ID": "1284363558277361666", "text": "Last na pangungulit hahaha", "url": "/DabeePare/status/1284363558277361666", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:45:09", "is_reply": false, "is_retweet": false, "user_id": "1112016133169664002"}

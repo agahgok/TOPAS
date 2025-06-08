@@ -1,0 +1,1 @@
+{"usernameTweet": "blueeemoonn", "ID": "754074745721815040", "text": "peki bize sokağa çıkın diyenler neredeler? #SokağaSakınÇıkma", "url": "/blueeemoonn/status/754074745721815040", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:44", "is_reply": false, "is_retweet": false, "user_id": "2984469376"}

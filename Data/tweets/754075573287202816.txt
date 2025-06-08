@@ -1,0 +1,1 @@
+{"usernameTweet": "kagancakmakk", "ID": "754075573287202816", "text": "Kan dökülmesini istiyorlar. Aklıselim olun #SokağaSakınÇıkma", "url": "/kagancakmakk/status/754075573287202816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:01", "is_reply": false, "is_retweet": false, "user_id": "2223764635"}

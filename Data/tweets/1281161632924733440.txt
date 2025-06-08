@@ -1,0 +1,1 @@
+{"usernameTweet": "acz_art", "ID": "1281161632924733440", "text": "Eğer bir amaç uğruna ayakta değilseniz, her  darbe  sizi yere serebilir.  pic.twitter.com/kOAB3W6luW", "url": "/acz_art/status/1281161632924733440", "nbr_retweet": 0, "nbr_favorite": 38, "nbr_reply": 0, "datetime": "2020-07-09 12:41:50", "is_reply": false, "is_retweet": false, "user_id": "1031993920140574720"}

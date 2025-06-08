@@ -1,0 +1,1 @@
+{"usernameTweet": "aydogmustafa0", "ID": "1282347602227466240", "text": "Darbe  yiyip arkaya bakmamak en güzeli inşallah daha güzel durumlar bizlerle olur ", "url": "/aydogmustafa0/status/1282347602227466240", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 19:14:27", "is_reply": true, "is_retweet": false, "user_id": "1026433590211629056"}

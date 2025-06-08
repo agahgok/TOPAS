@@ -1,0 +1,1 @@
+{"usernameTweet": "Bilalyigit", "ID": "754088512660578304", "text": "Siz hala yatmadinizmi #SokağaSakınÇıkma", "url": "/Bilalyigit/status/754088512660578304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:26", "is_reply": false, "is_retweet": false, "user_id": "97417217"}

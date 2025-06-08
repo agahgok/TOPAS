@@ -1,0 +1,1 @@
+{"usernameTweet": "yesimgursel", "ID": "754072500909244416", "text": "# sokağaçıkma", "url": "/yesimgursel/status/754072500909244416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:48", "is_reply": false, "is_retweet": false, "user_id": "144238522"}

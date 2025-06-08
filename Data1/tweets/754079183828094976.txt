@@ -1,0 +1,1 @@
+{"usernameTweet": "esreskers", "ID": "754079183828094976", "text": "# SokağaSakınÇıkma  diyenler darbeye destek olanlardır. Ülkeni sahipsiz bırakma #sokağaçık  ", "url": "/esreskers/status/754079183828094976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:22", "is_reply": false, "is_retweet": false, "user_id": "3344681237"}

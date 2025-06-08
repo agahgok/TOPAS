@@ -1,0 +1,1 @@
+{"usernameTweet": "slimy117", "ID": "1281310011512193025", "text": "@ Rebecca_abisaad   darbe  lta7iye m3alim?", "url": "/slimy117/status/1281310011512193025", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 22:31:26", "is_reply": true, "is_retweet": false, "user_id": "455233862"}

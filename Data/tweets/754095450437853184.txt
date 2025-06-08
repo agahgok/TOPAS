@@ -1,0 +1,1 @@
+{"usernameTweet": "bilgeninbiri", "ID": "754095450437853184", "text": "# SokağaSakınÇıkma   pic.twitter.com/czoAn0BSgH", "url": "/bilgeninbiri/status/754095450437853184", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:29:00", "is_reply": false, "is_retweet": false, "user_id": "3032934166"}

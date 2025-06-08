@@ -1,0 +1,1 @@
+{"usernameTweet": "rotasizbiri", "ID": "754081085441642496", "text": "ÇIK DA SİKSİNLER HAHHAHAAA #sokağasakınçıkma", "url": "/rotasizbiri/status/754081085441642496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:55", "is_reply": false, "is_retweet": false, "user_id": "4227875352"}

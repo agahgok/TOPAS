@@ -1,0 +1,1 @@
+{"usernameTweet": "dodithedido", "ID": "754110854472298497", "text": "Yok bu darbe girişimi falan değil bu olsa olsa terör saldırısı #SokağaSakınÇıkma", "url": "/dodithedido/status/754110854472298497", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:30:13", "is_reply": false, "is_retweet": false, "user_id": "97425849"}

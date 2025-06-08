@@ -1,0 +1,1 @@
+{"usernameTweet": "_The_Devrimci_", "ID": "1282273541027766274", "text": "Getirin hilafeti.  Darbe  yapar yine alırız sıkıntı yok ", "url": "/_The_Devrimci_/status/1282273541027766274", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 14:20:10", "is_reply": true, "is_retweet": false, "user_id": "1272722303651020800"}

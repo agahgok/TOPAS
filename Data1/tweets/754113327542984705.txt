@@ -1,0 +1,1 @@
+{"usernameTweet": "fatmanevin_", "ID": "754113327542984705", "text": "Böyle geri zekalı bir plan olamaz. Oyun içinde oyun. #SokağaSakınÇıkma  #TskCumhuriyetinTeminatıdır", "url": "/fatmanevin_/status/754113327542984705", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 03:40:02", "is_reply": false, "is_retweet": false, "user_id": "2811758062"}

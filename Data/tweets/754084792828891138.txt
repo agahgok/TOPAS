@@ -1,0 +1,1 @@
+{"usernameTweet": "yolcu6556", "ID": "754084792828891138", "text": "O kadar şehit varken neredeydi bu ezan ve selalar #SokağaSakınÇıkma", "url": "/yolcu6556/status/754084792828891138", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:39", "is_reply": false, "is_retweet": false, "user_id": "739244727481077761"}

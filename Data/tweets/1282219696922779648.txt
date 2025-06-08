@@ -1,0 +1,1 @@
+{"usernameTweet": "AbhishekDarbe", "ID": "1282219696922779648", "text": "बिहार एनडीए में भी सीट बंटवारे को लेकर तनातनी का माहौल है ?\n\nसूत्रों के हवाले से!", "url": "/AbhishekDarbe/status/1282219696922779648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 10:46:12", "is_reply": true, "is_retweet": false, "user_id": "1253259806758051840"}

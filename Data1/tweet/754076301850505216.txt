@@ -1,0 +1,1 @@
+{"usernameTweet": "HaberinsanMag", "ID": "754076301850505216", "text": "Asker TBMM'yi sardı  https:// shar.es/1lU7LF    #SokağaSakınÇıkma  #Ankara", "url": "/HaberinsanMag/status/754076301850505216", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:12:55", "is_reply": false, "is_retweet": false, "user_id": "786775488"}

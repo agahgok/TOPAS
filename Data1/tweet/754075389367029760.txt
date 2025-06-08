@@ -1,0 +1,1 @@
+{"usernameTweet": "kuti1969", "ID": "754075389367029760", "text": "# SokağaSakınÇıkma  Mısır a dönmeyelim canlar gitmesin", "url": "/kuti1969/status/754075389367029760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:17", "is_reply": false, "is_retweet": false, "user_id": "75010968"}

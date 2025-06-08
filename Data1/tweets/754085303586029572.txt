@@ -1,0 +1,1 @@
+{"usernameTweet": "OmerEbubekir", "ID": "754085303586029572", "text": "Vatan haini bölücülere karşı emperyalist feto köpeklerine karşı sokaktayız hemen şimdi #SokağaSakınÇıkma", "url": "/OmerEbubekir/status/754085303586029572", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:41", "is_reply": false, "is_retweet": false, "user_id": "3144308338"}

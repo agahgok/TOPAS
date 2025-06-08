@@ -1,0 +1,1 @@
+{"usernameTweet": "tuanaaduru", "ID": "754082950216556544", "text": "Havalimanında catisma var akrabalarim orda kaldı. Gitmeyin!¡! #SokağaSakınÇıkma", "url": "/tuanaaduru/status/754082950216556544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:20", "is_reply": false, "is_retweet": false, "user_id": "4436440696"}

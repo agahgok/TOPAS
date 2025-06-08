@@ -1,0 +1,1 @@
+{"usernameTweet": "TSonsuz_", "ID": "754087584054255616", "text": "HADİ  YOLLASANA!!!!!#SokağaSakınÇıkma   pic.twitter.com/XdTESrcjmd", "url": "/TSonsuz_/status/754087584054255616", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:57:44", "is_reply": false, "is_retweet": false, "user_id": "1263286958"}

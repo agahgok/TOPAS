@@ -1,0 +1,1 @@
+{"usernameTweet": "Kubofalan", "ID": "1282318238676930560", "text": "En kötüsü de ben 15 temmuz  darbe  gecesi SHXHSJSJ", "url": "/Kubofalan/status/1282318238676930560", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 17:17:47", "is_reply": true, "is_retweet": false, "user_id": "1259913927917518850"}

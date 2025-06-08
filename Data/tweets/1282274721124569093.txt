@@ -1,0 +1,1 @@
+{"usernameTweet": "arnasvid", "ID": "1282274721124569093", "text": "Man pačiam keista, kad iš nuobodulio  darbe  pradėjau pdf knygą skaityt :D", "url": "/arnasvid/status/1282274721124569093", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 14:24:51", "is_reply": true, "is_retweet": false, "user_id": "794640158758993921"}

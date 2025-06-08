@@ -1,0 +1,1 @@
+{"usernameTweet": "FYumurtaoglu", "ID": "754079928027586560", "text": "Siktir lan orospu çocuğu ne çektiyse bu millet sizin gibi ibnelerin yüzünden çekti #SokağaSakınÇıkma", "url": "/FYumurtaoglu/status/754079928027586560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:27:19", "is_reply": false, "is_retweet": false, "user_id": "720614426"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "UkAlAcAdI_", "ID": "754076590343094273", "text": "Gezi Olaylarında Bizi Terörist Olmakla Suçlayan \nHerkes Şuan Sokakta !!.\n\n#SokağaSakınÇıkma", "url": "/UkAlAcAdI_/status/754076590343094273", "nbr_retweet": 41, "nbr_favorite": 69, "nbr_reply": 10, "datetime": "2016-07-16 01:14:03", "is_reply": false, "is_retweet": false, "user_id": "132862254"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Rifat3400", "ID": "754073829702529025", "text": "Kimse gaza gelmesin oturun evde #SokağaSakınÇıkma", "url": "/Rifat3400/status/754073829702529025", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:03:05", "is_reply": false, "is_retweet": false, "user_id": "3339719127"}

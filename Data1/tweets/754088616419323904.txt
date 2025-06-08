@@ -1,0 +1,1 @@
+{"usernameTweet": "marshle22", "ID": "754088616419323904", "text": "Gölbaşında 17 JÖH öldürülmüş  #SokağaSakınÇıkma", "url": "/marshle22/status/754088616419323904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:51", "is_reply": false, "is_retweet": false, "user_id": "746652137384460288"}

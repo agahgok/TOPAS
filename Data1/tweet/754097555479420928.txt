@@ -1,0 +1,1 @@
+{"usernameTweet": "CansuEnginn", "ID": "754097555479420928", "text": "# SokağaSakınÇıkma   pic.twitter.com/6Az3RG8P0o", "url": "/CansuEnginn/status/754097555479420928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:37:22", "is_reply": false, "is_retweet": false, "user_id": "3006093519"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Yusuf_Sivasli", "ID": "754089011250098181", "text": "Senaryo güzel, bir kac hata olsada !!! Hadi gene kahraman oldun #SokağaSakınÇıkma", "url": "/Yusuf_Sivasli/status/754089011250098181", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:03:25", "is_reply": false, "is_retweet": false, "user_id": "305836679"}

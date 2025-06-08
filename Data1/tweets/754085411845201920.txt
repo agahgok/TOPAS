@@ -1,0 +1,1 @@
+{"usernameTweet": "Worldgofast", "ID": "754085411845201920", "text": "Başkomutan Gazi Mustafa Kemal ATATÜRK'TÜR.  #TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma", "url": "/Worldgofast/status/754085411845201920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:07", "is_reply": false, "is_retweet": false, "user_id": "1177310708"}

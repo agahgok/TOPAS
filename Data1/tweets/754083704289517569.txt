@@ -1,0 +1,1 @@
+{"usernameTweet": "YYalpi", "ID": "754083704289517569", "text": "2 saat sonra herşey kontrol altında... Game over  #SokağaSakınÇıkma", "url": "/YYalpi/status/754083704289517569", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:19", "is_reply": false, "is_retweet": false, "user_id": "162803451"}

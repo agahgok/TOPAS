@@ -1,0 +1,1 @@
+{"usernameTweet": "bozkurtenes54", "ID": "754079748322631680", "text": "Sokağa çıkmak terör olayıdır derdi Tayip şimdi kendi çağrıyo #SokağaSakınÇıkma", "url": "/bozkurtenes54/status/754079748322631680", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:26:36", "is_reply": false, "is_retweet": false, "user_id": "2979605956"}

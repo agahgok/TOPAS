@@ -1,0 +1,1 @@
+{"usernameTweet": "Sofi19671972", "ID": "1281989551720890368", "text": "Darbe  kim yaptı mandacı  Kemalistler mi", "url": "/Sofi19671972/status/1281989551720890368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 19:31:42", "is_reply": true, "is_retweet": false, "user_id": "1236600339270373377"}

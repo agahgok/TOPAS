@@ -1,0 +1,1 @@
+{"usernameTweet": "mngll_okan", "ID": "754079441450471424", "text": "# SokağaSakınÇıkma  canını hiçe sayma.", "url": "/mngll_okan/status/754079441450471424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:23", "is_reply": false, "is_retweet": false, "user_id": "1517444810"}

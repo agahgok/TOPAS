@@ -1,0 +1,1 @@
+{"usernameTweet": "Lagetya", "ID": "754072825040863232", "text": "# SokağaSakınÇıkma  sikerler!", "url": "/Lagetya/status/754072825040863232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:06", "is_reply": false, "is_retweet": false, "user_id": "718606194"}

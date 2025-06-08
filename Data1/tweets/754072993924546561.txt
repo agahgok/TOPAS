@@ -1,0 +1,1 @@
+{"usernameTweet": "GsGizzzzzm", "ID": "754072993924546561", "text": "Mecliste birbirine girme değil vekillerimizi, bakanlarımızı sokağa davet ediyoruz.... #SokağaSakınÇıkma", "url": "/GsGizzzzzm/status/754072993924546561", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:46", "is_reply": false, "is_retweet": false, "user_id": "384389588"}

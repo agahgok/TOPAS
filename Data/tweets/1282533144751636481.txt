@@ -1,0 +1,1 @@
+{"usernameTweet": "_yesnt_", "ID": "1282533144751636481", "text": "yanlışlıkla Kenan Evren’e göndermiş olmayalım da sonra  darbe  üstüne  darbe  uslanmıyoruz", "url": "/_yesnt_/status/1282533144751636481", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 07:31:44", "is_reply": true, "is_retweet": false, "user_id": "876896723733499904"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ipekckaya", "ID": "754079804325040131", "text": "Sela veriliyor?? #SokağaSakınÇıkma", "url": "/ipekckaya/status/754079804325040131", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:50", "is_reply": false, "is_retweet": false, "user_id": "576995878"}

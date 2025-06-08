@@ -1,0 +1,1 @@
+{"usernameTweet": "cihangirisbilir", "ID": "1282273376350932992", "text": "# 15Temmuz   Darbe  Yargılamaları \n\n> #AA pic.twitter.com/yLD4s5vDak", "url": "/cihangirisbilir/status/1282273376350932992", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-12 14:19:31", "is_reply": false, "is_retweet": false, "user_id": "365938607"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AltintepeSeckin", "ID": "754116327187578880", "text": "# SokağaSakınÇıkma  Can güvenliği yok, demokrasi yi nasıl koruyacağız.", "url": "/AltintepeSeckin/status/754116327187578880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:51:57", "is_reply": false, "is_retweet": false, "user_id": "700753584443539457"}

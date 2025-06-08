@@ -1,0 +1,1 @@
+{"usernameTweet": "Ferhat_Kuul", "ID": "754072605431300096", "text": "# SokagaSakınÇıkma", "url": "/Ferhat_Kuul/status/754072605431300096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:13", "is_reply": false, "is_retweet": false, "user_id": "2879236870"}

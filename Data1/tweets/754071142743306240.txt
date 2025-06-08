@@ -1,0 +1,1 @@
+{"usernameTweet": "_siyahkedi", "ID": "754071142743306240", "text": "# SokağaSakınÇıkma   pic.twitter.com/ef0fnZkkCD", "url": "/_siyahkedi/status/754071142743306240", "nbr_retweet": 3, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2016-07-16 00:52:25", "is_reply": false, "is_retweet": false, "user_id": "2322596598"}

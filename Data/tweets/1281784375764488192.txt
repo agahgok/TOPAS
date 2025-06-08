@@ -1,0 +1,1 @@
+{"usernameTweet": "Murat_darbe", "ID": "1281784375764488192", "text": "Bitanem", "url": "/Murat_darbe/status/1281784375764488192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 05:56:24", "is_reply": true, "is_retweet": false, "user_id": "961127958"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "basakorhann", "ID": "754080334900236288", "text": "Düne kadar sokaktasın diye çapulcu diyip vur emri verdi unutma!\n #SokağaSakınÇıkma", "url": "/basakorhann/status/754080334900236288", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:28:56", "is_reply": false, "is_retweet": false, "user_id": "2155151424"}

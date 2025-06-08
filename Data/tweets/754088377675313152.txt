@@ -1,0 +1,1 @@
+{"usernameTweet": "ikzeka", "ID": "754088377675313152", "text": "# sokağasakınçıkma", "url": "/ikzeka/status/754088377675313152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:54", "is_reply": false, "is_retweet": false, "user_id": "414128628"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "KilicPelin", "ID": "754085330874138624", "text": "Ezan senin oyuncağın mı ya   #SokağaSakınÇıkma", "url": "/KilicPelin/status/754085330874138624", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:47", "is_reply": false, "is_retweet": false, "user_id": "209542535"}

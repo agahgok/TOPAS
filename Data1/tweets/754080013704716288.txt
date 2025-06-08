@@ -1,0 +1,1 @@
+{"usernameTweet": "emrefobi", "ID": "754080013704716288", "text": "# sokağasakınçıkma", "url": "/emrefobi/status/754080013704716288", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:40", "is_reply": false, "is_retweet": false, "user_id": "80245695"}

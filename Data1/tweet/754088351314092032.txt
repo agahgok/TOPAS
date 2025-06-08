@@ -1,0 +1,1 @@
+{"usernameTweet": "merMuhtar19", "ID": "754088351314092032", "text": "Sarayı bombaliyorlar silahlar atılıyor siz nereye beyler #SokağaSakınÇıkma", "url": "/merMuhtar19/status/754088351314092032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:47", "is_reply": false, "is_retweet": false, "user_id": "709805565023756288"}

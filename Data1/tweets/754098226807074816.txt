@@ -1,0 +1,1 @@
+{"usernameTweet": "comikase", "ID": "754098226807074816", "text": "Fox Tv'de canlı yayında çatışma var. #SokağaSakınÇıkma", "url": "/comikase/status/754098226807074816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:40:02", "is_reply": false, "is_retweet": false, "user_id": "564761535"}

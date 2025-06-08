@@ -1,0 +1,1 @@
+{"usernameTweet": "denizoxx", "ID": "754076652284633088", "text": "# SokağaSakınÇıkma  ne kutlama için ne de destek için çıkma, aptal olmayın lan", "url": "/denizoxx/status/754076652284633088", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:14:18", "is_reply": false, "is_retweet": false, "user_id": "3586305437"}

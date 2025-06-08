@@ -1,0 +1,1 @@
+{"usernameTweet": "srhtatmaca", "ID": "754085581353840644", "text": "Ulan kansiz o kapattigin koprulerde seni asmak farz oldu bu millette #SokağaSakınÇıkma", "url": "/srhtatmaca/status/754085581353840644", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:47", "is_reply": false, "is_retweet": false, "user_id": "427281802"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hhkarismaz", "ID": "754087630384599040", "text": "Ulan fetönün itleri #SokağaSakınÇıkma  yın biz sokaktayız", "url": "/hhkarismaz/status/754087630384599040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:56", "is_reply": false, "is_retweet": false, "user_id": "470525505"}

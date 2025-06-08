@@ -1,0 +1,1 @@
+{"usernameTweet": "cigdembirisi", "ID": "754071916760170496", "text": "Camilerden anons geçiyorlar. İmam halkı sokağa çağırıyor #sokağaçıkma   pic.twitter.com/nVkRZeHUeY", "url": "/cigdembirisi/status/754071916760170496", "nbr_retweet": 72, "nbr_favorite": 38, "nbr_reply": 3, "datetime": "2016-07-16 00:55:29", "is_reply": false, "is_retweet": false, "user_id": "89660674"}

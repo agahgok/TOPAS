@@ -1,0 +1,1 @@
+{"usernameTweet": "efulim53", "ID": "754089272995618816", "text": "Amaç askerle halkı birbirine düşürmek, oyuna gelmeyin #SokağaSakınÇıkma", "url": "/efulim53/status/754089272995618816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:27", "is_reply": false, "is_retweet": false, "user_id": "184143847"}

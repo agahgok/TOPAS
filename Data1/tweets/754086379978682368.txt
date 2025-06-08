@@ -1,0 +1,1 @@
+{"usernameTweet": "kardana70374348", "ID": "754086379978682368", "text": "İnadina sokaktayim #SokağaSakınÇıkma", "url": "/kardana70374348/status/754086379978682368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:57", "is_reply": false, "is_retweet": false, "user_id": "4894859801"}

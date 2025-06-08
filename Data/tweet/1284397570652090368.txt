@@ -1,0 +1,1 @@
+{"usernameTweet": "necatisalicoz", "ID": "1284397570652090368", "text": "Allah'ın lütfu olan bir  darbe .!\nBir öncekiler Allah'ın kahrı.!", "url": "/necatisalicoz/status/1284397570652090368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 11:00:18", "is_reply": true, "is_retweet": false, "user_id": "582823908"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "inflameslunar", "ID": "1281191625008562176", "text": "DARBE  ÜSTÜNE DARBEEEE  pic.twitter.com/fM5Obs7rea", "url": "/inflameslunar/status/1281191625008562176", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-09 14:41:01", "is_reply": false, "is_retweet": false, "user_id": "1183307386473332737"}

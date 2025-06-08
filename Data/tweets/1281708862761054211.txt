@@ -1,0 +1,1 @@
+{"usernameTweet": "nurelvan06", "ID": "1281708862761054211", "text": "Darbe  öyle değil böyle yapılır.... #AyasofyaCamii pic.twitter.com/Mp4KWJaqKz", "url": "/nurelvan06/status/1281708862761054211", "nbr_retweet": 32, "nbr_favorite": 53, "nbr_reply": 1, "datetime": "2020-07-11 00:56:20", "is_reply": false, "is_retweet": false, "user_id": "1223272178713530369"}

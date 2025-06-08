@@ -1,0 +1,1 @@
+{"usernameTweet": "DurmuSevcan", "ID": "754072332856135681", "text": "Oyuna gelmeyin  #SokağaSakınÇıkma", "url": "/DurmuSevcan/status/754072332856135681", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:57:08", "is_reply": false, "is_retweet": false, "user_id": "410714545"}

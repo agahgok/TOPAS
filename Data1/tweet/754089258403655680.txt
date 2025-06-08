@@ -1,0 +1,1 @@
+{"usernameTweet": "zogowic", "ID": "754089258403655680", "text": "Tam olarak bu  #SokağaSakınÇıkma  #darbeyehayır pic.twitter.com/cedNOzCyUY", "url": "/zogowic/status/754089258403655680", "nbr_retweet": 5, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:04:24", "is_reply": false, "is_retweet": false, "user_id": "97661273"}

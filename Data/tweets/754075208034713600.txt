@@ -1,0 +1,1 @@
+{"usernameTweet": "Mete_hanli_", "ID": "754075208034713600", "text": "devletini seven herkes trt önüne\n#Ankara \n#SokağaSakınÇıkma \nOrdu Komutanı", "url": "/Mete_hanli_/status/754075208034713600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:34", "is_reply": false, "is_retweet": false, "user_id": "2301313393"}

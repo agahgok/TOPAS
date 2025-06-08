@@ -1,0 +1,1 @@
+{"usernameTweet": "GoncaYgc", "ID": "754076792701480960", "text": "Fikri Isik: #Pensilvanya  'dan cikan emir Turk Silahli Kuvvetleri'nde uygulanmaz #sokagasakincikma  #TRT1", "url": "/GoncaYgc/status/754076792701480960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:52", "is_reply": false, "is_retweet": false, "user_id": "238613352"}

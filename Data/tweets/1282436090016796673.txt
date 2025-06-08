@@ -1,0 +1,1 @@
+{"usernameTweet": "BayrakliSefki", "ID": "1282436090016796673", "text": "Tek parça geldim diye  darbe  almadım sanma..", "url": "/BayrakliSefki/status/1282436090016796673", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 01:06:05", "is_reply": false, "is_retweet": false, "user_id": "1218085115898843136"}

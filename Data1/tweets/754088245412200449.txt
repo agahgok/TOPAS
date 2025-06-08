@@ -1,0 +1,1 @@
+{"usernameTweet": "Ecevit_ER", "ID": "754088245412200449", "text": "Yeizd yine her zaman ki gibi medyayı ve dini kendi çıkarına kullanıyor\n\n#SokağaSakınÇıkma", "url": "/Ecevit_ER/status/754088245412200449", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:00:22", "is_reply": false, "is_retweet": false, "user_id": "2844392078"}

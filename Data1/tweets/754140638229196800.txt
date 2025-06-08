@@ -1,0 +1,1 @@
+{"usernameTweet": "kubiizmm", "ID": "754140638229196800", "text": "42 Can 42 Hayat son buldu  #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/kubiizmm/status/754140638229196800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:28:34", "is_reply": false, "is_retweet": false, "user_id": "396459570"}

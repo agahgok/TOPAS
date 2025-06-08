@@ -1,0 +1,1 @@
+{"usernameTweet": "silktik", "ID": "1281349501681270785", "text": "Erkekoğlu erkeğim daha yarrama erkek eli değmemiş götümde de sıfır  darbe", "url": "/silktik/status/1281349501681270785", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-10 01:08:22", "is_reply": true, "is_retweet": false, "user_id": "2214560880"}

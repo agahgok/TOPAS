@@ -1,0 +1,1 @@
+{"usernameTweet": "Antereos", "ID": "754082421809831936", "text": "Senaryoların tek özeti var. \"İki uçu, boklu değnek.\" #SokağaSakınÇıkma  #Ankara", "url": "/Antereos/status/754082421809831936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:14", "is_reply": false, "is_retweet": false, "user_id": "401621457"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "HayaletCsper", "ID": "754082918406971392", "text": "Kendisi sokağa çıkmaz halkı sokağa çağırır #SokağaSakınÇıkma", "url": "/HayaletCsper/status/754082918406971392", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 01:39:12", "is_reply": false, "is_retweet": false, "user_id": "1236869456"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "freshburak", "ID": "754075883510652928", "text": "bu hataya bir kez düştünüz bir daha düşmeyin #SokağaSakınÇıkma", "url": "/freshburak/status/754075883510652928", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:11:15", "is_reply": false, "is_retweet": false, "user_id": "2628523893"}

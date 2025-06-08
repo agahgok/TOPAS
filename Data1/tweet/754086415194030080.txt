@@ -1,0 +1,1 @@
+{"usernameTweet": "cancan1938", "ID": "754086415194030080", "text": "Birileri demokrasimi diyor\nİnanmıyorrruummmmm   #SokağaSakınÇıkma", "url": "/cancan1938/status/754086415194030080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:06", "is_reply": false, "is_retweet": false, "user_id": "4293466283"}

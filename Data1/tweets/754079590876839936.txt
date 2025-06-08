@@ -1,0 +1,1 @@
+{"usernameTweet": "erme_nu", "ID": "754079590876839936", "text": "# SokağaSakınÇıkma  (@ the UNs' house w/ @cemre_un @fatmakupcu)  https://www. swarmapp.com/c/1hgS4EhXg7o  ", "url": "/erme_nu/status/754079590876839936", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:25:59", "is_reply": false, "is_retweet": false, "user_id": "140899015"}

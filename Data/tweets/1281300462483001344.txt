@@ -1,0 +1,1 @@
+{"usernameTweet": "bayilazaaam", "ID": "1281300462483001344", "text": "Tatile gittim yan otelimde  darbe  girişimi oldu djdjdjjfkfkfmf", "url": "/bayilazaaam/status/1281300462483001344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 21:53:30", "is_reply": true, "is_retweet": false, "user_id": "1198297240156168198"}

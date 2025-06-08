@@ -1,0 +1,1 @@
+{"usernameTweet": "schinneble", "ID": "754066368463503364", "text": "# sokağaçıkma", "url": "/schinneble/status/754066368463503364", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:33:26", "is_reply": false, "is_retweet": false, "user_id": "168129913"}

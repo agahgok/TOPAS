@@ -1,0 +1,1 @@
+{"usernameTweet": "ChairaAnti", "ID": "1282593118517436416", "text": "pic.twitter.com/PwC5kKHz0X", "url": "/ChairaAnti/status/1282593118517436416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 11:30:03", "is_reply": true, "is_retweet": false, "user_id": "1191464290802454528"}

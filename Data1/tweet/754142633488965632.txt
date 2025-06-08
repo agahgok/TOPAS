@@ -1,0 +1,1 @@
+{"usernameTweet": "mfatihh34", "ID": "754142633488965632", "text": "Şimdi evde oturan vatan hainidir  #SokağaÇıkma", "url": "/mfatihh34/status/754142633488965632", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 05:36:29", "is_reply": false, "is_retweet": false, "user_id": "263873808"}

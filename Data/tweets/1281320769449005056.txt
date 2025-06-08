@@ -1,0 +1,1 @@
+{"usernameTweet": "kafkasya2011", "ID": "1281320769449005056", "text": "# GeceGorusu  Bu müthiş bilgiler  darbe  girişimine kadar bilinmiyor muydu?", "url": "/kafkasya2011/status/1281320769449005056", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 23:14:11", "is_reply": false, "is_retweet": false, "user_id": "275042203"}

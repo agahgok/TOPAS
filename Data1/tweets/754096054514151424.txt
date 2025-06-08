@@ -1,0 +1,1 @@
+{"usernameTweet": "yesiiiiilgoz", "ID": "754096054514151424", "text": "Dostunuz kim düşmanınız kim hatırlayın! #sokağasakınçıkma   pic.twitter.com/Qxvj61svGZ", "url": "/yesiiiiilgoz/status/754096054514151424", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 02:31:24", "is_reply": false, "is_retweet": false, "user_id": "592065827"}

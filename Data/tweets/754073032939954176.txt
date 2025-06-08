@@ -1,0 +1,1 @@
+{"usernameTweet": "SimgeBayindiir", "ID": "754073032939954176", "text": "Baskomutanı sokağa davet ediyoruz. #SokağaSakınÇıkma", "url": "/SimgeBayindiir/status/754073032939954176", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:59:55", "is_reply": false, "is_retweet": false, "user_id": "1322480282"}

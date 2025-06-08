@@ -1,0 +1,1 @@
+{"usernameTweet": "demetsuren", "ID": "754074743654023169", "text": "Zamanında biz çıktık üç beş çapulcu dedi..\n #SokağaSakınÇıkma", "url": "/demetsuren/status/754074743654023169", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 1, "datetime": "2016-07-16 01:06:43", "is_reply": false, "is_retweet": false, "user_id": "2484421378"}

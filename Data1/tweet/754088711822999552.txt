@@ -1,0 +1,1 @@
+{"usernameTweet": "SengezerEsma", "ID": "754088711822999552", "text": "# sokağasakınçıkma  neyin selası bu verilen, yoksa CUMHURİYET mi öldü...", "url": "/SengezerEsma/status/754088711822999552", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:02:13", "is_reply": false, "is_retweet": false, "user_id": "3247838914"}

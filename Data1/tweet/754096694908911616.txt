@@ -1,0 +1,1 @@
+{"usernameTweet": "safiyekurttekin", "ID": "754096694908911616", "text": "Şu suçsuz yere can veren insanlara üzülüyorum.Yazıklar olsun #SokağaSakınÇıkma", "url": "/safiyekurttekin/status/754096694908911616", "nbr_retweet": 3, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:33:57", "is_reply": false, "is_retweet": false, "user_id": "741935200914026496"}

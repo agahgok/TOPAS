@@ -1,0 +1,1 @@
+{"usernameTweet": "EsilaBerna", "ID": "1281724930405666816", "text": "Darbe  gecesi gibi", "url": "/EsilaBerna/status/1281724930405666816", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 02:00:11", "is_reply": true, "is_retweet": false, "user_id": "1259558355267465216"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Coni_Dip", "ID": "754076467655434240", "text": "# SokağaSakınÇıkma  provakasyona gel me...", "url": "/Coni_Dip/status/754076467655434240", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:13:34", "is_reply": false, "is_retweet": false, "user_id": "599322969"}

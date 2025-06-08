@@ -1,0 +1,1 @@
+{"usernameTweet": "Ghodum", "ID": "754072445775147012", "text": "# darbe  ve #turkey  hashtagleri Dünya'da tt durumda, Türkiye'de tabii ki yok #ankara  #sokagacıkma  #sokağasakınçıkma", "url": "/Ghodum/status/754072445775147012", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:35", "is_reply": false, "is_retweet": false, "user_id": "234687723"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "utku_sobaci", "ID": "754073767958032385", "text": "Ne mutlu Türk'üm diyene. Ne mutlu Yüce TÜRK'ÜN ASKERİNE...\n#Ankara \n#SokağaSakınÇıkma", "url": "/utku_sobaci/status/754073767958032385", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:50", "is_reply": false, "is_retweet": false, "user_id": "3243258520"}

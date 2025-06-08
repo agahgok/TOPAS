@@ -1,0 +1,1 @@
+{"usernameTweet": "VelibaranVeli", "ID": "754080503586840576", "text": "# SokağaSakınÇıkma  Başkomutan saklandığı yerden halkı orduya karşı isyan etmeye çağırıyor...", "url": "/VelibaranVeli/status/754080503586840576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:36", "is_reply": false, "is_retweet": false, "user_id": "4221522719"}

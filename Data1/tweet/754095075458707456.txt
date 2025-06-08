@@ -1,0 +1,1 @@
+{"usernameTweet": "Mhmt__T", "ID": "754095075458707456", "text": "Evet şuan dombıra çalıyo anonslarda.! Saat 2buçukta.! #SokağaSakınÇıkma", "url": "/Mhmt__T/status/754095075458707456", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:27:31", "is_reply": false, "is_retweet": false, "user_id": "1539183726"}

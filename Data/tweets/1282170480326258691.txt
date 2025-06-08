@@ -1,0 +1,1 @@
+{"usernameTweet": "UsykWillBeatAJ", "ID": "1282170480326258691", "text": "Max bu raundun sonlarında da çok net bir  darbe  buldu. 20-18 Holloway. #UFC251", "url": "/UsykWillBeatAJ/status/1282170480326258691", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 07:30:38", "is_reply": false, "is_retweet": false, "user_id": "619217583"}

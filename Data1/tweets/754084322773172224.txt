@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetkln99", "ID": "754084322773172224", "text": "Lan orospu çocukları alayınızın canı cehenneme sokağa çıkmayın zaten götünüzü keseller #SokağaSakınÇıkma", "url": "/mehmetkln99/status/754084322773172224", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:47", "is_reply": false, "is_retweet": false, "user_id": "523153725"}

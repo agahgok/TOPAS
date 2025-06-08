@@ -1,0 +1,1 @@
+{"usernameTweet": "antideccaal", "ID": "754082169757298688", "text": "# Ankara  halkı sokağa çağırıyorlar iç savaş çıkarmak için lütfen çıkmayın. #sokağaçıkma  #sakınsokağaçıkma", "url": "/antideccaal/status/754082169757298688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:36:14", "is_reply": false, "is_retweet": false, "user_id": "3056572515"}

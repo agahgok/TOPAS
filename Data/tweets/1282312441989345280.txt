@@ -1,0 +1,1 @@
+{"usernameTweet": "bozuyuk_ramazan", "ID": "1282312441989345280", "text": "1977 liler  Darbe  yapmaz ki ...\n\n15Temmuzu KHKlıYapmadı", "url": "/bozuyuk_ramazan/status/1282312441989345280", "nbr_retweet": 4, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2020-07-12 16:54:45", "is_reply": false, "is_retweet": false, "user_id": "1172518425509466112"}

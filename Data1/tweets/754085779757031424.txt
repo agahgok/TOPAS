@@ -1,0 +1,1 @@
+{"usernameTweet": "BuseErkan", "ID": "754085779757031424", "text": "# sokagacikma", "url": "/BuseErkan/status/754085779757031424", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:50:34", "is_reply": false, "is_retweet": false, "user_id": "2531445580"}

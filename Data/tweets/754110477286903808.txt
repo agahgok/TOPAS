@@ -1,0 +1,1 @@
+{"usernameTweet": "Burak_0046", "ID": "754110477286903808", "text": "1 adamın sokaga döktüklerini son 1 senede verdiğimiz 500 şehit dökemedi #SokağaSakınÇıkma", "url": "/Burak_0046/status/754110477286903808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:28:43", "is_reply": false, "is_retweet": false, "user_id": "2920419527"}

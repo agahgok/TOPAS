@@ -1,0 +1,1 @@
+{"usernameTweet": "esmasavas_onac", "ID": "754078782923870208", "text": "\"hiçbir diktatör iç savaş çıkarmadan gitmez\" _LENİN #SokağaSakınÇıkma", "url": "/esmasavas_onac/status/754078782923870208", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:22:46", "is_reply": false, "is_retweet": false, "user_id": "2289523886"}

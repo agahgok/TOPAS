@@ -1,0 +1,1 @@
+{"usernameTweet": "ykaya8061", "ID": "754144316386267136", "text": "Demokrarisi icin degil, Kendisinin korunmasi icin insanlari sokaga  cagirityor. #SokağaSakınÇıkma", "url": "/ykaya8061/status/754144316386267136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:43:11", "is_reply": false, "is_retweet": false, "user_id": "725053125799907328"}

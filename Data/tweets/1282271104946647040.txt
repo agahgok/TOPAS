@@ -1,0 +1,1 @@
+{"usernameTweet": "ismailcelikNT", "ID": "1282271104946647040", "text": "Önceden  darbe  yapılacağında haberi olan ve marmaris’de bi otele saklanan kılışdar mı ?", "url": "/ismailcelikNT/status/1282271104946647040", "nbr_retweet": 0, "nbr_favorite": 43, "nbr_reply": 1, "datetime": "2020-07-12 14:10:29", "is_reply": true, "is_retweet": false, "user_id": "1115275393"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mutlutiryaki34", "ID": "754084949280555008", "text": "Sen g.tünü kurtacaksın diye askere yüreyecek değilim #SokağaSakınÇıkma", "url": "/mutlutiryaki34/status/754084949280555008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:16", "is_reply": false, "is_retweet": false, "user_id": "3364002718"}

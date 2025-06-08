@@ -1,0 +1,1 @@
+{"usernameTweet": "nusibet79", "ID": "754359526346911744", "text": "Ulan imamlar 10 yıllık mesaiyi 1 günde yaptı be #imamlarmesaide  #sokağasakınçıkma", "url": "/nusibet79/status/754359526346911744", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 19:58:21", "is_reply": false, "is_retweet": false, "user_id": "2347242194"}

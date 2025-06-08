@@ -1,0 +1,1 @@
+{"usernameTweet": "kursunserra", "ID": "754086825199669248", "text": "vatan haini..heyyy!seen..  #SokağaSakınÇıkma", "url": "/kursunserra/status/754086825199669248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:44", "is_reply": false, "is_retweet": false, "user_id": "711959810015686656"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "pmkhsn", "ID": "754090074220920832", "text": "# SokağaSakınÇıkma  DİN BU KADAR KULLANILABİLİRDİ . Gece gece Sela okunuyor !!!!", "url": "/pmkhsn/status/754090074220920832", "nbr_retweet": 4, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2016-07-16 02:07:38", "is_reply": false, "is_retweet": false, "user_id": "495799636"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "cuthroads", "ID": "754097587859365888", "text": "# SokağaSakınÇıkma   pic.twitter.com/v6wi1JhhDW", "url": "/cuthroads/status/754097587859365888", "nbr_retweet": 9, "nbr_favorite": 25, "nbr_reply": 0, "datetime": "2016-07-16 02:37:30", "is_reply": false, "is_retweet": false, "user_id": "298391578"}

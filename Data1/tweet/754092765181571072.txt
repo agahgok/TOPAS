@@ -1,0 +1,1 @@
+{"usernameTweet": "Biji_04_Azadi", "ID": "754092765181571072", "text": "Oyuna gelme bu bir oyun  #SokağaSakınÇıkma", "url": "/Biji_04_Azadi/status/754092765181571072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:20", "is_reply": false, "is_retweet": false, "user_id": "734132328004526080"}

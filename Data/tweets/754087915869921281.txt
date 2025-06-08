@@ -1,0 +1,1 @@
+{"usernameTweet": "redbird_cis", "ID": "754087915869921281", "text": "İyi kurgulanmış Dramatik bi tiyatro iste #SokağaSakınÇıkma", "url": "/redbird_cis/status/754087915869921281", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:59:04", "is_reply": false, "is_retweet": false, "user_id": "3075637113"}

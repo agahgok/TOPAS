@@ -1,0 +1,1 @@
+{"usernameTweet": "dumbasskyliee", "ID": "1282675355124473857", "text": "2 gün sonra  darbe  olucak ", "url": "/dumbasskyliee/status/1282675355124473857", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:56:50", "is_reply": false, "is_retweet": false, "user_id": "1273629742521073666"}

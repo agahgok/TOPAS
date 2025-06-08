@@ -1,0 +1,1 @@
+{"usernameTweet": "tubatotaless", "ID": "754105105071439876", "text": "# DarbeDeğilTiyatro  #sokağaçıkma", "url": "/tubatotaless/status/754105105071439876", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:07:22", "is_reply": false, "is_retweet": false, "user_id": "2824428423"}

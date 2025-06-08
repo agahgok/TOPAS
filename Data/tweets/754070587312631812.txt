@@ -1,0 +1,1 @@
+{"usernameTweet": "Neri68", "ID": "754070587312631812", "text": "@ figenoskay  #TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma", "url": "/Neri68/status/754070587312631812", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:12", "is_reply": false, "is_retweet": false, "user_id": "147481719"}

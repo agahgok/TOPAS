@@ -1,0 +1,1 @@
+{"usernameTweet": "uqurdincc", "ID": "754084833459048449", "text": "Asker kışlaya, Halk evine dönsün #SokağaSakınÇıkma", "url": "/uqurdincc/status/754084833459048449", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:49", "is_reply": false, "is_retweet": false, "user_id": "1858266498"}

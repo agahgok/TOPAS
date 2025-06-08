@@ -1,0 +1,1 @@
+{"usernameTweet": "buyrunben", "ID": "754079904422096896", "text": "# SokağaSakınÇıkma", "url": "/buyrunben/status/754079904422096896", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:13", "is_reply": false, "is_retweet": false, "user_id": "82025669"}

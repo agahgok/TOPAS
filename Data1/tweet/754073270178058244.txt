@@ -1,0 +1,1 @@
+{"usernameTweet": "Musmutluyudum", "ID": "754073270178058244", "text": "Askerin senin için ölen #oyunagelme  #SokağaSakınÇıkma  #DARBE", "url": "/Musmutluyudum/status/754073270178058244", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:00:52", "is_reply": false, "is_retweet": false, "user_id": "521369388"}

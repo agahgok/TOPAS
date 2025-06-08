@@ -1,0 +1,1 @@
+{"usernameTweet": "Keskin__Mavi", "ID": "754101983817113600", "text": "# SokağaSakınÇıkma  Askerlere dokunmayın, rütbelileri gebertin.", "url": "/Keskin__Mavi/status/754101983817113600", "nbr_retweet": 5, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2016-07-16 02:54:58", "is_reply": false, "is_retweet": false, "user_id": "3398992630"}

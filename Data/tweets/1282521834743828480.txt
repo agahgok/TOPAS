@@ -1,0 +1,1 @@
+{"usernameTweet": "Juank_Daniels", "ID": "1282521834743828480", "text": "Explícalo tú cómo epidemiologo. Venga de ahí, crack . . .", "url": "/Juank_Daniels/status/1282521834743828480", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 06:46:48", "is_reply": true, "is_retweet": false, "user_id": "1220430304864763904"}

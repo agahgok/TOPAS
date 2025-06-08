@@ -1,0 +1,1 @@
+{"usernameTweet": "gulerhepguler", "ID": "754079273380700160", "text": "İç savaşa olanak sağlamayalım çıkmayın sokağa #SokağaSakınÇıkma", "url": "/gulerhepguler/status/754079273380700160", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:24:43", "is_reply": false, "is_retweet": false, "user_id": "2196401126"}

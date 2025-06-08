@@ -1,0 +1,1 @@
+{"usernameTweet": "meguler96", "ID": "754092308434419712", "text": "RTE: 2013 Sokağa çıkanlar teröristtir.\n\n#SokağaSakınÇıkma  Diploma dediniz ,siz istediniz", "url": "/meguler96/status/754092308434419712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:31", "is_reply": false, "is_retweet": false, "user_id": "237010045"}

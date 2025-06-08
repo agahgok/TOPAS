@@ -1,0 +1,1 @@
+{"usernameTweet": "erim_y", "ID": "1281258891121131520", "text": "# AhlaksızLeventÖzeren  sen şerefsiz haysiyetsiz onursuz  darbe  destekçisi bir yavşaksin", "url": "/erim_y/status/1281258891121131520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 19:08:18", "is_reply": false, "is_retweet": false, "user_id": "2707096882"}

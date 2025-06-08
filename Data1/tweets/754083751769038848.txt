@@ -1,0 +1,1 @@
+{"usernameTweet": "busraash", "ID": "754083751769038848", "text": "Askeri polisi birbirine kırdırmaya çalışanlara prim verme  #SokağaSakınÇıkma", "url": "/busraash/status/754083751769038848", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:42:31", "is_reply": false, "is_retweet": false, "user_id": "909572701"}

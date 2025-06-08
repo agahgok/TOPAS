@@ -1,0 +1,1 @@
+{"usernameTweet": "ycanecevit", "ID": "754083819062296577", "text": "cami minarelerinden an itibariyle millet kışkırtılıyor, #SokağaSakınÇıkma", "url": "/ycanecevit/status/754083819062296577", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:47", "is_reply": false, "is_retweet": false, "user_id": "1189628466"}

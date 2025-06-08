@@ -1,0 +1,1 @@
+{"usernameTweet": "blueeemoonn", "ID": "754073912854675456", "text": "# SokağaSakınÇıkma", "url": "/blueeemoonn/status/754073912854675456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:25", "is_reply": false, "is_retweet": false, "user_id": "2984469376"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "BedisTepe", "ID": "1282637627930411008", "text": "Meğer İnsan En Çok Sevdiklerinden  Darbe  Alırmış. İyileştirdiklerim Beni Hasta Edip Gitti.", "url": "/BedisTepe/status/1282637627930411008", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-13 14:26:55", "is_reply": false, "is_retweet": false, "user_id": "820175598555373568"}

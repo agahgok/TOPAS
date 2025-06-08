@@ -1,0 +1,1 @@
+{"usernameTweet": "slhddlc", "ID": "754081330749669376", "text": "Artık çok geç darbeye HAYIR \n#SokağaSakınÇıkma", "url": "/slhddlc/status/754081330749669376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:32:54", "is_reply": false, "is_retweet": false, "user_id": "146130685"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "aysegulmur", "ID": "754074537499721728", "text": "# SokağaSakınÇıkma  cikmayanlar belli twet atiyo darbeci zihniywtinize sicim", "url": "/aysegulmur/status/754074537499721728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:54", "is_reply": false, "is_retweet": false, "user_id": "270387052"}

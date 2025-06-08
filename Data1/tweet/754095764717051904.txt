@@ -1,0 +1,1 @@
+{"usernameTweet": "pyscooo", "ID": "754095764717051904", "text": "Evinizde sütünüzü için, vatanınızı klavyeden savunun, #SokağaSakınÇıkma  'yın.", "url": "/pyscooo/status/754095764717051904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:30:15", "is_reply": false, "is_retweet": false, "user_id": "186698061"}

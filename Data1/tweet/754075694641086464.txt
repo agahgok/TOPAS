@@ -1,0 +1,1 @@
+{"usernameTweet": "SevketKaya34", "ID": "754075694641086464", "text": "# SokağaSakınÇıkma", "url": "/SevketKaya34/status/754075694641086464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:30", "is_reply": false, "is_retweet": false, "user_id": "238713385"}

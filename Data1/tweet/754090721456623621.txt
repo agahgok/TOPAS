@@ -1,0 +1,1 @@
+{"usernameTweet": "kriptonluciger", "ID": "754090721456623621", "text": "Asker ölünce sokağa çıkmayan halk askere karşı sokakta ayaklanıyor uyumayın artık #SokağaSakınÇıkma", "url": "/kriptonluciger/status/754090721456623621", "nbr_retweet": 14, "nbr_favorite": 40, "nbr_reply": 0, "datetime": "2016-07-16 02:10:12", "is_reply": false, "is_retweet": false, "user_id": "338919391"}

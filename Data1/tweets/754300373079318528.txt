@@ -1,0 +1,1 @@
+{"usernameTweet": "yigityomra", "ID": "754300373079318528", "text": "Hayat bu kadar zor olmamalı #DarbeciyiYargılaErlereDokunma  #askerimedokunma  #SokağaSakınÇıkma  #BuÜlkeBizim", "url": "/yigityomra/status/754300373079318528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 16:03:17", "is_reply": false, "is_retweet": false, "user_id": "624816603"}

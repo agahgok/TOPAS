@@ -1,0 +1,1 @@
+{"usernameTweet": "askinelcisi", "ID": "754091038424334337", "text": "# SokağaSakınÇıkma  MISIRMI SANDINIZ BURAYI..!", "url": "/askinelcisi/status/754091038424334337", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:28", "is_reply": false, "is_retweet": false, "user_id": "276171627"}

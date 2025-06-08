@@ -1,0 +1,1 @@
+{"usernameTweet": "okanlar064", "ID": "754087872177856512", "text": "EZAN ''NAMAZ''A DAVET EDER SOKAĞA DEĞİL  #SokağaSakınÇıkma", "url": "/okanlar064/status/754087872177856512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:53", "is_reply": false, "is_retweet": false, "user_id": "3798014357"}

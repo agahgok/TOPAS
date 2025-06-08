@@ -1,0 +1,1 @@
+{"usernameTweet": "Adaletnerdeee", "ID": "754073498365128704", "text": "Önce kendi çocukları çıksın sokağa, salak olmayın.! \n#SokağaSakınÇıkma", "url": "/Adaletnerdeee/status/754073498365128704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:46", "is_reply": false, "is_retweet": false, "user_id": "1589464266"}

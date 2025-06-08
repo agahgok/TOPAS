@@ -1,0 +1,1 @@
+{"usernameTweet": "HalilErtem67", "ID": "754116135147089920", "text": "# SokağaSakınÇıkma  diyen piçleri tutuklansın!", "url": "/HalilErtem67/status/754116135147089920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:51:12", "is_reply": false, "is_retweet": false, "user_id": "1608881060"}

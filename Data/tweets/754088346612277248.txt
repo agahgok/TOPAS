@@ -1,0 +1,1 @@
+{"usernameTweet": "DorkErginn", "ID": "754088346612277248", "text": "# SokağaSakınÇıkma", "url": "/DorkErginn/status/754088346612277248", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:00:46", "is_reply": false, "is_retweet": false, "user_id": "4625226443"}

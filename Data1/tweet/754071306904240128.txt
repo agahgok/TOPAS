@@ -1,0 +1,1 @@
+{"usernameTweet": "zgureba", "ID": "754071306904240128", "text": "Oyuna gelmeee!!!!!\n #SokağaSakınÇıkma", "url": "/zgureba/status/754071306904240128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:04", "is_reply": false, "is_retweet": false, "user_id": "745756081624842240"}

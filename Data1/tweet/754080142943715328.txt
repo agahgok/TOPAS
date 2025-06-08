@@ -1,0 +1,1 @@
+{"usernameTweet": "ferideozkan", "ID": "754080142943715328", "text": "Pis bi oyunun içindeyiz gibi geliyor.#SokağaSakınÇıkma", "url": "/ferideozkan/status/754080142943715328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:10", "is_reply": false, "is_retweet": false, "user_id": "300326181"}

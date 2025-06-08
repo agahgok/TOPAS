@@ -1,0 +1,1 @@
+{"usernameTweet": "okansrcmx", "ID": "1281354840279572480", "text": "Bu nasıl  darbe ?", "url": "/okansrcmx/status/1281354840279572480", "nbr_retweet": 0, "nbr_favorite": 13, "nbr_reply": 0, "datetime": "2020-07-10 01:29:35", "is_reply": false, "is_retweet": false, "user_id": "1194698121735004163"}

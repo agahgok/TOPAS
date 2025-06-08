@@ -1,0 +1,1 @@
+{"usernameTweet": "manzarama", "ID": "1281690013365829634", "text": "İlla son  darbe  vuracan...", "url": "/manzarama/status/1281690013365829634", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 23:41:26", "is_reply": true, "is_retweet": false, "user_id": "777929003231485952"}

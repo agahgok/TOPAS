@@ -1,0 +1,1 @@
+{"usernameTweet": "Dnzipci", "ID": "754070296483725313", "text": "# SokağaSakınÇıkma", "url": "/Dnzipci/status/754070296483725313", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:49:03", "is_reply": false, "is_retweet": false, "user_id": "1516587114"}

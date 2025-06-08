@@ -1,0 +1,1 @@
+{"usernameTweet": "sondarbeci", "ID": "754074484450222080", "text": "Dinin, dilin etnik kimliğin ile Siyasi görüşün ne olursa olsun..\nSakın ola #SokağaÇıkma  ...", "url": "/sondarbeci/status/754074484450222080", "nbr_retweet": 6, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2016-07-16 01:05:41", "is_reply": true, "is_retweet": false, "user_id": "91894361"}

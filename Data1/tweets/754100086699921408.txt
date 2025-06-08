@@ -1,0 +1,1 @@
+{"usernameTweet": "Seyda_Baz", "ID": "754100086699921408", "text": "# Batman 'da halkı sokağa çağıran valilik aracından 'Ölürüm Türkiye' müziği çalıyor.\n#SokağaSakınÇıkma", "url": "/Seyda_Baz/status/754100086699921408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:47:25", "is_reply": false, "is_retweet": false, "user_id": "421561836"}

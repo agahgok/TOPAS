@@ -1,0 +1,1 @@
+{"usernameTweet": "Cem_Uzunoglu", "ID": "1186375283080945667", "text": "Keske islami okusalar", "url": "/Cem_Uzunoglu/status/1186375283080945667", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2019-10-21 23:14:43", "is_reply": true, "is_retweet": false, "user_id": "102390553"}

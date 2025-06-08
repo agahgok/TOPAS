@@ -1,0 +1,1 @@
+{"usernameTweet": "zeyneepyilmmaz", "ID": "754093710099480576", "text": "Sokağa çıkıyorsun olay büyüyor.. #SokağaSakınÇıkma", "url": "/zeyneepyilmmaz/status/754093710099480576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:05", "is_reply": false, "is_retweet": false, "user_id": "2333971854"}

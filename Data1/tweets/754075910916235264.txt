@@ -1,0 +1,1 @@
+{"usernameTweet": "islandofthougt", "ID": "754075910916235264", "text": "# SokağaSakınÇıkma  Trabzonda da belediye ve cami hoparlorunden meydanlara inin anonslari varmis.", "url": "/islandofthougt/status/754075910916235264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:21", "is_reply": false, "is_retweet": false, "user_id": "2455993852"}

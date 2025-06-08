@@ -1,0 +1,1 @@
+{"usernameTweet": "LizetJara2", "ID": "1282476193879437312", "text": "Tú tienes la respuesta, tú también atacas, cómo son?", "url": "/LizetJara2/status/1282476193879437312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 03:45:26", "is_reply": true, "is_retweet": false, "user_id": "950450271443922944"}

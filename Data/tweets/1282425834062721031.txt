@@ -1,0 +1,1 @@
+{"usernameTweet": "FethiyeErdogann", "ID": "1282425834062721031", "text": "Kafama bi  darbe  almadığım sürece hiçbir şeyi unutmam", "url": "/FethiyeErdogann/status/1282425834062721031", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-13 00:25:19", "is_reply": false, "is_retweet": false, "user_id": "1194661721954275328"}

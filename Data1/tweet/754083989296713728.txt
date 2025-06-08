@@ -1,0 +1,1 @@
+{"usernameTweet": "cngzhn666", "ID": "754083989296713728", "text": "Askere Ateş açıkmasını söyleyen A haberde vatan hainleri tutuklanıp asılsın #SokağaSakınÇıkma", "url": "/cngzhn666/status/754083989296713728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:27", "is_reply": false, "is_retweet": false, "user_id": "751814007779131393"}

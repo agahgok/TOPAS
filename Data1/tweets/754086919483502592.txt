@@ -1,0 +1,1 @@
+{"usernameTweet": "mrtcnyildiz", "ID": "754086919483502592", "text": "İnsanları sokağa davet edenler neden bu çağrıları sokaktan yapmıyor? \n#SokağaSakınÇıkma", "url": "/mrtcnyildiz/status/754086919483502592", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:55:06", "is_reply": false, "is_retweet": false, "user_id": "301610915"}

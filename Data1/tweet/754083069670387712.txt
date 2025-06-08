@@ -1,0 +1,1 @@
+{"usernameTweet": "Zmrt80484655", "ID": "754083069670387712", "text": "Sokağa çağıran degilmiydi sokağa çıkan Türk  evlatlarina çapulcu diyen #SokağaSakınÇıkma", "url": "/Zmrt80484655/status/754083069670387712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:48", "is_reply": false, "is_retweet": false, "user_id": "754075185247088640"}

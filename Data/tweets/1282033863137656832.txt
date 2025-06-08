@@ -1,0 +1,1 @@
+{"usernameTweet": "son_imparator68", "ID": "1282033863137656832", "text": "# AyasofyaAçıldı  ŞÜKÜRLER olsun\nGelsin fatihalar yasinler\nKUFFARA ATİLAN BÜYÜK  DARBE", "url": "/son_imparator68/status/1282033863137656832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 22:27:46", "is_reply": true, "is_retweet": false, "user_id": "95221724"}

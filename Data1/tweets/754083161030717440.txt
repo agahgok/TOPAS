@@ -1,0 +1,1 @@
+{"usernameTweet": "ELELE2023", "ID": "754083161030717440", "text": "Sokağa çağıran kimse amacı iç savaş çıkarmaktır  #SokağaSakınÇıkma", "url": "/ELELE2023/status/754083161030717440", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 01:40:10", "is_reply": false, "is_retweet": false, "user_id": "1643594708"}

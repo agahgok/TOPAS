@@ -1,0 +1,1 @@
+{"usernameTweet": "kubiizmm", "ID": "754137704519139328", "text": "Her karanlık gecenin bir sabahı vardır! #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/kubiizmm/status/754137704519139328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:16:54", "is_reply": false, "is_retweet": false, "user_id": "396459570"}

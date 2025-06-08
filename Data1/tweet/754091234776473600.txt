@@ -1,0 +1,1 @@
+{"usernameTweet": "kinngacar", "ID": "754091234776473600", "text": "Asıl olaylar Ankara da #SokağaSakınÇıkma", "url": "/kinngacar/status/754091234776473600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:15", "is_reply": false, "is_retweet": false, "user_id": "96228781"}

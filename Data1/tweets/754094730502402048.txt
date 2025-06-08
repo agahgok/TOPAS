@@ -1,0 +1,1 @@
+{"usernameTweet": "svlbz", "ID": "754094730502402048", "text": "Yok mu bi survivor falan, açıp izlesem. Bu film ziyadesiyle sıktı! #SokağaSakınÇıkma", "url": "/svlbz/status/754094730502402048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:08", "is_reply": false, "is_retweet": false, "user_id": "97764712"}

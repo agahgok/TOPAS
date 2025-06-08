@@ -1,0 +1,1 @@
+{"usernameTweet": "vallabozukyok", "ID": "1281693161849606145", "text": "He evet Pelinsu kardeşim oy oranları %10, aynen Berkcim z kuşağı büyük  darbe  vuracak.", "url": "/vallabozukyok/status/1281693161849606145", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 23:53:57", "is_reply": false, "is_retweet": false, "user_id": "710034349631139840"}

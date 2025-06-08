@@ -1,0 +1,1 @@
+{"usernameTweet": "ikoiko8787", "ID": "754079124822564864", "text": "Çıkın çikın sokağa aferin #SokağaSakınÇıkma", "url": "/ikoiko8787/status/754079124822564864", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:08", "is_reply": false, "is_retweet": false, "user_id": "2714612183"}

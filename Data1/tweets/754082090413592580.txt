@@ -1,0 +1,1 @@
+{"usernameTweet": "vedatk_ran", "ID": "754082090413592580", "text": "Ozellikle ozellikle kürt halki kesinlikle disari cikmayin  #SokağaSakınÇıkma", "url": "/vedatk_ran/status/754082090413592580", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:55", "is_reply": false, "is_retweet": false, "user_id": "3086916574"}

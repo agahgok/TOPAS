@@ -1,0 +1,1 @@
+{"usernameTweet": "bluewall07", "ID": "754095701143982080", "text": "Güzel bir senaryo yazıldı yönetildi oynandı! Güzelce izledik! #SokağaSakınÇıkma  #DarbeyeHayır  #Turkey", "url": "/bluewall07/status/754095701143982080", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:30:00", "is_reply": false, "is_retweet": false, "user_id": "77604444"}

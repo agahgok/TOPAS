@@ -1,0 +1,1 @@
+{"usernameTweet": "burhantarkan", "ID": "754068959121575936", "text": "# SokağaSakınÇıkma", "url": "/burhantarkan/status/754068959121575936", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:43:44", "is_reply": false, "is_retweet": false, "user_id": "184750550"}

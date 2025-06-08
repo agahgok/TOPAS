@@ -1,0 +1,1 @@
+{"usernameTweet": "atolga_mi", "ID": "754091714294452224", "text": "Bu ülke hergün sehit verirken neredeydin ey #diyanet  #Erdogan   #akp  #mhp  #chp  #SokağaSakınÇıkma", "url": "/atolga_mi/status/754091714294452224", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:14:09", "is_reply": false, "is_retweet": false, "user_id": "709995137838018560"}

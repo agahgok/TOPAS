@@ -1,0 +1,1 @@
+{"usernameTweet": "denizakturk06", "ID": "754077362409603072", "text": "# Ankara  da ve tüm yurtta  #SokağaSakınÇıkma \nEvinde otur\nSavaşma seviş", "url": "/denizakturk06/status/754077362409603072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:07", "is_reply": false, "is_retweet": false, "user_id": "2842876462"}

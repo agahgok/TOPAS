@@ -1,0 +1,1 @@
+{"usernameTweet": "Renitrovirus", "ID": "754076827845586944", "text": "Mısır'daki darbe ise bizdeki ne? #SokağaSakınÇıkma", "url": "/Renitrovirus/status/754076827845586944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:00", "is_reply": false, "is_retweet": false, "user_id": "1561340100"}

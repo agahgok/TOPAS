@@ -1,0 +1,1 @@
+{"usernameTweet": "61mtalha", "ID": "754078907687694336", "text": "# SokağaSakınÇıkma  inanmayin sokaga dokulun...bu darbecilerin actigi tag", "url": "/61mtalha/status/754078907687694336", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:23:16", "is_reply": false, "is_retweet": false, "user_id": "1359486296"}

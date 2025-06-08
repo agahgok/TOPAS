@@ -1,0 +1,1 @@
+{"usernameTweet": "tekin_kan", "ID": "754076396687876097", "text": "# SokağaSakınÇıkma  oyuna gelme", "url": "/tekin_kan/status/754076396687876097", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:17", "is_reply": false, "is_retweet": false, "user_id": "224707683"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "SimalSert", "ID": "754085663499231232", "text": "# SokağaSakınÇıkma", "url": "/SimalSert/status/754085663499231232", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:50:07", "is_reply": false, "is_retweet": false, "user_id": "1944416131"}

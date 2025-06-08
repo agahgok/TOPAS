@@ -1,0 +1,1 @@
+{"usernameTweet": "hizlantugba", "ID": "754077257262567425", "text": "Sokağa çıkın diyenlerden biri çıksın meydandan seslensin, öyle evden facetime ile olmuyir beyler #sokagacikma", "url": "/hizlantugba/status/754077257262567425", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:16:42", "is_reply": false, "is_retweet": false, "user_id": "384805371"}

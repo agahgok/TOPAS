@@ -1,0 +1,1 @@
+{"usernameTweet": "edaneslihan", "ID": "754076567337308160", "text": "# sokağacıkma  ! Hadi çıktın anladıkta niye silahını yanına aldın?  Askere mi sıkıcan idiot? ???", "url": "/edaneslihan/status/754076567337308160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:58", "is_reply": false, "is_retweet": false, "user_id": "461197821"}

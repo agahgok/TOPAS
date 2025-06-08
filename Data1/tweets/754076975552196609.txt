@@ -1,0 +1,1 @@
+{"usernameTweet": "RorSRK", "ID": "754076975552196609", "text": "Bu ülkenin daimi ve tek Başkomutanı MUSTAFA KEMAL ATATÜRK'TÜR..! \n#SokağaSakınÇıkma", "url": "/RorSRK/status/754076975552196609", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 01:15:35", "is_reply": false, "is_retweet": false, "user_id": "238187878"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "emrahsayi", "ID": "754078266286366725", "text": "Amk marketci olasim geldi bu gece #SokağaSakınÇıkma", "url": "/emrahsayi/status/754078266286366725", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:43", "is_reply": false, "is_retweet": false, "user_id": "366150806"}

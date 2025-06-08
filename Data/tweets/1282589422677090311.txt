@@ -1,0 +1,1 @@
+{"usernameTweet": "FadimeErylmazP1", "ID": "1282589422677090311", "text": "Ola ki alsa bile adı  darbe  olurdu da şimdi söyleyecek sözü olurdu.", "url": "/FadimeErylmazP1/status/1282589422677090311", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 11:15:22", "is_reply": true, "is_retweet": false, "user_id": "1243272022882422787"}

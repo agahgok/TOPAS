@@ -1,0 +1,1 @@
+{"usernameTweet": "gizemli_seyyah", "ID": "754075138153443329", "text": "@ Fatmesin  @AGekalm  #SokağaSakınÇıkma", "url": "/gizemli_seyyah/status/754075138153443329", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:08:17", "is_reply": true, "is_retweet": false, "user_id": "3251524188"}

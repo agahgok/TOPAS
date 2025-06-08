@@ -1,0 +1,1 @@
+{"usernameTweet": "esrabilge2007", "ID": "754099156373925888", "text": "# SokağaSakınÇıkma  ya şakaya cikiyosunuz o çocuklarınızı niye alıyorsunuz yanınıza aklinizimi yediniz", "url": "/esrabilge2007/status/754099156373925888", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:43:44", "is_reply": false, "is_retweet": false, "user_id": "2355326195"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "GuneriFerit", "ID": "1281890705305145344", "text": "Ayasofya'yı açtılar ya birader, Yunan'a daha büyük  darbe  mi olur? Şimdi onlar düşünsün", "url": "/GuneriFerit/status/1281890705305145344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 12:58:55", "is_reply": true, "is_retweet": false, "user_id": "3064306137"}

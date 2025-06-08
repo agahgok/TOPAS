@@ -1,0 +1,1 @@
+{"usernameTweet": "MarasSelcuk", "ID": "754071123357208578", "text": "# sokağaçıkma  YOZGAT  pic.twitter.com/0LsR1AGsDk", "url": "/MarasSelcuk/status/754071123357208578", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 00:52:20", "is_reply": false, "is_retweet": false, "user_id": "1017515522"}

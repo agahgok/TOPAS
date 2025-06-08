@@ -1,0 +1,1 @@
+{"usernameTweet": "meliisakus", "ID": "754074486497021952", "text": "Korkmasa kendisi çıkar  #SokağaSakınÇıkma", "url": "/meliisakus/status/754074486497021952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:42", "is_reply": false, "is_retweet": false, "user_id": "4065691157"}

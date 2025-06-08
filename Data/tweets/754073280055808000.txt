@@ -1,0 +1,1 @@
+{"usernameTweet": "selineskici12", "ID": "754073280055808000", "text": "Biz gezi için çıktığımızda terörist olalım siz şimdi vatansever mi oldunuz?\n#SokağaSakınÇıkma", "url": "/selineskici12/status/754073280055808000", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:00:54", "is_reply": false, "is_retweet": false, "user_id": "2297667088"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hayriyetatar", "ID": "754074067636977666", "text": "# SokağaSakınÇıkma  diyenler DÜNKÜ MISIRI UNUTMUŞ OLANLARDIR ÇIKIN SOKAĞA!!!", "url": "/hayriyetatar/status/754074067636977666", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:02", "is_reply": false, "is_retweet": false, "user_id": "2275924088"}

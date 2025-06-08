@@ -1,0 +1,1 @@
+{"usernameTweet": "Takamed21", "ID": "754119546940841984", "text": "Ülke cal of datye döndü amk #SokağaSakınÇıkma", "url": "/Takamed21/status/754119546940841984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:04:45", "is_reply": false, "is_retweet": false, "user_id": "709492738006388737"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AbdulselamTAN", "ID": "754075448745811969", "text": "# SokağaSakınÇıkma  Diyen Bütün Şerefsizler Darbeyi Destekleyen Soysuz İtlerdir...", "url": "/AbdulselamTAN/status/754075448745811969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:31", "is_reply": false, "is_retweet": false, "user_id": "442916980"}

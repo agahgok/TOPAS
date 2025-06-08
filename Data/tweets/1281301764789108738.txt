@@ -1,0 +1,1 @@
+{"usernameTweet": "Grussgott_", "ID": "1281301764789108738", "text": "Sahte  darbe  dünya genelinde yapılan hırsızlıklarla kutlanmaya devam ediyor.", "url": "/Grussgott_/status/1281301764789108738", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-09 21:58:40", "is_reply": true, "is_retweet": false, "user_id": "964606073230434304"}

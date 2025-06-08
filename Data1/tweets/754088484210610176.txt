@@ -1,0 +1,1 @@
+{"usernameTweet": "KuzayAniL", "ID": "754088484210610176", "text": "Ulen ne fetoymus be 14 yildir kullana kullana bitmedi #SokağaSakınÇıkma", "url": "/KuzayAniL/status/754088484210610176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:19", "is_reply": false, "is_retweet": false, "user_id": "3293303248"}

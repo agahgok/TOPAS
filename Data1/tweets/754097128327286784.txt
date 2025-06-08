@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754097128327286784", "text": "# SokağaSakınÇıkma  bu senaryo amerikan yapimi filimlere benzemiyomu !?", "url": "/orjinalkarakter/status/754097128327286784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:35:40", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

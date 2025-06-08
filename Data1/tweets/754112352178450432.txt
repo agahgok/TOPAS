@@ -1,0 +1,1 @@
+{"usernameTweet": "kdryebrkn", "ID": "754112352178450432", "text": "yeşilpınar da bomba patladı uçaklar çok yakından uçuyo ..! #DarbeyeHayır  #SokağaÇıkma", "url": "/kdryebrkn/status/754112352178450432", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:36:10", "is_reply": false, "is_retweet": false, "user_id": "527310229"}

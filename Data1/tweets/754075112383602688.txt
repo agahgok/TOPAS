@@ -1,0 +1,1 @@
+{"usernameTweet": "YaseminYuruk", "ID": "754075112383602688", "text": "# sokagasakincikma", "url": "/YaseminYuruk/status/754075112383602688", "nbr_retweet": 4, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2016-07-16 01:08:11", "is_reply": false, "is_retweet": false, "user_id": "138365024"}

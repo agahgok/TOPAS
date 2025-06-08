@@ -1,0 +1,1 @@
+{"usernameTweet": "Cutenursee", "ID": "1282345339576561665", "text": "Darbe  üstüne darbee", "url": "/Cutenursee/status/1282345339576561665", "nbr_retweet": 0, "nbr_favorite": 28, "nbr_reply": 2, "datetime": "2020-07-12 19:05:28", "is_reply": false, "is_retweet": false, "user_id": "3299461769"}

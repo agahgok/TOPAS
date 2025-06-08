@@ -1,0 +1,1 @@
+{"usernameTweet": "cyd_bs", "ID": "754099130092228611", "text": "Asker polise, millet askere düşman artık! Kim kime dum duma paçal oldu ülke! #SokağaSakınÇıkma", "url": "/cyd_bs/status/754099130092228611", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:43:37", "is_reply": false, "is_retweet": false, "user_id": "76901696"}

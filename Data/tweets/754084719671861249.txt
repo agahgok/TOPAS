@@ -1,0 +1,1 @@
+{"usernameTweet": "cgryvz", "ID": "754084719671861249", "text": "Olan malum darbe girişine hala daha tiyatro vesaire diyenler var. Komik olmuyorsunuz.\n #SokağaSakınÇıkma", "url": "/cgryvz/status/754084719671861249", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:22", "is_reply": false, "is_retweet": false, "user_id": "551030152"}

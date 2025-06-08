@@ -1,0 +1,1 @@
+{"usernameTweet": "yilmaztunc", "ID": "1282671791689932800", "text": "15 Temmuz Darbeye  darbe  yapan bir milletin hikayesidir. \n#15TemmuzuUnutma pic.twitter.com/6RTj5tkqnJ", "url": "/yilmaztunc/status/1282671791689932800", "nbr_retweet": 22, "nbr_favorite": 90, "nbr_reply": 3, "datetime": "2020-07-13 16:42:40", "is_reply": false, "is_retweet": false, "user_id": "115216315"}

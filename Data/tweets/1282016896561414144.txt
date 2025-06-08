@@ -1,0 +1,1 @@
+{"usernameTweet": "Kemal00291964", "ID": "1282016896561414144", "text": "Sen insanları  darbe  ilemi kotrkutuyorsun.?yaptığın ağır suç", "url": "/Kemal00291964/status/1282016896561414144", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 21:20:21", "is_reply": true, "is_retweet": false, "user_id": "1226952686333046786"}

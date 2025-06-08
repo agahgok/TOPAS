@@ -1,0 +1,1 @@
+{"usernameTweet": "eness989", "ID": "754087711342989312", "text": "# SokagaSakinCikma  hedef hainler ve guzel ulkemizi satanlardir..", "url": "/eness989/status/754087711342989312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:15", "is_reply": false, "is_retweet": false, "user_id": "754084130279813120"}

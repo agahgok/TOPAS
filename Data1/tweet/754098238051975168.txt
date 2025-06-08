@@ -1,0 +1,1 @@
+{"usernameTweet": "ilknurozkan", "ID": "754098238051975168", "text": "TBMM de hangi partili milletvekilleri var acaba? #SokağaSakınÇıkma", "url": "/ilknurozkan/status/754098238051975168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:40:05", "is_reply": false, "is_retweet": false, "user_id": "103600354"}

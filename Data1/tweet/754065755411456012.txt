@@ -1,0 +1,1 @@
+{"usernameTweet": "binekadarbir", "ID": "754065755411456012", "text": "# SokağaÇıkma   pic.twitter.com/tDtRtLoibU", "url": "/binekadarbir/status/754065755411456012", "nbr_retweet": 3, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:31:00", "is_reply": false, "is_retweet": false, "user_id": "481182935"}

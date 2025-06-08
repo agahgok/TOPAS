@@ -1,0 +1,1 @@
+{"usernameTweet": "yqmrkhve3494", "ID": "754081004902555648", "text": "# SokağaSakınÇıkma  selalar okutuluyor her yerde !!!!!", "url": "/yqmrkhve3494/status/754081004902555648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:36", "is_reply": false, "is_retweet": false, "user_id": "1682462100"}

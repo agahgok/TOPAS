@@ -1,0 +1,1 @@
+{"usernameTweet": "BuminhahYlmz", "ID": "754080358849798146", "text": "Bu iş bitecek ve #SokağaSakınÇıkma  diyen sizler de hesap vereceksiniz!!!", "url": "/BuminhahYlmz/status/754080358849798146", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:02", "is_reply": false, "is_retweet": false, "user_id": "2566671161"}

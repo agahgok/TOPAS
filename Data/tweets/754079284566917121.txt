@@ -1,0 +1,1 @@
+{"usernameTweet": "senaysenayse", "ID": "754079284566917121", "text": "Oyuna gelme #SokağaSakınÇıkma", "url": "/senaysenayse/status/754079284566917121", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:46", "is_reply": false, "is_retweet": false, "user_id": "3309720381"}

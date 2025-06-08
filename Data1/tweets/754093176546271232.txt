@@ -1,0 +1,1 @@
+{"usernameTweet": "okyanuskrali", "ID": "754093176546271232", "text": "# SokağaSakınÇıkma  Samsun Cumhuriyet Meydanı  pic.twitter.com/X7OpxmduUY", "url": "/okyanuskrali/status/754093176546271232", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:19:58", "is_reply": false, "is_retweet": false, "user_id": "2581964739"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "BilgehanGokhan", "ID": "754119211522424832", "text": "# SokağaSakınÇıkma    https:// twitter.com/siyahincim_/st atus/754116279435419648   …", "url": "/BilgehanGokhan/status/754119211522424832", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:03:25", "is_reply": false, "is_retweet": false, "user_id": "3302605516"}

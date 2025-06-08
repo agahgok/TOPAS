@@ -1,0 +1,1 @@
+{"usernameTweet": "k76darbe", "ID": "1281529805209505792", "text": "bir şarkıya kafam takıldığında 38495932 gün sadece onu dinliyorum teşekkürler takıntılı olmak", "url": "/k76darbe/status/1281529805209505792", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-10 13:04:49", "is_reply": false, "is_retweet": false, "user_id": "1204809050342473730"}

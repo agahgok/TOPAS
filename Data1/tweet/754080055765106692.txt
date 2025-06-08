@@ -1,0 +1,1 @@
+{"usernameTweet": "solenza34", "ID": "754080055765106692", "text": "ayrıca çoktan sosyal medya kapatılmalıydı #sokağasakınçıkma", "url": "/solenza34/status/754080055765106692", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:50", "is_reply": true, "is_retweet": false, "user_id": "1468898450"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "DuygusalDelal", "ID": "754078270673588225", "text": "# SokağaSakınÇıkma   şimdi Doğuyu anladınızmı", "url": "/DuygusalDelal/status/754078270673588225", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:44", "is_reply": false, "is_retweet": false, "user_id": "754006752820129792"}

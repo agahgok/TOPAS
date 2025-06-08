@@ -1,0 +1,1 @@
+{"usernameTweet": "TendrePoison__", "ID": "754076468339154945", "text": "# SokağaSakınÇıkma  Sokağa çıkan bilmem neresinin kılıdır özellikle havaalanına gidenler", "url": "/TendrePoison__/status/754076468339154945", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:13:34", "is_reply": false, "is_retweet": false, "user_id": "60509463"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "GeziLike", "ID": "754061428081000448", "text": "# SokağaÇıkma", "url": "/GeziLike/status/754061428081000448", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:13:48", "is_reply": false, "is_retweet": false, "user_id": "1657575398"}

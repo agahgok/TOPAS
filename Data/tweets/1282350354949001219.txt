@@ -1,0 +1,1 @@
+{"usernameTweet": "etoprakb", "ID": "1282350354949001219", "text": "“Ülkene  darbe  vurduğunda diyerek” kimi kastettiğinizi net olarak söylemeniz lazım!", "url": "/etoprakb/status/1282350354949001219", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 19:25:24", "is_reply": true, "is_retweet": false, "user_id": "35481441"}

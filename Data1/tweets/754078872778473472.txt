@@ -1,0 +1,1 @@
+{"usernameTweet": "i_yorukoglu", "ID": "754078872778473472", "text": "# darbe \n#SokağaSakınÇıkma   pic.twitter.com/RPJJ0ujZ1p", "url": "/i_yorukoglu/status/754078872778473472", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:08", "is_reply": false, "is_retweet": false, "user_id": "1635140258"}

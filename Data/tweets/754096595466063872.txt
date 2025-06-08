@@ -1,0 +1,1 @@
+{"usernameTweet": "YeldaaYildirim", "ID": "754096595466063872", "text": "# İstanbul  #Ankara  #SokağaSakınÇıkma  #Turkey  #", "url": "/YeldaaYildirim/status/754096595466063872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:33:33", "is_reply": false, "is_retweet": false, "user_id": "2240314595"}

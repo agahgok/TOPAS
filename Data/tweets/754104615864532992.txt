@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754104615864532992", "text": "# SokağaSakınÇıkma   madem silahli lar niye halk meydan a cagriliyor !", "url": "/orjinalkarakter/status/754104615864532992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:05:25", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

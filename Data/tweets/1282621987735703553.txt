@@ -1,0 +1,1 @@
+{"usernameTweet": "dincerta", "ID": "1282621987735703553", "text": "Diktatörlük istememek  darbe  istemek olmuyor mu diktatörün gözünde?", "url": "/dincerta/status/1282621987735703553", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 13:24:46", "is_reply": true, "is_retweet": false, "user_id": "94760042"}

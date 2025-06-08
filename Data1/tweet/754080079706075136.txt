@@ -1,0 +1,1 @@
+{"usernameTweet": "KesikYiyenAdam", "ID": "754080079706075136", "text": "# SokağaSakınÇıkma", "url": "/KesikYiyenAdam/status/754080079706075136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:55", "is_reply": false, "is_retweet": false, "user_id": "752228864408117248"}

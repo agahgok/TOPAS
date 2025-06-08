@@ -1,0 +1,1 @@
+{"usernameTweet": "istanbulBebek3", "ID": "754067022229692416", "text": "@ AKK1881  #Ankara  #SokağaSakınÇıkma   pic.twitter.com/VAl7sw4BTl", "url": "/istanbulBebek3/status/754067022229692416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:36:02", "is_reply": true, "is_retweet": false, "user_id": "390830431"}

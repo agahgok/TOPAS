@@ -1,0 +1,1 @@
+{"usernameTweet": "Svlgrgn2", "ID": "754076012019724288", "text": "# SokağaSakınÇıkma   pic.twitter.com/A6mFS8oS0H", "url": "/Svlgrgn2/status/754076012019724288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:45", "is_reply": false, "is_retweet": false, "user_id": "96652935"}

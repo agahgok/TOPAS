@@ -1,0 +1,1 @@
+{"usernameTweet": "Denemelere", "ID": "754084784931016704", "text": "Çakma darbe yapan ilk ülke #Türkiye  #SokağaSakınÇıkma", "url": "/Denemelere/status/754084784931016704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:37", "is_reply": false, "is_retweet": false, "user_id": "753902226154872832"}

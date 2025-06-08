@@ -1,0 +1,1 @@
+{"usernameTweet": "biraz_agresif", "ID": "1282038467397144582", "text": "Darbe  üstüne darbeee :)", "url": "/biraz_agresif/status/1282038467397144582", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 22:46:04", "is_reply": true, "is_retweet": false, "user_id": "779720810424598528"}

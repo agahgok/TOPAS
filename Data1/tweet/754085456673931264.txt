@@ -1,0 +1,1 @@
+{"usernameTweet": "aycapruofficial", "ID": "754085456673931264", "text": "halkı askere kırdırmalarına izin verme, tiyatroya figüran olma!  #SokağaSakınÇıkma", "url": "/aycapruofficial/status/754085456673931264", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:49:17", "is_reply": false, "is_retweet": false, "user_id": "739432141856083968"}

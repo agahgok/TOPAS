@@ -1,0 +1,1 @@
+{"usernameTweet": "Ecevit_ER", "ID": "754085251991867392", "text": "Tankla tüfekle baş edebileceğinizi mi sanıyorsunuz?\nDönün evinize!\n\n#SokağaSakınÇıkma", "url": "/Ecevit_ER/status/754085251991867392", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:28", "is_reply": false, "is_retweet": false, "user_id": "2844392078"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "fne8505", "ID": "754088400504889345", "text": "Vatan hainiysen #SokağaSakınÇıkma", "url": "/fne8505/status/754088400504889345", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:59", "is_reply": false, "is_retweet": false, "user_id": "1479879182"}

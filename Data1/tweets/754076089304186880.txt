@@ -1,0 +1,1 @@
+{"usernameTweet": "delibozukmuyuz", "ID": "754076089304186880", "text": "Bu seferde hükümet adamları çıksın onların çocukları çıksın sen #Sokağasakınçıkma", "url": "/delibozukmuyuz/status/754076089304186880", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:12:04", "is_reply": false, "is_retweet": false, "user_id": "3294405729"}

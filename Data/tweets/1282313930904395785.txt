@@ -1,0 +1,1 @@
+{"usernameTweet": "mike6212", "ID": "1282313930904395785", "text": "Bot", "url": "/mike6212/status/1282313930904395785", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 2, "datetime": "2020-07-12 17:00:40", "is_reply": true, "is_retweet": false, "user_id": "176227014"}

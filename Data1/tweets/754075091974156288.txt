@@ -1,0 +1,1 @@
+{"usernameTweet": "1necla2", "ID": "754075091974156288", "text": "# SokağaSakınÇıkma ,Türkiye'yi Afganistan'a,Irak'a,Suriye'ye ve diğer Arap ülkelerine benzetme!", "url": "/1necla2/status/754075091974156288", "nbr_retweet": 4, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2016-07-16 01:08:06", "is_reply": false, "is_retweet": false, "user_id": "3070710946"}

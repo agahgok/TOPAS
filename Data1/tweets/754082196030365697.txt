@@ -1,0 +1,1 @@
+{"usernameTweet": "atlantssss", "ID": "754082196030365697", "text": "Bu olay tiyatroya bağladı...  #SokağaSakınÇıkma", "url": "/atlantssss/status/754082196030365697", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:20", "is_reply": false, "is_retweet": false, "user_id": "478615363"}

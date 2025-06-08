@@ -1,0 +1,1 @@
+{"usernameTweet": "can_byk52", "ID": "754095855095996416", "text": "Askere karşı gelen vatan hainidir diyenler, askeri terörist ilan etti. #SokağaSakınÇıkma", "url": "/can_byk52/status/754095855095996416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:30:36", "is_reply": false, "is_retweet": false, "user_id": "817080692"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sunkeydan", "ID": "754085857947185153", "text": "Darbeyi kimse istemez ama #SokağaSakınÇıkma  cunku daha çok erken", "url": "/sunkeydan/status/754085857947185153", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:53", "is_reply": false, "is_retweet": false, "user_id": "3986801423"}

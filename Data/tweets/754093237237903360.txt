@@ -1,0 +1,1 @@
+{"usernameTweet": "merikoana", "ID": "754093237237903360", "text": "Kadınlı erkekli sokağa çıkıyorlar. Edepsizler. Ülkeyi ahlaksızlığa sürekleme #sokağaçıkma", "url": "/merikoana/status/754093237237903360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:12", "is_reply": false, "is_retweet": false, "user_id": "2972170185"}

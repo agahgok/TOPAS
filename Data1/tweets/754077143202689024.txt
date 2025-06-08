@@ -1,0 +1,1 @@
+{"usernameTweet": "ATamturk_", "ID": "754077143202689024", "text": "Bilal çıksın sokağa #SokağaSakınÇıkma", "url": "/ATamturk_/status/754077143202689024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:15", "is_reply": false, "is_retweet": false, "user_id": "770132336"}

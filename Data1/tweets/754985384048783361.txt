@@ -1,0 +1,1 @@
+{"usernameTweet": "ttbegovic", "ID": "754985384048783361", "text": "Farkindamisiniz elimizde molorof yok.askere polise taş yok sadece dua var bumu gucunuze giden  #SokağaSakınÇıkma", "url": "/ttbegovic/status/754985384048783361", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-18 13:25:17", "is_reply": false, "is_retweet": false, "user_id": "2312978451"}

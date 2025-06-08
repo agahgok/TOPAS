@@ -1,0 +1,1 @@
+{"usernameTweet": "nugowest", "ID": "754086659340337152", "text": "# sokagaSakinCikma  degmez bu din tuccarlarina... ciksin once onlar gorelim", "url": "/nugowest/status/754086659340337152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:04", "is_reply": false, "is_retweet": false, "user_id": "1467877795"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "HaticeALTINISIK", "ID": "754084770968207360", "text": "# HDP  \" Demokratik siyaset tek çıkış yoludur \"\n#Sokağaçıkma   pic.twitter.com/Wee1HFTTpj", "url": "/HaticeALTINISIK/status/754084770968207360", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:34", "is_reply": false, "is_retweet": false, "user_id": "276691323"}

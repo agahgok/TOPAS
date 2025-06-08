@@ -1,0 +1,1 @@
+{"usernameTweet": "selindemirbas", "ID": "1281331682394673154", "text": "Biz konuşana kadar sen bir  darbe  daha yersin gibime geliyor", "url": "/selindemirbas/status/1281331682394673154", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-09 23:57:33", "is_reply": true, "is_retweet": false, "user_id": "230753104"}

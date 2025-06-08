@@ -1,0 +1,1 @@
+{"usernameTweet": "esbah_sdt", "ID": "754067315940007937", "text": "Vatan hain'liği ile yargılanacak olan rte'yi dinleyip #SokağaSakınÇıkma", "url": "/esbah_sdt/status/754067315940007937", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:12", "is_reply": false, "is_retweet": false, "user_id": "1277211222"}

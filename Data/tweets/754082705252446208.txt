@@ -1,0 +1,1 @@
+{"usernameTweet": "6mtkoybakiiim", "ID": "754082705252446208", "text": "# sokağasakınçıkma  #oyunagelme pic.twitter.com/ntNATBwrJM", "url": "/6mtkoybakiiim/status/754082705252446208", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:38:21", "is_reply": false, "is_retweet": false, "user_id": "286162119"}

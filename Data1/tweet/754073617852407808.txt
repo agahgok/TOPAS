@@ -1,0 +1,1 @@
+{"usernameTweet": "Only_Valiant", "ID": "754073617852407808", "text": "# SokağaSakınÇıkma", "url": "/Only_Valiant/status/754073617852407808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:15", "is_reply": false, "is_retweet": false, "user_id": "1061131520"}

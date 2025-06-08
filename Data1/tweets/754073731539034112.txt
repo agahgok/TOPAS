@@ -1,0 +1,1 @@
+{"usernameTweet": "selenkls", "ID": "754073731539034112", "text": "Kendisi facetime halk sokaktime hadi canım ordan #SokağaSakınÇıkma", "url": "/selenkls/status/754073731539034112", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:02:42", "is_reply": false, "is_retweet": false, "user_id": "1116244686"}

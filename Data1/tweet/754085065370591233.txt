@@ -1,0 +1,1 @@
+{"usernameTweet": "keephodl", "ID": "754085065370591233", "text": "Ak saray önü son dakika ateş açılma anı #SokağaSakınÇıkma  #Ankara pic.twitter.com/DkI1lblwQm", "url": "/keephodl/status/754085065370591233", "nbr_retweet": 12, "nbr_favorite": 21, "nbr_reply": 0, "datetime": "2016-07-16 01:47:44", "is_reply": false, "is_retweet": false, "user_id": "1487371046"}

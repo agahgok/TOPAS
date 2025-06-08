@@ -1,0 +1,1 @@
+{"usernameTweet": "CVPHZR", "ID": "754077622590640128", "text": "Tv lerin yayını kesilmeye başladı #SokağaSakınÇıkma", "url": "/CVPHZR/status/754077622590640128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:09", "is_reply": false, "is_retweet": false, "user_id": "451368171"}

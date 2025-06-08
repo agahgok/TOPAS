@@ -1,0 +1,1 @@
+{"usernameTweet": "nevinerdogan2", "ID": "754080595131691008", "text": "Aynen size katılıyorum #SokağaSakınÇıkma", "url": "/nevinerdogan2/status/754080595131691008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:58", "is_reply": true, "is_retweet": false, "user_id": "524445521"}

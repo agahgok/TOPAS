@@ -1,0 +1,1 @@
+{"usernameTweet": "asyatuna__", "ID": "754084460098904064", "text": "Bu selalar huzurumuzun selası #SokağaSakınÇıkma", "url": "/asyatuna__/status/754084460098904064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:20", "is_reply": false, "is_retweet": false, "user_id": "737746825730494464"}

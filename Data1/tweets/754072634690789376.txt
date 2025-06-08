@@ -1,0 +1,1 @@
+{"usernameTweet": "alisolma", "ID": "754072634690789376", "text": "# sokagacikma  #oyunagelmeyin pic.twitter.com/pOtnx4bR5v", "url": "/alisolma/status/754072634690789376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:20", "is_reply": false, "is_retweet": false, "user_id": "281651437"}

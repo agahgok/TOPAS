@@ -1,0 +1,1 @@
+{"usernameTweet": "fenerliiesmaa", "ID": "754077424690819072", "text": "Herkes çıksın bu parti değil ülke meselesi  #SokağaSakınÇıkma", "url": "/fenerliiesmaa/status/754077424690819072", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:22", "is_reply": false, "is_retweet": false, "user_id": "293626504"}

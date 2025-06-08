@@ -1,0 +1,1 @@
+{"usernameTweet": "gzmfk", "ID": "754122150131404801", "text": "# SokağaÇıkma  Marmaris Turban da çatışma!", "url": "/gzmfk/status/754122150131404801", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 04:15:06", "is_reply": false, "is_retweet": false, "user_id": "1048675526"}

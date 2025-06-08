@@ -1,0 +1,1 @@
+{"usernameTweet": "AlihanYetis", "ID": "754081088373424129", "text": "# SokağaSakınÇıkma  Sokağa davet edenler önce bi önden sen çık bakalım!", "url": "/AlihanYetis/status/754081088373424129", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:56", "is_reply": false, "is_retweet": false, "user_id": "550139761"}

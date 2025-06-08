@@ -1,0 +1,1 @@
+{"usernameTweet": "iNtEGrAL67", "ID": "754098693574361088", "text": "Tbmm vuruldu... #DarbeyeHayır  #SokağaSakınÇıkma  Ankarada çatışma var.", "url": "/iNtEGrAL67/status/754098693574361088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:41:53", "is_reply": false, "is_retweet": false, "user_id": "187432142"}

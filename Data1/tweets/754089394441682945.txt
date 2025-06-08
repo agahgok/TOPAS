@@ -1,0 +1,1 @@
+{"usernameTweet": "BnglPnr", "ID": "754089394441682945", "text": "# SokağaSakınÇıkma  .", "url": "/BnglPnr/status/754089394441682945", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:56", "is_reply": false, "is_retweet": false, "user_id": "330515544"}

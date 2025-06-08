@@ -1,0 +1,1 @@
+{"usernameTweet": "nurmuya", "ID": "1282088400342994945", "text": "Yemedigim  darbe  kalmadı ama hala ayaktayım acaba nereye kadar çok merak ediyorum", "url": "/nurmuya/status/1282088400342994945", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-12 02:04:29", "is_reply": false, "is_retweet": false, "user_id": "1103384174642253824"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ezggia", "ID": "754086278119981056", "text": "Sizin için şehid olan askeri öldürmek için mi çıktınız sokağa  #SokağaSakınÇıkma", "url": "/ezggia/status/754086278119981056", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 2, "datetime": "2016-07-16 01:52:33", "is_reply": false, "is_retweet": false, "user_id": "155459352"}

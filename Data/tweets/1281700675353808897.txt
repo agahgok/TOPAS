@@ -1,0 +1,1 @@
+{"usernameTweet": "ceci_arrostiti", "ID": "1281700675353808897", "text": "Yaklaşan ağır ekonomik krize, \"dış mihraklardan müslümanlığa ağır  darbe \" stratejisi.", "url": "/ceci_arrostiti/status/1281700675353808897", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 00:23:48", "is_reply": true, "is_retweet": false, "user_id": "573542992"}

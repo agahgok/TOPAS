@@ -1,0 +1,1 @@
+{"usernameTweet": "graziano1903", "ID": "754091857114791936", "text": "BU FİLMİN FİGÜRANI OLMAYIN.  #SokağaSakınÇıkma", "url": "/graziano1903/status/754091857114791936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:43", "is_reply": false, "is_retweet": false, "user_id": "1483294464"}

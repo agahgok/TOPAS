@@ -1,0 +1,1 @@
+{"usernameTweet": "kimbumustafa8", "ID": "754089623903539202", "text": "# SokağaSakınÇıkma  \n#Turkey  \nBu kadar geri kafalı insan var Mış dedim #ÇakmaDarbe", "url": "/kimbumustafa8/status/754089623903539202", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:51", "is_reply": false, "is_retweet": false, "user_id": "2238796965"}

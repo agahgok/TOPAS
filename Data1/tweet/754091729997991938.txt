@@ -1,0 +1,1 @@
+{"usernameTweet": "iilhan76", "ID": "754091729997991938", "text": "78 milyon meydanlarda #SokağaSakınÇıkma   pic.twitter.com/asqNpViCgh", "url": "/iilhan76/status/754091729997991938", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:13", "is_reply": false, "is_retweet": false, "user_id": "151208035"}

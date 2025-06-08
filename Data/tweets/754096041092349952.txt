@@ -1,0 +1,1 @@
+{"usernameTweet": "suheda2582", "ID": "754096041092349952", "text": "# SokağaÇıkma", "url": "/suheda2582/status/754096041092349952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:21", "is_reply": false, "is_retweet": false, "user_id": "753591859826552833"}

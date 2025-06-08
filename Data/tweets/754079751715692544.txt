@@ -1,0 +1,1 @@
+{"usernameTweet": "Antereos", "ID": "754079751715692544", "text": "DEĞERLİ ARKADAŞLAR ŞUAN EZAN OKUNUYOR. BU KADAR OLMAZ BU DİNE KİTABA İMANA SIĞMAZ.! #SokağaSakınÇıkma", "url": "/Antereos/status/754079751715692544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:37", "is_reply": false, "is_retweet": false, "user_id": "401621457"}

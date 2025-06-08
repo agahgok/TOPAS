@@ -1,0 +1,1 @@
+{"usernameTweet": "soldevrimm", "ID": "754077259091349509", "text": "Saçma sapan hareketler edip sokağa çıkmayın , insanların güvenliğiyle oynamayın  #SokağaSakınÇıkma", "url": "/soldevrimm/status/754077259091349509", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:43", "is_reply": false, "is_retweet": false, "user_id": "3315773224"}

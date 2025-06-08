@@ -1,0 +1,1 @@
+{"usernameTweet": "prodarbe", "ID": "1282341844056244231", "text": "Holy shit", "url": "/prodarbe/status/1282341844056244231", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 18:51:35", "is_reply": true, "is_retweet": false, "user_id": "1270712034989146112"}

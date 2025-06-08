@@ -1,0 +1,1 @@
+{"usernameTweet": "hermesnera", "ID": "754090650493071360", "text": "# SokağaSakınÇıkma  ?????  pic.twitter.com/Bpp6p5dohJ", "url": "/hermesnera/status/754090650493071360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:56", "is_reply": false, "is_retweet": false, "user_id": "371949187"}

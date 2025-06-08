@@ -1,0 +1,1 @@
+{"usernameTweet": "Emrecnr_0006", "ID": "754086572576899072", "text": "BU ŞEREFSİZLER F16 LARI HALA NASIL UÇURABİLİYOR #Ankara  da #SokağaSakınÇıkma", "url": "/Emrecnr_0006/status/754086572576899072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:43", "is_reply": false, "is_retweet": false, "user_id": "3395246578"}

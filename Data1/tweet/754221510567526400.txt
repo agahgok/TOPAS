@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754221510567526400", "text": "Ülkede rehin alınabilecek sok kişidir genel kurmay Başkan'ı !!  #SokağaSakınÇıkma  #ÇakmaDarbe  @CaferTayyarKala", "url": "/vakkaff/status/754221510567526400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 10:49:55", "is_reply": false, "is_retweet": false, "user_id": "943942980"}

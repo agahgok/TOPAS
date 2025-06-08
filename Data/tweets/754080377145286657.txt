@@ -1,0 +1,1 @@
+{"usernameTweet": "novapac68", "ID": "754080377145286657", "text": ", #SokağaSakınÇıkma", "url": "/novapac68/status/754080377145286657", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:06", "is_reply": false, "is_retweet": false, "user_id": "752395761481027584"}

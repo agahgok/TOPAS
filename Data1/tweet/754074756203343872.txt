@@ -1,0 +1,1 @@
+{"usernameTweet": "pulsefkt", "ID": "754074756203343872", "text": "# SokağaSakınÇıkma  çiktiler bile", "url": "/pulsefkt/status/754074756203343872", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:06:46", "is_reply": false, "is_retweet": false, "user_id": "701678059271942144"}

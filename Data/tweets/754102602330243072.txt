@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754102602330243072", "text": "# SokağaSakınÇıkma  kanal 7ifam geri gelsin diyor  apoyu asnayan lar asker asacak", "url": "/orjinalkarakter/status/754102602330243072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:57:25", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

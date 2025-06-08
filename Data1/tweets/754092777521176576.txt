@@ -1,0 +1,1 @@
+{"usernameTweet": "kinngacar", "ID": "754092777521176576", "text": "Ben dinimi ülkemi bayrağımı onun bunun dayatmasıyla değil özümde seviyorum  #SokağaSakınÇıkma", "url": "/kinngacar/status/754092777521176576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:23", "is_reply": false, "is_retweet": false, "user_id": "96228781"}

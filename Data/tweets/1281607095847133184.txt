@@ -1,0 +1,1 @@
+{"usernameTweet": "metefuckngerpek", "ID": "1281607095847133184", "text": "Tabi 2016'da  darbe  oldugunda nedense beşiktaş full şampiyon oluyodu ", "url": "/metefuckngerpek/status/1281607095847133184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 18:11:57", "is_reply": true, "is_retweet": false, "user_id": "1239471215175184386"}

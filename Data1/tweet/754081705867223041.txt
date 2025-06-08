@@ -1,0 +1,1 @@
+{"usernameTweet": "Ecevit_ER", "ID": "754081705867223041", "text": "İç savaş çıkarmaya çalışan hükümet halkı sokağa döktü.\n#SokağaSakınÇıkma   pic.twitter.com/4atP1cSC0a", "url": "/Ecevit_ER/status/754081705867223041", "nbr_retweet": 3, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:34:23", "is_reply": false, "is_retweet": false, "user_id": "2844392078"}

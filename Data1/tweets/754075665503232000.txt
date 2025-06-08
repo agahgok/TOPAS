@@ -1,0 +1,1 @@
+{"usernameTweet": "brcarchaologe", "ID": "754075665503232000", "text": "# SokağaSakınÇıkma  ilk önce çık diyenler çıksın bakalım...", "url": "/brcarchaologe/status/754075665503232000", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:10:23", "is_reply": false, "is_retweet": false, "user_id": "110400225"}

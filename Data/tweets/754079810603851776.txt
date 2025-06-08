@@ -1,0 +1,1 @@
+{"usernameTweet": "medyastar1", "ID": "754079810603851776", "text": "# SokağaSakınCıkma  Kürdler hic cıkmamalı bence", "url": "/medyastar1/status/754079810603851776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:51", "is_reply": false, "is_retweet": false, "user_id": "2821404587"}

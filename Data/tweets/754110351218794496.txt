@@ -1,0 +1,1 @@
+{"usernameTweet": "murartart", "ID": "754110351218794496", "text": "Her olayda hemen sonra yayın yasağı koyanlar nerdesiniz ?\n\n #SokağaSakınÇıkma", "url": "/murartart/status/754110351218794496", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:28:13", "is_reply": false, "is_retweet": false, "user_id": "1474133496"}

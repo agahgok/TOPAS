@@ -1,0 +1,1 @@
+{"usernameTweet": "zerentokul", "ID": "754077062600818688", "text": "Halkı sokağa çağıranlar nerede.\n#SokağaSakınÇıkma   pic.twitter.com/PUB2EhP3Xe", "url": "/zerentokul/status/754077062600818688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:56", "is_reply": false, "is_retweet": false, "user_id": "2848103890"}

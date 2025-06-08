@@ -1,0 +1,1 @@
+{"usernameTweet": "DabeApo_bot", "ID": "1284282900733521921", "text": "葉隠「桑田っち！！桑田っちだ！！桑田っち！！なあ、桑田っちだって～！！？」　桑田「あぁ…ウンウン\"鍬\"な…」　葉隠「そう！！クワ！！」　桑田（こんなコトで楽しそうだよなぁ）", "url": "/DabeApo_bot/status/1284282900733521921", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 03:24:39", "is_reply": false, "is_retweet": false, "user_id": "953250348"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gokkobeg", "ID": "754076818337071105", "text": "Taksim'den 10 dakikadır bomba, ateş sesleri geliyor. #SokağaSakınÇıkma", "url": "/gokkobeg/status/754076818337071105", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:14:58", "is_reply": false, "is_retweet": false, "user_id": "1187015995"}

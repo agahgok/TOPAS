@@ -1,0 +1,1 @@
+{"usernameTweet": "SeyitTrkmen7", "ID": "1282134900842397697", "text": "Volkan Özdemir nasıl bir  darbe  aldıysa bayıldıgında 5 dakika kendine gelemedi...", "url": "/SeyitTrkmen7/status/1282134900842397697", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 05:09:15", "is_reply": false, "is_retweet": false, "user_id": "1251109831664119808"}

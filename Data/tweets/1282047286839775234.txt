@@ -1,0 +1,1 @@
+{"usernameTweet": "be_menk", "ID": "1282047286839775234", "text": "Gariptir, bazen, hedefini şaşıran bir  darbe , hedefini bulandan daha çok yaralayıcı olabiliyor.", "url": "/be_menk/status/1282047286839775234", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-11 23:21:07", "is_reply": false, "is_retweet": false, "user_id": "1217163124140314626"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "selinbilisli", "ID": "754085706302095360", "text": "# SokağaSakınÇıkma  diyen pkk'dır haindir. Şerefsizdir. Haysiyeti olan sokağa çıkar.", "url": "/selinbilisli/status/754085706302095360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:17", "is_reply": false, "is_retweet": false, "user_id": "1576932698"}

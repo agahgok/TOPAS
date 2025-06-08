@@ -1,0 +1,1 @@
+{"usernameTweet": "zerance", "ID": "754078570214023169", "text": "Bu bir iç savaş çığlığından başka bir şey değildir... Uyan Millet..\n#SokağaSakınÇıkma   pic.twitter.com/Pwu69skzld", "url": "/zerance/status/754078570214023169", "nbr_retweet": 5, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:21:55", "is_reply": false, "is_retweet": false, "user_id": "418209877"}

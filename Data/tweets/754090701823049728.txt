@@ -1,0 +1,1 @@
+{"usernameTweet": "aysbisakinles", "ID": "754090701823049728", "text": "# SokağaSakınÇıkma  Can guvenligimiz yok!!!", "url": "/aysbisakinles/status/754090701823049728", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:10:08", "is_reply": false, "is_retweet": false, "user_id": "140807932"}

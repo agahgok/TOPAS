@@ -1,0 +1,1 @@
+{"usernameTweet": "damlabalabann", "ID": "754090175765082112", "text": "Biz çıkınca çapulcu siz çıkınca Mücahit. İşte İslami demokrasi.  #SokağaSakınÇıkma", "url": "/damlabalabann/status/754090175765082112", "nbr_retweet": 1, "nbr_favorite": 7, "nbr_reply": 3, "datetime": "2016-07-16 02:08:02", "is_reply": false, "is_retweet": false, "user_id": "256580090"}

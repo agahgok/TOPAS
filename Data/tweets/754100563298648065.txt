@@ -1,0 +1,1 @@
+{"usernameTweet": "mako1907", "ID": "754100563298648065", "text": "Bu ülkeye nooluyo amk!\n\n#sokağaçıkma", "url": "/mako1907/status/754100563298648065", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:49:19", "is_reply": false, "is_retweet": false, "user_id": "573089943"}

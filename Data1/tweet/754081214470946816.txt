@@ -1,0 +1,1 @@
+{"usernameTweet": "Krhkn34", "ID": "754081214470946816", "text": "Reisin tuttuğu yüzde 50 yiz  #SokağaSakınÇıkma   pic.twitter.com/ETYpkvpYwe", "url": "/Krhkn34/status/754081214470946816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:26", "is_reply": false, "is_retweet": false, "user_id": "1264540766"}

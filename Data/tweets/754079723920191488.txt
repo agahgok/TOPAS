@@ -1,0 +1,1 @@
+{"usernameTweet": "HandeZaman", "ID": "754079723920191488", "text": "Sela'nin mantigi ne? Kim öldu ? #SokağaÇıkma", "url": "/HandeZaman/status/754079723920191488", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:26:30", "is_reply": false, "is_retweet": false, "user_id": "103930523"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "okanyesim", "ID": "754066418564497408", "text": "# SokağaÇıkma   aklını kullan çıkma sokağa", "url": "/okanyesim/status/754066418564497408", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:33:38", "is_reply": false, "is_retweet": false, "user_id": "250701531"}

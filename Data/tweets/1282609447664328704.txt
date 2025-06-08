@@ -1,0 +1,1 @@
+{"usernameTweet": "makaroIoji", "ID": "1282609447664328704", "text": "Sezaiden açıklama bekliyoz alsemutun ücretini aldık diye\nYoksa bu en büyük  darbe  olcak mk", "url": "/makaroIoji/status/1282609447664328704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 12:34:56", "is_reply": false, "is_retweet": false, "user_id": "1262894339430264833"}

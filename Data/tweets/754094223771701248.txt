@@ -1,0 +1,1 @@
+{"usernameTweet": "emrreseen", "ID": "754094223771701248", "text": "# DarbeyeHayır \n#SokağaSakınÇıkma \nDağ . dağa küsmesin !!  pic.twitter.com/7w8eXj6K5U", "url": "/emrreseen/status/754094223771701248", "nbr_retweet": 3, "nbr_favorite": 29, "nbr_reply": 0, "datetime": "2016-07-16 02:24:07", "is_reply": false, "is_retweet": false, "user_id": "720712033"}

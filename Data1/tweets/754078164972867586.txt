@@ -1,0 +1,1 @@
+{"usernameTweet": "biqqmenn", "ID": "754078164972867586", "text": "# SokağaSakınÇıkma", "url": "/biqqmenn/status/754078164972867586", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:19", "is_reply": false, "is_retweet": false, "user_id": "2548497823"}

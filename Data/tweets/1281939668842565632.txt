@@ -1,0 +1,1 @@
+{"usernameTweet": "TKep13", "ID": "1281939668842565632", "text": "Açık savun ulan totoroş,\"bizans a  darbe  vurma\"de.ataların (kodum alayına!) Seninle kurur tuysunlar.", "url": "/TKep13/status/1281939668842565632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 16:13:28", "is_reply": true, "is_retweet": false, "user_id": "1126948695319224322"}

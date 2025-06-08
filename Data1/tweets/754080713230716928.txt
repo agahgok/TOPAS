@@ -1,0 +1,1 @@
+{"usernameTweet": "minnionteamm", "ID": "754080713230716928", "text": "Kaçıncı ezan bu neden okunuyor noluyor hiçbişey anlamadım #SokağaSakınÇıkma", "url": "/minnionteamm/status/754080713230716928", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:26", "is_reply": false, "is_retweet": false, "user_id": "177875529"}

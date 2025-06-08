@@ -1,0 +1,1 @@
+{"usernameTweet": "fur_kan07", "ID": "754074810293035008", "text": "# SokağaSakınÇıkma  hayatını önemsiyorsan sokağa çıkma !!!", "url": "/fur_kan07/status/754074810293035008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:59", "is_reply": false, "is_retweet": false, "user_id": "2815959597"}

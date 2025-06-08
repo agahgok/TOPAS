@@ -1,0 +1,1 @@
+{"usernameTweet": "gercekdusunce", "ID": "754231000016838656", "text": "# SokağaSakınÇıkma  #SokağaCıkmıyoruz   diyen yavşaklar gezide de yazsaydınız ya bu etiketi !", "url": "/gercekdusunce/status/754231000016838656", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 11:27:37", "is_reply": false, "is_retweet": false, "user_id": "1631474185"}

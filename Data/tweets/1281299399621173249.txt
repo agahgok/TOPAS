@@ -1,0 +1,1 @@
+{"usernameTweet": "kaanofrivia", "ID": "1281299399621173249", "text": "zeynepe hançerle bi  darbe  atti ya birakmis gibi amciligi kurtarir kesin(3.bölümdeimdaha)", "url": "/kaanofrivia/status/1281299399621173249", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 21:49:16", "is_reply": true, "is_retweet": false, "user_id": "297518406"}

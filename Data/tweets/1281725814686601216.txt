@@ -1,0 +1,1 @@
+{"usernameTweet": "teedyybear", "ID": "1281725814686601216", "text": "ne kadar boktan bir gündü ya her yerden bir  darbe  yedik emeği geçen herkese teşekkürler burdan", "url": "/teedyybear/status/1281725814686601216", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 2, "datetime": "2020-07-11 02:03:42", "is_reply": false, "is_retweet": false, "user_id": "1279506486511706112"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "OzncAltnts", "ID": "754085407650902016", "text": "Olum hani sokağa çıkma yasağı vardı #SokağaSakınÇıkma", "url": "/OzncAltnts/status/754085407650902016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:06", "is_reply": false, "is_retweet": false, "user_id": "187229722"}

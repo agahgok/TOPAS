@@ -1,0 +1,1 @@
+{"usernameTweet": "bayshell", "ID": "1281935369194397696", "text": "Atatürk ve Cumhuriyet'e  darbe  yapıldı, haberiniz var mı Sn. Perinçek.", "url": "/bayshell/status/1281935369194397696", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-11 15:56:23", "is_reply": true, "is_retweet": false, "user_id": "416674725"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "dumanmustafa30", "ID": "754076336814186506", "text": "Herkes sokağa  #SokağaSakınÇıkma  diyen sizin gibi şerefsizleri s i iyi bikirz", "url": "/dumanmustafa30/status/754076336814186506", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:13:03", "is_reply": false, "is_retweet": false, "user_id": "4625077635"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "HetmanOmeri", "ID": "754082692044587008", "text": "Hafızayı biraz tazeleyin....\nYıl 2013 Recep Tayyip Erdoğan Sokağa çıkanlar teröristtir.\n#SokağaSakınÇıkma", "url": "/HetmanOmeri/status/754082692044587008", "nbr_retweet": 13, "nbr_favorite": 24, "nbr_reply": 0, "datetime": "2016-07-16 01:38:18", "is_reply": false, "is_retweet": false, "user_id": "227967967"}

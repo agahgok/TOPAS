@@ -1,0 +1,1 @@
+{"usernameTweet": "cantagac", "ID": "754093539559026688", "text": "Reichstag Yangınını bilir misin ? Aynı o misal #SokağaSakınÇıkma", "url": "/cantagac/status/754093539559026688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:24", "is_reply": false, "is_retweet": false, "user_id": "482246564"}

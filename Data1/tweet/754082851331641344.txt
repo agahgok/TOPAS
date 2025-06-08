@@ -1,0 +1,1 @@
+{"usernameTweet": "merababenbeetul", "ID": "754082851331641344", "text": "Dini de kullanıyorlar.#SokağaSakınÇıkma", "url": "/merababenbeetul/status/754082851331641344", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:38:56", "is_reply": false, "is_retweet": false, "user_id": "1625198858"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "KendalYlmz", "ID": "754085545320574980", "text": "Biz sokağa çıktığımız da vatan haini diyenler ezanla sokağa çıkın diyor  #SokağaSakınÇıkma", "url": "/KendalYlmz/status/754085545320574980", "nbr_retweet": 2, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:49:38", "is_reply": false, "is_retweet": false, "user_id": "543622787"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sedeftekinn", "ID": "754091334546427904", "text": "Havalimanı güvenliği ne oldu? İnsanlar apronda? #SokağaSakınÇıkma", "url": "/sedeftekinn/status/754091334546427904", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:39", "is_reply": false, "is_retweet": false, "user_id": "132887178"}

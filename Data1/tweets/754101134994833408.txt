@@ -1,0 +1,1 @@
+{"usernameTweet": "candasaksoyek", "ID": "754101134994833408", "text": "# sokağasakıncıkma  Sokağa açılan ateş  pic.twitter.com/NdRxdy9LJn", "url": "/candasaksoyek/status/754101134994833408", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:51:35", "is_reply": true, "is_retweet": false, "user_id": "223249209"}

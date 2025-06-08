@@ -1,0 +1,1 @@
+{"usernameTweet": "nisathewinnner", "ID": "1281374624979267584", "text": "ya ben 29 haziran gecesi 2 istemiyorum amaaaa\ncidden  darbe  tarih gibi bir şey oldu..", "url": "/nisathewinnner/status/1281374624979267584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 02:48:12", "is_reply": true, "is_retweet": false, "user_id": "986216516428451841"}

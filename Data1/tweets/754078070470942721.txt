@@ -1,0 +1,1 @@
+{"usernameTweet": "mlsacrkc", "ID": "754078070470942721", "text": "Kan dökülmesini istiyorlar. Aklıselim olun #SokağaSakınÇıkma  #Ankara", "url": "/mlsacrkc/status/754078070470942721", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:56", "is_reply": false, "is_retweet": false, "user_id": "3909271161"}

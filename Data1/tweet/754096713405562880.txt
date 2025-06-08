@@ -1,0 +1,1 @@
+{"usernameTweet": "weiirdcat", "ID": "754096713405562880", "text": "koyun değilsen, çobanın çağrısına uyup #sokağaçıkma", "url": "/weiirdcat/status/754096713405562880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:34:01", "is_reply": false, "is_retweet": false, "user_id": "2831398362"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "888iiiiiiii", "ID": "1282439616403066881", "text": "17/25  darbe  girişimi ise, 4 bakan niye istifa etti. Kafam karıştı. @ismailsaymaz  @Deniz_Zeyrek", "url": "/888iiiiiiii/status/1282439616403066881", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 1, "datetime": "2020-07-13 01:20:05", "is_reply": false, "is_retweet": false, "user_id": "889548227917361152"}

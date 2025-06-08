@@ -1,0 +1,1 @@
+{"usernameTweet": "baszeynep7", "ID": "754078637121474561", "text": "Ortada siyasetci yok tüm halk sokakta. Düşün birbirinize aferin #SokağaSakınÇıkma", "url": "/baszeynep7/status/754078637121474561", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:11", "is_reply": false, "is_retweet": false, "user_id": "3097123233"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AybikeCanturk", "ID": "754080051860279297", "text": "Ankarada minarelerden önce ezan okundu şimdi de sokağa çıkın Allah aşkına denildi\n#SokağaSakınÇıkma", "url": "/AybikeCanturk/status/754080051860279297", "nbr_retweet": 6, "nbr_favorite": 9, "nbr_reply": 2, "datetime": "2016-07-16 01:27:49", "is_reply": false, "is_retweet": false, "user_id": "2646322715"}

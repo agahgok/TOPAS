@@ -1,0 +1,1 @@
+{"usernameTweet": "tugcedundr", "ID": "754084937050034176", "text": "Bu saatte ezan,sela sesleri ülke ne hale geldi Allah yardımcımız olsun  #SokağaSakınÇıkma", "url": "/tugcedundr/status/754084937050034176", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:47:13", "is_reply": false, "is_retweet": false, "user_id": "1702939928"}

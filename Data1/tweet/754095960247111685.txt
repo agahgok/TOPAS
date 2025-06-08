@@ -1,0 +1,1 @@
+{"usernameTweet": "sicrayanfransiz", "ID": "754095960247111685", "text": "Eğer mümkünse, #sabah  kalktığımda bu ülkeye uyanmayayım ya.. #DarbemiOluyor  #SokağaSakınÇıkma", "url": "/sicrayanfransiz/status/754095960247111685", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:31:02", "is_reply": false, "is_retweet": false, "user_id": "490615325"}

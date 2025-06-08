@@ -1,0 +1,1 @@
+{"usernameTweet": "cemilumut63", "ID": "754081743121047552", "text": "3~ #sokagasakınçıkma  #ankara  #TRT  1 Abdullah gül Türk silahlı kuvvetleri Genel kurmay başkanı...", "url": "/cemilumut63/status/754081743121047552", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:34:32", "is_reply": false, "is_retweet": false, "user_id": "2984676016"}

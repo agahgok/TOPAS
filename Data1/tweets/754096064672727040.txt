@@ -1,0 +1,1 @@
+{"usernameTweet": "1903_1923", "ID": "754096064672727040", "text": "Akp tiyatrosunda anca akmallar sokağa çıkar #SokağaÇıkma", "url": "/1903_1923/status/754096064672727040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:26", "is_reply": false, "is_retweet": false, "user_id": "517057590"}

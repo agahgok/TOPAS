@@ -1,0 +1,1 @@
+{"usernameTweet": "Oku_Gez_Sev", "ID": "1281542955682148354", "text": "Şaşı da olabilirler .Gözler sağlı sollu  darbe  aldı.", "url": "/Oku_Gez_Sev/status/1281542955682148354", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 13:57:05", "is_reply": true, "is_retweet": false, "user_id": "1076796480936128512"}

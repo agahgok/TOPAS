@@ -1,0 +1,1 @@
+{"usernameTweet": "H_Yorugen", "ID": "1282033731151298561", "text": "Onların dedeleri uçak, uçak gemisi yaparken, senin dede  darbe  yapıp, heykel dikiyordu. Gevik şizo.", "url": "/H_Yorugen/status/1282033731151298561", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 22:27:15", "is_reply": true, "is_retweet": false, "user_id": "1260228448154529792"}

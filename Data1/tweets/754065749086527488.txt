@@ -1,0 +1,1 @@
+{"usernameTweet": "figence28", "ID": "754065749086527488", "text": "# SokağaÇıkma", "url": "/figence28/status/754065749086527488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:30:59", "is_reply": false, "is_retweet": false, "user_id": "239952280"}

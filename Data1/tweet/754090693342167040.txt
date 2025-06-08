@@ -1,0 +1,1 @@
+{"usernameTweet": "BSeriner", "ID": "754090693342167040", "text": "Daha düne kadar doğuda vatan için can veren asker şu saatten sonra vatan haini mi oldu #SokağaSakınÇıkma", "url": "/BSeriner/status/754090693342167040", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:10:06", "is_reply": false, "is_retweet": false, "user_id": "278739070"}

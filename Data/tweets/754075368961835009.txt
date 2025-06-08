@@ -1,0 +1,1 @@
+{"usernameTweet": "tekkoshinn", "ID": "754075368961835009", "text": "# SokağaÇıkma  #Ankara https:// twitter.com/rt_erdogan/sta tus/546377572440080384   …", "url": "/tekkoshinn/status/754075368961835009", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:12", "is_reply": false, "is_retweet": false, "user_id": "3607237755"}

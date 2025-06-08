@@ -1,0 +1,1 @@
+{"usernameTweet": "gmztrms", "ID": "754067941088428033", "text": "Yasak var  #sokağaçıkma", "url": "/gmztrms/status/754067941088428033", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:39:41", "is_reply": false, "is_retweet": false, "user_id": "1493371182"}

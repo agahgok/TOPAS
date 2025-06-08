@@ -1,0 +1,1 @@
+{"usernameTweet": "WnrfyY45C0QM", "ID": "754091490876465153", "text": "Tum bunlar olurken cocuklariniza biz tvden izledik dersiniz #SokağaSakınÇıkma", "url": "/WnrfyY45C0QM/status/754091490876465153", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:16", "is_reply": false, "is_retweet": false, "user_id": "180778509"}

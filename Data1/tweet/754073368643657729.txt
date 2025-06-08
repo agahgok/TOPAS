@@ -1,0 +1,1 @@
+{"usernameTweet": "SrtacBattal", "ID": "754073368643657729", "text": "# SokağaSakınÇıkma  Dün şehit olarak düşenlere üzülüyorsan bugün onlara taş atma", "url": "/SrtacBattal/status/754073368643657729", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:15", "is_reply": false, "is_retweet": false, "user_id": "495037978"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sisfeneri", "ID": "754088934523699202", "text": "Minareler süngü,kubbeler miğfer,\nCamiler kışlamız, müminler asker\noldu mk #SokağaSakınÇıkma", "url": "/sisfeneri/status/754088934523699202", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:06", "is_reply": false, "is_retweet": false, "user_id": "387672234"}

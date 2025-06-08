@@ -1,0 +1,1 @@
+{"usernameTweet": "Huseyinakdoqan", "ID": "754077750776979458", "text": "Gotunden korkan  #SokağaSakınÇıkma  sin", "url": "/Huseyinakdoqan/status/754077750776979458", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:40", "is_reply": false, "is_retweet": false, "user_id": "2478270272"}

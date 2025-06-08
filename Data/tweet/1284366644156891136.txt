@@ -1,0 +1,1 @@
+{"usernameTweet": "Dabe_08", "ID": "1284366644156891136", "text": "U look so good but u have a bad attd.\n\nOdiba buti nalang di ako nafall ", "url": "/Dabe_08/status/1284366644156891136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:57:25", "is_reply": false, "is_retweet": false, "user_id": "916966803733061633"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ariza12615361", "ID": "1282353134258585600", "text": "Dün gece\n Darbe  1878 okudum\n@ozanbodur_1915 pic.twitter.com/jOgBnjdCYT", "url": "/ariza12615361/status/1282353134258585600", "nbr_retweet": 2, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-12 19:36:26", "is_reply": true, "is_retweet": false, "user_id": "4757888722"}

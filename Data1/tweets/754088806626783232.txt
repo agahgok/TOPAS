@@ -1,0 +1,1 @@
+{"usernameTweet": "sedeftekinn", "ID": "754088806626783232", "text": "Sokağa çıkarak işid ve pkk için çok güzel ortamlar yarattınız, bravo!!!  #SokağaSakınÇıkma", "url": "/sedeftekinn/status/754088806626783232", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:36", "is_reply": false, "is_retweet": false, "user_id": "132887178"}

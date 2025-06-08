@@ -1,0 +1,1 @@
+{"usernameTweet": "AnkaBerk", "ID": "754073198996566016", "text": "# SokağaSakınÇıkma  RTE'nin sığınma talebi ile ilgili bilgisi olan var mı? #Ankara", "url": "/AnkaBerk/status/754073198996566016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:00:35", "is_reply": false, "is_retweet": false, "user_id": "2207729136"}

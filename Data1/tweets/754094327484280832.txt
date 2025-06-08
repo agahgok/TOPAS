@@ -1,0 +1,1 @@
+{"usernameTweet": "pembe_keman", "ID": "754094327484280832", "text": "POLİSTE BİZİM ASKERDE BİZİM   #SokağaSakınÇıkma", "url": "/pembe_keman/status/754094327484280832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:32", "is_reply": false, "is_retweet": false, "user_id": "2702719840"}

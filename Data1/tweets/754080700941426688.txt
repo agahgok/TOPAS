@@ -1,0 +1,1 @@
+{"usernameTweet": "BilgesuYurtdas", "ID": "754080700941426688", "text": "# SokağaSakınÇıkma  çok korkuyorum silah atıyorlar korna çalıyorlar sakın CIKMAYIN!!!1!!1!1!1!1!", "url": "/BilgesuYurtdas/status/754080700941426688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:23", "is_reply": false, "is_retweet": false, "user_id": "3350940689"}

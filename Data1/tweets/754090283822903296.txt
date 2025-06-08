@@ -1,0 +1,1 @@
+{"usernameTweet": "gamzedirican", "ID": "754090283822903296", "text": "# SokağaSakınÇıkma  diyenler bundan böyle de çıkmayın tamam mı? Darbe yok sıçtınız hadi bakalım!", "url": "/gamzedirican/status/754090283822903296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:28", "is_reply": false, "is_retweet": false, "user_id": "94319889"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Taha_dmir", "ID": "754089198513192960", "text": "taymlayn da devleti savunanları görünce çıldırıyom hepsinin amınakoyasım geliyor #SokağaSakınÇıkma", "url": "/Taha_dmir/status/754089198513192960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:09", "is_reply": false, "is_retweet": false, "user_id": "1470451382"}

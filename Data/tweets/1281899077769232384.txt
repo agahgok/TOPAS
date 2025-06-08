@@ -1,0 +1,1 @@
+{"usernameTweet": "karadayim035", "ID": "1281899077769232384", "text": "2 maç oynamadı doğru öncesindeki maçta  darbe  aldı oyundan çıktı galiba risk etmek istemediler.", "url": "/karadayim035/status/1281899077769232384", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 13:32:11", "is_reply": true, "is_retweet": false, "user_id": "1281265705439113217"}

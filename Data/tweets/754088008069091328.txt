@@ -1,0 +1,1 @@
+{"usernameTweet": "aycaerigur", "ID": "754088008069091328", "text": "Ulan onlarca şehit verdiğimizde neredeydiniz be insafsızlar  #SokağaSakınÇıkma", "url": "/aycaerigur/status/754088008069091328", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:26", "is_reply": false, "is_retweet": false, "user_id": "104463394"}

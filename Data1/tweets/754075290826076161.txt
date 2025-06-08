@@ -1,0 +1,1 @@
+{"usernameTweet": "AysegulDrnl", "ID": "754075290826076161", "text": "Hayırdır twittir lazım olmuş size neden kapatılmadı?? #SokağaSakınÇıkma", "url": "/AysegulDrnl/status/754075290826076161", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:54", "is_reply": false, "is_retweet": false, "user_id": "2868091330"}

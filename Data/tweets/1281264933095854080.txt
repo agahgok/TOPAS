@@ -1,0 +1,1 @@
+{"usernameTweet": "Asuman86650253", "ID": "1281264933095854080", "text": "Minik  darbe  nasıl oluyor mantar tabacasiylami", "url": "/Asuman86650253/status/1281264933095854080", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 19:32:19", "is_reply": true, "is_retweet": false, "user_id": "1222232771923529729"}

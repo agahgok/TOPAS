@@ -1,0 +1,1 @@
+{"usernameTweet": "Denemelere", "ID": "754085755039907841", "text": "@ tv8  de örümcek adam var. Darbeden daha gerçekçi\n #SokağaSakınÇıkma", "url": "/Denemelere/status/754085755039907841", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:28", "is_reply": false, "is_retweet": false, "user_id": "753902226154872832"}

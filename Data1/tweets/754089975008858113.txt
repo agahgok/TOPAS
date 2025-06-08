@@ -1,0 +1,1 @@
+{"usernameTweet": "sadrettintrhn", "ID": "754089975008858113", "text": "Camilerden okunan sela ölen demokratik, özgür, bağımsız Türkiye'nin selasıdır.\n#SokağaSakınÇıkma", "url": "/sadrettintrhn/status/754089975008858113", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:15", "is_reply": false, "is_retweet": false, "user_id": "2748964091"}

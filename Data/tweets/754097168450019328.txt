@@ -1,0 +1,1 @@
+{"usernameTweet": "aleyxerulu", "ID": "754097168450019328", "text": "Biz MUSTAFA KEMAL'in askerleriyiz siz ne boksunuz bilinmez tabi...\n#SokağaSakınÇıkma", "url": "/aleyxerulu/status/754097168450019328", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:35:50", "is_reply": false, "is_retweet": false, "user_id": "4821568552"}

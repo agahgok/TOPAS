@@ -1,0 +1,1 @@
+{"usernameTweet": "MranKus", "ID": "754078282535108608", "text": "Oyunlara alet olmayin #sokağasakıncıkma", "url": "/MranKus/status/754078282535108608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:47", "is_reply": false, "is_retweet": false, "user_id": "537318172"}

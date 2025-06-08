@@ -1,0 +1,1 @@
+{"usernameTweet": "SocialPlatforme", "ID": "754095021503184896", "text": "# SokağaSakınÇıkma  hepinizin a.koyacagiz picler.17polisin hrsabi sizden tek tek sorulacak", "url": "/SocialPlatforme/status/754095021503184896", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:18", "is_reply": false, "is_retweet": false, "user_id": "2253921944"}

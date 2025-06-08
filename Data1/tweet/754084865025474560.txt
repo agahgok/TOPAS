@@ -1,0 +1,1 @@
+{"usernameTweet": "whtienigga", "ID": "754084865025474560", "text": "# SokağaSakınÇıkma  bu gece erken okundu niyet ettim.. #Ramadan2016  #mubarak", "url": "/whtienigga/status/754084865025474560", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:46:56", "is_reply": false, "is_retweet": false, "user_id": "1452494064"}

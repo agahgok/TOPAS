@@ -1,0 +1,1 @@
+{"usernameTweet": "bernaaus", "ID": "754269883148464129", "text": "# DarbeDegilTiyatro \n#askerimedokunma \n#sokağasakınçıkma", "url": "/bernaaus/status/754269883148464129", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 14:02:08", "is_reply": false, "is_retweet": false, "user_id": "3086748738"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1281292390880477184", "text": "Que bela jantada\n\nKkkkkkkkkkkk https:// twitter.com/Biakicis/statu s/1281231327975682048   …", "url": "/JoneDarbe/status/1281292390880477184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 21:21:25", "is_reply": false, "is_retweet": false, "user_id": "1221530980965584896"}

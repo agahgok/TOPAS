@@ -1,0 +1,1 @@
+{"usernameTweet": "FevziEbru2014", "ID": "754075895544025088", "text": "# SokağaSakınÇıkma   #SokağaSakınÇıkma  #SokağaSakınÇıkma  #SokağaSakınÇıkma  #SokağaSakınÇıkma", "url": "/FevziEbru2014/status/754075895544025088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:18", "is_reply": false, "is_retweet": false, "user_id": "610016190"}

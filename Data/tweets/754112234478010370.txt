@@ -1,0 +1,1 @@
+{"usernameTweet": "kimlanbumelo", "ID": "754112234478010370", "text": "Ben demiyorum kendi demiş. Ne kadar palavere herşey #SokağaSakınÇıkma   pic.twitter.com/x9IRo4RLdF", "url": "/kimlanbumelo/status/754112234478010370", "nbr_retweet": 2, "nbr_favorite": 14, "nbr_reply": 1, "datetime": "2016-07-16 03:35:42", "is_reply": false, "is_retweet": false, "user_id": "290567080"}

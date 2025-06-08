@@ -1,0 +1,1 @@
+{"usernameTweet": "UgurAkkafa", "ID": "754085293456850944", "text": "# SokağaSakınÇıkma  diyenler DARBECİLERİN ta kendisidir.\nSokağa çık DARBEYE DUR DE !..", "url": "/UgurAkkafa/status/754085293456850944", "nbr_retweet": 357, "nbr_favorite": 805, "nbr_reply": 17, "datetime": "2016-07-16 01:48:38", "is_reply": false, "is_retweet": false, "user_id": "212164727"}

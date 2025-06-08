@@ -1,0 +1,1 @@
+{"usernameTweet": "ilginsel", "ID": "754094298300309504", "text": "\"Ben Başkomutanım\"dedi,bu gece çekilen filmi bunun için izledik!.. #SokağaSakınÇıkma  #oyunagelme", "url": "/ilginsel/status/754094298300309504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:25", "is_reply": false, "is_retweet": false, "user_id": "102354229"}

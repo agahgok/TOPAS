@@ -1,0 +1,1 @@
+{"usernameTweet": "BellegnAzmi1931", "ID": "754080381494824962", "text": ".Daha dün böyle diyordun  #SokağaSakınÇıkma   pic.twitter.com/2aMJW7oEaB", "url": "/BellegnAzmi1931/status/754080381494824962", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:07", "is_reply": false, "is_retweet": false, "user_id": "725338013870510080"}

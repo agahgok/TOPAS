@@ -1,0 +1,1 @@
+{"usernameTweet": "b9e7b29fb215484", "ID": "754120149117104134", "text": "Adam kendini havaalaninda karsilasinlar diye milletini sokaga doktu #SokağaSakınÇıkma", "url": "/b9e7b29fb215484/status/754120149117104134", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:07:09", "is_reply": false, "is_retweet": false, "user_id": "3293085105"}

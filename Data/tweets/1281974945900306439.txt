@@ -1,0 +1,1 @@
+{"usernameTweet": "Serapahsenn", "ID": "1281974945900306439", "text": "Bunlar dine  darbe  indirme hayalleri kurarken Erdoğan bütün oyunları bozdu", "url": "/Serapahsenn/status/1281974945900306439", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 18:33:39", "is_reply": true, "is_retweet": false, "user_id": "1133067419034017792"}

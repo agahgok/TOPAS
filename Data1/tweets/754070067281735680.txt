@@ -1,0 +1,1 @@
+{"usernameTweet": "SIKIC_Adam", "ID": "754070067281735680", "text": "# SokağaSakınÇıkma", "url": "/SIKIC_Adam/status/754070067281735680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:48:08", "is_reply": false, "is_retweet": false, "user_id": "3962819723"}

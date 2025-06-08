@@ -1,0 +1,1 @@
+{"usernameTweet": "aykr7", "ID": "754077230049980416", "text": "# SokağaSakınÇıkma  takını açan orospu çocuğu hainler sizlere inat sokaktayız", "url": "/aykr7/status/754077230049980416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:36", "is_reply": false, "is_retweet": false, "user_id": "2447655282"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "eflatunaristo", "ID": "754080021187137536", "text": "# SokağaSakınÇıkma  'darbe ' değil gezi gezii zekalı ol !!!", "url": "/eflatunaristo/status/754080021187137536", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:41", "is_reply": false, "is_retweet": false, "user_id": "147601061"}

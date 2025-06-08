@@ -1,0 +1,1 @@
+{"usernameTweet": "reliantbieber", "ID": "754104478647877633", "text": "gonna leave this here #turkey  #PrayForNice  #SokağaSakınÇıkma   pic.twitter.com/b10pIjRJAq", "url": "/reliantbieber/status/754104478647877633", "nbr_retweet": 4, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 03:04:52", "is_reply": false, "is_retweet": false, "user_id": "549374550"}

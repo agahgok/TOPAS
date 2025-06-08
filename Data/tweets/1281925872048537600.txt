@@ -1,0 +1,1 @@
+{"usernameTweet": "Nazlidmrkn", "ID": "1281925872048537600", "text": "Ah kaçıncı  darbe  bu", "url": "/Nazlidmrkn/status/1281925872048537600", "nbr_retweet": 0, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2020-07-11 15:18:39", "is_reply": false, "is_retweet": false, "user_id": "1208851862998437888"}

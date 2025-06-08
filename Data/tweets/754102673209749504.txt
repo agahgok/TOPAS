@@ -1,0 +1,1 @@
+{"usernameTweet": "essss_35", "ID": "754102673209749504", "text": "Allahım sen koru   #SokağaSakınÇıkma  #Turkey  #TRT  #Ankara  #İstanbul  #Türkei", "url": "/essss_35/status/754102673209749504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:57:42", "is_reply": false, "is_retweet": false, "user_id": "2330918051"}

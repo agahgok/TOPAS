@@ -1,0 +1,1 @@
+{"usernameTweet": "Cagii_1903", "ID": "754069474056306689", "text": "Ne olursa olsun, kimsenin demesiyle SOKAĞA ÇIKMAYIN! #sokağaçıkma", "url": "/Cagii_1903/status/754069474056306689", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:45:47", "is_reply": false, "is_retweet": false, "user_id": "183793892"}

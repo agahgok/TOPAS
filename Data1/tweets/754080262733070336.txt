@@ -1,0 +1,1 @@
+{"usernameTweet": "y_emre_eren", "ID": "754080262733070336", "text": "Sokaktayız\n\n#SokağaSakınÇıkma   pic.twitter.com/7JC3x8B7yB", "url": "/y_emre_eren/status/754080262733070336", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:28:39", "is_reply": false, "is_retweet": false, "user_id": "362089167"}

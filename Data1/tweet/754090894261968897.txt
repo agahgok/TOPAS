@@ -1,0 +1,1 @@
+{"usernameTweet": "filistinrabia", "ID": "754090894261968897", "text": "# SokağaSakınÇıkma  sokaktayiz \nDevletimizin yanındayiz...\nzalimler sonunuz cehenemdir.....", "url": "/filistinrabia/status/754090894261968897", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:54", "is_reply": false, "is_retweet": false, "user_id": "2900544791"}

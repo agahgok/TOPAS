@@ -1,0 +1,1 @@
+{"usernameTweet": "gamzegiizem1903", "ID": "754068139533557760", "text": "# sokağaçıkma", "url": "/gamzegiizem1903/status/754068139533557760", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:40:29", "is_reply": false, "is_retweet": false, "user_id": "2702007139"}

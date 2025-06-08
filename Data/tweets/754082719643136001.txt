@@ -1,0 +1,1 @@
+{"usernameTweet": "radikal_tr", "ID": "754082719643136001", "text": "# SokağaSakınÇıkma  Tanklar bizim tanklar beyler sokağa çıkıp sahip çıkın maşzemelere.", "url": "/radikal_tr/status/754082719643136001", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:38:25", "is_reply": false, "is_retweet": false, "user_id": "205116495"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "iamnotdilly", "ID": "754070526876844035", "text": "ALLAJ AŞKINA ŞU TAGE YAZIN MİLLETİN EVİ OCAĞI BOK YOLUNA GİDECEK :( #SokağaSakınÇıkma", "url": "/iamnotdilly/status/754070526876844035", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:49:58", "is_reply": false, "is_retweet": false, "user_id": "358479970"}

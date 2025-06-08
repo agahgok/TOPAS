@@ -1,0 +1,1 @@
+{"usernameTweet": "sibelyilldiiz", "ID": "754074986701164544", "text": "Ak parti belediyeleri halkı sokağa çıkarmak için mesajlar atıyor #SokağaSakınÇıkma", "url": "/sibelyilldiiz/status/754074986701164544", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:41", "is_reply": false, "is_retweet": false, "user_id": "944477264"}

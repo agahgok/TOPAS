@@ -1,0 +1,1 @@
+{"usernameTweet": "volkanarya12", "ID": "754087747720212481", "text": "Şu ezanlarki şehadet-i başkanlığın temeli, tankların üstünde benim inlemeli! #SokağaSakınÇıkma", "url": "/volkanarya12/status/754087747720212481", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:58:23", "is_reply": false, "is_retweet": false, "user_id": "450748659"}

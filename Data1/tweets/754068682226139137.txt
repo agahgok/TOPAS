@@ -1,0 +1,1 @@
+{"usernameTweet": "aysenhaliscelik", "ID": "754068682226139137", "text": "Hiç bir diktatör iç savaş çıkarmadan gitmez. Halkı sokağa bunun için çağırıyor. #SokağaSakınÇıkma", "url": "/aysenhaliscelik/status/754068682226139137", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:42:38", "is_reply": false, "is_retweet": false, "user_id": "83080849"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ErdurKoese", "ID": "1282231625179369472", "text": "Güreşçi şartı kalktı demekki. Kafasına çok  darbe  yemiş bir boksör iyi olurdu!!!", "url": "/ErdurKoese/status/1282231625179369472", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 11:33:36", "is_reply": true, "is_retweet": false, "user_id": "150600287"}

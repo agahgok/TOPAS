@@ -1,0 +1,1 @@
+{"usernameTweet": "celalikurt", "ID": "1281558046318243842", "text": "Oooo, kontrollü  darbe  kıvamına gelmişsiniz bakıyorum.", "url": "/celalikurt/status/1281558046318243842", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 14:57:03", "is_reply": true, "is_retweet": false, "user_id": "98737440"}

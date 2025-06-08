@@ -1,0 +1,1 @@
+{"usernameTweet": "geelpisipisii", "ID": "754095145402892288", "text": "Bugünün bilançosu ne? Bugünden ne kaldı bize? #SokağaSakınÇıkma", "url": "/geelpisipisii/status/754095145402892288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:47", "is_reply": false, "is_retweet": false, "user_id": "732533064971243520"}

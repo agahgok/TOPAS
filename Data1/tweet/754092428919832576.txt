@@ -1,0 +1,1 @@
+{"usernameTweet": "Alicesverige", "ID": "754092428919832576", "text": "# sokağasakınçıkma \n#sokağasakınçıkma \nTURKEY TURKEI TURKIYE", "url": "/Alicesverige/status/754092428919832576", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:17:00", "is_reply": false, "is_retweet": false, "user_id": "4236812560"}

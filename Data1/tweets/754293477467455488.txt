@@ -1,0 +1,1 @@
+{"usernameTweet": "orananaliz78", "ID": "754293477467455488", "text": "Dun  #SokağaSakınÇıkma  diyen yuzssuzler bugun nasil disari  cikacak", "url": "/orananaliz78/status/754293477467455488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 15:35:53", "is_reply": false, "is_retweet": false, "user_id": "3671806212"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yilmaztrr", "ID": "754096383423111168", "text": "# SokağaSakınÇıkma  diyenler darbe olsaydı kutlama için sokak partilerine başlardı.", "url": "/yilmaztrr/status/754096383423111168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:32:42", "is_reply": false, "is_retweet": false, "user_id": "206206781"}

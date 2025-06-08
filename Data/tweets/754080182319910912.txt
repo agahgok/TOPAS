@@ -1,0 +1,1 @@
+{"usernameTweet": "melihgultaslar", "ID": "754080182319910912", "text": "# SokağaSakınÇıkma  kendinizi yakmayın sokağa çıkmayın", "url": "/melihgultaslar/status/754080182319910912", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:20", "is_reply": false, "is_retweet": false, "user_id": "578290535"}

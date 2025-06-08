@@ -1,0 +1,1 @@
+{"usernameTweet": "aysenuraka", "ID": "754087300905242625", "text": "darbe namazi kac rekatti? #SokağaSakınÇıkma", "url": "/aysenuraka/status/754087300905242625", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:37", "is_reply": false, "is_retweet": false, "user_id": "97467300"}

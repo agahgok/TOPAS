@@ -1,0 +1,1 @@
+{"usernameTweet": "gayeyilkose", "ID": "754084504340467712", "text": "# SokağaSakınÇıkma  önce Sela okundu sonra sokağa davet edildi", "url": "/gayeyilkose/status/754084504340467712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:30", "is_reply": false, "is_retweet": false, "user_id": "730414440"}

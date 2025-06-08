@@ -1,0 +1,1 @@
+{"usernameTweet": "gfdsjhsdgfh", "ID": "754080241778364417", "text": "# SokağaSakınÇıkma  gordunuz mu babayi serefsizler  ", "url": "/gfdsjhsdgfh/status/754080241778364417", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:28:34", "is_reply": false, "is_retweet": false, "user_id": "2994805137"}

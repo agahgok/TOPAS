@@ -1,0 +1,1 @@
+{"usernameTweet": "MmiNe_KARA", "ID": "754081504481927168", "text": "Dünya böyle senaryo görmedi. Bence oscara aday gösterilmeli . #SokağaSakınÇıkma  #Darbe  #Turkey", "url": "/MmiNe_KARA/status/754081504481927168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:35", "is_reply": false, "is_retweet": false, "user_id": "548705679"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetmb", "ID": "754075469994164224", "text": "herkes kendini kurtarır olan sana olur...#SokağaSakınÇıkma", "url": "/ahmetmb/status/754075469994164224", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:09:36", "is_reply": false, "is_retweet": false, "user_id": "220015686"}

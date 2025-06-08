@@ -1,0 +1,1 @@
+{"usernameTweet": "SrtacBattal", "ID": "754072971145347073", "text": "# SokağaSakınÇıkma", "url": "/SrtacBattal/status/754072971145347073", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:40", "is_reply": false, "is_retweet": false, "user_id": "495037978"}

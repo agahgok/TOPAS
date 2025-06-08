@@ -1,0 +1,1 @@
+{"usernameTweet": "aytekinteke", "ID": "754082408702550016", "text": "Camide bu saatte sela okunuyor. Çok ilginç. #SokağaSakınÇıkma", "url": "/aytekinteke/status/754082408702550016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:11", "is_reply": false, "is_retweet": false, "user_id": "528943044"}

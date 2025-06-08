@@ -1,0 +1,1 @@
+{"usernameTweet": "turkceci06", "ID": "754093811446546433", "text": "# SokağaSakınÇıkma  EY AK ITLER BASINIZDAKI BIR ITIN KEMIGI ILE DARBE DARBE DIYE HAVLAMAYI BIRAKIN", "url": "/turkceci06/status/754093811446546433", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:29", "is_reply": false, "is_retweet": false, "user_id": "2203695542"}

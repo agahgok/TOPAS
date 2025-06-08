@@ -1,0 +1,1 @@
+{"usernameTweet": "Iam_Serhat", "ID": "754071273702031360", "text": "Cikmayin !  #SokağaSakınÇıkma", "url": "/Iam_Serhat/status/754071273702031360", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:52:56", "is_reply": false, "is_retweet": false, "user_id": "2980219259"}

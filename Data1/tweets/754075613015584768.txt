@@ -1,0 +1,1 @@
+{"usernameTweet": "Ozdemir19Toprak", "ID": "754075613015584768", "text": "Sonra diyecekler her şey oyundu aslında başkanlık için halkı korkuttuk .. #SokağaSakınÇıkma", "url": "/Ozdemir19Toprak/status/754075613015584768", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:10", "is_reply": false, "is_retweet": false, "user_id": "747795868527505408"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AtillaComert", "ID": "754068484468961280", "text": "Asker telsizlerinden Polislere silah birakma çağrısı \n#SokağaÇıkma", "url": "/AtillaComert/status/754068484468961280", "nbr_retweet": 5, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:41:51", "is_reply": false, "is_retweet": false, "user_id": "501639375"}

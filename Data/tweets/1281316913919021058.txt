@@ -1,0 +1,1 @@
+{"usernameTweet": "Asena_85", "ID": "1281316913919021058", "text": "O kadar beklemediğim bir anda geldi ki bu  darbe  diyecek bir şey bulamıyorum...", "url": "/Asena_85/status/1281316913919021058", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2020-07-09 22:58:52", "is_reply": false, "is_retweet": false, "user_id": "1262759973378916360"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "oztrkezgi", "ID": "754109582612586496", "text": "Girin evinize ya girin ! Tepemizde savaş uçakları dolanıyor #sokagacikma", "url": "/oztrkezgi/status/754109582612586496", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:25:09", "is_reply": false, "is_retweet": false, "user_id": "278211664"}

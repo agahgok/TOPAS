@@ -1,0 +1,1 @@
+{"usernameTweet": "Atilla51542441", "ID": "754083856702144512", "text": "01:40 herkes namaza \n#SahteDarbe \n #SokağaSakınÇıkma", "url": "/Atilla51542441/status/754083856702144512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:56", "is_reply": false, "is_retweet": false, "user_id": "3311765319"}

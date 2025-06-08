@@ -1,0 +1,1 @@
+{"usernameTweet": "manyakoldukhe", "ID": "1282443152885010438", "text": "Ah kaçıncı  darbe  bu\nAh kaçıncı perde \nAnlamıyor yüreğim gel de kendin söyle", "url": "/manyakoldukhe/status/1282443152885010438", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 01:34:08", "is_reply": false, "is_retweet": false, "user_id": "1254079164963008515"}

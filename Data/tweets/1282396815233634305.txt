@@ -1,0 +1,1 @@
+{"usernameTweet": "izmirlilaz1", "ID": "1282396815233634305", "text": "Allah birdaha yaşatmasın bu ülkeye  darbe  ve tüm şehitlerimizi cennet mekan eylesin Rabbim", "url": "/izmirlilaz1/status/1282396815233634305", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 22:30:01", "is_reply": true, "is_retweet": false, "user_id": "1181392733413486594"}

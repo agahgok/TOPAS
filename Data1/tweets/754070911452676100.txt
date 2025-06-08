@@ -1,0 +1,1 @@
+{"usernameTweet": "feyzacifcii", "ID": "754070911452676100", "text": "Rabbim vatanı toprağı namusu uğruna kosa kosa sokaga çıkan herkesten teek tek razı olsun #SokağaSakınÇıkma", "url": "/feyzacifcii/status/754070911452676100", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:29", "is_reply": false, "is_retweet": false, "user_id": "206588822"}

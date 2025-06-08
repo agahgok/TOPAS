@@ -1,0 +1,1 @@
+{"usernameTweet": "allahkitapmeloo", "ID": "754073647984312320", "text": "BU TAGI AÇANLARIN AMK HEPİMİZ SOKAKTAYIZ #SokağaSakınÇıkma", "url": "/allahkitapmeloo/status/754073647984312320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:22", "is_reply": false, "is_retweet": false, "user_id": "751136757614276609"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "IvgenOzlem", "ID": "754090553013366784", "text": "Ezanlar namaza çağırır, sokağa değil.  #SokağaSakınÇıkma", "url": "/IvgenOzlem/status/754090553013366784", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:09:32", "is_reply": false, "is_retweet": false, "user_id": "1480082479"}

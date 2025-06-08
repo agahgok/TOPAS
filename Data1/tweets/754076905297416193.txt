@@ -1,0 +1,1 @@
+{"usernameTweet": "SchizophrenGod", "ID": "754076905297416193", "text": "# SokağaSakınÇıkma  OYUNA GELME !  pic.twitter.com/vt1uudxiZW", "url": "/SchizophrenGod/status/754076905297416193", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:18", "is_reply": false, "is_retweet": false, "user_id": "2217057278"}

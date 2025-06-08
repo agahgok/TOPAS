@@ -1,0 +1,1 @@
+{"usernameTweet": "nurrelifff", "ID": "754087257452216321", "text": "Dini kullanarak sokağa çıkın denmez sela verip kendi ideolojileri doğrultusunda söylemler #SokağaSakınÇıkma", "url": "/nurrelifff/status/754087257452216321", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:56:27", "is_reply": false, "is_retweet": false, "user_id": "3041059029"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "asexolay", "ID": "754088473561300992", "text": "Din istismarında son nokta oyuna gelme güzel ülkem #SokağaSakınÇıkma", "url": "/asexolay/status/754088473561300992", "nbr_retweet": 2, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:01:17", "is_reply": false, "is_retweet": false, "user_id": "2919514157"}

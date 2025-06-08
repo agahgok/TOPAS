@@ -1,0 +1,1 @@
+{"usernameTweet": "crnzrl", "ID": "754093634820112384", "text": "# SokağaSakınÇıkma \ndarbeden degil darbe yapildigini sanip disari cikan insanlardan korktum", "url": "/crnzrl/status/754093634820112384", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:21:47", "is_reply": false, "is_retweet": false, "user_id": "365573519"}

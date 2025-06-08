@@ -1,0 +1,1 @@
+{"usernameTweet": "hulyaacann", "ID": "754076011533393923", "text": "Akp güzel senaryo çizmiş makarnacılar sokaklarda tekbir getiriyor nasıl Darbe bu? #SokağaSakınÇıkma", "url": "/hulyaacann/status/754076011533393923", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2016-07-16 01:11:45", "is_reply": false, "is_retweet": false, "user_id": "1600574700"}

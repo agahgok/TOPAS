@@ -1,0 +1,1 @@
+{"usernameTweet": "KutlugBaybars", "ID": "1282425844317720577", "text": "Kafaya fazla  darbe  almış olabilir ağabey.", "url": "/KutlugBaybars/status/1282425844317720577", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 00:25:22", "is_reply": true, "is_retweet": false, "user_id": "1174415474811187202"}

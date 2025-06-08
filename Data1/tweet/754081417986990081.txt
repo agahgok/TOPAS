@@ -1,0 +1,1 @@
+{"usernameTweet": "mertcanozturk5", "ID": "754081417986990081", "text": "sokaktan beladan Uzak durun Filler güreşir çimler ezilir bu hep böyledir #SokağaSakınÇıkma", "url": "/mertcanozturk5/status/754081417986990081", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:14", "is_reply": false, "is_retweet": false, "user_id": "2819959275"}

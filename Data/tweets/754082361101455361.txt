@@ -1,0 +1,1 @@
+{"usernameTweet": "Mhmtpkr1", "ID": "754082361101455361", "text": "# SokağaSakınÇıkma  Diyarbakır burada hainler nerede  pic.twitter.com/lvQBwC0PPL", "url": "/Mhmtpkr1/status/754082361101455361", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:59", "is_reply": false, "is_retweet": false, "user_id": "718900550725738496"}

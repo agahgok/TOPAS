@@ -1,0 +1,1 @@
+{"usernameTweet": "FundaHocaoglu", "ID": "754075737855000576", "text": "İç savaş çıkarma isteklerine maşa olma. Oyuna gelme #SokağaSakınÇıkma", "url": "/FundaHocaoglu/status/754075737855000576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:40", "is_reply": false, "is_retweet": false, "user_id": "483853753"}

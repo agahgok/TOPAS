@@ -1,0 +1,1 @@
+{"usernameTweet": "AliOsmanYksel11", "ID": "1281719647696556032", "text": "Bu ülkede 15 temmuza kadar  darbe  yapanların hepsi Atatürkçü idi haberin yok sanırım...", "url": "/AliOsmanYksel11/status/1281719647696556032", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 1, "datetime": "2020-07-11 01:39:11", "is_reply": true, "is_retweet": false, "user_id": "1173574420637605888"}

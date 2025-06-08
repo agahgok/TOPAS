@@ -1,0 +1,1 @@
+{"usernameTweet": "MUHAFIZ_35", "ID": "754084473273217024", "text": "# SokağaSakınÇıkma . mış,an itibarıyla İzmir  pic.twitter.com/VfonF9LudV", "url": "/MUHAFIZ_35/status/754084473273217024", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:45:23", "is_reply": false, "is_retweet": false, "user_id": "330004698"}

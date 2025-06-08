@@ -1,0 +1,1 @@
+{"usernameTweet": "droidyan", "ID": "754079720367546368", "text": "Türkiye sokakta.\n#Ankara   \n#SokağaSakınÇıkma", "url": "/droidyan/status/754079720367546368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:30", "is_reply": false, "is_retweet": false, "user_id": "130143858"}

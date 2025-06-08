@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754250868661387264", "text": "Nazlı Ilıcak ; cnn baskınları Beylerbeyi sarayına müdahale bana mizansen gibi geliyor  #SokağaSakınÇıkma  #ÇakmaDarbe", "url": "/vakkaff/status/754250868661387264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:46:35", "is_reply": false, "is_retweet": false, "user_id": "943942980"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kes_tras", "ID": "754083701861015552", "text": "Mahallemizin camisinde sela okunduktan sonra şu sıralar da mehter marşı çalınıyor. \n#SokağaSakınÇıkma", "url": "/kes_tras/status/754083701861015552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:19", "is_reply": false, "is_retweet": false, "user_id": "3066021303"}

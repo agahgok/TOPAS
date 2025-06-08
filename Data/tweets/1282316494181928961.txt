@@ -1,0 +1,1 @@
+{"usernameTweet": "medyaadamiSD", "ID": "1282316494181928961", "text": "Terör örgütü PKK'ya  darbe   pic.twitter.com/6q1Md6f8l0", "url": "/medyaadamiSD/status/1282316494181928961", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-12 17:10:51", "is_reply": false, "is_retweet": false, "user_id": "2626259022"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "noblemurmur", "ID": "754087064732372992", "text": "mağdurum ben mağdurum; hadi beni başkan yapın #SokağaSakınÇıkma  #DarbeyeHayır pic.twitter.com/XUGds7T8mU", "url": "/noblemurmur/status/754087064732372992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:41", "is_reply": false, "is_retweet": false, "user_id": "1491666367"}

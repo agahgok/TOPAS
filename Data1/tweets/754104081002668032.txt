@@ -1,0 +1,1 @@
+{"usernameTweet": "53_caturi", "ID": "754104081002668032", "text": "# SokağaSakınÇıkma  yemiyorsa sen cıkma  pic.twitter.com/3xQPo4gN9E", "url": "/53_caturi/status/754104081002668032", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 03:03:18", "is_reply": false, "is_retweet": false, "user_id": "858811561"}

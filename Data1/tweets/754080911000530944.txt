@@ -1,0 +1,1 @@
+{"usernameTweet": "NarsistKofteci", "ID": "754080911000530944", "text": "Hiçbir diktatör iç sawaş cıkarmadan gitmez #SokağaSakınÇıkma", "url": "/NarsistKofteci/status/754080911000530944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:13", "is_reply": false, "is_retweet": false, "user_id": "2180805928"}

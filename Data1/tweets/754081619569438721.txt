@@ -1,0 +1,1 @@
+{"usernameTweet": "Mihribanbekdas", "ID": "754081619569438721", "text": "Bir yandan ezan sesi bi yandan ambulans polis sesi #SokağaSakınÇıkma", "url": "/Mihribanbekdas/status/754081619569438721", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:02", "is_reply": false, "is_retweet": false, "user_id": "1712770765"}

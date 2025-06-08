@@ -1,0 +1,1 @@
+{"usernameTweet": "iki_bash", "ID": "754076224230600704", "text": "Akıllı olun, uslu olun.  #SokağaSakınÇıkma", "url": "/iki_bash/status/754076224230600704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:36", "is_reply": false, "is_retweet": false, "user_id": "3387280833"}

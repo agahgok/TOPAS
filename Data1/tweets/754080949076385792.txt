@@ -1,0 +1,1 @@
+{"usernameTweet": "exist_1", "ID": "754080949076385792", "text": "# SokağaSakınÇıkma  gece 1.30 camilerde ezan okunuyor ben bu ulkedeki İslami red ediyorum", "url": "/exist_1/status/754080949076385792", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:23", "is_reply": false, "is_retweet": false, "user_id": "169121783"}

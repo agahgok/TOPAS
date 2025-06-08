@@ -1,0 +1,1 @@
+{"usernameTweet": "umutkiveskan", "ID": "754088216953819136", "text": "# SokağaSakınÇıkma   pic.twitter.com/YPEz31Ef9R", "url": "/umutkiveskan/status/754088216953819136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:15", "is_reply": false, "is_retweet": false, "user_id": "588556400"}

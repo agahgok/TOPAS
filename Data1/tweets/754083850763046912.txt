@@ -1,0 +1,1 @@
+{"usernameTweet": "gunayozbay", "ID": "754083850763046912", "text": "Bu tagi acan annesi belli babası mechul sahis 80 ihtilal donemini yasamadi galiba... #SokağaSakınÇıkma", "url": "/gunayozbay/status/754083850763046912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:54", "is_reply": false, "is_retweet": false, "user_id": "97057851"}

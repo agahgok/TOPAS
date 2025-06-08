@@ -1,0 +1,1 @@
+{"usernameTweet": "SerdarGenc10", "ID": "754073430434119685", "text": "NOLDU LAN ÇAPULCULAR GÖTÜNÜZ YEMİYO Mu???? Penguen mi izliyosunuz? #SokağaSakınÇıkma", "url": "/SerdarGenc10/status/754073430434119685", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:30", "is_reply": false, "is_retweet": false, "user_id": "831618386"}

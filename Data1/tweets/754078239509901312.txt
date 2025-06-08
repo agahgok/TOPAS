@@ -1,0 +1,1 @@
+{"usernameTweet": "tubakonayy", "ID": "754078239509901312", "text": "Camiden anons ne ya  #SokağaSakınÇıkma", "url": "/tubakonayy/status/754078239509901312", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 3, "datetime": "2016-07-16 01:20:37", "is_reply": false, "is_retweet": false, "user_id": "4838898413"}

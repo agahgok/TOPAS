@@ -1,0 +1,1 @@
+{"usernameTweet": "seyma_drl", "ID": "754083373316997120", "text": "# SokağaSakınÇıkma  korkaklar cikmasin biz cikariz !!!!!", "url": "/seyma_drl/status/754083373316997120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:01", "is_reply": false, "is_retweet": false, "user_id": "230428121"}

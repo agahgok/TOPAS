@@ -1,0 +1,1 @@
+{"usernameTweet": "esmadiyebirisi", "ID": "754095110917394432", "text": "Ya 17 can gitti hala tiyatro diye dalga geçiyosunuz vallahi helal #SokağaSakınÇıkma", "url": "/esmadiyebirisi/status/754095110917394432", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:39", "is_reply": false, "is_retweet": false, "user_id": "3047114516"}

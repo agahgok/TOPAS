@@ -1,0 +1,1 @@
+{"usernameTweet": "HBasrikus", "ID": "1282034765487644672", "text": "15 Temmuz gecesi kahve içerek  darbe  grişimini seyredenlere #OyMoyYok", "url": "/HBasrikus/status/1282034765487644672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 22:31:21", "is_reply": false, "is_retweet": false, "user_id": "1927690482"}

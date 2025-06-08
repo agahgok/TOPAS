@@ -1,0 +1,1 @@
+{"usernameTweet": "hliya", "ID": "754074452246294528", "text": "# SokağaSakınÇıkma", "url": "/hliya/status/754074452246294528", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:05:34", "is_reply": false, "is_retweet": false, "user_id": "163819512"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hsynagcksn", "ID": "754087223209910273", "text": "# SokağaSakınÇıkma  oyuna gelme tiyatroyu izleme askerle polisi birbirine düşürme.", "url": "/hsynagcksn/status/754087223209910273", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:18", "is_reply": false, "is_retweet": false, "user_id": "294124551"}

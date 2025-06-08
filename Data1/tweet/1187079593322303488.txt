@@ -1,0 +1,1 @@
+{"usernameTweet": "akova_alikemal", "ID": "1187079593322303488", "text": "Bence haftanın golünü Trabzonspor forması giyen Jose Sosa attı.", "url": "/akova_alikemal/status/1187079593322303488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2019-10-23 21:53:24", "is_reply": false, "is_retweet": false, "user_id": "1092935610"}

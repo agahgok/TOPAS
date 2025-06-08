@@ -1,0 +1,1 @@
+{"usernameTweet": "yoncay", "ID": "754078641714302976", "text": "Sakın çıkma. Silah sesleri heryerde #SokağaSakınÇıkma", "url": "/yoncay/status/754078641714302976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:12", "is_reply": false, "is_retweet": false, "user_id": "98400884"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "safiyekurttekin", "ID": "754374377924337664", "text": "Ambulans, silah sesleri susmuyor #NeDarbeNeDiktatörlük  #sokağasakınçıkma", "url": "/safiyekurttekin/status/754374377924337664", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 20:57:21", "is_reply": false, "is_retweet": false, "user_id": "741935200914026496"}

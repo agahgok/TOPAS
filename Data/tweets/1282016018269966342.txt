@@ -1,0 +1,1 @@
+{"usernameTweet": "Sanalkoala_ae", "ID": "1282016018269966342", "text": "Darbe  üstüne  darbe  \nUslanmıyor bu....", "url": "/Sanalkoala_ae/status/1282016018269966342", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2020-07-11 21:16:52", "is_reply": false, "is_retweet": false, "user_id": "1245705970996645890"}

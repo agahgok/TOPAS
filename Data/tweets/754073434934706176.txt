@@ -1,0 +1,1 @@
+{"usernameTweet": "guclu_faik", "ID": "754073434934706176", "text": "vatana ihanet için #SokağaSakınÇıkma  darbecilere karşı Sokağa çık", "url": "/guclu_faik/status/754073434934706176", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:01:31", "is_reply": false, "is_retweet": false, "user_id": "2822250033"}

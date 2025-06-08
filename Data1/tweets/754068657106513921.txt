@@ -1,0 +1,1 @@
+{"usernameTweet": "Kralyanist", "ID": "754068657106513921", "text": "Kendisinin nerede olduğu belli değil halka meydanlara çıkın diyor !! #sokağaçıkma", "url": "/Kralyanist/status/754068657106513921", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:42:32", "is_reply": true, "is_retweet": false, "user_id": "106690908"}

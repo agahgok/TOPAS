@@ -1,0 +1,1 @@
+{"usernameTweet": "odatv", "ID": "1281540095640850435", "text": "Çin'de  darbe  mi oldu....     https:// odatv4.com/cinde-darbe-mi -oldu-10072043.html   … pic.twitter.com/dHUZSPlbKB", "url": "/odatv/status/1281540095640850435", "nbr_retweet": 1, "nbr_favorite": 8, "nbr_reply": 1, "datetime": "2020-07-10 13:45:43", "is_reply": false, "is_retweet": false, "user_id": "63110096"}

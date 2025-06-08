@@ -1,0 +1,1 @@
+{"usernameTweet": "t_u_r_k__", "ID": "754090153887535104", "text": "# SokağaSakınÇıkma  diyenlerin Amına koyayım", "url": "/t_u_r_k__/status/754090153887535104", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:07:57", "is_reply": false, "is_retweet": false, "user_id": "2241987683"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "etrkrsln", "ID": "754073441322557441", "text": "# SokağaSakınÇıkma  iç işleri bakanına sen çıkacak mısın dediler ben bi yerlerde olacam dedi. Yem miyiz biz", "url": "/etrkrsln/status/754073441322557441", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:33", "is_reply": false, "is_retweet": false, "user_id": "2379459085"}

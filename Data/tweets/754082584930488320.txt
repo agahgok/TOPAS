@@ -1,0 +1,1 @@
+{"usernameTweet": "Ma1071", "ID": "754082584930488320", "text": "# SokağaSakınÇıkma  Darbeciler Hayal kirikligina ugradilar ! Halk meydanlarda  pic.twitter.com/KKMffX6jDZ", "url": "/Ma1071/status/754082584930488320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:53", "is_reply": false, "is_retweet": false, "user_id": "1480805647"}

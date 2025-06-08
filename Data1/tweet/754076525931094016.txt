@@ -1,0 +1,1 @@
+{"usernameTweet": "ulan_musti", "ID": "754076525931094016", "text": "# SokağaSakınÇıkma", "url": "/ulan_musti/status/754076525931094016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:48", "is_reply": true, "is_retweet": false, "user_id": "1248526460"}

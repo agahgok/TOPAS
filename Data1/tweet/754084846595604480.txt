@@ -1,0 +1,1 @@
+{"usernameTweet": "ELelfide", "ID": "754084846595604480", "text": "Bestepenin etrafinda Tanklar var, Tanklar var.\n#SokağaSakınÇıkma", "url": "/ELelfide/status/754084846595604480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:52", "is_reply": false, "is_retweet": false, "user_id": "1511833992"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tturgays", "ID": "754226586736594944", "text": "Camilere ayaklarla girdiler,askerime iskence ettiler.soz sende;erdogan ? #SokağaÇıkma", "url": "/tturgays/status/754226586736594944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 11:10:05", "is_reply": false, "is_retweet": false, "user_id": "567049849"}

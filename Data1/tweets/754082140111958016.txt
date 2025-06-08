@@ -1,0 +1,1 @@
+{"usernameTweet": "sevcannn_", "ID": "754082140111958016", "text": "HALK YÖNETİME EL KOYDU ! #SokağaSakınÇıkma", "url": "/sevcannn_/status/754082140111958016", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:36:07", "is_reply": false, "is_retweet": false, "user_id": "719634449420402689"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ofcikot", "ID": "754079470915432448", "text": "Her türlü darbeye hayır #SokağaSakınÇıkma", "url": "/ofcikot/status/754079470915432448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:30", "is_reply": false, "is_retweet": false, "user_id": "823737763"}

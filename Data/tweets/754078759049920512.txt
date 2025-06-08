@@ -1,0 +1,1 @@
+{"usernameTweet": "normonder", "ID": "754078759049920512", "text": "# SokağaSakınÇıkma", "url": "/normonder/status/754078759049920512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:40", "is_reply": false, "is_retweet": false, "user_id": "1040464518"}

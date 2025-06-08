@@ -1,0 +1,1 @@
+{"usernameTweet": "YareenGuleer", "ID": "754088713546792960", "text": "Ezan, ibadete çağrıdır. Allah'ınız tayyip değil! #SokağaSakınÇıkma", "url": "/YareenGuleer/status/754088713546792960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:14", "is_reply": false, "is_retweet": false, "user_id": "3776941996"}

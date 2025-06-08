@@ -1,0 +1,1 @@
+{"usernameTweet": "hazretiefe", "ID": "754087387190398977", "text": "ŞEHİT DEDİNİZ HERŞEY DEDİNİZ ONLARI DİNLE #SokağaSakınÇıkma", "url": "/hazretiefe/status/754087387190398977", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:56:58", "is_reply": false, "is_retweet": false, "user_id": "358828614"}

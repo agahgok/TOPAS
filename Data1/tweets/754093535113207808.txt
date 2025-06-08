@@ -1,0 +1,1 @@
+{"usernameTweet": "akhoca111", "ID": "754093535113207808", "text": "# SokağaSakınÇıkma  diyenin amk", "url": "/akhoca111/status/754093535113207808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:23", "is_reply": false, "is_retweet": false, "user_id": "1642704008"}

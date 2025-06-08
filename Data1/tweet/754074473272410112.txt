@@ -1,0 +1,1 @@
+{"usernameTweet": "SerhaT_AkdnZ", "ID": "754074473272410112", "text": "Mesele AKP meselesi değil, memleket meselesidir. #SokağaSakınÇıkma", "url": "/SerhaT_AkdnZ/status/754074473272410112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:39", "is_reply": false, "is_retweet": false, "user_id": "3137728462"}

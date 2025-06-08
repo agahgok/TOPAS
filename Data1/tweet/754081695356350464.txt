@@ -1,0 +1,1 @@
+{"usernameTweet": "yezidsavar1", "ID": "754081695356350464", "text": "# SokağaSakınÇıkma  ulan ne ülkeyiz. Darbe'nin bile çakması var bizde ", "url": "/yezidsavar1/status/754081695356350464", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:20", "is_reply": false, "is_retweet": false, "user_id": "698999795571167233"}

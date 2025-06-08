@@ -1,0 +1,1 @@
+{"usernameTweet": "sahbaz_ergun", "ID": "1281700621943529472", "text": "Darbe  girişiminde payı her kimin varsa tabiki versin.", "url": "/sahbaz_ergun/status/1281700621943529472", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 00:23:35", "is_reply": true, "is_retweet": false, "user_id": "2772440157"}

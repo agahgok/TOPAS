@@ -1,0 +1,1 @@
+{"usernameTweet": "sisfeneri", "ID": "754086729892503552", "text": "Sela arası hoca Milleti vatana sahip çıkmaya davet etmekte. (Sokağa çıkın diyor) #SokağaSakınÇıkma", "url": "/sisfeneri/status/754086729892503552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:21", "is_reply": false, "is_retweet": false, "user_id": "387672234"}

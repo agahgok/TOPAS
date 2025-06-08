@@ -1,0 +1,1 @@
+{"usernameTweet": "sidikli__kontes", "ID": "754087075591454724", "text": "# Ankara  #TurkeyCoup  #sokağasakınçıkma   pic.twitter.com/Ih2ljwGgWC", "url": "/sidikli__kontes/status/754087075591454724", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:43", "is_reply": false, "is_retweet": false, "user_id": "121457686"}

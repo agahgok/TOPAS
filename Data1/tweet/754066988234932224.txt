@@ -1,0 +1,1 @@
+{"usernameTweet": "Maciran58", "ID": "754066988234932224", "text": "# sokağaçıkma  oyuna gelme....", "url": "/Maciran58/status/754066988234932224", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:35:54", "is_reply": false, "is_retweet": false, "user_id": "254642751"}

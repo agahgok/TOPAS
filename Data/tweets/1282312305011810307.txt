@@ -1,0 +1,1 @@
+{"usernameTweet": "PaulLopezSolis1", "ID": "1282312305011810307", "text": "Más bien le echan la culpa de mentir en las cifras, de no tener una estrategia clara", "url": "/PaulLopezSolis1/status/1282312305011810307", "nbr_retweet": 0, "nbr_favorite": 32, "nbr_reply": 2, "datetime": "2020-07-12 16:54:12", "is_reply": true, "is_retweet": false, "user_id": "1243288419331121152"}

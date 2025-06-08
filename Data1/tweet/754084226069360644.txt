@@ -1,0 +1,1 @@
+{"usernameTweet": "pyrzgdk", "ID": "754084226069360644", "text": "Istenen kargaşa ortamini yaratmayin herşey hallolur sabaha #SokağaSakınÇıkma", "url": "/pyrzgdk/status/754084226069360644", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:24", "is_reply": false, "is_retweet": false, "user_id": "901616150"}

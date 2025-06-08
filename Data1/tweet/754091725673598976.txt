@@ -1,0 +1,1 @@
+{"usernameTweet": "NoahBennet3", "ID": "754091725673598976", "text": "Tespite Katılıyorsan RT\n#Ankara \n#SokağaSakinÇıkma   MORE >>  http:// sublnk.info/SHipGjy  ", "url": "/NoahBennet3/status/754091725673598976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:12", "is_reply": false, "is_retweet": false, "user_id": "749712345157500930"}

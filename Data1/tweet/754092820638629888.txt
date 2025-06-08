@@ -1,0 +1,1 @@
+{"usernameTweet": "AhmetKemalal2", "ID": "754092820638629888", "text": "# SokağaSakınÇıkma  bi susun lan şerefsizler biz vatanımızın yayındayız", "url": "/AhmetKemalal2/status/754092820638629888", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:18:33", "is_reply": false, "is_retweet": false, "user_id": "754086421888114688"}

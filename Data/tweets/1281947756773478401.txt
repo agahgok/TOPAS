@@ -1,0 +1,1 @@
+{"usernameTweet": "Yesilmenn1453", "ID": "1281947756773478401", "text": "Gezi ve  darbe  zamanı bankamatiklere sürünen sünger beyinli tırreklere bak sen", "url": "/Yesilmenn1453/status/1281947756773478401", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 16:45:37", "is_reply": true, "is_retweet": false, "user_id": "815667848274182144"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TarikSahin1979", "ID": "754080902745960448", "text": "Askerin itibarsızlaştırma oyununun son darbesidir bugün.\n#sokağasakıncıkma", "url": "/TarikSahin1979/status/754080902745960448", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:31:12", "is_reply": false, "is_retweet": false, "user_id": "2967933965"}

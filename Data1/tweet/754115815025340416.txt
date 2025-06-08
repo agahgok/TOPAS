@@ -1,0 +1,1 @@
+{"usernameTweet": "znurIk3", "ID": "754115815025340416", "text": "Sakın  #SokağaÇıkma  fetönün köpeği çıkarsan yersin copu", "url": "/znurIk3/status/754115815025340416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:49:55", "is_reply": false, "is_retweet": false, "user_id": "713788734995578880"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Artepist", "ID": "1281914086285086726", "text": "maoculuğa vurulan bireysel bir  darbe  gibi hissediyorum kendimi :)", "url": "/Artepist/status/1281914086285086726", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 14:31:49", "is_reply": true, "is_retweet": false, "user_id": "927676233986519040"}

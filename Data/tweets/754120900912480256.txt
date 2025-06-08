@@ -1,0 +1,1 @@
+{"usernameTweet": "irisderler", "ID": "754120900912480256", "text": "Bekleyin cesaretleri varsa önce kendileri çıksın #sokağasakınçıkma", "url": "/irisderler/status/754120900912480256", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 04:10:08", "is_reply": false, "is_retweet": false, "user_id": "1354044438"}

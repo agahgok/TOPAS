@@ -1,0 +1,1 @@
+{"usernameTweet": "serapyildirim3", "ID": "754133920539631616", "text": "Ölende öldürende bizim insanımız yapmayın bu oyuna gelmeyin #SokağaÇıkma", "url": "/serapyildirim3/status/754133920539631616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:01:52", "is_reply": false, "is_retweet": false, "user_id": "347468970"}

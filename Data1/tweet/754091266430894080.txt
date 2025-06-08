@@ -1,0 +1,1 @@
+{"usernameTweet": "4909b9c932e543a", "ID": "754091266430894080", "text": "Vakit siz ezan neden okundu  #SokağaSakınÇıkma", "url": "/4909b9c932e543a/status/754091266430894080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:22", "is_reply": false, "is_retweet": false, "user_id": "2857131213"}

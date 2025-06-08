@@ -1,0 +1,1 @@
+{"usernameTweet": "alikemal_kemer", "ID": "1186710196359487488", "text": "İnşallah", "url": "/alikemal_kemer/status/1186710196359487488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2019-10-22 21:25:33", "is_reply": true, "is_retweet": false, "user_id": "828308094245560320"}

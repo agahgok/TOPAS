@@ -1,0 +1,1 @@
+{"usernameTweet": "6kasim6sifir2", "ID": "754101480211251200", "text": "# SokağaSakınÇıkma  yalnız tweet er ve facebook neden kapanmadı acaba", "url": "/6kasim6sifir2/status/754101480211251200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:52:58", "is_reply": false, "is_retweet": false, "user_id": "458245218"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Herbokolog03", "ID": "1282262116347650049", "text": "Yunanlara cevap. Tokat falan diyebilirdi. Şimdi kemalistlere  darbe  olarak lanse etti.", "url": "/Herbokolog03/status/1282262116347650049", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 13:34:46", "is_reply": true, "is_retweet": false, "user_id": "2246662139"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "HassanKeyff", "ID": "754078268471513089", "text": "# SokağaSakınÇıkma \nbugün e kadar TOMA vs. HALK\nŞimdi TOMA vs. KOBRA Helikopteri", "url": "/HassanKeyff/status/754078268471513089", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:43", "is_reply": false, "is_retweet": false, "user_id": "876394598"}

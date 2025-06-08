@@ -1,0 +1,1 @@
+{"usernameTweet": "esra01125418", "ID": "1282272174120861696", "text": "Sen güzel  darbe  yemişsin ", "url": "/esra01125418/status/1282272174120861696", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 14:14:44", "is_reply": true, "is_retweet": false, "user_id": "1174386216868950016"}

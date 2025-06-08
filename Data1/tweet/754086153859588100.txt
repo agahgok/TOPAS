@@ -1,0 +1,1 @@
+{"usernameTweet": "aktivist_ateist", "ID": "754086153859588100", "text": "Gezi olaylarinda belgesel yayinlayan kanallar bugun haberci oldu #sokagaSakincikma", "url": "/aktivist_ateist/status/754086153859588100", "nbr_retweet": 8, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:52:03", "is_reply": false, "is_retweet": false, "user_id": "749166308206542848"}

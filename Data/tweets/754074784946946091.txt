@@ -1,0 +1,1 @@
+{"usernameTweet": "Hatice8778", "ID": "754074784946946091", "text": "Utanmazlar gezide sokağa çıkın diyordunuz #SokağaSakınÇıkma", "url": "/Hatice8778/status/754074784946946091", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:53", "is_reply": false, "is_retweet": false, "user_id": "4841850609"}

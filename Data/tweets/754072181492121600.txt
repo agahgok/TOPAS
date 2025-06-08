@@ -1,0 +1,1 @@
+{"usernameTweet": "AnLGk", "ID": "754072181492121600", "text": "Hitler : The Rise Of Evil izleyin bugünü anlarsınız  #SokağaSakınÇıkma", "url": "/AnLGk/status/754072181492121600", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:56:32", "is_reply": false, "is_retweet": false, "user_id": "178380330"}

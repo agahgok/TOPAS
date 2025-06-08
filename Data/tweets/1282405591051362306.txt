@@ -1,0 +1,1 @@
+{"usernameTweet": "ilhan83460013", "ID": "1282405591051362306", "text": "He hee  darbe ..!", "url": "/ilhan83460013/status/1282405591051362306", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:04:53", "is_reply": true, "is_retweet": false, "user_id": "1273956537900437516"}

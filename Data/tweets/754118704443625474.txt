@@ -1,0 +1,1 @@
+{"usernameTweet": "MumtehineAk", "ID": "754118704443625474", "text": "# SokağaSakınÇıkma   pic.twitter.com/gUzHkTLhCz", "url": "/MumtehineAk/status/754118704443625474", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:01:24", "is_reply": false, "is_retweet": false, "user_id": "4353423262"}

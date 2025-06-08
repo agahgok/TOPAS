@@ -1,0 +1,1 @@
+{"usernameTweet": "DiLBeRKaRaKaS", "ID": "754088964974342144", "text": "Okunan seladan sonra camilerden de sokaga cikin cagrisi var resmen #SokağaSakınÇıkma", "url": "/DiLBeRKaRaKaS/status/754088964974342144", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:14", "is_reply": false, "is_retweet": false, "user_id": "2413290355"}

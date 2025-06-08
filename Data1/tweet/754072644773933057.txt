@@ -1,0 +1,1 @@
+{"usernameTweet": "saddambayrak", "ID": "754072644773933057", "text": "# SokağaSakınÇıkma  #Turkey  Ankara . Evet darbe bitti, halk yönetime el koydu şimdi...", "url": "/saddambayrak/status/754072644773933057", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:23", "is_reply": false, "is_retweet": false, "user_id": "328559664"}

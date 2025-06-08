@@ -1,0 +1,1 @@
+{"usernameTweet": "bilalcan_jk", "ID": "1281576990471073793", "text": "ilk gittiğimde  darbe  oldu 2. düşünemiyorum", "url": "/bilalcan_jk/status/1281576990471073793", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 16:12:19", "is_reply": true, "is_retweet": false, "user_id": "1091393181030195201"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "OezdemirMustafa", "ID": "754075604438351872", "text": "# SokağaSakınÇıkma  Vatanıma ve milletime sahip çıkacağım #HaydisokağaVatanınasahipçık", "url": "/OezdemirMustafa/status/754075604438351872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:08", "is_reply": false, "is_retweet": false, "user_id": "393584540"}

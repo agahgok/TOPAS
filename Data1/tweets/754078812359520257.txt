@@ -1,0 +1,1 @@
+{"usernameTweet": "birgun62", "ID": "754078812359520257", "text": "Gençleri sokağa çagiranlarin genç evlatları yok mu #SokağaSakınÇıkma", "url": "/birgun62/status/754078812359520257", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:53", "is_reply": false, "is_retweet": false, "user_id": "2862949551"}

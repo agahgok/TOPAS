@@ -1,0 +1,1 @@
+{"usernameTweet": "LichKingArthas_", "ID": "754087625196204032", "text": "# SokağaSakınÇıkma  Ezan sesiyle gideceksin. KORKMA TİTRE.. (Fuat Avni) boşluğu doldurayım dedim.", "url": "/LichKingArthas_/status/754087625196204032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:54", "is_reply": false, "is_retweet": false, "user_id": "897507878"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sefaimpulse", "ID": "754076896200130560", "text": "# SokağaSakınÇıkma  bunun Cumhurbaşkanı'nın Başkan olabilmek için düzeni olduğundan şüphe duymuyor değilim.", "url": "/sefaimpulse/status/754076896200130560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:16", "is_reply": false, "is_retweet": false, "user_id": "760321345"}

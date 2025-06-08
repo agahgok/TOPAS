@@ -1,0 +1,1 @@
+{"usernameTweet": "TCsifresiztv", "ID": "754069998277042176", "text": "# SokağaSakınÇıkma    https:// twitter.com/TCmuzminmuhali f/status/754067247409221632   …", "url": "/TCsifresiztv/status/754069998277042176", "nbr_retweet": 18, "nbr_favorite": 8, "nbr_reply": 1, "datetime": "2016-07-16 00:47:52", "is_reply": false, "is_retweet": false, "user_id": "300792901"}

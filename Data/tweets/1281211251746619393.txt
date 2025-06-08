@@ -1,0 +1,1 @@
+{"usernameTweet": "Melisasavciii", "ID": "1281211251746619393", "text": "Emircan bıkmadın mı be reis urgan mebus meclis dava  darbe  düzen muharebe cart curt", "url": "/Melisasavciii/status/1281211251746619393", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 2, "datetime": "2020-07-09 15:59:00", "is_reply": false, "is_retweet": false, "user_id": "1026096459752656896"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "arizalitip", "ID": "754075193140715520", "text": "Sokaga Çıkma iç savaşı destekleme #SokağaSakınÇıkma", "url": "/arizalitip/status/754075193140715520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:30", "is_reply": false, "is_retweet": false, "user_id": "4081416244"}

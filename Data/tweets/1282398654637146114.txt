@@ -1,0 +1,1 @@
+{"usernameTweet": "litttrashpanda", "ID": "1282398654637146114", "text": "darbe  üstüne  darbe  kısmını atlattım acaba sıradaki challange ne olacak", "url": "/litttrashpanda/status/1282398654637146114", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-12 22:37:19", "is_reply": false, "is_retweet": false, "user_id": "789722198781136897"}

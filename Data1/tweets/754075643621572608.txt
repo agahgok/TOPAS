@@ -1,0 +1,1 @@
+{"usernameTweet": "fur_kan07", "ID": "754075643621572608", "text": "# SokağaSakınÇıkma  ülkenin bu hale gelmesine sebep olan insanları hala nasıl dinleyebiliyorsunuz", "url": "/fur_kan07/status/754075643621572608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:18", "is_reply": false, "is_retweet": false, "user_id": "2815959597"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmet66x38", "ID": "754101250233360384", "text": "Dahada bi b.k yiyemezsiniz. Hadi dagilin #SokağaSakınÇıkma", "url": "/ahmet66x38/status/754101250233360384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:52:03", "is_reply": false, "is_retweet": false, "user_id": "139767275"}

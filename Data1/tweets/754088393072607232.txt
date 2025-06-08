@@ -1,0 +1,1 @@
+{"usernameTweet": "yagmur__luk", "ID": "754088393072607232", "text": "# SokağaSakınÇıkma  siz halkı basite aldini", "url": "/yagmur__luk/status/754088393072607232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:57", "is_reply": false, "is_retweet": false, "user_id": "2680875647"}

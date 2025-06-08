@@ -1,0 +1,1 @@
+{"usernameTweet": "AnilAlbyrak", "ID": "754091902119608320", "text": "# SokağaSakınÇıkma  EZAN DİNMEZ BAYRAK İNMEZ BU VATAN SOYSUZ PİÇLERE ASLA BOYUN EĞMEZ...!!!", "url": "/AnilAlbyrak/status/754091902119608320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:54", "is_reply": false, "is_retweet": false, "user_id": "2294695876"}

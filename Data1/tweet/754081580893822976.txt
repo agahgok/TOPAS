@@ -1,0 +1,1 @@
+{"usernameTweet": "sahrasln", "ID": "754081580893822976", "text": "Askere karşı gelme  #SokağaSakınÇıkma", "url": "/sahrasln/status/754081580893822976", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:33:53", "is_reply": false, "is_retweet": false, "user_id": "752958016501219328"}

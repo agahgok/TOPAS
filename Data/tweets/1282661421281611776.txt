@@ -1,0 +1,1 @@
+{"usernameTweet": "opdrmustafaunal", "ID": "1282661421281611776", "text": "Hocam malum 15 temmuz geldi cattı..\nTiyatro mu; \n kontrollu  darbe  mi?\nBi karar verebildik mi?", "url": "/opdrmustafaunal/status/1282661421281611776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:01:28", "is_reply": true, "is_retweet": false, "user_id": "588279636"}

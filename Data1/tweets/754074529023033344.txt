@@ -1,0 +1,1 @@
+{"usernameTweet": "snyz_serap", "ID": "754074529023033344", "text": "# SokağaSakınÇıkma  sokağa meydanlara çıkanlara çok düşmanlardı hayırdır şimdi davet ediyorlar", "url": "/snyz_serap/status/754074529023033344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:05:52", "is_reply": false, "is_retweet": false, "user_id": "2908306907"}

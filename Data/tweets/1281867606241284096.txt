@@ -1,0 +1,1 @@
+{"usernameTweet": "Asiiyaan", "ID": "1281867606241284096", "text": "15 temmuz 2016 da  darbe  yapmaya çalışanlara 10 temmuz 2020 de Ayasofya'yı camii olarak açma şoku", "url": "/Asiiyaan/status/1281867606241284096", "nbr_retweet": 0, "nbr_favorite": 81, "nbr_reply": 0, "datetime": "2020-07-11 11:27:07", "is_reply": false, "is_retweet": false, "user_id": "1104525348371382272"}

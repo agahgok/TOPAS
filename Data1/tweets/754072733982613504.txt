@@ -1,0 +1,1 @@
+{"usernameTweet": "IsmailKlyc", "ID": "754072733982613504", "text": "# SokağaSakınÇıkma  ne o sokağa çıkanı vuracakmışsınız hadi bakalım şerefsizler inadı inadına sokağa", "url": "/IsmailKlyc/status/754072733982613504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:44", "is_reply": false, "is_retweet": false, "user_id": "1248999589"}

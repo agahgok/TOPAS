@@ -1,0 +1,1 @@
+{"usernameTweet": "gribirpenguen", "ID": "754079080346157057", "text": "Önce ezan okunuyor..\nArdından..bu bir darbe degildir diyor imamlar..\n...\n\n#sokağasakınçıkma  #Ankara", "url": "/gribirpenguen/status/754079080346157057", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:57", "is_reply": false, "is_retweet": false, "user_id": "1399232989"}

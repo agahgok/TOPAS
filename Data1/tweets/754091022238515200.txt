@@ -1,0 +1,1 @@
+{"usernameTweet": "GorkemKART", "ID": "754091022238515200", "text": "Demokrasi karşıtı olanlar şimdi gelmiş demokrasi için bir olalım diyor\n#SokağaSakınÇıkma", "url": "/GorkemKART/status/754091022238515200", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:11:24", "is_reply": false, "is_retweet": false, "user_id": "1557744590"}

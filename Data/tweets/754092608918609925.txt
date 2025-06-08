@@ -1,0 +1,1 @@
+{"usernameTweet": "tezcanzgen", "ID": "754092608918609925", "text": "Dünyanın görüp görebileceği en büyük tiyatro oyununda rol alma #SokağaSakınÇıkma", "url": "/tezcanzgen/status/754092608918609925", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:42", "is_reply": false, "is_retweet": false, "user_id": "544370413"}

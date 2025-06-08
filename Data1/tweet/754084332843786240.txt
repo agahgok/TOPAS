@@ -1,0 +1,1 @@
+{"usernameTweet": "reeskontmustafa", "ID": "754084332843786240", "text": "# SokağaSakınÇıkma  diyen salaklara karşı sokaktayız dimdik ayaktayız", "url": "/reeskontmustafa/status/754084332843786240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:49", "is_reply": false, "is_retweet": false, "user_id": "222537185"}

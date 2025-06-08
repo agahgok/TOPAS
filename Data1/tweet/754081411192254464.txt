@@ -1,0 +1,1 @@
+{"usernameTweet": "YusufPolat34256", "ID": "754081411192254464", "text": "ÇIKMAYAN VATAN HAİNİDİR ÇIKIN ÇIKIN ÇIKIN  #SokağaSakınÇıkma", "url": "/YusufPolat34256/status/754081411192254464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:13", "is_reply": false, "is_retweet": false, "user_id": "750002957790371840"}

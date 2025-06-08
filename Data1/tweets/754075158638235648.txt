@@ -1,0 +1,1 @@
+{"usernameTweet": "suatasci06", "ID": "754075158638235648", "text": "darbeye karşı sokaktayız...#SokağaSakınÇıkma", "url": "/suatasci06/status/754075158638235648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:22", "is_reply": false, "is_retweet": false, "user_id": "325563227"}

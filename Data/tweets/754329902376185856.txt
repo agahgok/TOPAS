@@ -1,0 +1,1 @@
+{"usernameTweet": "34_patriot", "ID": "754329902376185856", "text": "# SokağaSakınÇıkma", "url": "/34_patriot/status/754329902376185856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 18:00:38", "is_reply": false, "is_retweet": false, "user_id": "1329787141"}

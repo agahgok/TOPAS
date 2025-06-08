@@ -1,0 +1,1 @@
+{"usernameTweet": "amaondi", "ID": "1284398794268913669", "text": "Darbe  kontollu darbeymiş,  nasıl oluyorsa.  pic.twitter.com/wYj6dHIsY9", "url": "/amaondi/status/1284398794268913669", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 11:05:10", "is_reply": true, "is_retweet": false, "user_id": "1229868089220763648"}

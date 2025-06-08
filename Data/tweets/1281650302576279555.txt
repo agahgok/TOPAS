@@ -1,0 +1,1 @@
+{"usernameTweet": "busbus1912", "ID": "1281650302576279555", "text": "Ama sen onu gel anlat kalbe\nYürüyor önümde büyük harbe\n Darbe  üstüne  darbe \nUslanmıyor bu…", "url": "/busbus1912/status/1281650302576279555", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 21:03:38", "is_reply": false, "is_retweet": false, "user_id": "4329640965"}

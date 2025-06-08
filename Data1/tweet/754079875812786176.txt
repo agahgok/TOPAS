@@ -1,0 +1,1 @@
+{"usernameTweet": "bilinmeyenlerd", "ID": "754079875812786176", "text": "Sakın çıkmayın cok tehlikeli ailenizin yaninda durun her daim #SokağaSakınÇıkma", "url": "/bilinmeyenlerd/status/754079875812786176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:07", "is_reply": false, "is_retweet": false, "user_id": "748511980227530752"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "guzelserdar2935", "ID": "754098690227376128", "text": "Biz buradayız fetönün köpekleri nerede #SokağaSakınÇıkma   pic.twitter.com/Sz9ufWgxpz", "url": "/guzelserdar2935/status/754098690227376128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:41:52", "is_reply": false, "is_retweet": false, "user_id": "4819025343"}

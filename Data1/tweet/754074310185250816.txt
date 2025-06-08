@@ -1,0 +1,1 @@
+{"usernameTweet": "calcilem", "ID": "754074310185250816", "text": "Sen sakın çıkma!.\n#SokağaSakınÇıkma", "url": "/calcilem/status/754074310185250816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:00", "is_reply": false, "is_retweet": false, "user_id": "209096798"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "arzutorun77", "ID": "754244521949552640", "text": "Malatya'da halki sokaga cagiriyor terorist basi Hakan Fidan!#SokagaCikma", "url": "/arzutorun77/status/754244521949552640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:21:21", "is_reply": false, "is_retweet": false, "user_id": "1319105336"}

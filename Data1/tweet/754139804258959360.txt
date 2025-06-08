@@ -1,0 +1,1 @@
+{"usernameTweet": "MengiHalil", "ID": "754139804258959360", "text": "Kardeşi kardeşe katlettiriyorsun be Orospu Çocuğu RTE #sokağasakınçıkma  #DarbeDeğilTiyatro \n#TSK", "url": "/MengiHalil/status/754139804258959360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:25:15", "is_reply": false, "is_retweet": false, "user_id": "565354293"}

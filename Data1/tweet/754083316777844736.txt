@@ -1,0 +1,1 @@
+{"usernameTweet": "adnanulutas", "ID": "754083316777844736", "text": "süperrrrrrrrrrrrr #SokağaSakınÇıkma   https:// twitter.com/doganburak29/s tatus/754061606741504004   …", "url": "/adnanulutas/status/754083316777844736", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:40:47", "is_reply": false, "is_retweet": false, "user_id": "227863098"}

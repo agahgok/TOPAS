@@ -1,0 +1,1 @@
+{"usernameTweet": "tukayahmet", "ID": "754116937559502848", "text": "# SokağaSakınÇıkma   pic.twitter.com/RAbXjLKCI2", "url": "/tukayahmet/status/754116937559502848", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:54:23", "is_reply": false, "is_retweet": false, "user_id": "2867510788"}

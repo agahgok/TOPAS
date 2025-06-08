@@ -1,0 +1,1 @@
+{"usernameTweet": "solenza34", "ID": "754085923915177985", "text": "o kadar şehit verilirken neredeydiniz , gerçekten komikler #sokağasakınçıkma", "url": "/solenza34/status/754085923915177985", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:09", "is_reply": false, "is_retweet": false, "user_id": "1468898450"}

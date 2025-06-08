@@ -1,0 +1,1 @@
+{"ID": "722424434", "name": "会議勢迷言bot", "screen_name": "kaigimember_bot", "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png"}

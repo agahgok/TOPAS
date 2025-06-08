@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1281759056672296960", "text": "Homens que gostam de outros homens só se for", "url": "/JoneDarbe/status/1281759056672296960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 04:15:47", "is_reply": true, "is_retweet": false, "user_id": "1221530980965584896"}

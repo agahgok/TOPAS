@@ -1,0 +1,1 @@
+{"usernameTweet": "itsmgca", "ID": "448972009699946496", "text": "Messi? \n  Ronaldo ? \nChicharito? \n\n NO SEÑORES, LOUIS TOMLINSON   pic.twitter.com/rJaBh7369M", "url": "/itsmgca/status/448972009699946496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:57:23", "is_reply": false, "is_retweet": false, "user_id": "405140538"}

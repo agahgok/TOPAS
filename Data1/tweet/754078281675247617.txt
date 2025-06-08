@@ -1,0 +1,1 @@
+{"usernameTweet": "DusunenBirOkuz", "ID": "754078281675247617", "text": "# SokağaSakınÇıkma   pic.twitter.com/eEX3B2RNf6", "url": "/DusunenBirOkuz/status/754078281675247617", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:47", "is_reply": false, "is_retweet": false, "user_id": "3770425941"}

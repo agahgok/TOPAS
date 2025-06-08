@@ -1,0 +1,1 @@
+{"usernameTweet": "gelyunusum", "ID": "754088968333983744", "text": "# SokağaSakınÇıkma  Millet sokakta. Vay be, milletimden gurur duydum.  pic.twitter.com/ifkxA28Ii8", "url": "/gelyunusum/status/754088968333983744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:15", "is_reply": false, "is_retweet": false, "user_id": "367029176"}

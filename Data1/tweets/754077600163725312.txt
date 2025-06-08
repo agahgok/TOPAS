@@ -1,0 +1,1 @@
+{"usernameTweet": "SYAHBEYZ", "ID": "754077600163725312", "text": "Masum insanları sokağa çağırmak zavallılıktır  #SokağaSakınÇıkma", "url": "/SYAHBEYZ/status/754077600163725312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:04", "is_reply": false, "is_retweet": false, "user_id": "238767880"}

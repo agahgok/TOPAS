@@ -1,0 +1,1 @@
+{"usernameTweet": "Tugbish", "ID": "754086093100838912", "text": "Hollywood filmi seyrettik, sonu Fransız bitti.. Ne olduğunu anlamadık.. #SokağaSakınÇıkma  #darbe", "url": "/Tugbish/status/754086093100838912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:49", "is_reply": false, "is_retweet": false, "user_id": "184579595"}

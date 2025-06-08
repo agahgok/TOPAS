@@ -1,0 +1,1 @@
+{"usernameTweet": "izmirli351328", "ID": "754090795586711552", "text": "Sokağa İzmir çıktı;) gerisini sen düşün... #SokağaSakınÇıkma", "url": "/izmirli351328/status/754090795586711552", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:10:30", "is_reply": false, "is_retweet": false, "user_id": "150226588"}

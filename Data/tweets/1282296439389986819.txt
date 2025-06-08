@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetgmen5", "ID": "1282296439389986819", "text": "Aslında bunlara bir  darbe  daha yapalım.sümele manastırı'nı da yatılı kur-an kursu yapalım..", "url": "/ahmetgmen5/status/1282296439389986819", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 15:51:09", "is_reply": true, "is_retweet": false, "user_id": "585230128"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sadengineeer", "ID": "1282387632761245697", "text": "kendi başıma açtığım her bir kavanoz ataerkilliğe bir  darbe", "url": "/sadengineeer/status/1282387632761245697", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-12 21:53:31", "is_reply": false, "is_retweet": false, "user_id": "608552788"}

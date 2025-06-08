@@ -1,0 +1,1 @@
+{"usernameTweet": "YeganeQurban", "ID": "754243177712750592", "text": "Allah yardimcin olsun Turkiye #Turkey  #Türkiyə  #SokağaSakınÇıkma", "url": "/YeganeQurban/status/754243177712750592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:16:01", "is_reply": false, "is_retweet": false, "user_id": "897844676"}

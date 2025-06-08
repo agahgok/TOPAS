@@ -1,0 +1,1 @@
+{"usernameTweet": "serenesenere", "ID": "754069423330394112", "text": "Sakin bu oyuna alet olma #SokağaÇıkma", "url": "/serenesenere/status/754069423330394112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:45:35", "is_reply": false, "is_retweet": false, "user_id": "569265378"}

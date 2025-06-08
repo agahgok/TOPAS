@@ -1,0 +1,1 @@
+{"usernameTweet": "TemmuzayazY", "ID": "1281657691010732034", "text": "15 Temmuz  darbe  girişimi derken kendin bile buna inanmazken ne demek istiyorsun anlamıyorum.", "url": "/TemmuzayazY/status/1281657691010732034", "nbr_retweet": 2, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2020-07-10 21:33:00", "is_reply": true, "is_retweet": false, "user_id": "1178054231707791362"}

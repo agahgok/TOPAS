@@ -1,0 +1,1 @@
+{"usernameTweet": "KodikolTha", "ID": "754074869088878593", "text": "Kardeşim açıkladı kısacası bu işte #SokağaSakınÇıkma   pic.twitter.com/3V68ujZQOZ", "url": "/KodikolTha/status/754074869088878593", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:13", "is_reply": false, "is_retweet": false, "user_id": "356140551"}

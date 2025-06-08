@@ -1,0 +1,1 @@
+{"usernameTweet": "cerendvn", "ID": "1281662248935723008", "text": "lise2..güvendiğimiz her insandan  darbe  almadıysak hiçbir şey bilmiyorum", "url": "/cerendvn/status/1281662248935723008", "nbr_retweet": 0, "nbr_favorite": 31, "nbr_reply": 1, "datetime": "2020-07-10 21:51:06", "is_reply": false, "is_retweet": false, "user_id": "1047865294327304195"}

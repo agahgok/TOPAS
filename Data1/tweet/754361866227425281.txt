@@ -1,0 +1,1 @@
+{"usernameTweet": "crazyfischengel", "ID": "754361866227425281", "text": "Arınç nerede ???? #SokağaSakınÇıkma", "url": "/crazyfischengel/status/754361866227425281", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 20:07:38", "is_reply": false, "is_retweet": false, "user_id": "406373291"}

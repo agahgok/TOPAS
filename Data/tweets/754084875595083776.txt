@@ -1,0 +1,1 @@
+{"usernameTweet": "alevkocyigitt", "ID": "754084875595083776", "text": "Gezide sokağa döküldük çapulcu dendi şimdi sokağa çıkın çağrısı yapıyor şerefsiz #sokağasakınçıkma", "url": "/alevkocyigitt/status/754084875595083776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:59", "is_reply": false, "is_retweet": false, "user_id": "1849158157"}

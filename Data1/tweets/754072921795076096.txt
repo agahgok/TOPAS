@@ -1,0 +1,1 @@
+{"usernameTweet": "EylulThoughts", "ID": "754072921795076096", "text": "Allah korusun bütünü o sokaktaki gerizekalilari #SokağaSakınÇıkma  #Turkey", "url": "/EylulThoughts/status/754072921795076096", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 00:59:29", "is_reply": false, "is_retweet": false, "user_id": "4150124174"}

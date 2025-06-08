@@ -1,0 +1,1 @@
+{"usernameTweet": "Kubracobangs", "ID": "754075584368697344", "text": "# SokağaSakınÇıkma  götü yiyorsa Akapeli milletvekilleri ve ailesini çıkarsın. Gazoz olma", "url": "/Kubracobangs/status/754075584368697344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:04", "is_reply": false, "is_retweet": false, "user_id": "1857972662"}

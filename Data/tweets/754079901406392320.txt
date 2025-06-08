@@ -1,0 +1,1 @@
+{"usernameTweet": "SSPhotograpy", "ID": "754079901406392320", "text": "# SokağaSakınÇıkma  valla biz evdeyiz  pic.twitter.com/t0DIAFu8Ae", "url": "/SSPhotograpy/status/754079901406392320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:13", "is_reply": false, "is_retweet": false, "user_id": "63079854"}

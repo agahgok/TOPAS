@@ -1,0 +1,1 @@
+{"usernameTweet": "DRTNKT", "ID": "754091172558204928", "text": "# SokağaSakınÇıkma  kendi sıçan gibi nerde oldugu belli degil kahraman millet dışarda", "url": "/DRTNKT/status/754091172558204928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:00", "is_reply": false, "is_retweet": false, "user_id": "378010601"}

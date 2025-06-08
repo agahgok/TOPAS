@@ -1,0 +1,1 @@
+{"usernameTweet": "divertido06", "ID": "754093359342489600", "text": "Darbenizi yaniniza birakmiycaz! biz sokaktayiz #SokağaSakınÇıkma  gibi bi sacma hastag olmaz olsun!", "url": "/divertido06/status/754093359342489600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:41", "is_reply": false, "is_retweet": false, "user_id": "708608393779548160"}

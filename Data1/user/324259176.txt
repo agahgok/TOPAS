@@ -1,0 +1,1 @@
+{"ID": "324259176", "name": "るびくる (bot)", "screen_name": "rubicle_bot", "avatar": "https://pbs.twimg.com/profile_images/461105417834070016/PZlWY03N_bigger.png"}

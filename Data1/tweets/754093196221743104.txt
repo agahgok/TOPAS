@@ -1,0 +1,1 @@
+{"usernameTweet": "taneryl", "ID": "754093196221743104", "text": "# SokağaSakınÇıkma  darbe oldu,pijamali atletli amcalar darbeyi engelledi.ne boktan senaryoymus.", "url": "/taneryl/status/754093196221743104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:03", "is_reply": false, "is_retweet": false, "user_id": "261897592"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AbhishekDarbe", "ID": "1281471402910965760", "text": "मज़ा तो तब आएगा जब नोट में चिप वाली एनालिसिस आप इस केस में भी उतनी हीं इमानदारी से करेंगी।", "url": "/AbhishekDarbe/status/1281471402910965760", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 09:12:45", "is_reply": true, "is_retweet": false, "user_id": "1253259806758051840"}

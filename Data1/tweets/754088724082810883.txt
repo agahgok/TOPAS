@@ -1,0 +1,1 @@
+{"usernameTweet": "Handan_Omer", "ID": "754088724082810883", "text": "# SokağaSakınÇıkma \nArap despotizmi ağır ağır değil bildiğin hızla geliyor (!)", "url": "/Handan_Omer/status/754088724082810883", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:02:16", "is_reply": false, "is_retweet": false, "user_id": "294206770"}

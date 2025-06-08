@@ -1,0 +1,1 @@
+{"usernameTweet": "FerhatKurtaran", "ID": "754071304949596162", "text": "oyuna gelme  #SokağaSakınÇıkma", "url": "/FerhatKurtaran/status/754071304949596162", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:03", "is_reply": false, "is_retweet": false, "user_id": "2364811265"}

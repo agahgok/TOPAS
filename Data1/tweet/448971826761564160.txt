@@ -1,0 +1,1 @@
+{"usernameTweet": "mendozagalan", "ID": "448971826761564160", "text": "\"Beto\" a  Ronaldo  #retowilkinson", "url": "/mendozagalan/status/448971826761564160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:56:39", "is_reply": false, "is_retweet": false, "user_id": "775712240"}

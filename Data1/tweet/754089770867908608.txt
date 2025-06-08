@@ -1,0 +1,1 @@
+{"usernameTweet": "nuriyebg38", "ID": "754089770867908608", "text": "Havaalanından çıkamıyoruz tankların arasında kaldık  #SokağaSakınÇıkma", "url": "/nuriyebg38/status/754089770867908608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:26", "is_reply": false, "is_retweet": false, "user_id": "3238836545"}

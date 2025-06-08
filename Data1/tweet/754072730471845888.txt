@@ -1,0 +1,1 @@
+{"usernameTweet": "fati_alemdar", "ID": "754072730471845888", "text": "# SokağaSakınÇıkma  CB en büyük algı operasyonunu yapıyor.", "url": "/fati_alemdar/status/754072730471845888", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:43", "is_reply": false, "is_retweet": false, "user_id": "726702220687765505"}

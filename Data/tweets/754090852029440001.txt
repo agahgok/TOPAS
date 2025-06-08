@@ -1,0 +1,1 @@
+{"usernameTweet": "capulnecla", "ID": "754090852029440001", "text": "Yazık hemde gerçekten çok yazık \nasker bu tezgaha nasıl alet oldu.Demokrasi iyice bitti.  #SokağaSakınÇıkma", "url": "/capulnecla/status/754090852029440001", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:44", "is_reply": false, "is_retweet": false, "user_id": "239982962"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Semihdgnn_", "ID": "754078367880806400", "text": "# SokağaSakınÇıkma  bu tiyatroyu yiyen var mı ?", "url": "/Semihdgnn_/status/754078367880806400", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:21:07", "is_reply": false, "is_retweet": false, "user_id": "722840031736369154"}

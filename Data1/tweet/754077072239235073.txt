@@ -1,0 +1,1 @@
+{"usernameTweet": "FuruncuPelin", "ID": "754077072239235073", "text": "Sokağa çıkmayın,Recep Tayyip Erdoğan'ın oyununa gelmeyin! #SokağaSakınÇıkma", "url": "/FuruncuPelin/status/754077072239235073", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:58", "is_reply": false, "is_retweet": false, "user_id": "708058891108671488"}

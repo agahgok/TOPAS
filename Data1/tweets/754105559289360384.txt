@@ -1,0 +1,1 @@
+{"usernameTweet": "OsmanSapanci", "ID": "754105559289360384", "text": "# SokağaSakınÇıkma  diyenleri pazar sabahı topla as kalinbagirsagi temizlemis olur bu ülke", "url": "/OsmanSapanci/status/754105559289360384", "nbr_retweet": 1, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 03:09:10", "is_reply": false, "is_retweet": false, "user_id": "2637918663"}

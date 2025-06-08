@@ -1,0 +1,1 @@
+{"usernameTweet": "esraacmn", "ID": "754085881905049600", "text": "Bir ulke dusunun ki camiler aracılığı ile yonetim destegi isteniyor..\n\n #SokağaSakınÇıkma", "url": "/esraacmn/status/754085881905049600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:59", "is_reply": false, "is_retweet": false, "user_id": "2285123946"}

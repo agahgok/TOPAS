@@ -1,0 +1,1 @@
+{"usernameTweet": "mercan_khk", "ID": "1284375856501202944", "text": "Hadi ordan Sarayın kapı kulları.Erdoğan ,H.Akar ve H.Fidan kontrollü  darbe  yaptı.", "url": "/mercan_khk/status/1284375856501202944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 09:34:01", "is_reply": true, "is_retweet": false, "user_id": "1180934859495219202"}

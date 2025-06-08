@@ -1,0 +1,1 @@
+{"usernameTweet": "estebansonofsun", "ID": "754089597253087233", "text": "Başkanlık sisteminin Temel'inin harcı 17 Polisin kanıyla karıldı... #SokağaSakınÇıkma", "url": "/estebansonofsun/status/754089597253087233", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:44", "is_reply": false, "is_retweet": false, "user_id": "45935617"}

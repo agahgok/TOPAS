@@ -1,0 +1,1 @@
+{"usernameTweet": "Moneydxpara", "ID": "754087700874092544", "text": "# SokağaSakınÇıkma  Korkma müslüman türk haklı vatanına sahıp cık sokaga cık", "url": "/Moneydxpara/status/754087700874092544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:12", "is_reply": false, "is_retweet": false, "user_id": "197214360"}

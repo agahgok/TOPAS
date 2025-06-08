@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754092730641477632", "text": "Bu ülke de tek bir terör örgütü var. Mevcut hükümet !  #SokağaSakınÇıkma  #ÇakmaDarbe", "url": "/vakkaff/status/754092730641477632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:12", "is_reply": false, "is_retweet": false, "user_id": "943942980"}

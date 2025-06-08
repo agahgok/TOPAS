@@ -1,0 +1,1 @@
+{"usernameTweet": "BlntOzr", "ID": "754068756473651200", "text": "Kendisi yerin 7 kat altında halkını ölüme yolluyor. Sakın ha sakın #SokağaÇıkma", "url": "/BlntOzr/status/754068756473651200", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:42:56", "is_reply": false, "is_retweet": false, "user_id": "570974755"}

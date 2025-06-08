@@ -1,0 +1,1 @@
+{"usernameTweet": "furkndmrci", "ID": "754075894663159808", "text": "# SokağaSakınÇıkma  cıkmazsanız siktirin gidin ülkesen oçları", "url": "/furkndmrci/status/754075894663159808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:17", "is_reply": false, "is_retweet": false, "user_id": "3127651282"}

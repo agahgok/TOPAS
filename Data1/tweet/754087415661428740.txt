@@ -1,0 +1,1 @@
+{"usernameTweet": "pablo_eskubar", "ID": "754087415661428740", "text": "# SokağaSakınÇıkma  beni bekleme kaptan...", "url": "/pablo_eskubar/status/754087415661428740", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:04", "is_reply": false, "is_retweet": false, "user_id": "258068068"}

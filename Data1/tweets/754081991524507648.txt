@@ -1,0 +1,1 @@
+{"usernameTweet": "571_751_1453_13", "ID": "754081991524507648", "text": "Devlete karsı bir Tehdit var\n #SokağaSakınÇıkma  diyen dingil senin Baban kim ?", "url": "/571_751_1453_13/status/754081991524507648", "nbr_retweet": 14, "nbr_favorite": 15, "nbr_reply": 1, "datetime": "2016-07-16 01:35:31", "is_reply": false, "is_retweet": false, "user_id": "155191253"}

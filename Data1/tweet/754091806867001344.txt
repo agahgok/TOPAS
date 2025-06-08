@@ -1,0 +1,1 @@
+{"usernameTweet": "lilibestt", "ID": "754091806867001344", "text": "O kadar şehit oldu sokağa çıkmadınız şimdi mi çıkıyorsunuz? #SokağaSakınÇıkma", "url": "/lilibestt/status/754091806867001344", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:14:31", "is_reply": false, "is_retweet": false, "user_id": "2345017520"}

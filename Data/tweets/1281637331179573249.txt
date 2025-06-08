@@ -1,0 +1,1 @@
+{"usernameTweet": "Kartal1Mrv", "ID": "1281637331179573249", "text": "Darbe  öyle olmaz böyle olur.İçimizdeki kafirler istediği kadar ağlayabilir.#AyasofyaCamii", "url": "/Kartal1Mrv/status/1281637331179573249", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 20:12:06", "is_reply": false, "is_retweet": false, "user_id": "1042379671235649536"}

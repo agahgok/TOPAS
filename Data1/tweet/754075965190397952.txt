@@ -1,0 +1,1 @@
+{"usernameTweet": "OzdenKse", "ID": "754075965190397952", "text": "Önce kendi çıksın bizlere sokağa çıkın diyenler  #SokağaSakınÇıkma", "url": "/OzdenKse/status/754075965190397952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:34", "is_reply": false, "is_retweet": false, "user_id": "454870924"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ecissss_", "ID": "754088637394984960", "text": "Bize sırf kendi emelleri icin şu geceyi şu korkuyu yaşatanlarin hepsinin ALLAH BELASINI VERSİN. #SokağaSakınÇıkma", "url": "/ecissss_/status/754088637394984960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:56", "is_reply": false, "is_retweet": false, "user_id": "1288655833"}

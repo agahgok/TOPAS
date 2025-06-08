@@ -1,0 +1,1 @@
+{"usernameTweet": "frombluemoon", "ID": "754078755874824192", "text": "Çok şüpheli şeyler oluyor.. Allah sonumuzu hayr etsin. #SokağaSakınÇıkma", "url": "/frombluemoon/status/754078755874824192", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:22:40", "is_reply": false, "is_retweet": false, "user_id": "303799386"}

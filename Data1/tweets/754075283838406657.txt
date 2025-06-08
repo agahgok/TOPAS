@@ -1,0 +1,1 @@
+{"usernameTweet": "Niburulu", "ID": "754075283838406657", "text": "Asker de bizim, Poliste bizim.\nFiller tepişir, çimenler ezilir.\n\n#SokağaSakınÇıkma", "url": "/Niburulu/status/754075283838406657", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:08:52", "is_reply": false, "is_retweet": false, "user_id": "147294153"}

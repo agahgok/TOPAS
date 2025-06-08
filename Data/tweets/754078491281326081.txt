@@ -1,0 +1,1 @@
+{"usernameTweet": "GLENGVENDR", "ID": "754078491281326081", "text": "# SokağaSakınÇıkma \n\nSokağa çıkan herkesi hain ilan edenler, halkı sokağa çağırıyorlar.", "url": "/GLENGVENDR/status/754078491281326081", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:37", "is_reply": false, "is_retweet": false, "user_id": "2261478883"}

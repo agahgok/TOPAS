@@ -1,0 +1,1 @@
+{"usernameTweet": "hayyam_21", "ID": "754095643413606400", "text": "Senaryo güzel , film şahane geriye balkon konuşması kaldı #SokağaSakınÇıkma", "url": "/hayyam_21/status/754095643413606400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:46", "is_reply": false, "is_retweet": false, "user_id": "306905246"}

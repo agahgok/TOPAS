@@ -1,0 +1,1 @@
+{"usernameTweet": "AsFikir", "ID": "754080223507968000", "text": "# SokağaSakınÇıkma  #Ankara  Trol darbe olur mu demeyin. Oldu bile ", "url": "/AsFikir/status/754080223507968000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:30", "is_reply": false, "is_retweet": false, "user_id": "1693246328"}

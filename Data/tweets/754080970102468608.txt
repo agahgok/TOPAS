@@ -1,0 +1,1 @@
+{"usernameTweet": "kadavraa", "ID": "754080970102468608", "text": "Kendisinin tuzu kuru bin tane korumayla gezip,halkı sokağa çağırıyor oyuna gelme  #SokağaSakınÇıkma", "url": "/kadavraa/status/754080970102468608", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:31:28", "is_reply": false, "is_retweet": false, "user_id": "177567241"}

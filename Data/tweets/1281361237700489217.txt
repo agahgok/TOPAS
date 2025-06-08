@@ -1,0 +1,1 @@
+{"usernameTweet": "burakmese21", "ID": "1281361237700489217", "text": "Şaka mısın sen? Evo moralese  darbe  yapan baş cellat, kendisi olduğu için kullanmışlar işte.", "url": "/burakmese21/status/1281361237700489217", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 01:55:00", "is_reply": true, "is_retweet": false, "user_id": "1106309014567174145"}

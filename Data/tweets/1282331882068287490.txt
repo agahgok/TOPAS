@@ -1,0 +1,1 @@
+{"usernameTweet": "_Dilek_Yilmaz_", "ID": "1282331882068287490", "text": "Yaa.. dimi bir de o var , offf en vurucu  darbe  de o", "url": "/_Dilek_Yilmaz_/status/1282331882068287490", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 18:11:59", "is_reply": true, "is_retweet": false, "user_id": "272141335"}

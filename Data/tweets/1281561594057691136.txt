@@ -1,0 +1,1 @@
+{"usernameTweet": "aydnakc", "ID": "1281561594057691136", "text": "O  darbe  sevici çakalın sadece siyasi partiden değil vatandaşlıktan da ihraç edilmesi lazım.", "url": "/aydnakc/status/1281561594057691136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 15:11:08", "is_reply": true, "is_retweet": false, "user_id": "350789139"}

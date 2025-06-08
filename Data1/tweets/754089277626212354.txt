@@ -1,0 +1,1 @@
+{"usernameTweet": "zgrdrmz", "ID": "754089277626212354", "text": "# SokağaSakınÇıkma  bakalim Turkiye'nin Rabia si olacak sansli kisi kim?", "url": "/zgrdrmz/status/754089277626212354", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:04:28", "is_reply": false, "is_retweet": false, "user_id": "3993552922"}

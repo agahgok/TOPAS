@@ -1,0 +1,1 @@
+{"usernameTweet": "u_derman", "ID": "754093799278714881", "text": "Abdullah Gül İngiltereden bildiriyor, herkes evine #SokağaSakınÇıkma", "url": "/u_derman/status/754093799278714881", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:26", "is_reply": false, "is_retweet": false, "user_id": "2924420732"}

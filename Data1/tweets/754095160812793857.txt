@@ -1,0 +1,1 @@
+{"usernameTweet": "naliintogran", "ID": "754095160812793857", "text": "# SokağaSakınÇıkma", "url": "/naliintogran/status/754095160812793857", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:51", "is_reply": false, "is_retweet": false, "user_id": "724343469058207746"}

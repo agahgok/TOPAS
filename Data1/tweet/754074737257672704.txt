@@ -1,0 +1,1 @@
+{"usernameTweet": "Alselhantol26", "ID": "754074737257672704", "text": "Şuan duyuru yapılıyor ve halk meydana çağrılıyor allahım sen yardımcımz ol #SokağaSakınÇıkma", "url": "/Alselhantol26/status/754074737257672704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:42", "is_reply": false, "is_retweet": false, "user_id": "4485401056"}

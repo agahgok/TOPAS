@@ -1,0 +1,1 @@
+{"usernameTweet": "tahirkhnn", "ID": "754071325753372672", "text": "SOKAĞA ÇIKMA\nOYUNA GELME  pic.twitter.com/v9KweDhXB5  #SokağaSakınÇıkma", "url": "/tahirkhnn/status/754071325753372672", "nbr_retweet": 70, "nbr_favorite": 43, "nbr_reply": 5, "datetime": "2016-07-16 00:53:08", "is_reply": false, "is_retweet": false, "user_id": "1150888405"}

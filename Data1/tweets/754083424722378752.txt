@@ -1,0 +1,1 @@
+{"usernameTweet": "OZ_GFB1907", "ID": "754083424722378752", "text": "Saat 3'de olaylar çoğalacak. Evinize gidin askeri araçlar çoğalıyor #SokağaSakınÇıkma", "url": "/OZ_GFB1907/status/754083424722378752", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:13", "is_reply": false, "is_retweet": false, "user_id": "468615389"}

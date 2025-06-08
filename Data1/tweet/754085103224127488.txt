@@ -1,0 +1,1 @@
+{"usernameTweet": "yolcu6556", "ID": "754085103224127488", "text": "Ezan yasaklandığı dönemde bile bu kadar küçük dusurulmemisti #SokağaSakınÇıkma", "url": "/yolcu6556/status/754085103224127488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:53", "is_reply": false, "is_retweet": false, "user_id": "739244727481077761"}

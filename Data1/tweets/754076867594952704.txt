@@ -1,0 +1,1 @@
+{"usernameTweet": "gurel_aysin", "ID": "754076867594952704", "text": "# SokağaSakınÇıkma", "url": "/gurel_aysin/status/754076867594952704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:09", "is_reply": false, "is_retweet": false, "user_id": "1479778314"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AdemDindar", "ID": "754091584250052608", "text": "# SokağaSakınÇıkma  yalımda orospu çocuğu ingilizler Fetocular israil yönetime el mi koysun", "url": "/AdemDindar/status/754091584250052608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:38", "is_reply": false, "is_retweet": false, "user_id": "300965800"}

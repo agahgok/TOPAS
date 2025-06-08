@@ -1,0 +1,1 @@
+{"usernameTweet": "SevgiClktnyldz", "ID": "754083101685510145", "text": "Yıllardır iç savaş çıkarmaya çalışanlar kına yaksın bi yerlerine. Başarmak üzereler #SokağaSakınÇıkma", "url": "/SevgiClktnyldz/status/754083101685510145", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:56", "is_reply": false, "is_retweet": false, "user_id": "154894615"}

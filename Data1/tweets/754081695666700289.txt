@@ -1,0 +1,1 @@
+{"usernameTweet": "ttrgy", "ID": "754081695666700289", "text": "Camilerdeki paralı köpek imamlar napıyosunuz lan #SokağaSakınÇıkma", "url": "/ttrgy/status/754081695666700289", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:21", "is_reply": false, "is_retweet": false, "user_id": "480184382"}

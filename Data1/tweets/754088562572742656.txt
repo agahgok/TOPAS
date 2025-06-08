@@ -1,0 +1,1 @@
+{"usernameTweet": "Expendables_35", "ID": "754088562572742656", "text": "# tiyatro  #SokağaSakınÇıkma  Darbe diye baslayip Akp mitingine döndü....", "url": "/Expendables_35/status/754088562572742656", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:38", "is_reply": false, "is_retweet": false, "user_id": "2432536843"}

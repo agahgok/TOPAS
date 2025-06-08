@@ -1,0 +1,1 @@
+{"usernameTweet": "gokhangoker36", "ID": "754067698523312128", "text": "Sabah balkon konuşmasına hazır olun. 3 ay sonra seçim başkanlık anayasa ne varsa. #SokağaSakınÇıkma", "url": "/gokhangoker36/status/754067698523312128", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2016-07-16 00:38:43", "is_reply": false, "is_retweet": false, "user_id": "278566873"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "blackblanco", "ID": "754091998496362497", "text": "Senin için şehit olan askerine saldırma #SokağaSakınÇıkma", "url": "/blackblanco/status/754091998496362497", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:17", "is_reply": false, "is_retweet": false, "user_id": "116816601"}

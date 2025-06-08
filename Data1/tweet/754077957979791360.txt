@@ -1,0 +1,1 @@
+{"usernameTweet": "k_ergen", "ID": "754077957979791360", "text": "Seni sokağa çağıran çıksın sokağa! #SokağaSakınÇıkma", "url": "/k_ergen/status/754077957979791360", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:19:29", "is_reply": false, "is_retweet": false, "user_id": "441118078"}

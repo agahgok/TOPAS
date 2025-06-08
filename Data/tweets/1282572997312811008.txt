@@ -1,0 +1,1 @@
+{"usernameTweet": "siyahsekizli8", "ID": "1282572997312811008", "text": "Darbe  üstüne  darbe  uslanmıyorduuuu", "url": "/siyahsekizli8/status/1282572997312811008", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 1, "datetime": "2020-07-13 10:10:06", "is_reply": false, "is_retweet": false, "user_id": "61146579"}

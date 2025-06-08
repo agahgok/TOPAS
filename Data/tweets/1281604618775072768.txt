@@ -1,0 +1,1 @@
+{"usernameTweet": "SYigitci", "ID": "1281604618775072768", "text": "Ne alaka amınakoyduğumun evladı, bu kadar yalamasaydınız onlar da şımarıp  darbe  yapmasaydı.", "url": "/SYigitci/status/1281604618775072768", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 18:02:06", "is_reply": true, "is_retweet": false, "user_id": "1275709136165101569"}

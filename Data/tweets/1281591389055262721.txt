@@ -1,0 +1,1 @@
+{"usernameTweet": "LightOfGod_34", "ID": "1281591389055262721", "text": "Aşkta devrimi anlarım da,  darbe  neden?", "url": "/LightOfGod_34/status/1281591389055262721", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-10 17:09:32", "is_reply": false, "is_retweet": false, "user_id": "1232346851069878275"}

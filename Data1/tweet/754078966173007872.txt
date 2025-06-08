@@ -1,0 +1,1 @@
+{"usernameTweet": "gzmfk", "ID": "754078966173007872", "text": "# SokağaSakınÇıkma  provokasyonlara destek olma!!! Gezi parkı değil bu..", "url": "/gzmfk/status/754078966173007872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:30", "is_reply": false, "is_retweet": false, "user_id": "1048675526"}

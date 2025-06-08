@@ -1,0 +1,1 @@
+{"usernameTweet": "YK_Kaya58", "ID": "754074653782577152", "text": "# SokağaSakınÇıkma  vatan hainlerine inat sokaktayiz  pic.twitter.com/rpdUCJ1hFc", "url": "/YK_Kaya58/status/754074653782577152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:22", "is_reply": false, "is_retweet": false, "user_id": "333066265"}

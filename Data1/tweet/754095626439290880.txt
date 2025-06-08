@@ -1,0 +1,1 @@
+{"usernameTweet": "VatanaAsik", "ID": "754095626439290880", "text": "AKP millet vekilleri nerde diyenler tvleri iyi izlesin. Onlar meydanlardalar. #SokağaÇıkma", "url": "/VatanaAsik/status/754095626439290880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:42", "is_reply": false, "is_retweet": false, "user_id": "115334548"}

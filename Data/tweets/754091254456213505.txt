@@ -1,0 +1,1 @@
+{"usernameTweet": "MelkeGrgz", "ID": "754091254456213505", "text": "Sokağa ininde ne demek ya. #Sokağaçıkma   https:// twitter.com/gelbaknediicem /status/754079318834380800   …", "url": "/MelkeGrgz/status/754091254456213505", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:20", "is_reply": false, "is_retweet": false, "user_id": "799169732"}

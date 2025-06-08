@@ -1,0 +1,1 @@
+{"usernameTweet": "umitanliwow", "ID": "754070446417510400", "text": "Lütfen çıkmayın kefenliler çıksın  #SokağaSakınÇıkma", "url": "/umitanliwow/status/754070446417510400", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:49:39", "is_reply": false, "is_retweet": false, "user_id": "3310983665"}

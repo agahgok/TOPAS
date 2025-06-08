@@ -1,0 +1,1 @@
+{"usernameTweet": "heppsonradan", "ID": "754077655297847296", "text": "Bunun için #SokağaSakınÇıkma   https:// twitter.com/KomunistBaskan n/status/624983993910472704   …", "url": "/heppsonradan/status/754077655297847296", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:18:17", "is_reply": false, "is_retweet": false, "user_id": "3243919091"}

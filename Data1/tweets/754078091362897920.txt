@@ -1,0 +1,1 @@
+{"usernameTweet": "aktivist_ateist", "ID": "754078091362897920", "text": "Dün Gaz Verenler bugun sokakta #SokağaSakınÇıkma", "url": "/aktivist_ateist/status/754078091362897920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:01", "is_reply": false, "is_retweet": false, "user_id": "749166308206542848"}

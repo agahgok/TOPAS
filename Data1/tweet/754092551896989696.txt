@@ -1,0 +1,1 @@
+{"usernameTweet": "demokrasisafi", "ID": "754092551896989696", "text": "Camileri de siyaset yuvası yaptılar.  #SokağaSakınÇıkma", "url": "/demokrasisafi/status/754092551896989696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:29", "is_reply": false, "is_retweet": false, "user_id": "754081842345672704"}

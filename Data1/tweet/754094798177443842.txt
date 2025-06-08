@@ -1,0 +1,1 @@
+{"usernameTweet": "mrttrs1", "ID": "754094798177443842", "text": "Yarın iş var git yat uyu  #SokağaSakınÇıkma", "url": "/mrttrs1/status/754094798177443842", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:24", "is_reply": false, "is_retweet": false, "user_id": "341785327"}

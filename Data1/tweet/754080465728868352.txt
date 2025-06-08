@@ -1,0 +1,1 @@
+{"usernameTweet": "Msrgn1", "ID": "754080465728868352", "text": "Bu iş iç savaşa evrilebilir\n#SokağaSakınÇıkma", "url": "/Msrgn1/status/754080465728868352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:27", "is_reply": false, "is_retweet": false, "user_id": "2256828048"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "aytkncvk", "ID": "1281636139007344643", "text": "Darbe  öyle yapılmaz böyle yapılır.... #AyasofyaCamii", "url": "/aytkncvk/status/1281636139007344643", "nbr_retweet": 4, "nbr_favorite": 28, "nbr_reply": 0, "datetime": "2020-07-10 20:07:21", "is_reply": false, "is_retweet": false, "user_id": "2303977599"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "camscamgirl1", "ID": "754081627119161344", "text": "# SokağaSakınÇıkma", "url": "/camscamgirl1/status/754081627119161344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:04", "is_reply": false, "is_retweet": false, "user_id": "719359691277672448"}

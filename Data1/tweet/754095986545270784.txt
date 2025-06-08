@@ -1,0 +1,1 @@
+{"usernameTweet": "ozgurhatuun", "ID": "754095986545270784", "text": "İran yanımızda halt edecek, başkanlığı geçtik kendini padişah ilan edecek!!!!#SokağaSakınÇıkma", "url": "/ozgurhatuun/status/754095986545270784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:08", "is_reply": false, "is_retweet": false, "user_id": "260736742"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yezidsavar1", "ID": "754069848179769345", "text": "# SokağaSakınÇıkma  adam akp'lilere gidin ölün diyor lan..  pic.twitter.com/ingAu44BO1", "url": "/yezidsavar1/status/754069848179769345", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:47:16", "is_reply": false, "is_retweet": false, "user_id": "698999795571167233"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "benden_caylar", "ID": "754092325404631040", "text": "Yine mi mağduruz yine mi çiçek\n #SokağaSakınÇıkma", "url": "/benden_caylar/status/754092325404631040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:35", "is_reply": false, "is_retweet": false, "user_id": "3600872956"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "jjduartebravo", "ID": "1281431955087728640", "text": "El  Darbé  me ha querido vetar pero gana la democracia en el despacho", "url": "/jjduartebravo/status/1281431955087728640", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-10 06:36:00", "is_reply": true, "is_retweet": false, "user_id": "3507451219"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AkAynur12", "ID": "754080106793037824", "text": "# SokağaSakınÇıkma   pic.twitter.com/ttbM3jvdYj", "url": "/AkAynur12/status/754080106793037824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:02", "is_reply": false, "is_retweet": false, "user_id": "2405936439"}

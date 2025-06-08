@@ -1,0 +1,1 @@
+{"usernameTweet": "yatay32", "ID": "754074798494547969", "text": "Sakın çıkmayın oyuna gelmeyin. Yaziktir  #SokağaSakınÇıkma", "url": "/yatay32/status/754074798494547969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:56", "is_reply": false, "is_retweet": false, "user_id": "2626417007"}

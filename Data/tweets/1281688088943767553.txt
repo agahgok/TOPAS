@@ -1,0 +1,1 @@
+{"usernameTweet": "mermert2memert4", "ID": "1281688088943767553", "text": "2.  darbe  derken mescidi aksayımı kastediyorsun", "url": "/mermert2memert4/status/1281688088943767553", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 23:33:47", "is_reply": true, "is_retweet": false, "user_id": "1227269025111138305"}

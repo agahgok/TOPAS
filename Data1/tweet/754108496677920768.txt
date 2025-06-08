@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754108496677920768", "text": "Ülkeyi yapboz'a çevirdiniz yeminle.  #SokağaSakınÇıkma  #ÇakmaDarbe  #DarbeyeHayır", "url": "/vakkaff/status/754108496677920768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:20:50", "is_reply": false, "is_retweet": false, "user_id": "943942980"}

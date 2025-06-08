@@ -1,0 +1,1 @@
+{"usernameTweet": "teklider60", "ID": "754078336473759744", "text": "# SokağaSakınÇıkma  zorunuzamı gitti de bu tagı açtınız.BİTTİNİZ", "url": "/teklider60/status/754078336473759744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:00", "is_reply": false, "is_retweet": false, "user_id": "198211381"}

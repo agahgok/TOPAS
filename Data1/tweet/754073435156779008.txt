@@ -1,0 +1,1 @@
+{"usernameTweet": "7777maksim", "ID": "754073435156779008", "text": "Çıkıyak da gizli güçler Türkiye'yi 20 yıl geriye mi yitsin #SokağaSakınÇıkma", "url": "/7777maksim/status/754073435156779008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:31", "is_reply": false, "is_retweet": false, "user_id": "859643041"}

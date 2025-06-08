@@ -1,0 +1,1 @@
+{"usernameTweet": "kaysyahac", "ID": "754084374434422784", "text": "KANCIKLAR SİZ EVDE OTURUN ZATEN SOYSUZLAR  #SokağaSakınÇıkma", "url": "/kaysyahac/status/754084374434422784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:59", "is_reply": false, "is_retweet": false, "user_id": "456996690"}

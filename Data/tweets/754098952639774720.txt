@@ -1,0 +1,1 @@
+{"usernameTweet": "Nsngnzyrk", "ID": "754098952639774720", "text": "Tamam tamam inandık TAYYİP #SokağaSakınÇıkma  #ÇakmaDarbe pic.twitter.com/LKIFOk5mvb", "url": "/Nsngnzyrk/status/754098952639774720", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:42:55", "is_reply": false, "is_retweet": false, "user_id": "1363482410"}

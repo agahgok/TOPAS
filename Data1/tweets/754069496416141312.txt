@@ -1,0 +1,1 @@
+{"usernameTweet": "gmzklyc", "ID": "754069496416141312", "text": "Galeyana gelme !!  #SokağaSakınÇıkma   pic.twitter.com/HDrfpqehFY", "url": "/gmzklyc/status/754069496416141312", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:45:52", "is_reply": false, "is_retweet": false, "user_id": "2389186063"}

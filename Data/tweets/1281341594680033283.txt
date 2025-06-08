@@ -1,0 +1,1 @@
+{"usernameTweet": "yusufsipleme", "ID": "1281341594680033283", "text": "Darbe  oldu amk  https:// twitter.com/birseysoyleona /status/1281297544845373440   …", "url": "/yusufsipleme/status/1281341594680033283", "nbr_retweet": 0, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2020-07-10 00:36:57", "is_reply": false, "is_retweet": false, "user_id": "1449433728"}

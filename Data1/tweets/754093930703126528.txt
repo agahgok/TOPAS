@@ -1,0 +1,1 @@
+{"usernameTweet": "mt4eo", "ID": "754093930703126528", "text": "# SokağaSakınÇıkma \nBoğaziçi Köprüsünün Altunizade ayağında 3 saattir silah sesleri, siren sesleri kesilmiyor.", "url": "/mt4eo/status/754093930703126528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:58", "is_reply": false, "is_retweet": false, "user_id": "97533020"}

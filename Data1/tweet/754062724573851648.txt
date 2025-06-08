@@ -1,0 +1,1 @@
+{"usernameTweet": "mucellaerolvura", "ID": "754062724573851648", "text": "sakın !!!!!! #SokağaSakınÇıkma", "url": "/mucellaerolvura/status/754062724573851648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:18:58", "is_reply": false, "is_retweet": false, "user_id": "460005774"}

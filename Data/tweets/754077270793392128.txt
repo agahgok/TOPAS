@@ -1,0 +1,1 @@
+{"usernameTweet": "fullhdled", "ID": "754077270793392128", "text": "# SokağaSakınÇıkma  arkadaşım. çık diyenlerin seni zerre kadar düşündüğü yok. ne seni, ne de vatanı!", "url": "/fullhdled/status/754077270793392128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:46", "is_reply": false, "is_retweet": false, "user_id": "287343256"}

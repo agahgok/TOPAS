@@ -1,0 +1,1 @@
+{"usernameTweet": "SlmanByer", "ID": "754081985044283392", "text": "# SokağaSakınÇıkma  diyenlerin hepsi vatan haini oruspu cocugudur", "url": "/SlmanByer/status/754081985044283392", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:30", "is_reply": false, "is_retweet": false, "user_id": "711020602"}

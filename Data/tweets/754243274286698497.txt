@@ -1,0 +1,1 @@
+{"usernameTweet": "oneroseerdogan", "ID": "754243274286698497", "text": "Herşey bi senaryo hangi görüşten olursan ol  #SokağaSakınÇıkma  ", "url": "/oneroseerdogan/status/754243274286698497", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:16:24", "is_reply": false, "is_retweet": false, "user_id": "4436144181"}

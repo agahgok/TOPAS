@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafaeurfali", "ID": "754068516911800320", "text": "OYUNA GELME! #SokağaÇıkma", "url": "/mustafaeurfali/status/754068516911800320", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:41:59", "is_reply": false, "is_retweet": false, "user_id": "158048858"}

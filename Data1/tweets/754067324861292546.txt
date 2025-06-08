@@ -1,0 +1,1 @@
+{"usernameTweet": "nursahalpar", "ID": "754067324861292546", "text": "Tayyip'e uymayın ve #SokağaSakınÇıkma", "url": "/nursahalpar/status/754067324861292546", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:37:14", "is_reply": false, "is_retweet": false, "user_id": "68938582"}

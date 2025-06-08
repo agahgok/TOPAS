@@ -1,0 +1,1 @@
+{"usernameTweet": "erberger", "ID": "754086198591782912", "text": "# SokağaSakınÇıkma  genelkurmay 2. Başkanı :\" darbe girişimi başarısızlıkla sonuçlanmıştır\".", "url": "/erberger/status/754086198591782912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:14", "is_reply": false, "is_retweet": false, "user_id": "226953347"}

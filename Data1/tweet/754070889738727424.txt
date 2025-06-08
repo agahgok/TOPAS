@@ -1,0 +1,1 @@
+{"usernameTweet": "__cimbomlu", "ID": "754070889738727424", "text": "Siz sanıyosunuz ki askerin elinden silahı alınca her şey çözülücek #SokağaSakınÇıkma", "url": "/__cimbomlu/status/754070889738727424", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:51:24", "is_reply": false, "is_retweet": false, "user_id": "1254459889"}

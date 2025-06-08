@@ -1,0 +1,1 @@
+{"usernameTweet": "kimbumustafa8", "ID": "754085501397704704", "text": "Perdeler çekildi senaryo bitti \n#darbe  #SokağaSakınÇıkma  hepsi bi oyun", "url": "/kimbumustafa8/status/754085501397704704", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:49:28", "is_reply": false, "is_retweet": false, "user_id": "2238796965"}

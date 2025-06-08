@@ -1,0 +1,1 @@
+{"usernameTweet": "bizzatbenkendim", "ID": "754148942191943680", "text": "# SokağaSakınÇıkma  sokakları sakın terk etmeyin daha bitmedi ama az kaldı", "url": "/bizzatbenkendim/status/754148942191943680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 06:01:33", "is_reply": false, "is_retweet": false, "user_id": "441262110"}

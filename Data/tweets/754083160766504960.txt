@@ -1,0 +1,1 @@
+{"usernameTweet": "UfukMubayaaci", "ID": "754083160766504960", "text": "Camileri alet ettiler şaşırdık mı hayır? #SokağaSakınÇıkma", "url": "/UfukMubayaaci/status/754083160766504960", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:40:10", "is_reply": false, "is_retweet": false, "user_id": "44125800"}

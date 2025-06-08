@@ -1,0 +1,1 @@
+{"usernameTweet": "deryaa_erdass", "ID": "754093923082133505", "text": "Askeri halkın gözünde itibarsızlaştırma operasyonu başarıyla sonuçlandı yazık #SokağaSakınÇıkma", "url": "/deryaa_erdass/status/754093923082133505", "nbr_retweet": 4, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 02:22:56", "is_reply": false, "is_retweet": false, "user_id": "514489604"}

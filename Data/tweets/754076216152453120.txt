@@ -1,0 +1,1 @@
+{"usernameTweet": "ekin2002", "ID": "754076216152453120", "text": "Bu iş başka iş!.. #SokağaSakınÇıkma", "url": "/ekin2002/status/754076216152453120", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:34", "is_reply": false, "is_retweet": false, "user_id": "183575499"}

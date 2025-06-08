@@ -1,0 +1,1 @@
+{"usernameTweet": "zoltardiyebiri", "ID": "1282151531001806854", "text": "yok yok fetöcüler  darbe  yapıyor derse atv hiç şaşırmam asıl", "url": "/zoltardiyebiri/status/1282151531001806854", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 06:15:20", "is_reply": true, "is_retweet": false, "user_id": "742480876244729856"}

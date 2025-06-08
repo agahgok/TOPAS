@@ -1,0 +1,1 @@
+{"usernameTweet": "okyanuskrali", "ID": "754089751070797824", "text": "# SokağaSakınÇıkma  Meydana sığmadık inşaatlara çıkmaya başladık.  pic.twitter.com/e3TQnV3yuO", "url": "/okyanuskrali/status/754089751070797824", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:06:21", "is_reply": false, "is_retweet": false, "user_id": "2581964739"}

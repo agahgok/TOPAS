@@ -1,0 +1,1 @@
+{"usernameTweet": "smstvs", "ID": "1281689276024082434", "text": "15 temmuz  darbe  destekçileri bize fetö cü diyor. asdasdasd\n\n24 Temmuz cumaya bekleriz.", "url": "/smstvs/status/1281689276024082434", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 23:38:30", "is_reply": true, "is_retweet": false, "user_id": "119816492"}

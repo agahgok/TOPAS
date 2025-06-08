@@ -1,0 +1,1 @@
+{"usernameTweet": "dogumerd", "ID": "754078803350126593", "text": "# SokağaSakınÇıkma  flash tvde ilk defa halay yok ama yeşilçam türk filmi var adı ZULÜM :D", "url": "/dogumerd/status/754078803350126593", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:51", "is_reply": false, "is_retweet": false, "user_id": "330343074"}

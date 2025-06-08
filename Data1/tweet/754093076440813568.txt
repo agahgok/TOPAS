@@ -1,0 +1,1 @@
+{"usernameTweet": "asyahacr", "ID": "754093076440813568", "text": "Sokaga bugun cikmayacaksan bir daha sakin çıkma !!         #SokağaSakınÇıkma", "url": "/asyahacr/status/754093076440813568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:34", "is_reply": false, "is_retweet": false, "user_id": "1019513047"}

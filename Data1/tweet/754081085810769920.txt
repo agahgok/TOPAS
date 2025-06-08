@@ -1,0 +1,1 @@
+{"usernameTweet": "Mawii_79", "ID": "754081085810769920", "text": "5.vakit ezana darbe ezanı da eklendi,\nvahiy indi galiba!\n\n #SokağaSakınÇıkma", "url": "/Mawii_79/status/754081085810769920", "nbr_retweet": 31, "nbr_favorite": 20, "nbr_reply": 0, "datetime": "2016-07-16 01:31:55", "is_reply": false, "is_retweet": false, "user_id": "4442374107"}

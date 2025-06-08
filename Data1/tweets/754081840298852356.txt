@@ -1,0 +1,1 @@
+{"usernameTweet": "amanaman2019", "ID": "754081840298852356", "text": "Sokaklarda asker postalı görmek istemiyorsan sokağa çık!!! #sokağasakınçıkma", "url": "/amanaman2019/status/754081840298852356", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:55", "is_reply": false, "is_retweet": false, "user_id": "400814384"}

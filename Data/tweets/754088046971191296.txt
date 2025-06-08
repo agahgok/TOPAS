@@ -1,0 +1,1 @@
+{"usernameTweet": "EYPAY29", "ID": "754088046971191296", "text": "# SokağaSakınÇıkma  tagı açan paralelciler vatan hainleri sokaklardayiz gõtünüz yiyorsa gelin", "url": "/EYPAY29/status/754088046971191296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:35", "is_reply": false, "is_retweet": false, "user_id": "738296833362034688"}

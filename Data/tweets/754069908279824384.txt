@@ -1,0 +1,1 @@
+{"usernameTweet": "ege_351907", "ID": "754069908279824384", "text": "# SokağaSakınÇıkma  şuanda tatvanda bi yanda tanklar bi yanda kornalarla konvoy yapan AKP liler", "url": "/ege_351907/status/754069908279824384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:47:30", "is_reply": false, "is_retweet": false, "user_id": "720760274"}

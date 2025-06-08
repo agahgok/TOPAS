@@ -1,0 +1,1 @@
+{"usernameTweet": "firatbatur44", "ID": "754077240300896257", "text": "Bacını sikiyim chp #SokağaSakınÇıkma", "url": "/firatbatur44/status/754077240300896257", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:38", "is_reply": false, "is_retweet": false, "user_id": "3356604347"}

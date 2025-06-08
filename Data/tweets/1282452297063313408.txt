@@ -1,0 +1,1 @@
+{"usernameTweet": "tarihiicee", "ID": "1282452297063313408", "text": "Öldürmedi bu mudur en kuvvetli  darbe", "url": "/tarihiicee/status/1282452297063313408", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 02:10:29", "is_reply": false, "is_retweet": false, "user_id": "1105374515893288961"}

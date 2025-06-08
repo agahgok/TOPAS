@@ -1,0 +1,1 @@
+{"usernameTweet": "ahgksjs", "ID": "754077063619969025", "text": "# sokağasakınçikma", "url": "/ahgksjs/status/754077063619969025", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:15:56", "is_reply": false, "is_retweet": false, "user_id": "4157431995"}

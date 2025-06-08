@@ -1,0 +1,1 @@
+{"usernameTweet": "FerdiBattal", "ID": "754120584435494912", "text": "Darbeyi bir gecede Tank kullanmayı öğrenen bir halk önledi! #DarbeyeHayır  #SokağaÇıkma", "url": "/FerdiBattal/status/754120584435494912", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 04:08:52", "is_reply": false, "is_retweet": false, "user_id": "113011026"}

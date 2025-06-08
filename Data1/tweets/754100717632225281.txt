@@ -1,0 +1,1 @@
+{"usernameTweet": "CaglarEr", "ID": "754100717632225281", "text": "o zaman bizlere vatan hainisiniz diyenler şimdi sokaklara çıkıyor. #SokağaSakınÇıkma", "url": "/CaglarEr/status/754100717632225281", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:49:56", "is_reply": true, "is_retweet": false, "user_id": "99938436"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "IlkerCavdaar", "ID": "754088628247289856", "text": "Yalandan insanları dinle kandırmaya çalışıp kendisi Almanya'dan sığınma talep ediyor  #SokağaSakınÇıkma", "url": "/IlkerCavdaar/status/754088628247289856", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:01:53", "is_reply": false, "is_retweet": false, "user_id": "2415345909"}

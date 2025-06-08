@@ -1,0 +1,1 @@
+{"usernameTweet": "hermesnera", "ID": "754231975662104576", "text": "# SokağaSakınÇıkma  Yeterince kan akmadı mı. Nedir bu?  pic.twitter.com/H2gq6OE8m2", "url": "/hermesnera/status/754231975662104576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 11:31:30", "is_reply": false, "is_retweet": false, "user_id": "371949187"}

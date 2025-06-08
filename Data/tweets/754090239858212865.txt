@@ -1,0 +1,1 @@
+{"usernameTweet": "AslanRussia", "ID": "754090239858212865", "text": "Ya ortada darbe felan yok ,ortada kahbece bir oyın var. #SokağaSakınÇıkma", "url": "/AslanRussia/status/754090239858212865", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:08:18", "is_reply": false, "is_retweet": false, "user_id": "545654130"}

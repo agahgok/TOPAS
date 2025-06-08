@@ -1,0 +1,1 @@
+{"usernameTweet": "umitfatihkrkyn", "ID": "754082092569493505", "text": "# SokağaSakınÇıkma  haraketin lideri haraketin onunu acti hayirdir ya?", "url": "/umitfatihkrkyn/status/754082092569493505", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:55", "is_reply": false, "is_retweet": false, "user_id": "3657538997"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tanimadigimbiri", "ID": "1281704701868806145", "text": "# Mali 'de yine mi  darbe  oluyor?", "url": "/tanimadigimbiri/status/1281704701868806145", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 00:39:48", "is_reply": false, "is_retweet": false, "user_id": "1095277152"}

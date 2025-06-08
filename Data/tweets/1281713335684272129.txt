@@ -1,0 +1,1 @@
+{"usernameTweet": "1acizane", "ID": "1281713335684272129", "text": "Müslüman olduğu için Mursi'ye  darbe  yaptınız. Sisi, UAE ve SUUD yöneticileri Yahudinin köpeği oldunuz", "url": "/1acizane/status/1281713335684272129", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 01:14:06", "is_reply": true, "is_retweet": false, "user_id": "847865335265079296"}

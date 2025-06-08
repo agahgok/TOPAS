@@ -1,0 +1,1 @@
+{"usernameTweet": "akturk_burakk", "ID": "754092433596702721", "text": "Her daim her şekilde her yerde senin şerefsiz olduğunu haykırıcaz #SokağaSakınÇıkma", "url": "/akturk_burakk/status/754092433596702721", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:01", "is_reply": false, "is_retweet": false, "user_id": "749356697957855232"}

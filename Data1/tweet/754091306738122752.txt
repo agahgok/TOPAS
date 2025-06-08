@@ -1,0 +1,1 @@
+{"usernameTweet": "AkogluSemih", "ID": "754091306738122752", "text": "Hepiniz orospu çocuğusunuz  #SokağaSakınÇıkma", "url": "/AkogluSemih/status/754091306738122752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:32", "is_reply": false, "is_retweet": false, "user_id": "3035579103"}

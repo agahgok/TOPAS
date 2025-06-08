@@ -1,0 +1,1 @@
+{"usernameTweet": "BabakoSakin", "ID": "1282644124865372160", "text": "23- 11 TEMMUZ GECESI(BKFCYE YAPILAN  DARBE )", "url": "/BabakoSakin/status/1282644124865372160", "nbr_retweet": 1, "nbr_favorite": 13, "nbr_reply": 0, "datetime": "2020-07-13 14:52:44", "is_reply": false, "is_retweet": false, "user_id": "1266842312539353089"}

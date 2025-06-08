@@ -1,0 +1,1 @@
+{"usernameTweet": "__uzaydangeldim", "ID": "754084775200165889", "text": "# SokağaSakınÇıkma  diyenler vatan haini ztn benim gözümde", "url": "/__uzaydangeldim/status/754084775200165889", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:35", "is_reply": false, "is_retweet": false, "user_id": "704532285173927936"}

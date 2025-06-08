@@ -1,0 +1,1 @@
+{"usernameTweet": "kinngacar", "ID": "754101017495601154", "text": "İstanbul hikaye Ankara da savaş  #SokağaSakınÇıkma", "url": "/kinngacar/status/754101017495601154", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:51:07", "is_reply": false, "is_retweet": false, "user_id": "96228781"}

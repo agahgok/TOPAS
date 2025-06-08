@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet_ayem", "ID": "754082668984299524", "text": "# SokağaSakınÇıkma  Tsk desteklemiyor! Genelkurmay başkanı rehin şuan.  pic.twitter.com/AhcT91WgSE", "url": "/mehmet_ayem/status/754082668984299524", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:13", "is_reply": false, "is_retweet": false, "user_id": "716342526026891266"}

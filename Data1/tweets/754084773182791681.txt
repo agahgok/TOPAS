@@ -1,0 +1,1 @@
+{"usernameTweet": "Ismailyildiz67", "ID": "754084773182791681", "text": "Herkez sokağa bu ülke üç beş çapulcuya teslim olmaz #SokağaSakınÇıkma", "url": "/Ismailyildiz67/status/754084773182791681", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:46:34", "is_reply": false, "is_retweet": false, "user_id": "862081141"}

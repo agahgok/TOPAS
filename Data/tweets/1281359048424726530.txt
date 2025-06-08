@@ -1,0 +1,1 @@
+{"usernameTweet": "einminute", "ID": "1281359048424726530", "text": "Yarin bu emre  darbe  icin sokağa inse bunun egsozunu atlette kapatmaz yorgan falan götürmek lazım ", "url": "/einminute/status/1281359048424726530", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 01:46:18", "is_reply": true, "is_retweet": false, "user_id": "885324375435726850"}

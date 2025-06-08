@@ -1,0 +1,1 @@
+{"usernameTweet": "melihaaabak", "ID": "1282007081806110720", "text": "Darbe  üstüne  darbe", "url": "/melihaaabak/status/1282007081806110720", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-11 20:41:21", "is_reply": false, "is_retweet": false, "user_id": "996141643077177345"}

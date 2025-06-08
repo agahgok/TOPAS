@@ -1,0 +1,1 @@
+{"usernameTweet": "fatihbastugg", "ID": "754077592966299648", "text": "Hadiyin len sokaga cikmayipta bu darbecilere boyun mu eğelim #SokağaSakınÇıkma", "url": "/fatihbastugg/status/754077592966299648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:02", "is_reply": false, "is_retweet": false, "user_id": "4704813146"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mertcanozturk5", "ID": "754086809026621440", "text": "Kimi ezan okur kimi sela nopcez #SokağaSakınÇıkma", "url": "/mertcanozturk5/status/754086809026621440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:40", "is_reply": false, "is_retweet": false, "user_id": "2819959275"}

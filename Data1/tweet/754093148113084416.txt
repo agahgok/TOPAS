@@ -1,0 +1,1 @@
+{"usernameTweet": "Ecevit_ER", "ID": "754093148113084416", "text": "Ülkenin içine sıçıp, iç savaş çıkarıp, tası tarağı toplayıp kaçıyorlar...\n\n#SokağaSakınÇıkma", "url": "/Ecevit_ER/status/754093148113084416", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:51", "is_reply": false, "is_retweet": false, "user_id": "2844392078"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Duyguacarikizo1", "ID": "754076168215756800", "text": "Anonslar çık diyor haberler çıkma diyor insan ne yapacağını şaşırıyor #SokağaSakınÇıkma", "url": "/Duyguacarikizo1/status/754076168215756800", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:23", "is_reply": false, "is_retweet": false, "user_id": "3095535047"}

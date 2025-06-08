@@ -1,0 +1,1 @@
+{"usernameTweet": "uzunzekii", "ID": "754098446018220034", "text": "# SokağaÇıkma  Ulan fetö cehennemden çıkamayacaksın.", "url": "/uzunzekii/status/754098446018220034", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:40:54", "is_reply": false, "is_retweet": false, "user_id": "732934120460980225"}

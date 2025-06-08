@@ -1,0 +1,1 @@
+{"usernameTweet": "eskimecmua", "ID": "754092652577038336", "text": "# SokağaSakınÇıkma  akçomarlar alanları doldursun", "url": "/eskimecmua/status/754092652577038336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:53", "is_reply": false, "is_retweet": false, "user_id": "2205371622"}

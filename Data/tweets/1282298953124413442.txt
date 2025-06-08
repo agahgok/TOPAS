@@ -1,0 +1,1 @@
+{"usernameTweet": "minikce06_", "ID": "1282298953124413442", "text": "Siz hemen nasıl toparlanıyorsunuz ben birinden  darbe  yiyince dobarlanamıyorum", "url": "/minikce06_/status/1282298953124413442", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 1, "datetime": "2020-07-12 16:01:09", "is_reply": false, "is_retweet": false, "user_id": "855795932960522241"}

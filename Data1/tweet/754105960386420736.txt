@@ -1,0 +1,1 @@
+{"usernameTweet": "jalesezerdmrg", "ID": "754105960386420736", "text": "Asker polis catismaya surukleniyor.Bu nasil çirkin bir oyun. #SokağaÇıkma", "url": "/jalesezerdmrg/status/754105960386420736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:10:46", "is_reply": false, "is_retweet": false, "user_id": "305009098"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "b_kulaksz", "ID": "754077661367009280", "text": "Sokağa çık ve reisine sahip çık #SokağaSakınÇıkma", "url": "/b_kulaksz/status/754077661367009280", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:18:19", "is_reply": false, "is_retweet": false, "user_id": "370319459"}

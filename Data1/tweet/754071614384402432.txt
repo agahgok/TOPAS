@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetay1234", "ID": "754071614384402432", "text": "# SokağaSakınÇıkma  akp için değil sokağa balkona çıkmam, çıkmak isteyen de varsa zikimde bile değil", "url": "/ahmetay1234/status/754071614384402432", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:17", "is_reply": false, "is_retweet": false, "user_id": "468779413"}

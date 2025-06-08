@@ -1,0 +1,1 @@
+{"usernameTweet": "ynsemre1986", "ID": "754083101882642433", "text": "ÇIKALIM HADİ #SokağaSakınÇıkma  DİYENLRE İNAT", "url": "/ynsemre1986/status/754083101882642433", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:39:56", "is_reply": false, "is_retweet": false, "user_id": "293397403"}

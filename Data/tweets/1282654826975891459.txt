@@ -1,0 +1,1 @@
+{"usernameTweet": "eraysimsek847", "ID": "1282654826975891459", "text": "15 Temmuz Darbeye  darbe  yapan bir milletin hikayesidir.  #15TemmuzuUnutma", "url": "/eraysimsek847/status/1282654826975891459", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 15:35:15", "is_reply": false, "is_retweet": false, "user_id": "1252646013829087238"}

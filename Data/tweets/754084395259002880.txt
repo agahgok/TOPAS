@@ -1,0 +1,1 @@
+{"usernameTweet": "olimposssl", "ID": "754084395259002880", "text": "Ortalık çok karışık #SokağaSakınÇıkma  ....", "url": "/olimposssl/status/754084395259002880", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:04", "is_reply": false, "is_retweet": false, "user_id": "439516173"}

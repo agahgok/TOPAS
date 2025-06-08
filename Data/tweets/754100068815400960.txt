@@ -1,0 +1,1 @@
+{"usernameTweet": "fatih_gs_23", "ID": "754100068815400960", "text": "SİZE ÇIKAN DİYEN YOK ZATEN AMAN ÇIKMAYIN ÖLÜRSÜNÜZ BELKİ,,, #SokağaÇıkma", "url": "/fatih_gs_23/status/754100068815400960", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:47:21", "is_reply": false, "is_retweet": false, "user_id": "300251900"}

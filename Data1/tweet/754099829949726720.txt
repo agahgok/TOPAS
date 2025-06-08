@@ -1,0 +1,1 @@
+{"usernameTweet": "elcekr", "ID": "754099829949726720", "text": "Sokağa çıkın diye hala vaaz veren hocalar susun artık insanlar ölüyor #sokağaçıkma", "url": "/elcekr/status/754099829949726720", "nbr_retweet": 2, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:46:24", "is_reply": false, "is_retweet": false, "user_id": "2501192682"}

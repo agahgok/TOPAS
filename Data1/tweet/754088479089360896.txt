@@ -1,0 +1,1 @@
+{"usernameTweet": "oguzaltunbass", "ID": "754088479089360896", "text": "Oyuna gelmeyin. #SokağaSakınÇıkma", "url": "/oguzaltunbass/status/754088479089360896", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:01:18", "is_reply": false, "is_retweet": false, "user_id": "2231670428"}

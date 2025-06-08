@@ -1,0 +1,1 @@
+{"usernameTweet": "tuanaaduru", "ID": "754070145245601792", "text": "Cikmiyoruz galyana gelmiyoruz. #SokağaSakınÇıkma", "url": "/tuanaaduru/status/754070145245601792", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:48:27", "is_reply": false, "is_retweet": false, "user_id": "4436440696"}

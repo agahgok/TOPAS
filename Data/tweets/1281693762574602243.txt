@@ -1,0 +1,1 @@
+{"usernameTweet": "rabiaagulb", "ID": "1281693762574602243", "text": "Abi bir günde iki  darbe  fazla değil mi insanım bende ya kaldıramıyorum", "url": "/rabiaagulb/status/1281693762574602243", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 23:56:20", "is_reply": false, "is_retweet": false, "user_id": "710035402036551681"}

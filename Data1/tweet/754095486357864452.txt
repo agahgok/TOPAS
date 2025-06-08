@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754095486357864452", "text": "# SokağaSakınÇıkma  madem darbe girisimi ? Tvlerde asker yok hukumet var ..;)) bu nasil darbe", "url": "/orjinalkarakter/status/754095486357864452", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:09", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

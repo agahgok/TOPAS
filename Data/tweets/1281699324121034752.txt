@@ -1,0 +1,1 @@
+{"usernameTweet": "ayhanyildiz64", "ID": "1281699324121034752", "text": "Herkes biliyorki...CHP HDP VE İP liler  Darbe  sempatizanıdırlar...", "url": "/ayhanyildiz64/status/1281699324121034752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 00:18:26", "is_reply": true, "is_retweet": false, "user_id": "1062681944"}

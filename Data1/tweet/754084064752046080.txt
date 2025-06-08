@@ -1,0 +1,1 @@
+{"usernameTweet": "mechull13", "ID": "754084064752046080", "text": "Selanın okunması neden islamamı darbe yaptılar bukadarda istismar edilmez #SokağaSakınÇıkma", "url": "/mechull13/status/754084064752046080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:45", "is_reply": false, "is_retweet": false, "user_id": "2940617356"}

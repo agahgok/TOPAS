@@ -1,0 +1,1 @@
+{"usernameTweet": "AkAynur12", "ID": "754079965063286784", "text": "Müminler caddelerde kahpeler nerede #SokağaSakınÇıkma", "url": "/AkAynur12/status/754079965063286784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:28", "is_reply": false, "is_retweet": false, "user_id": "2405936439"}

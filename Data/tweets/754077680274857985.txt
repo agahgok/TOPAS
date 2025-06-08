@@ -1,0 +1,1 @@
+{"usernameTweet": "AzadiFm", "ID": "754077680274857985", "text": "Bu Bir Oyundur Oyuna Gelmeyin Sokağa Çıkmayın....\n#Turkey  \n#SokağaSakınÇıkma \nYurtta Sulh Konseyi\nAnkara", "url": "/AzadiFm/status/754077680274857985", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:18:23", "is_reply": false, "is_retweet": false, "user_id": "2427991098"}

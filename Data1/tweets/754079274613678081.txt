@@ -1,0 +1,1 @@
+{"usernameTweet": "MarseillaisH", "ID": "754079274613678081", "text": "# SokağaSakınÇıkma", "url": "/MarseillaisH/status/754079274613678081", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:43", "is_reply": false, "is_retweet": false, "user_id": "595963515"}

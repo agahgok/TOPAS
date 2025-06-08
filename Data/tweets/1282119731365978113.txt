@@ -1,0 +1,1 @@
+{"usernameTweet": "buseealvur", "ID": "1282119731365978113", "text": "Aynen öyle çok sağlam  darbe  yedim hemde toparlanmam zaman aldı", "url": "/buseealvur/status/1282119731365978113", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 04:08:59", "is_reply": true, "is_retweet": false, "user_id": "1277550038374326273"}

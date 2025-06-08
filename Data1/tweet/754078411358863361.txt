@@ -1,0 +1,1 @@
+{"usernameTweet": "SrtacBattal", "ID": "754078411358863361", "text": "Adamlar hâlâ ezan okutuyor hâlâ dini kullanıyor #SokağaSakınÇıkma  @RT_Erdogan  nin sözüyle kuyuya inme", "url": "/SrtacBattal/status/754078411358863361", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:18", "is_reply": false, "is_retweet": false, "user_id": "495037978"}

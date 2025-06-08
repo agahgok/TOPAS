@@ -1,0 +1,1 @@
+{"usernameTweet": "VirusrtVirus", "ID": "754088425108668416", "text": "Darbe böyle bişey mi? Bu ne laaan komedi bu! Birilerinin pis bir oyunu sadece. #SokağaSakınÇıkma", "url": "/VirusrtVirus/status/754088425108668416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:05", "is_reply": false, "is_retweet": false, "user_id": "731812935887147008"}

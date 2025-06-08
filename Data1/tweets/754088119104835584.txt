@@ -1,0 +1,1 @@
+{"usernameTweet": "hanifialtas", "ID": "754088119104835584", "text": "# SokağaSakınÇıkma  Balkondan sokağa çöğdürebilirsin!", "url": "/hanifialtas/status/754088119104835584", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:59:52", "is_reply": false, "is_retweet": false, "user_id": "813506400"}

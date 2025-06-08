@@ -1,0 +1,1 @@
+{"usernameTweet": "samikarahan42", "ID": "754091407099461632", "text": "Hiçbir diktatör iç savaş çıkarmadan\ngitmez.. -Lenin\n#SokağaSakınÇıkma   pic.twitter.com/lIYVETVR4Q", "url": "/samikarahan42/status/754091407099461632", "nbr_retweet": 22, "nbr_favorite": 28, "nbr_reply": 1, "datetime": "2016-07-16 02:12:56", "is_reply": false, "is_retweet": false, "user_id": "2821593606"}

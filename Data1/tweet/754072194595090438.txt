@@ -1,0 +1,1 @@
+{"usernameTweet": "mahmudcankaraca", "ID": "754072194595090438", "text": "# SokağaSakınÇıkma \n#darbeyeHayır", "url": "/mahmudcankaraca/status/754072194595090438", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:35", "is_reply": false, "is_retweet": false, "user_id": "1897920691"}

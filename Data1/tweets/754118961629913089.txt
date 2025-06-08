@@ -1,0 +1,1 @@
+{"usernameTweet": "aatinckayinova", "ID": "754118961629913089", "text": "Meclis yanıyo bombalanıyo ve sadece canlı yayından izliyolar #Ankara  #SokağaSakınÇıkma  #AnKARA", "url": "/aatinckayinova/status/754118961629913089", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:02:25", "is_reply": false, "is_retweet": false, "user_id": "1879873316"}

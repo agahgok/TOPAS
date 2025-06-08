@@ -1,0 +1,1 @@
+{"usernameTweet": "izzetkalan", "ID": "754086155755421696", "text": "# SokağaSakınÇıkma  sokağa çıkanlara capulcu dediğin günler pek uzak değildi", "url": "/izzetkalan/status/754086155755421696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:04", "is_reply": false, "is_retweet": false, "user_id": "360026462"}

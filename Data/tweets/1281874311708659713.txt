@@ -1,0 +1,1 @@
+{"usernameTweet": "Nezaket___", "ID": "1281874311708659713", "text": "Darbe  gibi kız alflgldkf", "url": "/Nezaket___/status/1281874311708659713", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-11 11:53:46", "is_reply": true, "is_retweet": false, "user_id": "4248937947"}

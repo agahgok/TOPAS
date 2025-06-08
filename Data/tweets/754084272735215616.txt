@@ -1,0 +1,1 @@
+{"usernameTweet": "ebr_src", "ID": "754084272735215616", "text": "Biz zaten öldük galiba haberimiz yok selamız veriliyo  nasıl çıkalım sokağa #SokağaSakınÇıkma", "url": "/ebr_src/status/754084272735215616", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:44:35", "is_reply": false, "is_retweet": false, "user_id": "2965995531"}

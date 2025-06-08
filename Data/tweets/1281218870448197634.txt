@@ -1,0 +1,1 @@
+{"usernameTweet": "Zehrasun_", "ID": "1281218870448197634", "text": "Bu nasıl  darbe  kafa bedende komutu sendee ", "url": "/Zehrasun_/status/1281218870448197634", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-09 16:29:17", "is_reply": false, "is_retweet": false, "user_id": "999578340116844545"}

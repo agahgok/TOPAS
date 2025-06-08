@@ -1,0 +1,1 @@
+{"usernameTweet": "trossero5", "ID": "1281629068136460289", "text": "askeri  darbe    orada da kemalist yok zaten hepsi cihatçı oldu", "url": "/trossero5/status/1281629068136460289", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 19:39:16", "is_reply": true, "is_retweet": false, "user_id": "881278922490609665"}

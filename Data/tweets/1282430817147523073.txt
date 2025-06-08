@@ -1,0 +1,1 @@
+{"usernameTweet": "Oguuz007", "ID": "1282430817147523073", "text": "Bu döneme sağlam bir  darbe  lazım sanırım düzelebilmek için", "url": "/Oguuz007/status/1282430817147523073", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-13 00:45:07", "is_reply": false, "is_retweet": false, "user_id": "1125816032751431686"}

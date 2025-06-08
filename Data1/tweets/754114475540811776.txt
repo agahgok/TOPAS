@@ -1,0 +1,1 @@
+{"usernameTweet": "Sahmeran54Senem", "ID": "754114475540811776", "text": "# SokağaSakınÇıkma  RTEMisirliMursiyiOynuyorHslkiSokagaCikDiyor", "url": "/Sahmeran54Senem/status/754114475540811776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:44:36", "is_reply": false, "is_retweet": false, "user_id": "3001839548"}

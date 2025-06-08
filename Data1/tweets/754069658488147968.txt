@@ -1,0 +1,1 @@
+{"usernameTweet": "brovnella", "ID": "754069658488147968", "text": "# SokağaSakınÇıkma  kendin için bunu yapma", "url": "/brovnella/status/754069658488147968", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:46:31", "is_reply": false, "is_retweet": false, "user_id": "3317973471"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TanyeliSemra", "ID": "754076264324014080", "text": "# SokağaSakınÇıkma  oyuna gelme Tsk ülkenin teminatıdır...", "url": "/TanyeliSemra/status/754076264324014080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:46", "is_reply": false, "is_retweet": false, "user_id": "3363111183"}

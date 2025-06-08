@@ -1,0 +1,1 @@
+{"usernameTweet": "biorg_ag", "ID": "754087117211340800", "text": "# SokağaSakınÇıkma  iç savaşa ve çatışmalara camiler fon müziği yapıyor...", "url": "/biorg_ag/status/754087117211340800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:53", "is_reply": false, "is_retweet": false, "user_id": "93876416"}

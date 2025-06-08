@@ -1,0 +1,1 @@
+{"usernameTweet": "huzeyme61", "ID": "754079667003465728", "text": "# SokağaSakınÇıkma  Mesele memleket meselesi, ülkene sahip çık!meydanlara in!", "url": "/huzeyme61/status/754079667003465728", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:26:17", "is_reply": false, "is_retweet": false, "user_id": "288711196"}

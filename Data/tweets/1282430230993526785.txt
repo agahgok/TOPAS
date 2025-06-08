@@ -1,0 +1,1 @@
+{"usernameTweet": "sevincdedibiri", "ID": "1282430230993526785", "text": "Tofaş  darbe  testi.  https:// twitter.com/_adamlondon/st atus/1282185938656006144   …", "url": "/sevincdedibiri/status/1282430230993526785", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 00:42:48", "is_reply": false, "is_retweet": false, "user_id": "188339230"}

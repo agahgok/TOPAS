@@ -1,0 +1,1 @@
+{"usernameTweet": "zdglftsm", "ID": "754102222896631809", "text": "Çok traji komik #SokagaSakınCikma", "url": "/zdglftsm/status/754102222896631809", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:55:55", "is_reply": false, "is_retweet": false, "user_id": "697905048341315585"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gamzeoptimist", "ID": "754072737430265856", "text": "Darbe adı altında bir tiyatro mu izliyoruz acaba? #SokağaSakınÇıkma", "url": "/gamzeoptimist/status/754072737430265856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:45", "is_reply": false, "is_retweet": false, "user_id": "1456872480"}

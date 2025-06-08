@@ -1,0 +1,1 @@
+{"usernameTweet": "aktivist_ateist", "ID": "754079332553912320", "text": "# SokağaSakınÇıkma   https:// twitter.com/optimist_ateis t/status/754067382751072256   …", "url": "/aktivist_ateist/status/754079332553912320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:57", "is_reply": false, "is_retweet": false, "user_id": "749166308206542848"}

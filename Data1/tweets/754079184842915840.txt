@@ -1,0 +1,1 @@
+{"usernameTweet": "sisfeneri", "ID": "754079184842915840", "text": "Baştan sona düzmece... #SokağaSakınÇıkma", "url": "/sisfeneri/status/754079184842915840", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:24:22", "is_reply": false, "is_retweet": false, "user_id": "387672234"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ketum_bey", "ID": "754083326923866113", "text": "Ülke kaybetti #SokağaSakınÇıkma", "url": "/ketum_bey/status/754083326923866113", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:49", "is_reply": false, "is_retweet": false, "user_id": "704242486940663808"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ffundaa_aydn", "ID": "754093049584713728", "text": "Beynini kullan ! Varsa tabi ! #SokağaSakınÇıkma", "url": "/ffundaa_aydn/status/754093049584713728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:28", "is_reply": false, "is_retweet": false, "user_id": "210017543"}

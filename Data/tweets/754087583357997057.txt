@@ -1,0 +1,1 @@
+{"usernameTweet": "oyibiza", "ID": "754087583357997057", "text": "# ankara  #SokağaSakınÇıkma  one love gibi one minute festivali bu. karşı devrim izliyoruz.", "url": "/oyibiza/status/754087583357997057", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:44", "is_reply": false, "is_retweet": false, "user_id": "80469222"}

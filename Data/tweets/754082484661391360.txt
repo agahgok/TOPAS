@@ -1,0 +1,1 @@
+{"usernameTweet": "kskobi", "ID": "754082484661391360", "text": "imam cildirdi milleti sokaga cagiriyor .  #SokağaSakınÇıkma", "url": "/kskobi/status/754082484661391360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:29", "is_reply": false, "is_retweet": false, "user_id": "148517424"}

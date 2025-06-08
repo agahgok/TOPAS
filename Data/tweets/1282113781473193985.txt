@@ -1,0 +1,1 @@
+{"usernameTweet": "Elffyulu", "ID": "1282113781473193985", "text": "Darbe  üstüne  darbe", "url": "/Elffyulu/status/1282113781473193985", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 03:45:20", "is_reply": false, "is_retweet": false, "user_id": "999072531876368385"}

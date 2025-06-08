@@ -1,0 +1,1 @@
+{"usernameTweet": "turna_saim", "ID": "754070275411611649", "text": "Yahu bizi birbirimize düşürecekler. gelmeyin şu oyuna...\n#sokağasakınçıkma \n#sokağasakınçıkma", "url": "/turna_saim/status/754070275411611649", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:48:58", "is_reply": false, "is_retweet": false, "user_id": "720684756841676800"}

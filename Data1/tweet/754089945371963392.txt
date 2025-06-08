@@ -1,0 +1,1 @@
+{"usernameTweet": "babaanne1", "ID": "754089945371963392", "text": "# SokağaSakınÇıkma  #DarbeyeHayır \n\nTürk askeri bu kadar cahil ve ahmak olabilir mi ?", "url": "/babaanne1/status/754089945371963392", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 02:07:07", "is_reply": false, "is_retweet": false, "user_id": "446568085"}

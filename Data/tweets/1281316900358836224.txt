@@ -1,0 +1,1 @@
+{"usernameTweet": "sdesoyal", "ID": "1281316900358836224", "text": "Kimseye en yakınım diyemiyorum herkesten bir  darbe", "url": "/sdesoyal/status/1281316900358836224", "nbr_retweet": 2, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2020-07-09 22:58:49", "is_reply": false, "is_retweet": false, "user_id": "1038175047058436096"}

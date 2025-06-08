@@ -1,0 +1,1 @@
+{"usernameTweet": "zamansizhaber", "ID": "754075499563843585", "text": "Kan dökülmesini istiyorlar. Aklıselim olun #SokağaSakınÇıkma", "url": "/zamansizhaber/status/754075499563843585", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:43", "is_reply": false, "is_retweet": false, "user_id": "719145975730860032"}

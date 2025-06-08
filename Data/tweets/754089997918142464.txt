@@ -1,0 +1,1 @@
+{"usernameTweet": "hemenbak_", "ID": "754089997918142464", "text": "Kim kazanır bilinmez de, biz kaybederiz.\n#SokağaSakınÇıkma  \n#Darbe", "url": "/hemenbak_/status/754089997918142464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:20", "is_reply": false, "is_retweet": false, "user_id": "1510322334"}

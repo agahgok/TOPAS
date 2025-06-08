@@ -1,0 +1,1 @@
+{"usernameTweet": "yavuzselim20231", "ID": "754082929131851776", "text": "# SokağaSakınÇıkma  BU MİLLET İLE BU ASKERİ  KARŞI KARŞIYA  GETİRME  pic.twitter.com/FDEWqFFlJy", "url": "/yavuzselim20231/status/754082929131851776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:15", "is_reply": false, "is_retweet": false, "user_id": "2968114161"}

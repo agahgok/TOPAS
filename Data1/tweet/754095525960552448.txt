@@ -1,0 +1,1 @@
+{"usernameTweet": "busrayel_49", "ID": "754095525960552448", "text": "# SokağaÇıkma  \nSokağa çıkanları hain ilan edenler şimdi halkı sokağa çağırıyor..", "url": "/busrayel_49/status/754095525960552448", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:29:18", "is_reply": false, "is_retweet": false, "user_id": "702614269083426819"}

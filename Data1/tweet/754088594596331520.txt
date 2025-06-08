@@ -1,0 +1,1 @@
+{"usernameTweet": "serhatacar47", "ID": "754088594596331520", "text": "Çok güzel bir oyundu tebrikler #SokağaSakınÇıkma", "url": "/serhatacar47/status/754088594596331520", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:01:45", "is_reply": false, "is_retweet": false, "user_id": "1709478031"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Dehaa8", "ID": "754081215293030400", "text": "Askeri düşman etmeye çalışan bi zihniyet var  #SokağaSakınÇıkma", "url": "/Dehaa8/status/754081215293030400", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:26", "is_reply": false, "is_retweet": false, "user_id": "407968761"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "y_karacapinar", "ID": "754083017375752192", "text": "Kendini tehlikeye atma. Kendi askerine hedef olma #SokağaSakınÇıkma", "url": "/y_karacapinar/status/754083017375752192", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:39:36", "is_reply": false, "is_retweet": false, "user_id": "2912958675"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "328M3rw3", "ID": "754088005829132288", "text": "Şehitlerimiz gelirken sokağa çıkmayanlar şimdi sokağa çkıyor . YAZIK!!! #SokağaSakınÇıkma", "url": "/328M3rw3/status/754088005829132288", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:25", "is_reply": false, "is_retweet": false, "user_id": "3319321923"}

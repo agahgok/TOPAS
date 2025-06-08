@@ -1,0 +1,1 @@
+{"usernameTweet": "AyseKan20", "ID": "1282053048509124614", "text": "Öldürmeyen  darbe  insanı güçlendiriyor bu da bir gerçek", "url": "/AyseKan20/status/1282053048509124614", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2020-07-11 23:44:00", "is_reply": true, "is_retweet": false, "user_id": "2845499601"}

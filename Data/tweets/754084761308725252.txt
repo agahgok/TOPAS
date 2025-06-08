@@ -1,0 +1,1 @@
+{"usernameTweet": "HAKANTURE_", "ID": "754084761308725252", "text": "SELA VEREN SOKAĞA ÇIKIN ANONSU YAPAN CAMİ İMAMLARINA HADLERİNİ BİLDİRİN #SokağaSakınÇıkma ...", "url": "/HAKANTURE_/status/754084761308725252", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:31", "is_reply": false, "is_retweet": false, "user_id": "2271574087"}

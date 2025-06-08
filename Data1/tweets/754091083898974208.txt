@@ -1,0 +1,1 @@
+{"usernameTweet": "___muHEn", "ID": "754091083898974208", "text": "Duzmece darbe oyununuz beni cok sikti yatiyom ben ne bok yerseniz yeyin   #SokağaSakınÇıkma", "url": "/___muHEn/status/754091083898974208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:39", "is_reply": false, "is_retweet": false, "user_id": "83339731"}

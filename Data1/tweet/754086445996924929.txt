@@ -1,0 +1,1 @@
+{"usernameTweet": "suruden_ayri", "ID": "754086445996924929", "text": "polisin askeri gözaltına aldığı doğruysa, sakın evinizden çıkmayın #SokağaSakınÇıkma", "url": "/suruden_ayri/status/754086445996924929", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:13", "is_reply": false, "is_retweet": false, "user_id": "2664192432"}

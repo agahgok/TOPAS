@@ -1,0 +1,1 @@
+{"usernameTweet": "ByhAkAnN", "ID": "754090076855042049", "text": "Selanın anlamı Hz. Muhammed'e övgüdür Tayyibe değil. Devletin imamlarına(!) duyrulur #sokağasakincikma", "url": "/ByhAkAnN/status/754090076855042049", "nbr_retweet": 3, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2016-07-16 02:07:39", "is_reply": false, "is_retweet": false, "user_id": "172076484"}

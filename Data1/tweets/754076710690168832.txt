@@ -1,0 +1,1 @@
+{"usernameTweet": "paranoyak83", "ID": "754076710690168832", "text": "# SokağaSakınÇıkma  çıkın çıkın geberin AKitler", "url": "/paranoyak83/status/754076710690168832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:32", "is_reply": false, "is_retweet": false, "user_id": "2268061711"}

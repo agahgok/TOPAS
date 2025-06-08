@@ -1,0 +1,1 @@
+{"usernameTweet": "sena_gunayy", "ID": "754091203726077953", "text": "# SokağaSakınÇıkma  oyuna gelme işte yine filler tepişiyor çimenler eziliyor!", "url": "/sena_gunayy/status/754091203726077953", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:12:07", "is_reply": false, "is_retweet": false, "user_id": "2780317659"}

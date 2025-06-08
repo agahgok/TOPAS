@@ -1,0 +1,1 @@
+{"usernameTweet": "FirataAcu", "ID": "1282328979890999296", "text": "Muhammed Mursi’ye  darbe  yapıldığında seni tanımıştık zaten El-ezher. \nŞaşırtmadın bizi...", "url": "/FirataAcu/status/1282328979890999296", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 18:00:27", "is_reply": true, "is_retweet": false, "user_id": "2365766027"}

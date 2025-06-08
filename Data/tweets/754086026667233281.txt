@@ -1,0 +1,1 @@
+{"usernameTweet": "huznugarip", "ID": "754086026667233281", "text": "Cikmayanin anasini sikim\n #SokağaSakınÇıkma", "url": "/huznugarip/status/754086026667233281", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:33", "is_reply": false, "is_retweet": false, "user_id": "2889954958"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Ghodum", "ID": "754071239514218496", "text": "O surattaki ifade tam olarak göt korkusu lan, çok eminim #sokagacıkma  #ankara", "url": "/Ghodum/status/754071239514218496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:48", "is_reply": false, "is_retweet": false, "user_id": "234687723"}

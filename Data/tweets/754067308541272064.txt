@@ -1,0 +1,1 @@
+{"usernameTweet": "AylinM__", "ID": "754067308541272064", "text": "EVDE KALIN  #SokağaSakınÇıkma  #SONDAKİKA", "url": "/AylinM__/status/754067308541272064", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:10", "is_reply": false, "is_retweet": false, "user_id": "3194727187"}

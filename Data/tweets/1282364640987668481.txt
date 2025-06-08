@@ -1,0 +1,1 @@
+{"usernameTweet": "AdalbertoAyal20", "ID": "1282364640987668481", "text": "Nunca falta el primer idiota, @TreborSolrak  jamas mencionó a @HLGatell  ", "url": "/AdalbertoAyal20/status/1282364640987668481", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 20:22:10", "is_reply": true, "is_retweet": false, "user_id": "1191513358442344451"}

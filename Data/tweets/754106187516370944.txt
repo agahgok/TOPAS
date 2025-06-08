@@ -1,0 +1,1 @@
+{"usernameTweet": "sevvalclebi", "ID": "754106187516370944", "text": "Her olayda yayın yasağı getirilirken bu olayda getirilmemesi ''çok manidar''. #SokağaSakınÇıkma", "url": "/sevvalclebi/status/754106187516370944", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 03:11:40", "is_reply": false, "is_retweet": false, "user_id": "1052633342"}

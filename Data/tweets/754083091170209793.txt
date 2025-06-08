@@ -1,0 +1,1 @@
+{"usernameTweet": "frknvrgn", "ID": "754083091170209793", "text": "# SokağaSakınÇıkma  DİYENLER KANSIZ VE ŞEREFSİZLERDİR .", "url": "/frknvrgn/status/754083091170209793", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:39:53", "is_reply": false, "is_retweet": false, "user_id": "567368229"}

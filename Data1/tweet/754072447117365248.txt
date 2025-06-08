@@ -1,0 +1,1 @@
+{"usernameTweet": "annonymci", "ID": "754072447117365248", "text": "# SokağaSakınÇıkma \n\nCumhurbaşkanı Erdoğan...  Bilal ve Sümeyye yi indirsin sokağa!", "url": "/annonymci/status/754072447117365248", "nbr_retweet": 4, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 00:57:36", "is_reply": false, "is_retweet": false, "user_id": "1518966098"}

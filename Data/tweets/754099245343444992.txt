@@ -1,0 +1,1 @@
+{"usernameTweet": "MehtapDororon", "ID": "754099245343444992", "text": "# SokağaÇıkma  \nzsak evde bombalanırmıyız ?", "url": "/MehtapDororon/status/754099245343444992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:44:05", "is_reply": false, "is_retweet": false, "user_id": "2996205113"}

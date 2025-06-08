@@ -1,0 +1,1 @@
+{"usernameTweet": "tatar_1905_mhmt", "ID": "754094519948349442", "text": "# SokağaSakınÇıkma  diyosun niye vururmusunuz yoksa", "url": "/tatar_1905_mhmt/status/754094519948349442", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:18", "is_reply": false, "is_retweet": false, "user_id": "705757107618971648"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "GuneyEyt", "ID": "754094704753577984", "text": "# SokağaSakınÇıkma  yaz torun gardaşlarım çatışma başladı kardaş kardaş dan çarpışıyor yardım et Allahım", "url": "/GuneyEyt/status/754094704753577984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:02", "is_reply": false, "is_retweet": false, "user_id": "725736972254351361"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "redno9", "ID": "754085597673877505", "text": "Laiklik bu günler için lazımdı Meclis Başkan'ı anlamazsın ama ! #SokağaSakınÇıkma", "url": "/redno9/status/754085597673877505", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:51", "is_reply": false, "is_retweet": false, "user_id": "3845054482"}

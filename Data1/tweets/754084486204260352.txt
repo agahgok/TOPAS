@@ -1,0 +1,1 @@
+{"usernameTweet": "Cem_ayaydin", "ID": "754084486204260352", "text": "Sokaga cikma yasagi mi var EVE GIRMEME YASAGI mi anlamadim #SokağaSakınÇıkma", "url": "/Cem_ayaydin/status/754084486204260352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:26", "is_reply": false, "is_retweet": false, "user_id": "3252638158"}

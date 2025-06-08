@@ -1,0 +1,1 @@
+{"usernameTweet": "fercan3830", "ID": "1282338442622504967", "text": "\"Eğer bir amaç uğruna ayakta değilseniz, her  darbe  sizi yere serebilir... \"\n| Malcolm X", "url": "/fercan3830/status/1282338442622504967", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 18:38:04", "is_reply": false, "is_retweet": false, "user_id": "1114733621494145025"}

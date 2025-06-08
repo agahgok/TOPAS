@@ -1,0 +1,1 @@
+{"usernameTweet": "morpheusgaya", "ID": "1282385858335854594", "text": "Canlı yayında nisa olursa kolye olayı konuşulur kesin ben  darbe  bekliyorum oradan #cembar", "url": "/morpheusgaya/status/1282385858335854594", "nbr_retweet": 0, "nbr_favorite": 39, "nbr_reply": 3, "datetime": "2020-07-12 21:46:28", "is_reply": false, "is_retweet": false, "user_id": "979683799087841281"}

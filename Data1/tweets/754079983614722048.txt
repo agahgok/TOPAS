@@ -1,0 +1,1 @@
+{"usernameTweet": "niyetszche", "ID": "754079983614722048", "text": "# SokağaSakınÇıkma  Başkomutan MUSTAFA KEMAL ATATÜRK  pic.twitter.com/GSjLWMZQRp", "url": "/niyetszche/status/754079983614722048", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:27:32", "is_reply": false, "is_retweet": false, "user_id": "3370535433"}

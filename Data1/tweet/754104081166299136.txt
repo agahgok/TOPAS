@@ -1,0 +1,1 @@
+{"usernameTweet": "terellli", "ID": "754104081166299136", "text": "Bitsin artık kabus\n #SokağaÇıkma", "url": "/terellli/status/754104081166299136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:03:18", "is_reply": false, "is_retweet": false, "user_id": "3010261636"}

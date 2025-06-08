@@ -1,0 +1,1 @@
+{"usernameTweet": "patchadamsgp", "ID": "754090939493158912", "text": "# SokağaSakınÇıkma  2 saatlik bir macera :) Başkanlık sistemi.../////////\n LOADİNG.......", "url": "/patchadamsgp/status/754090939493158912", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:11:04", "is_reply": false, "is_retweet": false, "user_id": "623190910"}

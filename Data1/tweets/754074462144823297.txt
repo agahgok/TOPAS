@@ -1,0 +1,1 @@
+{"usernameTweet": "55Nghn", "ID": "754074462144823297", "text": "# SokağaSakınÇıkma  Millete çık diyorsun kendin telefondan bağlanıyorsun.\nÖnce kendin çıkacaksın Tayyip..", "url": "/55Nghn/status/754074462144823297", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:05:36", "is_reply": false, "is_retweet": false, "user_id": "702028167435960320"}

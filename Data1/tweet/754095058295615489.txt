@@ -1,0 +1,1 @@
+{"usernameTweet": "god_of_distopia", "ID": "754095058295615489", "text": "15 Temmuz in, 28 Şubat out hoppala ve de cuppala #SokağaSakınÇıkma", "url": "/god_of_distopia/status/754095058295615489", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:27:26", "is_reply": false, "is_retweet": false, "user_id": "2742107273"}

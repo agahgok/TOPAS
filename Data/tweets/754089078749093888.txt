@@ -1,0 +1,1 @@
+{"usernameTweet": "Sevgii_10", "ID": "754089078749093888", "text": "Lan şerefsizler hergün asker ölürken niye sokağa cikmiyordunuz? #SokağaSakınÇıkma", "url": "/Sevgii_10/status/754089078749093888", "nbr_retweet": 215, "nbr_favorite": 585, "nbr_reply": 28, "datetime": "2016-07-16 02:03:41", "is_reply": false, "is_retweet": false, "user_id": "316361499"}

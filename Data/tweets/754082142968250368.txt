@@ -1,0 +1,1 @@
+{"usernameTweet": "Mervelhan4", "ID": "754082142968250368", "text": "# SokağaSakınÇıkma  siz bu gidişle vatan da satarsıniz, tek millet olacagımz yerde OLMADI BU !!!!!!!!", "url": "/Mervelhan4/status/754082142968250368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:07", "is_reply": false, "is_retweet": false, "user_id": "944120604"}

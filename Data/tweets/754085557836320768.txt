@@ -1,0 +1,1 @@
+{"usernameTweet": "Kara_Mizahli", "ID": "754085557836320768", "text": "Din'i kullanarak halkı askerine karşı kiskirtanlara iç savaş çıkarmaya calisanlara kanma #SokağaSakınÇıkma", "url": "/Kara_Mizahli/status/754085557836320768", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:49:41", "is_reply": false, "is_retweet": false, "user_id": "1106692009"}

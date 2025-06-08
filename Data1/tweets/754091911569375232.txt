@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafa_tanjant", "ID": "754091911569375232", "text": "Fake darbe #SokağaSakınÇıkma", "url": "/mustafa_tanjant/status/754091911569375232", "nbr_retweet": 2, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2016-07-16 02:14:56", "is_reply": false, "is_retweet": false, "user_id": "494240577"}

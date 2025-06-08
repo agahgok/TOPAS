@@ -1,0 +1,1 @@
+{"usernameTweet": "selinyuhay1", "ID": "1281516482275442689", "text": "15 Temmuz sahte darbenin\n Darbe  tiyatrosu olduğunu tüm dünya biliyor zaten.", "url": "/selinyuhay1/status/1281516482275442689", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 12:11:53", "is_reply": true, "is_retweet": false, "user_id": "1215529419978223618"}

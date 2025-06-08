@@ -1,0 +1,1 @@
+{"usernameTweet": "ASevincManas", "ID": "754092530149560320", "text": "Şuan üçüncü sela okunuyor ölmeden insanların selasını verdiyolar resmen..#SokağaSakınÇıkma", "url": "/ASevincManas/status/754092530149560320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:24", "is_reply": false, "is_retweet": false, "user_id": "561149622"}

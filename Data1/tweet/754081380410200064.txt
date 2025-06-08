@@ -1,0 +1,1 @@
+{"usernameTweet": "sibel__erg", "ID": "754081380410200064", "text": "Su an Basakşehir'de ezan okunuyor #SokağaSakınÇıkma", "url": "/sibel__erg/status/754081380410200064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:05", "is_reply": false, "is_retweet": false, "user_id": "577034092"}

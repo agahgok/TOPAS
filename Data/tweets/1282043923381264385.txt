@@ -1,0 +1,1 @@
+{"usernameTweet": "Akgullemine", "ID": "1282043923381264385", "text": "Darbe  üstüne  darbe  uslanmıyor mu ?", "url": "/Akgullemine/status/1282043923381264385", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 23:07:45", "is_reply": false, "is_retweet": false, "user_id": "246892683"}

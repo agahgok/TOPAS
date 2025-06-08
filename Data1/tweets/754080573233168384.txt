@@ -1,0 +1,1 @@
+{"usernameTweet": "serhan888", "ID": "754080573233168384", "text": "Sokaklar bir gün herkese lazım olur!! #SokağaSakınÇıkma", "url": "/serhan888/status/754080573233168384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:53", "is_reply": false, "is_retweet": false, "user_id": "268729743"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "aydinkanyilmaz", "ID": "754079180631990272", "text": "Evinde çerez yiyerek keyifle  #SokağaSakınÇıkma  diyenler sizede sıra gelecek", "url": "/aydinkanyilmaz/status/754079180631990272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:21", "is_reply": false, "is_retweet": false, "user_id": "210878468"}

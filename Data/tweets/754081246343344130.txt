@@ -1,0 +1,1 @@
+{"usernameTweet": "gkara616161", "ID": "754081246343344130", "text": "Dini suistimal edip #SokağaSakınÇıkma", "url": "/gkara616161/status/754081246343344130", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:33", "is_reply": false, "is_retweet": false, "user_id": "754080108802039808"}

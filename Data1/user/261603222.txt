@@ -1,0 +1,1 @@
+{"ID": "261603222", "name": "すぎるBOT", "screen_name": "sugiru_bot", "avatar": "https://pbs.twimg.com/profile_images/3020934113/693eea2ea05b084088408976279dd594_bigger.png"}

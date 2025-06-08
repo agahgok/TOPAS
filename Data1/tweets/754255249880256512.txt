@@ -1,0 +1,1 @@
+{"usernameTweet": "Ozzybika", "ID": "754255249880256512", "text": "Lan Adam sokağa çık dedi Boğaziçi köprüsünde üç kişi vuruldu herşey yeni başlıyor  #SokağaSakınÇıkma", "url": "/Ozzybika/status/754255249880256512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 13:03:59", "is_reply": false, "is_retweet": false, "user_id": "2556890676"}

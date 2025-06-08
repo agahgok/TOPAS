@@ -1,0 +1,1 @@
+{"usernameTweet": "MUHAFIZ_35", "ID": "754085504975564800", "text": "# SokağaSakınÇıkma  diyen Feto yavşakları,an itibarıyla İzmir", "url": "/MUHAFIZ_35/status/754085504975564800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:29", "is_reply": false, "is_retweet": false, "user_id": "330004698"}

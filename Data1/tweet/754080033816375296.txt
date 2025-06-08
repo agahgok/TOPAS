@@ -1,0 +1,1 @@
+{"usernameTweet": "M_Kaplan2", "ID": "754080033816375296", "text": "# SokağaSakınÇıkma \nSabah başka Akşam başka\n#SokağaSakınÇıkma", "url": "/M_Kaplan2/status/754080033816375296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:44", "is_reply": true, "is_retweet": false, "user_id": "2850858344"}

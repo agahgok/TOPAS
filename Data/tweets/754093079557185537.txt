@@ -1,0 +1,1 @@
+{"usernameTweet": "bulent_mars", "ID": "754093079557185537", "text": "# SokağaSakınÇıkma  darbe oluyor,dip görmez halkı sokağa çağırıyor.10 numara senaryo!", "url": "/bulent_mars/status/754093079557185537", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:35", "is_reply": false, "is_retweet": false, "user_id": "3320848305"}

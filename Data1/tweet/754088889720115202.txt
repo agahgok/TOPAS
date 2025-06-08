@@ -1,0 +1,1 @@
+{"usernameTweet": "oktyfb3437", "ID": "754088889720115202", "text": "# SokağaSakınÇıkma  Hocanın tam sesi kısılmış diye sevinirken oğlu aldı sazı şimdi . Offff of", "url": "/oktyfb3437/status/754088889720115202", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:56", "is_reply": false, "is_retweet": false, "user_id": "752090071923392512"}

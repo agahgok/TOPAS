@@ -1,0 +1,1 @@
+{"usernameTweet": "Jacaboo_", "ID": "754086236814450688", "text": "İnşallah bu durumun sonunda kazanan siyasiler değil de halk olur.. #SokağaSakınÇıkma", "url": "/Jacaboo_/status/754086236814450688", "nbr_retweet": 48, "nbr_favorite": 168, "nbr_reply": 1, "datetime": "2016-07-16 01:52:23", "is_reply": false, "is_retweet": false, "user_id": "721124120"}

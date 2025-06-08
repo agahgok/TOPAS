@@ -1,0 +1,1 @@
+{"usernameTweet": "betoskoocum", "ID": "1282305753009860608", "text": "darbe  gördüm..deprem gördüm..salgın gördüm..bi gün yüzü göremedim", "url": "/betoskoocum/status/1282305753009860608", "nbr_retweet": 0, "nbr_favorite": 24, "nbr_reply": 1, "datetime": "2020-07-12 16:28:10", "is_reply": false, "is_retweet": false, "user_id": "1236713149463699462"}

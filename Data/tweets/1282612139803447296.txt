@@ -1,0 +1,1 @@
+{"usernameTweet": "talha1ozkan", "ID": "1282612139803447296", "text": "hocanızı da alın gelin trye 1  darbe  daha yapın. ayasofyayı kilise yaparsınız.", "url": "/talha1ozkan/status/1282612139803447296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 12:45:38", "is_reply": true, "is_retweet": false, "user_id": "1858255430"}

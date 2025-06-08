@@ -1,0 +1,1 @@
+{"usernameTweet": "zuhal1956", "ID": "754089168360177666", "text": "bu Ülkeye ihanet eden RTE ve akape için #SokağaSakınÇıkma", "url": "/zuhal1956/status/754089168360177666", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:02", "is_reply": false, "is_retweet": false, "user_id": "166476216"}

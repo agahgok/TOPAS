@@ -1,0 +1,1 @@
+{"usernameTweet": "mavimsi_seyler", "ID": "754092149269028864", "text": "Tiksiniyorum bazi insanlardan, dini siyasete alet eden o insanlardan?!?!?!! #SokağaSakınÇıkma", "url": "/mavimsi_seyler/status/754092149269028864", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:15:53", "is_reply": false, "is_retweet": false, "user_id": "4323289834"}

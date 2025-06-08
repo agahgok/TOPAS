@@ -1,0 +1,1 @@
+{"usernameTweet": "UGRYGT90", "ID": "754074980686626817", "text": "Gezide sokaga çıkan terroristti  #SokağaSakınÇıkma", "url": "/UGRYGT90/status/754074980686626817", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:40", "is_reply": false, "is_retweet": false, "user_id": "1049736336"}

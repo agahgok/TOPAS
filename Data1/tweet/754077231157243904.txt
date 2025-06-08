@@ -1,0 +1,1 @@
+{"usernameTweet": "MrMinik1905", "ID": "754077231157243904", "text": "Kendisi sokakta değil sokağı  geç ülkede yok milleti sokağa döküyor \n #SokağaSakınÇıkma", "url": "/MrMinik1905/status/754077231157243904", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:16:36", "is_reply": false, "is_retweet": false, "user_id": "718516278"}

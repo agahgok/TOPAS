@@ -1,0 +1,1 @@
+{"usernameTweet": "TCsifresiztv", "ID": "754064223681011716", "text": "AKP halkı kışkırtmaya çalışıyor. SAKİN OLUN ve #SokağaSakınÇıkma \nyın!", "url": "/TCsifresiztv/status/754064223681011716", "nbr_retweet": 94, "nbr_favorite": 61, "nbr_reply": 2, "datetime": "2016-07-16 00:24:55", "is_reply": false, "is_retweet": false, "user_id": "300792901"}

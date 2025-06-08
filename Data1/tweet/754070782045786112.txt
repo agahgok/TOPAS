@@ -1,0 +1,1 @@
+{"usernameTweet": "r_yurtsever", "ID": "754070782045786112", "text": "# SokağaSakınÇıkma   pic.twitter.com/Ymz8tRpAjD", "url": "/r_yurtsever/status/754070782045786112", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 00:50:59", "is_reply": false, "is_retweet": false, "user_id": "438179265"}

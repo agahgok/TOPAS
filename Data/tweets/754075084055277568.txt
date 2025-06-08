@@ -1,0 +1,1 @@
+{"usernameTweet": "HakkEker3", "ID": "754075084055277568", "text": "Serefsizler utanin  #SokağaSakınÇıkma", "url": "/HakkEker3/status/754075084055277568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:04", "is_reply": false, "is_retweet": false, "user_id": "4791903549"}

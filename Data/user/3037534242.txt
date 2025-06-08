@@ -1,0 +1,1 @@
+{"ID": "3037534242", "name": "한 잡덕의 취향봇", "screen_name": "KVNT_Bot", "avatar": "https://pbs.twimg.com/profile_images/1254625239377444864/UW6kIYDT_bigger.jpg"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Angel_Turkish", "ID": "754068900757798914", "text": "İç savaş çıkartmaktaya çalışıyor Recep Tayyip Erdoğan sakın ÇIKMAYIN  #SokağaSakınÇıkma", "url": "/Angel_Turkish/status/754068900757798914", "nbr_retweet": 9, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2016-07-16 00:43:30", "is_reply": false, "is_retweet": false, "user_id": "484125666"}

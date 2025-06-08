@@ -1,0 +1,1 @@
+{"usernameTweet": "tugba_dnz", "ID": "754094023745339393", "text": "# SokağaSakınÇıkma  askeri askere, askeri polise, halki askere dusman edemezsiniz  pic.twitter.com/LTNRtx5rwe", "url": "/tugba_dnz/status/754094023745339393", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:20", "is_reply": false, "is_retweet": false, "user_id": "1603504123"}

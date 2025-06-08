@@ -1,0 +1,1 @@
+{"usernameTweet": "ismim_ibrahim", "ID": "754094760722214913", "text": "Bu darbe TAM BİR TİYATRO ! Kimin işine yaradığı belli !\n#SokağaSakınÇıkma \n#DarbeyeHayır", "url": "/ismim_ibrahim/status/754094760722214913", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:16", "is_reply": false, "is_retweet": false, "user_id": "462864613"}

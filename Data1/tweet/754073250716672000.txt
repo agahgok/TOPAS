@@ -1,0 +1,1 @@
+{"usernameTweet": "SadkMrcn", "ID": "754073250716672000", "text": "Milletin evladını birbirine kırdırmayın galeyana gelmeyin #SokağaSakınÇıkma", "url": "/SadkMrcn/status/754073250716672000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:47", "is_reply": false, "is_retweet": false, "user_id": "719949542972633089"}

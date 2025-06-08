@@ -1,0 +1,1 @@
+{"usernameTweet": "838c2b26fa78480", "ID": "754089079256539136", "text": "Ya bu işe bile mukaddes dinimizi alet ettiniz ya !!! #SokağaSakınÇıkma", "url": "/838c2b26fa78480/status/754089079256539136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:41", "is_reply": false, "is_retweet": false, "user_id": "2807135427"}

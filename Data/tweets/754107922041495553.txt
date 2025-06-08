@@ -1,0 +1,1 @@
+{"usernameTweet": "A_buraktalay", "ID": "754107922041495553", "text": "Darbe ise kötü, değilse dahada kötü.. \n\n#Ankara  #darbeyehayır  #SokağaSakınÇıkma  #YaşasınDemokrasi", "url": "/A_buraktalay/status/754107922041495553", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:18:33", "is_reply": false, "is_retweet": false, "user_id": "180955662"}

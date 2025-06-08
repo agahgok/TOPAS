@@ -1,0 +1,1 @@
+{"usernameTweet": "Elif79stgElif", "ID": "754089939919339520", "text": "Kesinlikle #SokağaÇıkma  !!!", "url": "/Elif79stgElif/status/754089939919339520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:06", "is_reply": false, "is_retweet": false, "user_id": "2187663537"}

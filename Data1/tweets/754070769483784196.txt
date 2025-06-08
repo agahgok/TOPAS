@@ -1,0 +1,1 @@
+{"usernameTweet": "simya16", "ID": "754070769483784196", "text": "# SokağaSakınÇıkma  sie amk başta pokemon avcıları ayaklanır", "url": "/simya16/status/754070769483784196", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:56", "is_reply": false, "is_retweet": false, "user_id": "411714733"}

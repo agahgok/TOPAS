@@ -1,0 +1,1 @@
+{"usernameTweet": "Ufukilkaz", "ID": "754080868390539264", "text": "# SokağaSakınÇıkma  öğlene vatan haini askerleri darağıcında sallanırken görmek... İşte bütün mesele bu....", "url": "/Ufukilkaz/status/754080868390539264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:03", "is_reply": false, "is_retweet": false, "user_id": "431691516"}

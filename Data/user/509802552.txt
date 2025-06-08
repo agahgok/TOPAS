@@ -1,0 +1,1 @@
+{"ID": "509802552", "name": "とある附属の先生bot", "screen_name": "TKB_TeachersBot", "avatar": "https://pbs.twimg.com/profile_images/1866298823/ycX0mR4F_bigger.png"}

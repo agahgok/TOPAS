@@ -1,0 +1,1 @@
+{"usernameTweet": "strausserky", "ID": "754073143225020416", "text": "# SokağaSakınÇıkma  yoksa bu telafi edilemeyecek boyuta ulaşır. İçsavaş riski oluşur. Sakın sakın sakın", "url": "/strausserky/status/754073143225020416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:22", "is_reply": false, "is_retweet": false, "user_id": "3018746511"}

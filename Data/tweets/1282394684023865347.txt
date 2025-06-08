@@ -1,0 +1,1 @@
+{"usernameTweet": "adrianita_vive", "ID": "1282394684023865347", "text": "Y todas las opinologas, si es verdad, si es verdad, si no le creas al dr, no sabe lo que dice,  ", "url": "/adrianita_vive/status/1282394684023865347", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:21:33", "is_reply": true, "is_retweet": false, "user_id": "326001946"}

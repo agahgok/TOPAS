@@ -1,0 +1,1 @@
+{"usernameTweet": "heppsonradan", "ID": "754074750067015680", "text": "Üç kuruş aklı olan çıkmaz\n#SokağaSakınÇıkma", "url": "/heppsonradan/status/754074750067015680", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 01:06:45", "is_reply": false, "is_retweet": false, "user_id": "3243919091"}

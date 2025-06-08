@@ -1,0 +1,1 @@
+{"usernameTweet": "batuoz__", "ID": "754124261569290240", "text": "Damatta baya mutlu!! #SokağaSakınÇıkma  #TayyipMeydanaSenCık  #ÇokSevinmeTayyip pic.twitter.com/aalH7SRxiY", "url": "/batuoz__/status/754124261569290240", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:23:29", "is_reply": false, "is_retweet": false, "user_id": "2374215842"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "vedatozkan", "ID": "754078976717488128", "text": "# SokağaSakınÇıkma \nOyuna gelme seni sokağa çıkmaya çağıranlar önce sokağa çıksın", "url": "/vedatozkan/status/754078976717488128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:32", "is_reply": false, "is_retweet": false, "user_id": "87806398"}

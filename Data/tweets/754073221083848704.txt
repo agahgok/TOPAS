@@ -1,0 +1,1 @@
+{"usernameTweet": "kxlkrc", "ID": "754073221083848704", "text": "Bugun cikmayacaksam ne zaman cikacam #SokağaSakınÇıkma", "url": "/kxlkrc/status/754073221083848704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:40", "is_reply": false, "is_retweet": false, "user_id": "1231605241"}

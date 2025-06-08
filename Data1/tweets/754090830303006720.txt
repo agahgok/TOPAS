@@ -1,0 +1,1 @@
+{"usernameTweet": "emine_dundar", "ID": "754090830303006720", "text": "# SokağaSakınÇıkma \nYurtta sulh konseyi\n darbemi yaptınız bir tanesi size vurdu ifadesi", "url": "/emine_dundar/status/754090830303006720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:38", "is_reply": false, "is_retweet": false, "user_id": "363144645"}

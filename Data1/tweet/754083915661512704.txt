@@ -1,0 +1,1 @@
+{"usernameTweet": "Mcyenicikan", "ID": "754083915661512704", "text": "# SokağaSakınÇıkma  dikkat edin", "url": "/Mcyenicikan/status/754083915661512704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:10", "is_reply": false, "is_retweet": false, "user_id": "713676586785054720"}

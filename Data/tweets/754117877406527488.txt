@@ -1,0 +1,1 @@
+{"usernameTweet": "ssunakus", "ID": "754117877406527488", "text": "Etten duvarı olmayan , hiç mi kafa yok yasa... #SokağaÇıkma", "url": "/ssunakus/status/754117877406527488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:58:07", "is_reply": false, "is_retweet": false, "user_id": "1483120634"}

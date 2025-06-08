@@ -1,0 +1,1 @@
+{"usernameTweet": "Murat75626741", "ID": "1282405260510801920", "text": "15 TEMMUZA TİYATRO, 20 TEMMUZA  DARBE  DİYENLER, ADİ, ŞEREFSİZ, RESME TAPAN BASİT ÇOCUKLARIDIR", "url": "/Murat75626741/status/1282405260510801920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:03:34", "is_reply": true, "is_retweet": false, "user_id": "1260539256025559043"}

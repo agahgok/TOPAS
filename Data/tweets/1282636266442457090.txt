@@ -1,0 +1,1 @@
+{"usernameTweet": "nami149", "ID": "1282636266442457090", "text": "# Darbe \nBaşarı?  https:// twitter.com/ProfAtak/statu s/1282315759734214657   …", "url": "/nami149/status/1282636266442457090", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 14:21:30", "is_reply": false, "is_retweet": false, "user_id": "315938406"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "EmreDursunkaya", "ID": "754076948960276480", "text": "NEREDE BU IMAMLAR HOCALAR CIKIN ULAN EZAN OKUYUN SAVAS HALIDIR BU. @darbe  #darbe  #sokagacikma", "url": "/EmreDursunkaya/status/754076948960276480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:29", "is_reply": false, "is_retweet": false, "user_id": "541610963"}

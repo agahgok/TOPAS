@@ -1,0 +1,1 @@
+{"usernameTweet": "duygucero", "ID": "754081097919725568", "text": "# SokağaSakınÇıkma  Öleceksin akilli ol sacmalama!!!", "url": "/duygucero/status/754081097919725568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:58", "is_reply": false, "is_retweet": false, "user_id": "78578795"}

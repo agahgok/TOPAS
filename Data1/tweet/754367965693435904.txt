@@ -1,0 +1,1 @@
+{"usernameTweet": "kaynanacicegi", "ID": "754367965693435904", "text": "# askerimedokunma  #buülkebizim  #DarbeyeHayır  #Turkey  #SokağaSakınÇıkma   pic.twitter.com/b0A5jJjeV9", "url": "/kaynanacicegi/status/754367965693435904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 20:31:53", "is_reply": false, "is_retweet": false, "user_id": "347727148"}

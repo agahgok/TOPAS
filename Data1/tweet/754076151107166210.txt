@@ -1,0 +1,1 @@
+{"usernameTweet": "FevziEbru2014", "ID": "754076151107166210", "text": "Bu bir oyundur. Dikkat edin oyuna gelmeyin... #SokağaSakınÇıkma", "url": "/FevziEbru2014/status/754076151107166210", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:19", "is_reply": false, "is_retweet": false, "user_id": "610016190"}

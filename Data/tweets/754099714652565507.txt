@@ -1,0 +1,1 @@
+{"usernameTweet": "oguzkoca09", "ID": "754099714652565507", "text": "Bu bi oyun hemde büyük bi oyun turk askerini silmek istiyorlar sakinnnn #SokağaSakınÇıkma", "url": "/oguzkoca09/status/754099714652565507", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:45:57", "is_reply": false, "is_retweet": false, "user_id": "747915173797715970"}

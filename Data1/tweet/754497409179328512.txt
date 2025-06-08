@@ -1,0 +1,1 @@
+{"usernameTweet": "brs4721", "ID": "754497409179328512", "text": "Alevi Kardeşlerimize    \nDokunma  \n#GaziMahallesi  #SokağaSakınÇıkma", "url": "/brs4721/status/754497409179328512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-17 05:06:14", "is_reply": false, "is_retweet": false, "user_id": "1898254506"}

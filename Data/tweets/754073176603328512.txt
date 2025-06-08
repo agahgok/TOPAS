@@ -1,0 +1,1 @@
+{"usernameTweet": "kmERdogan", "ID": "754073176603328512", "text": "iç savaş çığlığı bu #SokagaSakinCikma", "url": "/kmERdogan/status/754073176603328512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:29", "is_reply": false, "is_retweet": false, "user_id": "2373329155"}

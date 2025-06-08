@@ -1,0 +1,1 @@
+{"usernameTweet": "__asherzist__", "ID": "1281706998933987333", "text": "Darbe  yiye yiye 100 kilo olcam sakin olun yolunda-şlar", "url": "/__asherzist__/status/1281706998933987333", "nbr_retweet": 0, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2020-07-11 00:48:56", "is_reply": false, "is_retweet": false, "user_id": "1136937305460137984"}

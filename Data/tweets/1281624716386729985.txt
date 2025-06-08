@@ -1,0 +1,1 @@
+{"usernameTweet": "savasali29", "ID": "1281624716386729985", "text": "Çünkü siyasilerimiz dini kullanarak rant ve makam elde etmelerinden dini düşünceye  darbe  vurdular.", "url": "/savasali29/status/1281624716386729985", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 19:21:58", "is_reply": true, "is_retweet": false, "user_id": "712282737"}

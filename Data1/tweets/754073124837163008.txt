@@ -1,0 +1,1 @@
+{"usernameTweet": "TolgaEsen_", "ID": "754073124837163008", "text": "# SokağaSakınÇıkma  akpekelilere iç savaş çıkarmaya çalışanlara uyma", "url": "/TolgaEsen_/status/754073124837163008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:17", "is_reply": false, "is_retweet": false, "user_id": "3335629078"}

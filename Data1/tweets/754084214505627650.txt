@@ -1,0 +1,1 @@
+{"usernameTweet": "seferseyir1", "ID": "754084214505627650", "text": "Millet bedel odeyecek. Birileri can suyu bulacak..\n\n#SokağaSakınÇıkma", "url": "/seferseyir1/status/754084214505627650", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:21", "is_reply": false, "is_retweet": false, "user_id": "2883795527"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "CneytEfe10", "ID": "754089033056260097", "text": "# SokağaSakınÇıkma  Sokağa Çıkın Hainlere Hadlerini Bildirin Bu Milletti Hainlere Bırakmayın!", "url": "/CneytEfe10/status/754089033056260097", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:30", "is_reply": false, "is_retweet": false, "user_id": "701724578683478016"}

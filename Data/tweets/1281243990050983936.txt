@@ -1,0 +1,1 @@
+{"usernameTweet": "iyioliyikal", "ID": "1281243990050983936", "text": "Darbe  gecesi neden başka bir ülkedeyse ondan!", "url": "/iyioliyikal/status/1281243990050983936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 18:09:06", "is_reply": true, "is_retweet": false, "user_id": "1213789904229896192"}

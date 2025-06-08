@@ -1,0 +1,1 @@
+{"usernameTweet": "mrakifkrc", "ID": "754080476386758656", "text": "bir yandan küçük bir grup diyor diğer yandan genel kurmay başkanını rehin aldılar diyor !!! #SokağaSakınÇıkma", "url": "/mrakifkrc/status/754080476386758656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:30", "is_reply": false, "is_retweet": false, "user_id": "289553095"}

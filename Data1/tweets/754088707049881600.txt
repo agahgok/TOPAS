@@ -1,0 +1,1 @@
+{"usernameTweet": "4721mrd", "ID": "754088707049881600", "text": "Allah'ın adını kullanıp dini kullanıp halkın ayaklandırılması tiksinç  iğrenç  #SokağaSakınÇıkma", "url": "/4721mrd/status/754088707049881600", "nbr_retweet": 5, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:02:12", "is_reply": false, "is_retweet": false, "user_id": "610815711"}

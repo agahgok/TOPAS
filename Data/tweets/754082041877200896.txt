@@ -1,0 +1,1 @@
+{"usernameTweet": "_sefo_", "ID": "754082041877200896", "text": "Cahilliğin sözlükde ki anlamısın Türkiye ! İslam yönetimine dur de #sokağaçıkma", "url": "/_sefo_/status/754082041877200896", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:43", "is_reply": false, "is_retweet": false, "user_id": "281110818"}

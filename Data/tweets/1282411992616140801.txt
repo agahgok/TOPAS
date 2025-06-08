@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1282411992616140801", "text": "¡Muchas gracias Dr!", "url": "/Darbe_LM/status/1282411992616140801", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 23:30:19", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

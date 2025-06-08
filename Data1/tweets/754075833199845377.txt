@@ -1,0 +1,1 @@
+{"usernameTweet": "cizen_semih", "ID": "754075833199845377", "text": "aynen böyle oldu  https:// youtu.be/wMau8BCE1lc    #Ankara \n#SokağaSakınÇıkma", "url": "/cizen_semih/status/754075833199845377", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:03", "is_reply": false, "is_retweet": false, "user_id": "147620050"}

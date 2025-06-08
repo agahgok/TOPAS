@@ -1,0 +1,1 @@
+{"usernameTweet": "Rcp_Glc", "ID": "754077711753158656", "text": "# SokağaSakınÇıkma  diyenlere inat ülkemiz için Herkes sokaklara çıksın !!", "url": "/Rcp_Glc/status/754077711753158656", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:18:31", "is_reply": false, "is_retweet": false, "user_id": "330337222"}

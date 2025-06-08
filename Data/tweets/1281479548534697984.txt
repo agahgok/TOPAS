@@ -1,0 +1,1 @@
+{"usernameTweet": "PierreLF10", "ID": "1281479548534697984", "text": "Darbe  tsed w ma tred 3e2bel yale 3ena ", "url": "/PierreLF10/status/1281479548534697984", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 09:45:07", "is_reply": true, "is_retweet": false, "user_id": "1266455924782387212"}

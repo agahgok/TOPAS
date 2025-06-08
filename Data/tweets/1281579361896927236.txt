@@ -1,0 +1,1 @@
+{"usernameTweet": "ibrahim74289591", "ID": "1281579361896927236", "text": "onların darbesine karşı bizimde bu olsun onlara  darbe  :)", "url": "/ibrahim74289591/status/1281579361896927236", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 16:21:45", "is_reply": true, "is_retweet": false, "user_id": "1226951003725058050"}

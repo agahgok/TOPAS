@@ -1,0 +1,1 @@
+{"usernameTweet": "AnilAlbyrak", "ID": "754088469425688578", "text": "# SokağaSakınÇıkma  diyenin ben ta amk... teröristten farkı yoktur...:@", "url": "/AnilAlbyrak/status/754088469425688578", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:16", "is_reply": false, "is_retweet": false, "user_id": "2294695876"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "DidemskSerife", "ID": "754094945930207232", "text": "Anneni,kızkardeşini,yeğenini,kızını,karını düşün #SokağaSakınÇıkma", "url": "/DidemskSerife/status/754094945930207232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:00", "is_reply": false, "is_retweet": false, "user_id": "2420926409"}

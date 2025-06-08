@@ -1,0 +1,1 @@
+{"usernameTweet": "OknnUstby", "ID": "1281191328085348352", "text": "Biz 15 temmuz da  darbe  durdurduk ne alaka diyorsun abicim", "url": "/OknnUstby/status/1281191328085348352", "nbr_retweet": 0, "nbr_favorite": 25, "nbr_reply": 1, "datetime": "2020-07-09 14:39:50", "is_reply": true, "is_retweet": false, "user_id": "1245677181335977986"}

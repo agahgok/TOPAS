@@ -1,0 +1,1 @@
+{"usernameTweet": "BirnCardoso", "ID": "754112343978762240", "text": "# SokağaÇıkma  diyoruz ulan \nYada cik gör ebenin ....pic.twitter.com/UZaVdL8cT2", "url": "/BirnCardoso/status/754112343978762240", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:36:08", "is_reply": false, "is_retweet": false, "user_id": "2746475954"}

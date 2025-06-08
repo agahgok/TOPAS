@@ -1,0 +1,1 @@
+{"usernameTweet": "derindarbe31", "ID": "1281695089916510209", "text": "Kız kulesi kız yatılı kuran kursu olsun", "url": "/derindarbe31/status/1281695089916510209", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-11 00:01:36", "is_reply": true, "is_retweet": false, "user_id": "1281292563840983042"}

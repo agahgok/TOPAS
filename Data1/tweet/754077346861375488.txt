@@ -1,0 +1,1 @@
+{"usernameTweet": "recpisik", "ID": "754077346861375488", "text": "Sokağa çıkmazsan hainlik etmiş olursun bu zulme bu girişime boyun bükmüş olursun  #SokağaSakınÇıkma", "url": "/recpisik/status/754077346861375488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:04", "is_reply": false, "is_retweet": false, "user_id": "2975271091"}

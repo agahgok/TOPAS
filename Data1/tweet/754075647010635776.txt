@@ -1,0 +1,1 @@
+{"usernameTweet": "ozenertug", "ID": "754075647010635776", "text": "Sokağa çıkmak çözüm değil. Bu kargaşada sokağa çıkılmaz. Hele çatışma bölgelerine yaklaşmayın #SokağaSakınÇıkma", "url": "/ozenertug/status/754075647010635776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:18", "is_reply": false, "is_retweet": false, "user_id": "20790051"}

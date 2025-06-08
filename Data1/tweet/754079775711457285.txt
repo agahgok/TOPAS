@@ -1,0 +1,1 @@
+{"usernameTweet": "berke_dou1453", "ID": "754079775711457285", "text": "Bugün müsa de ederler sokağa çıkanı yarın görüntülerden toplarlar #SokağaSakınÇıkma", "url": "/berke_dou1453/status/754079775711457285", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:43", "is_reply": false, "is_retweet": false, "user_id": "706185355326656512"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "suruden_ayri", "ID": "754094051838849024", "text": "elektrikler kesilmeden evinizde güvende kalmaya çalışın #Ankara  #SokağaSakınÇıkma", "url": "/suruden_ayri/status/754094051838849024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:27", "is_reply": false, "is_retweet": false, "user_id": "2664192432"}

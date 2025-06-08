@@ -1,0 +1,1 @@
+{"usernameTweet": "betulecem", "ID": "754067263897079808", "text": "# Sokağaçıkma", "url": "/betulecem/status/754067263897079808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:00", "is_reply": false, "is_retweet": false, "user_id": "124547840"}

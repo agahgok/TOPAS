@@ -1,0 +1,1 @@
+{"usernameTweet": "bangu330601", "ID": "754062105540780032", "text": "Doğuda birlikte şehit olan Asker ve Polis karşıkarşıya gelmez inşallah.\n#SokağaÇıkma", "url": "/bangu330601/status/754062105540780032", "nbr_retweet": 2, "nbr_favorite": 5, "nbr_reply": 2, "datetime": "2016-07-16 00:16:30", "is_reply": false, "is_retweet": false, "user_id": "1681404403"}

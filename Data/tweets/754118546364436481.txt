@@ -1,0 +1,1 @@
+{"usernameTweet": "thxt25", "ID": "754118546364436481", "text": "# SokağaSakınÇıkma \n#انقلاب_عسكري_في_تركيا  \n#انقلاب_تركيا_فشل  \n#الانقلاب_فشل", "url": "/thxt25/status/754118546364436481", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:00:46", "is_reply": true, "is_retweet": false, "user_id": "1275386197"}

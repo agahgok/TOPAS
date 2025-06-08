@@ -1,0 +1,1 @@
+{"usernameTweet": "niss58a", "ID": "1282422987615096832", "text": "AHSHSHSHSHSHSJS suan ablaligima bir  darbe  yedim wesh", "url": "/niss58a/status/1282422987615096832", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 00:14:01", "is_reply": true, "is_retweet": false, "user_id": "1183385505993560067"}

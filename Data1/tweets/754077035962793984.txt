@@ -1,0 +1,1 @@
+{"usernameTweet": "buse_afsar", "ID": "754077035962793984", "text": "Koltuk sevdalisi degil vatan sevdalisi ol #SokagaSakınÇıkma", "url": "/buse_afsar/status/754077035962793984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:50", "is_reply": false, "is_retweet": false, "user_id": "2770847881"}

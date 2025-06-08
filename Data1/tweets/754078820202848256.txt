@@ -1,0 +1,1 @@
+{"usernameTweet": "TCSezginKaratas", "ID": "754078820202848256", "text": "# SokağaSakınÇıkma  tamam da yarın akşam Messi ile maçımız vardı?", "url": "/TCSezginKaratas/status/754078820202848256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:55", "is_reply": false, "is_retweet": false, "user_id": "481253600"}

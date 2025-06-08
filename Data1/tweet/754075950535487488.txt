@@ -1,0 +1,1 @@
+{"usernameTweet": "1881aynur", "ID": "754075950535487488", "text": "# SokağaSakınÇıkma   ATANI UNUTMA ...  pic.twitter.com/p2ScnoQs40", "url": "/1881aynur/status/754075950535487488", "nbr_retweet": 9, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2016-07-16 01:11:31", "is_reply": false, "is_retweet": false, "user_id": "220311703"}

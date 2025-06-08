@@ -1,0 +1,1 @@
+{"usernameTweet": "UmutZzet", "ID": "754068764019359744", "text": "# SokağaSakınÇıkma \nÜlkeni satma kendini düşün sokağa çıkma", "url": "/UmutZzet/status/754068764019359744", "nbr_retweet": 5, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2016-07-16 00:42:57", "is_reply": false, "is_retweet": false, "user_id": "1631512483"}

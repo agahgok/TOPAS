@@ -1,0 +1,1 @@
+{"usernameTweet": "gknercn", "ID": "754071158203428864", "text": "# SokağaSakınÇıkma  canını tehlikeye atma. Zamanında sokağa çıkanlara neler oldu unutma.", "url": "/gknercn/status/754071158203428864", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:52:28", "is_reply": false, "is_retweet": false, "user_id": "177881383"}

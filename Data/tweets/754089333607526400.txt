@@ -1,0 +1,1 @@
+{"usernameTweet": "O__Gutan", "ID": "754089333607526400", "text": "Biz çıkınca çapulcu siz çıkınca Mücahit. İşte İslami demokrasi.  #SokağaSakınÇıkma", "url": "/O__Gutan/status/754089333607526400", "nbr_retweet": 37, "nbr_favorite": 98, "nbr_reply": 4, "datetime": "2016-07-16 02:04:42", "is_reply": false, "is_retweet": false, "user_id": "2545603178"}

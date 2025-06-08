@@ -1,0 +1,1 @@
+{"usernameTweet": "toygaryilmaz", "ID": "754077751682838532", "text": "# DarbeyeHayır  #SokağaSakınÇıkma", "url": "/toygaryilmaz/status/754077751682838532", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:40", "is_reply": false, "is_retweet": false, "user_id": "120585522"}

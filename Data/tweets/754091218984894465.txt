@@ -1,0 +1,1 @@
+{"usernameTweet": "nilibykl", "ID": "754091218984894465", "text": "# SokağaSakınÇıkma  Sakin olup en fazla ve ancak merakla takip edilecek kötü bir hikaye yine...", "url": "/nilibykl/status/754091218984894465", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:11", "is_reply": false, "is_retweet": false, "user_id": "1506266917"}

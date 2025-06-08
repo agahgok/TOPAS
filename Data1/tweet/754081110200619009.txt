@@ -1,0 +1,1 @@
+{"usernameTweet": "tmrsem", "ID": "754081110200619009", "text": "Ayrıcalıkları Suriyelilere tanırsın ama sokağa türk vatandaşını çağırırsın.\n#SokağaSakınÇıkma", "url": "/tmrsem/status/754081110200619009", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:32:01", "is_reply": false, "is_retweet": false, "user_id": "2939858704"}

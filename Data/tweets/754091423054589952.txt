@@ -1,0 +1,1 @@
+{"usernameTweet": "grussurize", "ID": "754091423054589952", "text": "# SokağaSakınÇıkma  bence şeriatçılar çıksın asker vursun olay çözülsün yaşasın şiddet", "url": "/grussurize/status/754091423054589952", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:13:00", "is_reply": false, "is_retweet": false, "user_id": "254105125"}

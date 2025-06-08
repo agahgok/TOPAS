@@ -1,0 +1,1 @@
+{"usernameTweet": "sekturkkahvesi", "ID": "754080886350635012", "text": "milletle orduyu nasıl karşı karıya çıkarırsın ya akıl almaz sazanlarda çıkar işte #SokağaSakınÇıkma", "url": "/sekturkkahvesi/status/754080886350635012", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:31:08", "is_reply": false, "is_retweet": false, "user_id": "4884439498"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Keerkuklu", "ID": "1281212972958916610", "text": "FETÖ terör örgütünün #15Temmuz   darbe  girişimini UNUTMA UNUTTURMA...  pic.twitter.com/wre11Ny1sN", "url": "/Keerkuklu/status/1281212972958916610", "nbr_retweet": 12, "nbr_favorite": 17, "nbr_reply": 0, "datetime": "2020-07-09 16:05:51", "is_reply": false, "is_retweet": false, "user_id": "1234509364918210562"}

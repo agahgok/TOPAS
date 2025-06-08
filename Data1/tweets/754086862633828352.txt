@@ -1,0 +1,1 @@
+{"usernameTweet": "AksuDemir1", "ID": "754086862633828352", "text": "Ne tek adam diktatörlüğü ne de darbe! Bu oyun son bulabilir mi artık!\n#SokağaSakınÇıkma", "url": "/AksuDemir1/status/754086862633828352", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:54:52", "is_reply": false, "is_retweet": false, "user_id": "1426200444"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gmzeli00", "ID": "1281547936229470210", "text": "Fetö FitnesiÇöktüyse\n15 Temmuz  darbe  girişiminde bir tek Sn. Adnan Oktar kaçmadı ve saklanmadı.", "url": "/gmzeli00/status/1281547936229470210", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 14:16:52", "is_reply": false, "is_retweet": false, "user_id": "1143919526725193728"}

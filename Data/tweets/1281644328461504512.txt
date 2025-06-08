@@ -1,0 +1,1 @@
+{"usernameTweet": "Oalper_K", "ID": "1281644328461504512", "text": "Zaten  darbe  çoktan yapıldı", "url": "/Oalper_K/status/1281644328461504512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 20:39:54", "is_reply": true, "is_retweet": false, "user_id": "763816628924579840"}

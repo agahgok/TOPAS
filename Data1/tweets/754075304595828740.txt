@@ -1,0 +1,1 @@
+{"usernameTweet": "hebip1", "ID": "754075304595828740", "text": "# SokağaSakınÇıkma  yın Yenikapı'da size miting alanı yapıldı oraya gidin.", "url": "/hebip1/status/754075304595828740", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:57", "is_reply": false, "is_retweet": false, "user_id": "351112433"}

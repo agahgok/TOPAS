@@ -1,0 +1,1 @@
+{"usernameTweet": "632ozan", "ID": "754081436190334976", "text": "# SokağaSakınÇıkma  herkes sokağa  pic.twitter.com/C9evqC7wdC", "url": "/632ozan/status/754081436190334976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:19", "is_reply": false, "is_retweet": false, "user_id": "711215192621850624"}

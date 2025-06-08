@@ -1,0 +1,1 @@
+{"usernameTweet": "colakrengin", "ID": "1281638387468902406", "text": "Dinci #darbe  kokusu dikkatli olalım #AyasofyaCamii", "url": "/colakrengin/status/1281638387468902406", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-10 20:16:17", "is_reply": false, "is_retweet": false, "user_id": "1680532806"}

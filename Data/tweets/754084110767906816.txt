@@ -1,0 +1,1 @@
+{"usernameTweet": "acarmehmet54", "ID": "754084110767906816", "text": "# SokağaSakınÇıkma  KOCAALİ SAKARYA  pic.twitter.com/c0z0BGUouN", "url": "/acarmehmet54/status/754084110767906816", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:43:56", "is_reply": false, "is_retweet": false, "user_id": "976608348"}

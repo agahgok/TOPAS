@@ -1,0 +1,1 @@
+{"usernameTweet": "DenizFeneri09", "ID": "754073124258193410", "text": "AKEPELİLERİN OYUNUNA GELİP SOKAĞA ÇIKMA  #SokağaSakınÇıkma", "url": "/DenizFeneri09/status/754073124258193410", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:00:17", "is_reply": false, "is_retweet": false, "user_id": "757263164"}

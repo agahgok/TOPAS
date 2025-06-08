@@ -1,0 +1,1 @@
+{"usernameTweet": "sema_akkc", "ID": "1281244256280219648", "text": "İhsan insan en çok sevdiğinden  darbe  yermiş üzdün reis :(( @tarkanihsan \n #survivorpanorama", "url": "/sema_akkc/status/1281244256280219648", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-09 18:10:09", "is_reply": false, "is_retweet": false, "user_id": "743357940883546112"}

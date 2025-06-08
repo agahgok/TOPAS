@@ -1,0 +1,1 @@
+{"usernameTweet": "gocebe_biryazar", "ID": "1284389714246737920", "text": "Kırılmak acı  darbe , gönül bahçemi parçalayan kim İbrahim?", "url": "/gocebe_biryazar/status/1284389714246737920", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 1, "datetime": "2020-07-18 10:29:05", "is_reply": false, "is_retweet": false, "user_id": "1089473094132162560"}

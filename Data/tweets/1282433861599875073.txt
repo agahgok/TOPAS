@@ -1,0 +1,1 @@
+{"usernameTweet": "sk_bilal0", "ID": "1282433861599875073", "text": "Darbe  üstüne darbeeee.", "url": "/sk_bilal0/status/1282433861599875073", "nbr_retweet": 0, "nbr_favorite": 17, "nbr_reply": 0, "datetime": "2020-07-13 00:57:13", "is_reply": false, "is_retweet": false, "user_id": "1205953490666885121"}

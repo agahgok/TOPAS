@@ -1,0 +1,1 @@
+{"usernameTweet": "BehlulKulatay", "ID": "754087173805207554", "text": "Askerler kışlalarına, insanlar evlerine dönsün #SokagaSakinCikma", "url": "/BehlulKulatay/status/754087173805207554", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:07", "is_reply": false, "is_retweet": false, "user_id": "1430957888"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ridonac", "ID": "754075260396470272", "text": "Feto piçleri Sak'ın çıkması hepsinin amına koyucaz orospu çocukları #SokağaSakınÇıkma", "url": "/ridonac/status/754075260396470272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:46", "is_reply": false, "is_retweet": false, "user_id": "2718699323"}

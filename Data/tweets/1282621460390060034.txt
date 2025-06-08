@@ -1,0 +1,1 @@
+{"usernameTweet": "t4kuk", "ID": "1282621460390060034", "text": "darbe  girisimi  pic.twitter.com/7BDU8aeIWk", "url": "/t4kuk/status/1282621460390060034", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-13 13:22:40", "is_reply": false, "is_retweet": false, "user_id": "1116695235650891776"}

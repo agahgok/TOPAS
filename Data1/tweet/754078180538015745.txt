@@ -1,0 +1,1 @@
+{"usernameTweet": "cheveara", "ID": "754078180538015745", "text": "Bırakın siyasiler çıksın hepsi evinde iken o çağrıya uymayın #sokağacikma", "url": "/cheveara/status/754078180538015745", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:22", "is_reply": false, "is_retweet": false, "user_id": "2433924180"}

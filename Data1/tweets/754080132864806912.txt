@@ -1,0 +1,1 @@
+{"usernameTweet": "ecemdogan", "ID": "754080132864806912", "text": "Adamların TANKı var TANK bu oyuna kanma lütfen #SokağaSakınÇıkma  canını bir insanın hırsı için çöpe atma", "url": "/ecemdogan/status/754080132864806912", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:28:08", "is_reply": false, "is_retweet": false, "user_id": "235496479"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "1903Emrullahh", "ID": "754098788340555776", "text": "Helikopterlerle ateş ediyolar #SokağaSakınÇıkma", "url": "/1903Emrullahh/status/754098788340555776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:42:16", "is_reply": false, "is_retweet": false, "user_id": "379782199"}

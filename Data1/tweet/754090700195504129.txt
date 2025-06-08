@@ -1,0 +1,1 @@
+{"usernameTweet": "doganismail", "ID": "754090700195504129", "text": "# SokağaSakınÇıkma       \nSadece yandaş tv ler yayında diğerlerinin yayınları kapatıldı.", "url": "/doganismail/status/754090700195504129", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:10:07", "is_reply": false, "is_retweet": false, "user_id": "84879752"}

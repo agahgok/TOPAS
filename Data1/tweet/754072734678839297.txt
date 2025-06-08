@@ -1,0 +1,1 @@
+{"usernameTweet": "Anti_FascistMKA", "ID": "754072734678839297", "text": "6 gündür kayıp olan cumhurbaşkanı, telefondan halkı sokağa çağırıyor. #SokağaSakınÇıkma", "url": "/Anti_FascistMKA/status/754072734678839297", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:44", "is_reply": false, "is_retweet": false, "user_id": "479462177"}

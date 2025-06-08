@@ -1,0 +1,1 @@
+{"usernameTweet": "cak_vf", "ID": "1281645037009473537", "text": "Zulüm 1453 de başladı diyenler  darbe  böyle yapılır   Ayasofya müzesi değil Ayasofya camisi", "url": "/cak_vf/status/1281645037009473537", "nbr_retweet": 2, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-10 20:42:43", "is_reply": true, "is_retweet": false, "user_id": "968747661246582784"}

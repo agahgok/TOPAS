@@ -1,0 +1,1 @@
+{"usernameTweet": "DahamiGulmeyah", "ID": "754098595792576512", "text": "# SokağaSakınÇıkma  Veee\n...BBBBOOOOOOOMMMMM...", "url": "/DahamiGulmeyah/status/754098595792576512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:41:30", "is_reply": false, "is_retweet": false, "user_id": "749013874612076544"}

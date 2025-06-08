@@ -1,0 +1,1 @@
+{"usernameTweet": "mucahityagmur", "ID": "754084732024086528", "text": "Sokaktayım Meydan bizim.\nÇıkmayan utansın. #SokağaSakınÇıkma", "url": "/mucahityagmur/status/754084732024086528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:24", "is_reply": false, "is_retweet": false, "user_id": "180267526"}

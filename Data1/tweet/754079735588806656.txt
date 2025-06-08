@@ -1,0 +1,1 @@
+{"usernameTweet": "marshle22", "ID": "754079735588806656", "text": "# SokağaÇıkma \n #Ankara", "url": "/marshle22/status/754079735588806656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:33", "is_reply": false, "is_retweet": false, "user_id": "746652137384460288"}

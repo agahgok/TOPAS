@@ -1,0 +1,1 @@
+{"usernameTweet": "mahirimkaram", "ID": "754092456870830080", "text": "Sakın sokağa çıkmayın, sıkıyönetim ilan edildi ve Askerin Vurma yetkisi var. \n\n #SokağaSakınÇıkma", "url": "/mahirimkaram/status/754092456870830080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:06", "is_reply": false, "is_retweet": false, "user_id": "3406224695"}

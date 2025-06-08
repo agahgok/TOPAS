@@ -1,0 +1,1 @@
+{"usernameTweet": "fndque", "ID": "1282045908415385600", "text": "bu halk 15 temmuzda  darbe  durdurdu ya. senin iki tane parabolünü çözemiyorsa yazıklar olsun bu vatandaşa", "url": "/fndque/status/1282045908415385600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 23:15:38", "is_reply": true, "is_retweet": false, "user_id": "3361234018"}

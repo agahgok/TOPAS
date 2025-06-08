@@ -1,0 +1,1 @@
+{"usernameTweet": "MiseryOp", "ID": "754084459616563200", "text": "Gerçek  çapulcular asıl şimdi sokakta #SokağaSakınÇıkma", "url": "/MiseryOp/status/754084459616563200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:20", "is_reply": false, "is_retweet": false, "user_id": "65450238"}

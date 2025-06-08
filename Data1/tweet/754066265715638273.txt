@@ -1,0 +1,1 @@
+{"usernameTweet": "ElifSeaStar", "ID": "754066265715638273", "text": "# SokağaSakınÇıkma", "url": "/ElifSeaStar/status/754066265715638273", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:33:02", "is_reply": false, "is_retweet": false, "user_id": "371859245"}

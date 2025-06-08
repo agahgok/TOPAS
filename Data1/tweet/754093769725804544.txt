@@ -1,0 +1,1 @@
+{"usernameTweet": "ersn_bl", "ID": "754093769725804544", "text": "Bu gerçek bir darbe olsaydı, akpliler götüne baka baka pısardı. #SokağaSakınÇıkma", "url": "/ersn_bl/status/754093769725804544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:19", "is_reply": false, "is_retweet": false, "user_id": "2384151104"}

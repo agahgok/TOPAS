@@ -1,0 +1,1 @@
+{"usernameTweet": "brovnella", "ID": "754070554840297472", "text": "Erdoğan resmen gelin ölün demiş ya bu ne #SokağaSakınÇıkma", "url": "/brovnella/status/754070554840297472", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:50:04", "is_reply": false, "is_retweet": false, "user_id": "3317973471"}

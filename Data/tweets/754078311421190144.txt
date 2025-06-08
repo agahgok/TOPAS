@@ -1,0 +1,1 @@
+{"usernameTweet": "fx_trader__", "ID": "754078311421190144", "text": "# SokağaSakınÇıkma  çık ulan ankara emniyetine bomba atıp kardeşini vuruyorsa itler çık ulan.", "url": "/fx_trader__/status/754078311421190144", "nbr_retweet": 5, "nbr_favorite": 16, "nbr_reply": 1, "datetime": "2016-07-16 01:20:54", "is_reply": false, "is_retweet": false, "user_id": "2605068055"}

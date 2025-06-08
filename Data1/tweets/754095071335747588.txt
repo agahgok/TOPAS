@@ -1,0 +1,1 @@
+{"usernameTweet": "Sahmeran54Senem", "ID": "754095071335747588", "text": "# SokağaSakınÇıkma  TÜRKİYE CUMURIYETICUMHURBADKANI HALKI SOKAGA CAGIRMZ MURSI GİBİ", "url": "/Sahmeran54Senem/status/754095071335747588", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:30", "is_reply": false, "is_retweet": false, "user_id": "3001839548"}

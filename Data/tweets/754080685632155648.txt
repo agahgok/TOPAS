@@ -1,0 +1,1 @@
+{"usernameTweet": "cematabay34", "ID": "754080685632155648", "text": "Umarım askeri daha fazla kışkırtmazlar #SokağaSakınÇıkma", "url": "/cematabay34/status/754080685632155648", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:20", "is_reply": false, "is_retweet": false, "user_id": "4909063865"}

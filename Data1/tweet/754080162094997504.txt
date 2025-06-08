@@ -1,0 +1,1 @@
+{"usernameTweet": "Ezgi_ztr", "ID": "754080162094997504", "text": "# SokağaSakınÇıkma", "url": "/Ezgi_ztr/status/754080162094997504", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:28:15", "is_reply": false, "is_retweet": false, "user_id": "914953856"}

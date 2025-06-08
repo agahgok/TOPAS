@@ -1,0 +1,1 @@
+{"usernameTweet": "merveyangin", "ID": "1282593056647258114", "text": "Alekdkskskdks her gönüle bir  darbe \nsıra bende mi yaa sen gelmiyor musun ?", "url": "/merveyangin/status/1282593056647258114", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 11:29:48", "is_reply": true, "is_retweet": false, "user_id": "159802544"}

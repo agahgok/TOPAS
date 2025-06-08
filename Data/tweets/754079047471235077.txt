@@ -1,0 +1,1 @@
+{"usernameTweet": "kendinibegnms", "ID": "754079047471235077", "text": "# SokağaSakınÇıkma  saat kulesine yazık ettiler yaaa   @izmirIiyizbiz", "url": "/kendinibegnms/status/754079047471235077", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:23:49", "is_reply": false, "is_retweet": false, "user_id": "3434119953"}

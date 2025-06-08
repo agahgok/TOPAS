@@ -1,0 +1,1 @@
+{"usernameTweet": "Uz_Us", "ID": "1282039920345915393", "text": "Siyasal İslamcı  Darbe  sezinliyorum.", "url": "/Uz_Us/status/1282039920345915393", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-11 22:51:50", "is_reply": false, "is_retweet": false, "user_id": "1498955364"}

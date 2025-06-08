@@ -1,0 +1,1 @@
+{"usernameTweet": "tunaaakaya", "ID": "754083418900729858", "text": "Gerçeği gör, oyuna gelme!! #SokağaSakınÇıkma", "url": "/tunaaakaya/status/754083418900729858", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:41:11", "is_reply": false, "is_retweet": false, "user_id": "2275121708"}

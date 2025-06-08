@@ -1,0 +1,1 @@
+{"usernameTweet": "SocialPlatforme", "ID": "754095418699608064", "text": "# SokağaSakınÇıkma  sizin anliyacaginiz tek dil.#idam", "url": "/SocialPlatforme/status/754095418699608064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:52", "is_reply": false, "is_retweet": false, "user_id": "2253921944"}

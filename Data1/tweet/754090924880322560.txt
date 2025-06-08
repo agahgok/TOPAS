@@ -1,0 +1,1 @@
+{"usernameTweet": "ilke_kol", "ID": "754090924880322560", "text": "Hatırla! #SokağaSakınÇıkma    https:// twitter.com/ajansdreklam/s tatus/754074809265328128   …", "url": "/ilke_kol/status/754090924880322560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:01", "is_reply": false, "is_retweet": false, "user_id": "937939154"}

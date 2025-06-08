@@ -1,0 +1,1 @@
+{"usernameTweet": "Diren_Cigdem", "ID": "754127314817015808", "text": "Hic bi ezan sesi bu kadar yakmamisti canimi, canlarimizi. #sokagacikma   #darbeyehayir", "url": "/Diren_Cigdem/status/754127314817015808", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 04:35:37", "is_reply": false, "is_retweet": false, "user_id": "615991835"}

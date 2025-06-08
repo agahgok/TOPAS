@@ -1,0 +1,1 @@
+{"usernameTweet": "dilakaraalp10", "ID": "754093133005135872", "text": "# SokağaSakınÇıkma  stay safe ", "url": "/dilakaraalp10/status/754093133005135872", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:19:47", "is_reply": false, "is_retweet": false, "user_id": "2464890625"}

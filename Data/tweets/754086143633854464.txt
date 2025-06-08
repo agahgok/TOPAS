@@ -1,0 +1,1 @@
+{"usernameTweet": "et_de_pahali", "ID": "754086143633854464", "text": "# SokağaSakınÇıkma  darbe bitti bence. Uyıyalım yarın işe gidicez", "url": "/et_de_pahali/status/754086143633854464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:01", "is_reply": false, "is_retweet": false, "user_id": "1935374076"}

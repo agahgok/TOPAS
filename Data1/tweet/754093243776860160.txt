@@ -1,0 +1,1 @@
+{"usernameTweet": "gafur_eroglu", "ID": "754093243776860160", "text": "Resmen sürü yü saymak için sokağa çıkardılar benim nacizane fikrim bu #SokağaSakınÇıkma", "url": "/gafur_eroglu/status/754093243776860160", "nbr_retweet": 3, "nbr_favorite": 20, "nbr_reply": 0, "datetime": "2016-07-16 02:20:14", "is_reply": false, "is_retweet": false, "user_id": "3653174717"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "zuleyhaogcem", "ID": "1281599451287769088", "text": "Bu bir devrimdir özgürlüğümüze vurulan  darbe  boyunduruk kalktı\nÜlkede bizim ,ibadethanede...", "url": "/zuleyhaogcem/status/1281599451287769088", "nbr_retweet": 1, "nbr_favorite": 64, "nbr_reply": 0, "datetime": "2020-07-10 17:41:34", "is_reply": false, "is_retweet": false, "user_id": "908411354"}

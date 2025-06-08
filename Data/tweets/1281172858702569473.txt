@@ -1,0 +1,1 @@
+{"usernameTweet": "idiopatiknokta", "ID": "1281172858702569473", "text": "darbe  üstüneeee  darbe", "url": "/idiopatiknokta/status/1281172858702569473", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 13:26:27", "is_reply": true, "is_retweet": false, "user_id": "1033090897758642176"}

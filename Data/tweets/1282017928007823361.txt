@@ -1,0 +1,1 @@
+{"usernameTweet": "ketenpere00", "ID": "1282017928007823361", "text": "Benim yeminli bir hareketim var bitane, öldürücü  darbe  .", "url": "/ketenpere00/status/1282017928007823361", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-11 21:24:27", "is_reply": false, "is_retweet": false, "user_id": "843247751659962368"}

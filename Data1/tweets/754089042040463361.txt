@@ -1,0 +1,1 @@
+{"usernameTweet": "ozanatax", "ID": "754089042040463361", "text": "# SokağaSakınÇıkma  f16 lar darbecilerin elindeki skoski helikopteri düşürdü ntv son dakika", "url": "/ozanatax/status/754089042040463361", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:32", "is_reply": false, "is_retweet": false, "user_id": "1477214623"}

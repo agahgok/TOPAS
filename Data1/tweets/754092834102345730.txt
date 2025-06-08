@@ -1,0 +1,1 @@
+{"usernameTweet": "veysellkaynak", "ID": "754092834102345730", "text": "Sokağa çıkmak şimdimi aklınıza geldi ? #SokağaSakınÇıkma", "url": "/veysellkaynak/status/754092834102345730", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:36", "is_reply": false, "is_retweet": false, "user_id": "1318904203"}

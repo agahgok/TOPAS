@@ -1,0 +1,1 @@
+{"usernameTweet": "elifsinann", "ID": "754083639361757184", "text": "Milletle askeri karşı karşıya getirmeye çalışıyorlar. Oyuna gelmeyin, sokağa çıkmayın! #SokağaSakınÇıkma", "url": "/elifsinann/status/754083639361757184", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:42:04", "is_reply": false, "is_retweet": false, "user_id": "335910376"}

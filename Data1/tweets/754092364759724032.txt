@@ -1,0 +1,1 @@
+{"usernameTweet": "garfield_dmn", "ID": "754092364759724032", "text": "Artik is bitti obama aciklamasindan sonra artik bu ulke BITTI #SokağaSakınÇıkma", "url": "/garfield_dmn/status/754092364759724032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:44", "is_reply": false, "is_retweet": false, "user_id": "1152376604"}

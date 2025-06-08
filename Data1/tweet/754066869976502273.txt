@@ -1,0 +1,1 @@
+{"usernameTweet": "fan_serkay_", "ID": "754066869976502273", "text": "Savaşa sürüklüyor bildiğin \n#SokağaSakınÇıkma", "url": "/fan_serkay_/status/754066869976502273", "nbr_retweet": 4, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 00:35:26", "is_reply": false, "is_retweet": false, "user_id": "734068467234680835"}

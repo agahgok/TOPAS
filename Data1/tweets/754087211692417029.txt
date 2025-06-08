@@ -1,0 +1,1 @@
+{"usernameTweet": "vitorfazio", "ID": "754087211692417029", "text": "# SokağaSakınÇıkma", "url": "/vitorfazio/status/754087211692417029", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:16", "is_reply": false, "is_retweet": false, "user_id": "58228450"}

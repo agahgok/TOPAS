@@ -1,0 +1,1 @@
+{"usernameTweet": "Siva_H_qadir", "ID": "1282043546854477824", "text": "Chawian  darbe", "url": "/Siva_H_qadir/status/1282043546854477824", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 23:06:15", "is_reply": true, "is_retweet": false, "user_id": "1236323342577291264"}

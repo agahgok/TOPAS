@@ -1,0 +1,1 @@
+{"usernameTweet": "PopiHaks", "ID": "754091400229249024", "text": "# SokağaSakınÇıkma  sokakta askere silah sıkan şeref yoksunları var onlar emir kulu tıpkı silah sıkanlar gibi", "url": "/PopiHaks/status/754091400229249024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:54", "is_reply": false, "is_retweet": false, "user_id": "2372575746"}

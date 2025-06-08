@@ -1,0 +1,1 @@
+{"usernameTweet": "hcrnvmt", "ID": "1281233131065016322", "text": "Belki küçük bir  darbe  girişimidir...hırsız olduğunuz kadar katilsiniz de..", "url": "/hcrnvmt/status/1281233131065016322", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 17:25:57", "is_reply": true, "is_retweet": false, "user_id": "1180155343822901249"}

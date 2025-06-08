@@ -1,0 +1,1 @@
+{"usernameTweet": "17Damla1907FB", "ID": "754092718054379520", "text": "# SokağaSakınÇıkma . darbe diye yazılır, AKEPE mitingi diye okunur...", "url": "/17Damla1907FB/status/754092718054379520", "nbr_retweet": 4, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 02:18:09", "is_reply": false, "is_retweet": false, "user_id": "561838655"}

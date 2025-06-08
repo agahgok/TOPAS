@@ -1,0 +1,1 @@
+{"ID": "1483496910", "name": "サザエさん逆再生bot", "screen_name": "SZE3_", "avatar": "https://pbs.twimg.com/profile_images/3757060473/fc5d61ce5012eb995746c2e8ba1ed2f1_bigger.jpeg"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "nyctophiilee", "ID": "754077450234191872", "text": "Bırakın 3G yerine kendisi sokağa çıksın  #SokağaSakınÇıkma", "url": "/nyctophiilee/status/754077450234191872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:28", "is_reply": false, "is_retweet": false, "user_id": "746722303925432320"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "uurozufacik", "ID": "754319281404407808", "text": "Halki sokaga cagiran zihniyet senmi halki koruyacaksin,  halkmi seni koruyacak? #sokağasakınçıkma", "url": "/uurozufacik/status/754319281404407808", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 17:18:25", "is_reply": false, "is_retweet": false, "user_id": "770435034"}

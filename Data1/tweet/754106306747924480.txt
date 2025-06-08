@@ -1,0 +1,1 @@
+{"usernameTweet": "metepasaa", "ID": "754106306747924480", "text": "Arilan bombalar ses bombasiydi #SokağaSakınÇıkma", "url": "/metepasaa/status/754106306747924480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:12:08", "is_reply": false, "is_retweet": false, "user_id": "725750007022931968"}

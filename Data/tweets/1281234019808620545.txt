@@ -1,0 +1,1 @@
+{"usernameTweet": "Abdulhakim_0625", "ID": "1281234019808620545", "text": "Orantısız zeka kullanımı... :))) Çok acımasızca bir  darbe  bu :))))", "url": "/Abdulhakim_0625/status/1281234019808620545", "nbr_retweet": 1, "nbr_favorite": 15, "nbr_reply": 1, "datetime": "2020-07-09 17:29:29", "is_reply": true, "is_retweet": false, "user_id": "3372830499"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "oz_bezza", "ID": "1281456974601781252", "text": "Sabah sabah beynim bana \" darbe  üstüne  darbe  uslanmıyor bu\" diyor....", "url": "/oz_bezza/status/1281456974601781252", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 1, "datetime": "2020-07-10 08:15:25", "is_reply": false, "is_retweet": false, "user_id": "1263412843170484224"}

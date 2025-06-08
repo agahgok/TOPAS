@@ -1,0 +1,1 @@
+{"usernameTweet": "muhacar1997", "ID": "1281611178557538306", "text": "FETÖ darbesine sevinmişsindir demiyor, o darbeyi Kemalist  darbe  sanıp sevinmişsindir diyor.", "url": "/muhacar1997/status/1281611178557538306", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 18:28:10", "is_reply": true, "is_retweet": false, "user_id": "1152970332795494405"}

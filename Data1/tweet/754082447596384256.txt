@@ -1,0 +1,1 @@
+{"usernameTweet": "KendiHalinde15", "ID": "754082447596384256", "text": "Sokaktayız ulan ölürüz gerekirse Devlet millet elele #SokağaSakınÇıkma", "url": "/KendiHalinde15/status/754082447596384256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:20", "is_reply": false, "is_retweet": false, "user_id": "3309186160"}

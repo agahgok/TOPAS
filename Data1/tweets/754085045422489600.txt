@@ -1,0 +1,1 @@
+{"usernameTweet": "mudahale_kapagi", "ID": "754085045422489600", "text": "# SokağaSakınÇıkma  camii loopa girdi", "url": "/mudahale_kapagi/status/754085045422489600", "nbr_retweet": 2, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:47:39", "is_reply": false, "is_retweet": false, "user_id": "207131990"}

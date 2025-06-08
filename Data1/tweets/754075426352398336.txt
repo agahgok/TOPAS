@@ -1,0 +1,1 @@
+{"usernameTweet": "samedicus", "ID": "754075426352398336", "text": "Erdoğan'ın güçlenme oyunu mu yoksa gerçekten #darbe  teşebbüsü mü\n#SokağaSakınÇıkma  #DarbeyeHayır", "url": "/samedicus/status/754075426352398336", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:26", "is_reply": false, "is_retweet": false, "user_id": "714867219432402945"}

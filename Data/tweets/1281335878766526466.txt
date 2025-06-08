@@ -1,0 +1,1 @@
+{"usernameTweet": "deryaaogmen", "ID": "1281335878766526466", "text": "Bu bi  darbe  , contası sensin", "url": "/deryaaogmen/status/1281335878766526466", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 00:14:14", "is_reply": false, "is_retweet": false, "user_id": "1252326016183304193"}

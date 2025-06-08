@@ -1,0 +1,1 @@
+{"usernameTweet": "KENANDOGAN1", "ID": "754083740029247488", "text": "# SokağaSakınÇıkma   https:// twitter.com/rakelkirmizi/s tatus/754083224909938688   …", "url": "/KENANDOGAN1/status/754083740029247488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:28", "is_reply": false, "is_retweet": false, "user_id": "102343997"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "EryDursunali", "ID": "1281291796237160455", "text": "Aklı sıra mini mini  darbe  yapıyor!..", "url": "/EryDursunali/status/1281291796237160455", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 21:19:04", "is_reply": true, "is_retweet": false, "user_id": "735337242303041537"}

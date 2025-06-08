@@ -1,0 +1,1 @@
+{"usernameTweet": "erkanerqa", "ID": "754362266183696384", "text": "Twit i kaldıramamı isteyen irem hemen kaldırdım sıkıntı yok #sokagasakincikma", "url": "/erkanerqa/status/754362266183696384", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 20:09:14", "is_reply": false, "is_retweet": false, "user_id": "2984548780"}

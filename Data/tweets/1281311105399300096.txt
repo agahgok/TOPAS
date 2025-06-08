@@ -1,0 +1,1 @@
+{"usernameTweet": "sacikalin", "ID": "1281311105399300096", "text": "Bu adamin en buyuk zevkini elinden aldiniz, futbol ekonomisine bir  darbe  daha vuruldu sayenizde @Digiturk", "url": "/sacikalin/status/1281311105399300096", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 22:35:47", "is_reply": true, "is_retweet": false, "user_id": "23296689"}

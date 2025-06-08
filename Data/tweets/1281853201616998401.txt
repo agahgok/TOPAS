@@ -1,0 +1,1 @@
+{"usernameTweet": "haberaktuel", "ID": "1281853201616998401", "text": "PKK’ya ağır  darbe   https://www. haberaktuel.com/pkkya-agir-dar be-17-haberi-2723117.html   …", "url": "/haberaktuel/status/1281853201616998401", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 10:29:53", "is_reply": false, "is_retweet": false, "user_id": "1677938532"}

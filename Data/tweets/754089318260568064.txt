@@ -1,0 +1,1 @@
+{"usernameTweet": "Hasansio_8", "ID": "754089318260568064", "text": "Yapacağınız darbeyide koordinasyonunu da sikiyim böyle kötü senaryo görmedim #SokağaSakınÇıkma", "url": "/Hasansio_8/status/754089318260568064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:38", "is_reply": false, "is_retweet": false, "user_id": "3311186914"}

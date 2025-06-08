@@ -1,0 +1,1 @@
+{"usernameTweet": "kayaataberk2", "ID": "754088382633041925", "text": "# SokağaSakınÇıkma  kan akmasına, iç savaşa izin verme.", "url": "/kayaataberk2/status/754088382633041925", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:00:55", "is_reply": false, "is_retweet": false, "user_id": "2374220801"}

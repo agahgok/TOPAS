@@ -1,0 +1,1 @@
+{"usernameTweet": "metepasaa", "ID": "754091939574771712", "text": "Twitter yasaklanmadi hala ciddiye alamiyorum #SokağaSakınÇıkma", "url": "/metepasaa/status/754091939574771712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:03", "is_reply": false, "is_retweet": false, "user_id": "725750007022931968"}

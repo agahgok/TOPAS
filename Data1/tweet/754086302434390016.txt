@@ -1,0 +1,1 @@
+{"usernameTweet": "agzinakuregi", "ID": "754086302434390016", "text": "Bildiğin troll #SokağaSakınÇıkma   pic.twitter.com/sO6mf2h657", "url": "/agzinakuregi/status/754086302434390016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:39", "is_reply": false, "is_retweet": false, "user_id": "717574538339422208"}

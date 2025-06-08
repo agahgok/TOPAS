@@ -1,0 +1,1 @@
+{"usernameTweet": "delimiyizbiz", "ID": "754080855925071872", "text": "# SokağaSakınÇıkma", "url": "/delimiyizbiz/status/754080855925071872", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:31:00", "is_reply": false, "is_retweet": false, "user_id": "161440484"}

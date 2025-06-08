@@ -1,0 +1,1 @@
+{"usernameTweet": "Violist_Timo", "ID": "1281287582324797442", "text": "Darbe  yapıp basbakan idam edenlere bir sey demiyor cunku kafa aynı.  Yatacak yerin yok celal.", "url": "/Violist_Timo/status/1281287582324797442", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 21:02:19", "is_reply": true, "is_retweet": false, "user_id": "1668941653"}

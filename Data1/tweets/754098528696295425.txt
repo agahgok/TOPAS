@@ -1,0 +1,1 @@
+{"usernameTweet": "endmh_fb", "ID": "754098528696295425", "text": "# SokağaSakınÇıkma  neden?güya iki ağaç icin sokaklarda yattiniz bu vatan sizin ağaçlarınızdan!!!! daha kıymetli", "url": "/endmh_fb/status/754098528696295425", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:41:14", "is_reply": false, "is_retweet": false, "user_id": "746901349"}

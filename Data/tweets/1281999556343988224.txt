@@ -1,0 +1,1 @@
+{"usernameTweet": "VatanSe19844763", "ID": "1281999556343988224", "text": "Darbe  gecesi de cumhurbaşkanımız ı sağ görünce baygınlık geçirmişti koca kafalı kel", "url": "/VatanSe19844763/status/1281999556343988224", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 20:11:27", "is_reply": true, "is_retweet": false, "user_id": "1239589074475847680"}

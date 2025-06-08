@@ -1,0 +1,1 @@
+{"usernameTweet": "Berrardii", "ID": "754084633306890240", "text": "# SokağaSakınÇıkma  ulan köpekler gidin başka yerde uluyun çapulcu tayfası sizi", "url": "/Berrardii/status/754084633306890240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:01", "is_reply": false, "is_retweet": false, "user_id": "143076749"}

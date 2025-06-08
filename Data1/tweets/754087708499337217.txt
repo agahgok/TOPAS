@@ -1,0 +1,1 @@
+{"usernameTweet": "haruncc", "ID": "754087708499337217", "text": "Başkanlık sistemi hayırlı olsun güzel tiyatroydu. #sokağasakıncıkma", "url": "/haruncc/status/754087708499337217", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:58:14", "is_reply": false, "is_retweet": false, "user_id": "561957827"}

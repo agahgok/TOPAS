@@ -1,0 +1,1 @@
+{"usernameTweet": "filizg_", "ID": "754074723143876609", "text": "3 kelime, tek cümle, çok net. #SokağaSakınÇıkma  NOKTA.", "url": "/filizg_/status/754074723143876609", "nbr_retweet": 4, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:06:38", "is_reply": false, "is_retweet": false, "user_id": "345574659"}

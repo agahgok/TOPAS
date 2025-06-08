@@ -1,0 +1,1 @@
+{"usernameTweet": "borac74", "ID": "754075614919950336", "text": "Sokaktayız niye ki #SokağaSakınÇıkma", "url": "/borac74/status/754075614919950336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:11", "is_reply": false, "is_retweet": false, "user_id": "198285746"}

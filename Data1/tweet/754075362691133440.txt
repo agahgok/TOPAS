@@ -1,0 +1,1 @@
+{"usernameTweet": "Pisi_pisicikk", "ID": "754075362691133440", "text": ".#SokağaSakınÇıkma", "url": "/Pisi_pisicikk/status/754075362691133440", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:09:11", "is_reply": false, "is_retweet": false, "user_id": "2912559256"}

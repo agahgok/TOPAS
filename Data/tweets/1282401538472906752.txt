@@ -1,0 +1,1 @@
+{"usernameTweet": "alexxxmora", "ID": "1282401538472906752", "text": "Estoy abierto a escuchar por que me ha puesto ese comentario señorita...", "url": "/alexxxmora/status/1282401538472906752", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 22:48:47", "is_reply": true, "is_retweet": false, "user_id": "71853119"}

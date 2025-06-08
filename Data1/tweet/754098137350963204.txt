@@ -1,0 +1,1 @@
+{"usernameTweet": "FGN78", "ID": "754098137350963204", "text": "# SokağaSakınÇıkma  onca askerimiz şehit oldu ne sela okundu camilerden ne de insanlar sokağa döküldü yazıklar olsun", "url": "/FGN78/status/754098137350963204", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:39:41", "is_reply": false, "is_retweet": false, "user_id": "3091579161"}

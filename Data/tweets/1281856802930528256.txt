@@ -1,0 +1,1 @@
+{"usernameTweet": "Koreografi", "ID": "1281856802930528256", "text": "Murat Bey, şu çift plakaları tespit edip bir  darbe  vurun artık bu Sarı Mafya organizasyonuna!", "url": "/Koreografi/status/1281856802930528256", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 10:44:12", "is_reply": true, "is_retweet": false, "user_id": "393520852"}

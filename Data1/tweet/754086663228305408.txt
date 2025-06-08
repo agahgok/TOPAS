@@ -1,0 +1,1 @@
+{"usernameTweet": "cansephine", "ID": "754086663228305408", "text": "sela okunması neden? beni ürkütüyor. \n#SokağaSakınÇıkma", "url": "/cansephine/status/754086663228305408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:05", "is_reply": false, "is_retweet": false, "user_id": "769799989"}

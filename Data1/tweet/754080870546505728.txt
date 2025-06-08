@@ -1,0 +1,1 @@
+{"usernameTweet": "Ecevit_ER", "ID": "754080870546505728", "text": "KorkAK hırsız iç savaş çıkarmaya çalışıyor..!\n\n#SokağaSakınÇıkma   pic.twitter.com/2b3BZcHoc3", "url": "/Ecevit_ER/status/754080870546505728", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:31:04", "is_reply": false, "is_retweet": false, "user_id": "2844392078"}

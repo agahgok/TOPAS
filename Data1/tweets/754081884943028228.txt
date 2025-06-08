@@ -1,0 +1,1 @@
+{"usernameTweet": "pizmamo123", "ID": "754081884943028228", "text": "Ne dersek diyelim bu aptallar bu ezanın ve selanın daha çok gazına gelip çıkacak lar #SokağaSakınÇıkma", "url": "/pizmamo123/status/754081884943028228", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:06", "is_reply": false, "is_retweet": false, "user_id": "1593853244"}

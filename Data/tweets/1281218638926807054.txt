@@ -1,0 +1,1 @@
+{"usernameTweet": "TEKBAYRAKK", "ID": "1281218638926807054", "text": "Minik bir  darbe  demiş daha büğüne hazırlanıyor yada daha büğünü gerçekleştiremediler galiba", "url": "/TEKBAYRAKK/status/1281218638926807054", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 16:28:22", "is_reply": true, "is_retweet": false, "user_id": "702104729644613632"}

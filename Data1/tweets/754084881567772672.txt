@@ -1,0 +1,1 @@
+{"usernameTweet": "avcudi", "ID": "754084881567772672", "text": "Ne olacak bu memleketin hali de RAKI nı iç #SokağaSakınÇıkma", "url": "/avcudi/status/754084881567772672", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:47:00", "is_reply": false, "is_retweet": false, "user_id": "154838878"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "aysbeyz1", "ID": "754071937249341440", "text": "# SokağaSakinÇikma   https:// twitter.com/ilbering/statu s/754071014405869568   …", "url": "/aysbeyz1/status/754071937249341440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:55:34", "is_reply": false, "is_retweet": false, "user_id": "2496271950"}

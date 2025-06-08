@@ -1,0 +1,1 @@
+{"usernameTweet": "KfrEdicemBak", "ID": "754653082856878080", "text": "Bu tag altında sokağa çıkmayın diyen herkes haindir #SokağaSakınÇıkma", "url": "/KfrEdicemBak/status/754653082856878080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-17 15:24:50", "is_reply": false, "is_retweet": false, "user_id": "720050431"}

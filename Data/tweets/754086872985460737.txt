@@ -1,0 +1,1 @@
+{"usernameTweet": "tgcseker", "ID": "754086872985460737", "text": "# SokağaSakınÇıkma   https:// twitter.com/140journos/sta tus/754085034944974848   …  demedim demem @tgcseker", "url": "/tgcseker/status/754086872985460737", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:55", "is_reply": true, "is_retweet": false, "user_id": "44328550"}

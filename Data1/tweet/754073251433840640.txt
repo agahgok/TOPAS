@@ -1,0 +1,1 @@
+{"usernameTweet": "ozturk1405", "ID": "754073251433840640", "text": "Halkı  sokağa  çıkarmak  isteyenler  insan  deil  vatan  hainidir.  #SokağaSakınÇıkma", "url": "/ozturk1405/status/754073251433840640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:47", "is_reply": false, "is_retweet": false, "user_id": "3309710710"}

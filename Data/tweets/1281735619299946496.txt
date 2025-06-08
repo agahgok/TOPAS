@@ -1,0 +1,1 @@
+{"usernameTweet": "Gizemm_1453", "ID": "1281735619299946496", "text": "Hic Bir  Darbe  Ilelebet Sürmez....", "url": "/Gizemm_1453/status/1281735619299946496", "nbr_retweet": 19, "nbr_favorite": 37, "nbr_reply": 2, "datetime": "2020-07-11 02:42:39", "is_reply": false, "is_retweet": false, "user_id": "1169558885885198336"}

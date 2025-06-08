@@ -1,0 +1,1 @@
+{"usernameTweet": "nsbatuhan2", "ID": "1281877538747424768", "text": "Farklılıklara hoşgörüye vurulmuş bir  darbe  diyebilir miyiz", "url": "/nsbatuhan2/status/1281877538747424768", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 12:06:36", "is_reply": true, "is_retweet": false, "user_id": "3900674427"}

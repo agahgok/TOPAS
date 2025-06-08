@@ -1,0 +1,1 @@
+{"usernameTweet": "ELelfide", "ID": "754080802632151041", "text": "Bu gece çoookkk uzun olacak.\n#SokağaSakınÇıkma", "url": "/ELelfide/status/754080802632151041", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:48", "is_reply": false, "is_retweet": false, "user_id": "1511833992"}

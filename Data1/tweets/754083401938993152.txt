@@ -1,0 +1,1 @@
+{"usernameTweet": "organicwhisper", "ID": "754083401938993152", "text": "Bu saatte ezan sesleri 1 saatir okuyor hoca. Bu ne perhiz #SokağaSakınÇıkma", "url": "/organicwhisper/status/754083401938993152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:07", "is_reply": false, "is_retweet": false, "user_id": "267089597"}

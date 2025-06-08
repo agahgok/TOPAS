@@ -1,0 +1,1 @@
+{"usernameTweet": "Babyschka_", "ID": "754078838699745280", "text": "GÖRÜŞÜNÜZ DÜŞÜNCENİZ NE OLURSA OLSUN\n#SokağaSakınÇıkma \nÇIKMAYIN YAPMAYIN BUNU", "url": "/Babyschka_/status/754078838699745280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:59", "is_reply": false, "is_retweet": false, "user_id": "1463458178"}

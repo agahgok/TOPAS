@@ -1,0 +1,1 @@
+{"usernameTweet": "raufztrk2", "ID": "754084376762286080", "text": "Allah'ın dediği olur! #SokağaSakınÇıkma", "url": "/raufztrk2/status/754084376762286080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:00", "is_reply": false, "is_retweet": false, "user_id": "717241530646413312"}

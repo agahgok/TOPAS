@@ -1,0 +1,1 @@
+{"usernameTweet": "EskEmekgencligi", "ID": "754076509086810113", "text": "Ne #darbe \nne tek adam diktatörlüğü\nLaik demokratik #Türkiye  !!!\n#SokağaSakınÇıkma", "url": "/EskEmekgencligi/status/754076509086810113", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:13:44", "is_reply": false, "is_retweet": false, "user_id": "369477121"}

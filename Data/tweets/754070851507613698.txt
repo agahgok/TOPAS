@@ -1,0 +1,1 @@
+{"usernameTweet": "safiyekurttekin", "ID": "754070851507613698", "text": "# SokağaSakınÇıkma  #darbeyehayır", "url": "/safiyekurttekin/status/754070851507613698", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 00:51:15", "is_reply": false, "is_retweet": false, "user_id": "741935200914026496"}

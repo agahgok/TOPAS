@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754084565518524416", "text": "Herkezde aynı tıp bayrak vay be bakkaldan mı aldılar acaba #SokağaSakınÇıkma", "url": "/mertbzky/status/754084565518524416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:45", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

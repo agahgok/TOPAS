@@ -1,0 +1,1 @@
+{"usernameTweet": "kiziltas_can", "ID": "1282674931168358407", "text": "Reis enişteden  darbe  haberini alıyor ", "url": "/kiziltas_can/status/1282674931168358407", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 16:55:09", "is_reply": true, "is_retweet": false, "user_id": "3446469855"}

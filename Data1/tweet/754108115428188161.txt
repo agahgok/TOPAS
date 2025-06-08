@@ -1,0 +1,1 @@
+{"usernameTweet": "ozgursytrk", "ID": "754108115428188161", "text": "Alın Size Yeni TÜRKİYE... #SokağaSakınÇıkma", "url": "/ozgursytrk/status/754108115428188161", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:19:20", "is_reply": false, "is_retweet": false, "user_id": "271043743"}

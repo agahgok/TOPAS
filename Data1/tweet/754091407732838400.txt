@@ -1,0 +1,1 @@
+{"usernameTweet": "EmrahKarabudak", "ID": "754091407732838400", "text": "İmamlar mesai alacak mı !? #SokağaSakınÇıkma", "url": "/EmrahKarabudak/status/754091407732838400", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:12:56", "is_reply": false, "is_retweet": false, "user_id": "152168331"}

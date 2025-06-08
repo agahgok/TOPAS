@@ -1,0 +1,1 @@
+{"usernameTweet": "RcogluE", "ID": "754090883616804865", "text": "# SokağaSakınÇıkma  diyen hainlere inat müslüman türk milleti SOKAĞA ÇIK VATANA SAHIP ÇIK!!!", "url": "/RcogluE/status/754090883616804865", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:51", "is_reply": false, "is_retweet": false, "user_id": "1589253588"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ataput31", "ID": "1282034296530898945", "text": "Darbe  yapacaz başa gelecez ezip kesecez huaaaaa", "url": "/ataput31/status/1282034296530898945", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-11 22:29:29", "is_reply": true, "is_retweet": false, "user_id": "1241855531725225984"}

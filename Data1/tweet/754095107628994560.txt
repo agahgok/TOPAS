@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkulerSevdam", "ID": "754095107628994560", "text": "Diploması gibi darbeside de sahte\n\n#SokağaSakınÇıkma", "url": "/TurkulerSevdam/status/754095107628994560", "nbr_retweet": 31, "nbr_favorite": 71, "nbr_reply": 1, "datetime": "2016-07-16 02:27:38", "is_reply": false, "is_retweet": false, "user_id": "214293566"}

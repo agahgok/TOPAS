@@ -1,0 +1,1 @@
+{"ID": "1203397481897304064", "name": "AI Restaurant Names", "screen_name": "AI_Restaurants", "avatar": "https://pbs.twimg.com/profile_images/1279878795953082376/CWIzH9Rf_bigger.jpg"}

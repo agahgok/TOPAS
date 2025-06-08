@@ -1,0 +1,1 @@
+{"usernameTweet": "ResimMavi", "ID": "1284389568087818240", "text": "Darbe  yapmayı beceremeyen eşeklere kızıyor bence..  pic.twitter.com/d9XLN75jqf", "url": "/ResimMavi/status/1284389568087818240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 10:28:30", "is_reply": true, "is_retweet": false, "user_id": "1209519999548874754"}

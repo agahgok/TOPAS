@@ -1,0 +1,1 @@
+{"usernameTweet": "mervekisikli", "ID": "754076561079431168", "text": "sokaktan silah sesleri geliyor.. ülkmde neler oluyor.. #SokağaSakınÇıkma", "url": "/mervekisikli/status/754076561079431168", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 4, "datetime": "2016-07-16 01:13:56", "is_reply": false, "is_retweet": false, "user_id": "2942173516"}

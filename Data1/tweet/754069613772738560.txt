@@ -1,0 +1,1 @@
+{"usernameTweet": "TCoyaegem", "ID": "754069613772738560", "text": "# SokağaÇıkma  AKP'liler çıkabilir.! Dünya lideri Facetime'dan çağrı yaptı  pic.twitter.com/9k0gjQAgA9", "url": "/TCoyaegem/status/754069613772738560", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:46:20", "is_reply": false, "is_retweet": false, "user_id": "197823658"}

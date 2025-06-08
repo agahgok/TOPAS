@@ -1,0 +1,1 @@
+{"usernameTweet": "agzinakuregi", "ID": "754083939136966657", "text": "Ulkenin tum işsiz vasifsiz fikirsiz takimi sokakta #SokağaSakınÇıkma", "url": "/agzinakuregi/status/754083939136966657", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:15", "is_reply": false, "is_retweet": false, "user_id": "717574538339422208"}

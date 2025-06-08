@@ -1,0 +1,1 @@
+{"usernameTweet": "ElBrujitoZeta", "ID": "1282679140135645184", "text": "Bueno ya me dijiste que estas resignado en tus ideas. Conste que solito te pusiste la soga.", "url": "/ElBrujitoZeta/status/1282679140135645184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 17:11:52", "is_reply": true, "is_retweet": false, "user_id": "1010593032612335616"}

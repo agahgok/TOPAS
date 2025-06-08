@@ -1,0 +1,1 @@
+{"usernameTweet": "Sercanutas35", "ID": "754083837148336129", "text": "Açık ve net;\nNe darbe ne tek parti diktatörlüğü... #Sokağasakınçıkma  #DarbeDeğilTiyatro  #darbeyehayır", "url": "/Sercanutas35/status/754083837148336129", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:51", "is_reply": false, "is_retweet": false, "user_id": "1487750353"}

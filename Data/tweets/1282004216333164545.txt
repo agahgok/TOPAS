@@ -1,0 +1,1 @@
+{"usernameTweet": "K_a_r_g_a_33", "ID": "1282004216333164545", "text": "Bu gün kemalistlerin omurgasına  darbe  vurulduğu gün.", "url": "/K_a_r_g_a_33/status/1282004216333164545", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 20:29:58", "is_reply": true, "is_retweet": false, "user_id": "1266443379187109888"}

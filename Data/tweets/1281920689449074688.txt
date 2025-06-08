@@ -1,0 +1,1 @@
+{"usernameTweet": "omer_faruki", "ID": "1281920689449074688", "text": "Din kullanma konusunda pek konusma lakin  darbe  oldu bu ulkede dini kullanarak", "url": "/omer_faruki/status/1281920689449074688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 14:58:03", "is_reply": true, "is_retweet": false, "user_id": "1073944480296902657"}

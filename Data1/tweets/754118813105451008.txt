@@ -1,0 +1,1 @@
+{"usernameTweet": "busecebecii", "ID": "754118813105451008", "text": "Ebedi Başkomutanım Gazi Mustafa Kemal ATATÜRK'tür! #SokağaSakınÇıkma", "url": "/busecebecii/status/754118813105451008", "nbr_retweet": 2, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 04:01:50", "is_reply": false, "is_retweet": false, "user_id": "410760998"}

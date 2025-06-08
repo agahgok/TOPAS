@@ -1,0 +1,1 @@
+{"usernameTweet": "Krhkn34", "ID": "754078943481913344", "text": "# SokağaSakınÇıkma  reis çık der biz çıkarız #havaalanı pic.twitter.com/jXT1iQ4j0x", "url": "/Krhkn34/status/754078943481913344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:24", "is_reply": false, "is_retweet": false, "user_id": "1264540766"}

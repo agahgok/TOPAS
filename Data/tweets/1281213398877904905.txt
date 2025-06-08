@@ -1,0 +1,1 @@
+{"usernameTweet": "icebergsson", "ID": "1281213398877904905", "text": "Su asfalt delen tipteki matkaplar,  darbe  siddeti kuvvetli olanlardan", "url": "/icebergsson/status/1281213398877904905", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-09 16:07:32", "is_reply": true, "is_retweet": false, "user_id": "238277050"}

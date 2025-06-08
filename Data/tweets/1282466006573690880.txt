@@ -1,0 +1,1 @@
+{"usernameTweet": "prodarbe", "ID": "1282466006573690880", "text": "So proud", "url": "/prodarbe/status/1282466006573690880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 03:04:57", "is_reply": true, "is_retweet": false, "user_id": "1270712034989146112"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ferhatk420", "ID": "754073183674859520", "text": "# SokağaSakınÇıkma  asker bizim askerimiz", "url": "/ferhatk420/status/754073183674859520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:31", "is_reply": false, "is_retweet": false, "user_id": "1481762112"}

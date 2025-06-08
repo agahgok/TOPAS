@@ -1,0 +1,1 @@
+{"usernameTweet": "Crunk48", "ID": "754075741441122304", "text": "# SokağaSakınÇıkma  allah yardımcımız olsun.", "url": "/Crunk48/status/754075741441122304", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:10:41", "is_reply": false, "is_retweet": false, "user_id": "1568243900"}

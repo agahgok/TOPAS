@@ -1,0 +1,1 @@
+{"usernameTweet": "salman_simsek", "ID": "754115651996975104", "text": "Nasıl anlamayım şimdi şavaşta kalan o çocukları\n #Ankara \n#sokağasakınçıkma \nTBMM\n#meclis", "url": "/salman_simsek/status/754115651996975104", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:49:16", "is_reply": false, "is_retweet": false, "user_id": "700615454059065345"}

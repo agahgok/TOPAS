@@ -1,0 +1,1 @@
+{"usernameTweet": "aydinbaris9", "ID": "754095265297076224", "text": "# SokağaSakınÇıkma  ???  pic.twitter.com/7Vehe7UJWU", "url": "/aydinbaris9/status/754095265297076224", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:16", "is_reply": false, "is_retweet": false, "user_id": "311898670"}

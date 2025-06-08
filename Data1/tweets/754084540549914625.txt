@@ -1,0 +1,1 @@
+{"usernameTweet": "KaratasMenes", "ID": "754084540549914625", "text": "Halkı askere düşman ettiniz! #SokağaSakınÇıkma", "url": "/KaratasMenes/status/754084540549914625", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:39", "is_reply": false, "is_retweet": false, "user_id": "3982064181"}

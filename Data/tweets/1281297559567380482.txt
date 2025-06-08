@@ -1,0 +1,1 @@
+{"usernameTweet": "veraaa004", "ID": "1281297559567380482", "text": "Beklemediklerimden  darbe  alıncaaa sarsıldım ", "url": "/veraaa004/status/1281297559567380482", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 21:41:58", "is_reply": true, "is_retweet": false, "user_id": "1191468517071212544"}

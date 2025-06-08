@@ -1,0 +1,1 @@
+{"usernameTweet": "3BTolunay", "ID": "754078674966675456", "text": "# SokağaSakınÇıkma  çıkanlar IŞİD ci anına koduklarım", "url": "/3BTolunay/status/754078674966675456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:20", "is_reply": false, "is_retweet": false, "user_id": "288496678"}

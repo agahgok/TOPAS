@@ -1,0 +1,1 @@
+{"usernameTweet": "baharca1045", "ID": "1281867680572682240", "text": "Sizin hocanizo  darbe  cigirtkani hoca olamaz.gidin oteye bulasmayin kimseye.", "url": "/baharca1045/status/1281867680572682240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 11:27:25", "is_reply": true, "is_retweet": false, "user_id": "1166016493638901761"}

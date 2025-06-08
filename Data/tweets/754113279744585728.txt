@@ -1,0 +1,1 @@
+{"usernameTweet": "CansucanDiyoKi", "ID": "754113279744585728", "text": "Allah yardımcımız olsun #\nDarbeyeHayır #SokağaÇıkma", "url": "/CansucanDiyoKi/status/754113279744585728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:39:51", "is_reply": false, "is_retweet": false, "user_id": "2986141745"}

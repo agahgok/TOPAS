@@ -1,0 +1,1 @@
+{"usernameTweet": "xbrdx95", "ID": "1281168804249251840", "text": "Resul dağda pkkya  darbe  vurulunca canın yaniyor mu", "url": "/xbrdx95/status/1281168804249251840", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 13:10:20", "is_reply": true, "is_retweet": false, "user_id": "769546885304582149"}

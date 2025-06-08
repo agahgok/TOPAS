@@ -1,0 +1,1 @@
+{"usernameTweet": "nedimsener2010", "ID": "754076005388673024", "text": "Abdullah Gül \"Demokrasiye sahip çıkalım burası afrika ülkesi değil\" diyor. #SokağaSakınÇıkma", "url": "/nedimsener2010/status/754076005388673024", "nbr_retweet": 101, "nbr_favorite": 157, "nbr_reply": 36, "datetime": "2016-07-16 01:11:44", "is_reply": false, "is_retweet": false, "user_id": "837588744"}

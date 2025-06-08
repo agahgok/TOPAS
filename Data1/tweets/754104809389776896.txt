@@ -1,0 +1,1 @@
+{"usernameTweet": "bkeskin88", "ID": "754104809389776896", "text": "# SokağaSakınÇıkma  #DarbeDeğilTiyatro  #SokağaBilalÇıksın pic.twitter.com/0XVRI1jkP7", "url": "/bkeskin88/status/754104809389776896", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:06:11", "is_reply": false, "is_retweet": false, "user_id": "4204096132"}

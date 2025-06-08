@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetkhrmn69", "ID": "754077532627079168", "text": "Gerektiğinde bu vatan için canını veremiyeceksen sen  #SokağaSakınÇıkma  hatta kulubenden hiç çıkma", "url": "/ahmetkhrmn69/status/754077532627079168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:48", "is_reply": false, "is_retweet": false, "user_id": "3291740602"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mevlutsalman", "ID": "754076630633607168", "text": "# SokağaSakınÇıkma  diye anıranlar sabaha kadar anasının amını görecektir.millet yedirmeyecek reisi", "url": "/mevlutsalman/status/754076630633607168", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 01:14:13", "is_reply": false, "is_retweet": false, "user_id": "472275142"}

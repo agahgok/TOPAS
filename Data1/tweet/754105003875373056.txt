@@ -1,0 +1,1 @@
+{"usernameTweet": "oguzhancaglr", "ID": "754105003875373056", "text": "kaç insan daha ölecek  #sokağaçıkma", "url": "/oguzhancaglr/status/754105003875373056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:06:58", "is_reply": false, "is_retweet": false, "user_id": "428504143"}

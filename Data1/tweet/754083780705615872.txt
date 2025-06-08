@@ -1,0 +1,1 @@
+{"usernameTweet": "ersin_sevinc", "ID": "754083780705615872", "text": "# SokağaSakınÇıkma  bursada almaktayız nerde yasak", "url": "/ersin_sevinc/status/754083780705615872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:38", "is_reply": false, "is_retweet": false, "user_id": "118779664"}

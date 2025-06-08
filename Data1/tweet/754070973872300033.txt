@@ -1,0 +1,1 @@
+{"usernameTweet": "AtillaComert", "ID": "754070973872300033", "text": "Hatirliyor musunuz ''EMNİYETE AĞIR SİLAH ALMA KANUNUNU'' işte tam da bu gunler icindi\n#SokağaÇıkma", "url": "/AtillaComert/status/754070973872300033", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:44", "is_reply": false, "is_retweet": false, "user_id": "501639375"}

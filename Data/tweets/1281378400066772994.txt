@@ -1,0 +1,1 @@
+{"usernameTweet": "dervis7777", "ID": "1281378400066772994", "text": "Erasmus Muharremden ilk atak. Enayi ye ilk  darbe .  pic.twitter.com/W04jP9onZ0", "url": "/dervis7777/status/1281378400066772994", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 03:03:12", "is_reply": false, "is_retweet": false, "user_id": "749643336865243136"}

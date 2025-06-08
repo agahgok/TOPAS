@@ -1,0 +1,1 @@
+{"usernameTweet": "handeatesdr", "ID": "754090174355824645", "text": "# SokağaSakınÇıkma  Olağanüstü bisey olsaydı CNNtürk penguen yayınlardı. Herkes rahat olsun. :)", "url": "/handeatesdr/status/754090174355824645", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:02", "is_reply": false, "is_retweet": false, "user_id": "326372480"}

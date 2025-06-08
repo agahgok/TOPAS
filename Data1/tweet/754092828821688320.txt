@@ -1,0 +1,1 @@
+{"usernameTweet": "koraykaya20", "ID": "754092828821688320", "text": "Gölbaşında 17 polisimizi kaybettik. #SokağaSakınÇıkma", "url": "/koraykaya20/status/754092828821688320", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:18:35", "is_reply": false, "is_retweet": false, "user_id": "480781861"}

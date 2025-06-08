@@ -1,0 +1,1 @@
+{"usernameTweet": "pavelnejdet", "ID": "754088054562889729", "text": "# SokağaSakınÇıkma  Asıl soru bu.", "url": "/pavelnejdet/status/754088054562889729", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:37", "is_reply": false, "is_retweet": false, "user_id": "285075974"}

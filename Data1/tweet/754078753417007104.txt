@@ -1,0 +1,1 @@
+{"usernameTweet": "betkan", "ID": "754078753417007104", "text": "# SokağaSakınÇıkma  Bu nasıl bir darbe?", "url": "/betkan/status/754078753417007104", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:22:39", "is_reply": false, "is_retweet": false, "user_id": "95654271"}

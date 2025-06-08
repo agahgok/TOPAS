@@ -1,0 +1,1 @@
+{"usernameTweet": "TheSkyTurk", "ID": "754078119762374656", "text": "tayyipin göt kılı degilsen #SokağaSakınÇıkma  çıkacaksan evdeki BEYAZ perdeni almayı unutma :D", "url": "/TheSkyTurk/status/754078119762374656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:08", "is_reply": false, "is_retweet": false, "user_id": "3896754502"}

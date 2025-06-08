@@ -1,0 +1,1 @@
+{"usernameTweet": "elfbrkts", "ID": "754075493553545216", "text": "Sokağa sen niye çıkmıyosun milleti sokağa döküyosun önden seni alalım #SokağaSakınÇıkma", "url": "/elfbrkts/status/754075493553545216", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:09:42", "is_reply": false, "is_retweet": false, "user_id": "359053308"}

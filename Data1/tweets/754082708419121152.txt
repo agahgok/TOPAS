@@ -1,0 +1,1 @@
+{"usernameTweet": "RealErcanAtes1", "ID": "754082708419121152", "text": "2. #تركيا  \n3. Turquía \n4. #Türkei  \n5. #SokağaSakınÇıkma   pic.twitter.com/x6AKUMH8oZ", "url": "/RealErcanAtes1/status/754082708419121152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:22", "is_reply": false, "is_retweet": false, "user_id": "161750257"}

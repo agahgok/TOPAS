@@ -1,0 +1,1 @@
+{"usernameTweet": "deligibiseverem", "ID": "1281342537018609671", "text": "Kaza  darbe  boya yok, temiz. İçinde küfür dahi ettirmedim", "url": "/deligibiseverem/status/1281342537018609671", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 00:40:41", "is_reply": false, "is_retweet": false, "user_id": "910452989625761792"}

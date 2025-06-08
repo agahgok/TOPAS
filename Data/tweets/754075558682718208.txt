@@ -1,0 +1,1 @@
+{"usernameTweet": "devitamini", "ID": "754075558682718208", "text": "# SokağaÇıkma", "url": "/devitamini/status/754075558682718208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:57", "is_reply": false, "is_retweet": false, "user_id": "1014005629"}

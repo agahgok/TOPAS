@@ -1,0 +1,1 @@
+{"usernameTweet": "GunduzSema00", "ID": "754089010344169476", "text": "# sokağaçıkma  malesef 17 polisimiz şehit olmuş.Allah belanizi versin.", "url": "/GunduzSema00/status/754089010344169476", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:25", "is_reply": false, "is_retweet": false, "user_id": "2475781608"}

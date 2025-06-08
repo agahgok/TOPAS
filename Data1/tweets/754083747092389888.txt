@@ -1,0 +1,1 @@
+{"usernameTweet": "yezidsavar1", "ID": "754083747092389888", "text": "# SokağaSakınÇıkma  Darbe yok yakında başkanlık var oyun hepsi tiyatro..", "url": "/yezidsavar1/status/754083747092389888", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:30", "is_reply": false, "is_retweet": false, "user_id": "698999795571167233"}

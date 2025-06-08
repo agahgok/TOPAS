@@ -1,0 +1,1 @@
+{"usernameTweet": "dabe_wgn", "ID": "1284319758460973056", "text": "エアロRCとかドリパケライトとかまた売って欲しいな〜\nアレ安い割にめちゃくちゃ面白かった", "url": "/dabe_wgn/status/1284319758460973056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 05:51:06", "is_reply": false, "is_retweet": false, "user_id": "1082840784087334913"}

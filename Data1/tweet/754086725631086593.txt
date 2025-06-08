@@ -1,0 +1,1 @@
+{"usernameTweet": "bursbasvurusu", "ID": "754086725631086593", "text": "Allah'ım sen memleketimizi koru.. #SokağaSakınÇıkma  #DarbelereHayır pic.twitter.com/Al5VR1HNo7", "url": "/bursbasvurusu/status/754086725631086593", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:20", "is_reply": false, "is_retweet": false, "user_id": "473170019"}

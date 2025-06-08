@@ -1,0 +1,1 @@
+{"usernameTweet": "ekicifaruk1", "ID": "754096740500852738", "text": "# TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma \nTBMM vuruldu", "url": "/ekicifaruk1/status/754096740500852738", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:34:08", "is_reply": false, "is_retweet": false, "user_id": "2917196535"}

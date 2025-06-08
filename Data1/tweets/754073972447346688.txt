@@ -1,0 +1,1 @@
+{"usernameTweet": "eceegizem", "ID": "754073972447346688", "text": "# SokağaSakınÇıkma  Size mi kaldı tankla, tüfekle karşı karşıya kalmak.", "url": "/eceegizem/status/754073972447346688", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:03:39", "is_reply": false, "is_retweet": false, "user_id": "353005172"}

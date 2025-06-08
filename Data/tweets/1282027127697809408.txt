@@ -1,0 +1,1 @@
+{"usernameTweet": "Cayelinden53", "ID": "1282027127697809408", "text": "EVET ÖYLE OLACAKTI,NEDN 15TEMMUZ 2016  DARBE  VE İŞGAL GİRİŞİMİ DİYORUZ..", "url": "/Cayelinden53/status/1282027127697809408", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 22:01:00", "is_reply": true, "is_retweet": false, "user_id": "395723928"}

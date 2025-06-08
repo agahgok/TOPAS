@@ -1,0 +1,1 @@
+{"usernameTweet": "demre197", "ID": "754066622583889920", "text": "# TskCumhuriyetinTeminatıdır    #sokağaçıkma", "url": "/demre197/status/754066622583889920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:34:27", "is_reply": false, "is_retweet": false, "user_id": "3418694613"}

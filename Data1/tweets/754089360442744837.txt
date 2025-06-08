@@ -1,0 +1,1 @@
+{"usernameTweet": "marshle22", "ID": "754089360442744837", "text": "17 JÖH öldürüldü \n #SokağaSakınÇıkma   pic.twitter.com/uEnFN6cIkV", "url": "/marshle22/status/754089360442744837", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:48", "is_reply": false, "is_retweet": false, "user_id": "746652137384460288"}

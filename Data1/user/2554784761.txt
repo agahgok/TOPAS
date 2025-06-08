@@ -1,0 +1,1 @@
+{"ID": "2554784761", "name": "福島大学競技麻雀部迷言bot", "screen_name": "fukushimamjbot", "avatar": "https://pbs.twimg.com/profile_images/475640629762863104/18-ykLmP_bigger.jpeg"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bogazgulayy", "ID": "1281286965640429571", "text": "Kafama bir  darbe  almadığım sürece hiç bir şeyi unutmam.", "url": "/bogazgulayy/status/1281286965640429571", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 20:59:52", "is_reply": false, "is_retweet": false, "user_id": "1228076368325419011"}

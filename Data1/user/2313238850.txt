@@ -1,0 +1,1 @@
+{"ID": "2313238850", "name": "岩瀬µ’s迷言bot", "screen_name": "raisou_bot", "avatar": "https://pbs.twimg.com/profile_images/686704871660097536/DNNbgwjd_bigger.jpg"}

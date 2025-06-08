@@ -1,0 +1,1 @@
+{"usernameTweet": "Anarsistx", "ID": "754085095947010048", "text": "Şimdi siz birde  tankın üzerinde poz verirsiniz. #SokağaSakınÇıkma", "url": "/Anarsistx/status/754085095947010048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:51", "is_reply": false, "is_retweet": false, "user_id": "781142366"}

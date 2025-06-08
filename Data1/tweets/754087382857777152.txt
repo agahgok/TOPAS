@@ -1,0 +1,1 @@
+{"usernameTweet": "agzinakuregi", "ID": "754087382857777152", "text": "Bi dediğini unutma, yine bir U dönüşü #SokağaSakınÇıkma   pic.twitter.com/s4SkfJgV9K", "url": "/agzinakuregi/status/754087382857777152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:56", "is_reply": false, "is_retweet": false, "user_id": "717574538339422208"}

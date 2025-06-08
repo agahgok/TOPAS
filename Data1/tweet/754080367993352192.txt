@@ -1,0 +1,1 @@
+{"usernameTweet": "Xhenist", "ID": "754080367993352192", "text": "Siktir piç, sen ananın fistanı ile evinde otur  #SokağaSakınÇıkma", "url": "/Xhenist/status/754080367993352192", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:04", "is_reply": false, "is_retweet": false, "user_id": "97684973"}

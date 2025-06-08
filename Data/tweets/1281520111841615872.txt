@@ -1,0 +1,1 @@
+{"usernameTweet": "gencoder07", "ID": "1281520111841615872", "text": "Her farklı  darbe  yiyişimde: Gölgelerin gücü adına.... (gerisini zaten biliyorsunuz) diyesim geliyor..", "url": "/gencoder07/status/1281520111841615872", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 12:26:18", "is_reply": false, "is_retweet": false, "user_id": "3499959382"}

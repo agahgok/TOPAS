@@ -1,0 +1,1 @@
+{"usernameTweet": "atas_mehmt", "ID": "754077330587414528", "text": "# SokağaSakınÇıkma  siktirin ulan hain köpekler #SokağaGel pic.twitter.com/h2BLDjTx1I", "url": "/atas_mehmt/status/754077330587414528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:00", "is_reply": false, "is_retweet": false, "user_id": "999827461"}

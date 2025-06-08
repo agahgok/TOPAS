@@ -1,0 +1,1 @@
+{"usernameTweet": "rebeqRe", "ID": "754118464844029953", "text": "Ataturk havalimannda bomba patlamis #SokağaSakınÇıkma  #DarbeyeHayır  #yeterAkpyeter", "url": "/rebeqRe/status/754118464844029953", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:00:27", "is_reply": false, "is_retweet": false, "user_id": "148474505"}

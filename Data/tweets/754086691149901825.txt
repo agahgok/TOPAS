@@ -1,0 +1,1 @@
+{"usernameTweet": "EYOMIYY", "ID": "754086691149901825", "text": "# TurkeyCoup  #Militaerputsch  #sokağasakınçıkma  #BuMemleketBizim pic.twitter.com/sXTLL3nklB", "url": "/EYOMIYY/status/754086691149901825", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:54:12", "is_reply": false, "is_retweet": false, "user_id": "2868914883"}

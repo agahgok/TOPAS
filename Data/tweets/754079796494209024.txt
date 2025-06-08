@@ -1,0 +1,1 @@
+{"usernameTweet": "burcudemet_", "ID": "754079796494209024", "text": "# sokağaçıkma  lütfen sağduyulu olun.Darbeye kimse evet demez ama sokağa çıkmak....O ayrı bir şey...", "url": "/burcudemet_/status/754079796494209024", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:26:48", "is_reply": false, "is_retweet": false, "user_id": "335424341"}

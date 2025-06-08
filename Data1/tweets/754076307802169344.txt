@@ -1,0 +1,1 @@
+{"usernameTweet": "kamilkar80", "ID": "754076307802169344", "text": "# SokağaSakınÇıkma  oyunlara gelmeyelim", "url": "/kamilkar80/status/754076307802169344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:56", "is_reply": false, "is_retweet": false, "user_id": "2536942538"}

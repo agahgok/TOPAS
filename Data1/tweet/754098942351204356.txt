@@ -1,0 +1,1 @@
+{"usernameTweet": "ZinarYildiz21", "ID": "754098942351204356", "text": "Bu bir darbe değil meşruiyet mücadelesidir  #SokağaSakınÇıkma", "url": "/ZinarYildiz21/status/754098942351204356", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:42:52", "is_reply": false, "is_retweet": false, "user_id": "1865355048"}

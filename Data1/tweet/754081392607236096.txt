@@ -1,0 +1,1 @@
+{"usernameTweet": "mts_yt", "ID": "754081392607236096", "text": "# SokağaSakınÇıkma  kimse oyuna gelmesin kimsenin canı yanmasına dışarı cikmayin", "url": "/mts_yt/status/754081392607236096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:08", "is_reply": false, "is_retweet": false, "user_id": "1523158230"}

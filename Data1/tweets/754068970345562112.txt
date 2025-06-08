@@ -1,0 +1,1 @@
+{"usernameTweet": "arjin_ibrahim", "ID": "754068970345562112", "text": "# SokağaSakınÇıkma   https:// twitter.com/aliarslan3460/ status/754068852418441216   …", "url": "/arjin_ibrahim/status/754068970345562112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:43:47", "is_reply": false, "is_retweet": false, "user_id": "83962299"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bytutsak0133", "ID": "754083574777802752", "text": "Selâ nın okunma amacını ciddi anlamda bilen varmı varsa yazabilirmi buraya lütfen  #SokağaSakınÇıkma", "url": "/bytutsak0133/status/754083574777802752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:49", "is_reply": false, "is_retweet": false, "user_id": "1046473980"}

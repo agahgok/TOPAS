@@ -1,0 +1,1 @@
+{"usernameTweet": "deybsuperhot", "ID": "1284295216724353024", "text": "pic.twitter.com/qvuWKFZhfu", "url": "/deybsuperhot/status/1284295216724353024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 04:13:35", "is_reply": false, "is_retweet": false, "user_id": "2383435243"}

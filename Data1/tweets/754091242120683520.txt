@@ -1,0 +1,1 @@
+{"usernameTweet": "karakayafirat", "ID": "754091242120683520", "text": "# SokağaSakınÇıkma  diyenler meydanlar dolu  pic.twitter.com/OHNQjseYa5", "url": "/karakayafirat/status/754091242120683520", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:12:17", "is_reply": false, "is_retweet": false, "user_id": "804940722"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "zirvesercio", "ID": "1281253546424446978", "text": "darbe  yapıyorlar aq", "url": "/zirvesercio/status/1281253546424446978", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 18:47:04", "is_reply": true, "is_retweet": false, "user_id": "1257019698685841408"}

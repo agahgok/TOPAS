@@ -1,0 +1,1 @@
+{"usernameTweet": "_TahaSevim", "ID": "754078098459615232", "text": "# SokağaSakınÇıkma", "url": "/_TahaSevim/status/754078098459615232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:03", "is_reply": false, "is_retweet": false, "user_id": "1027153909"}

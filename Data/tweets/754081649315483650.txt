@@ -1,0 +1,1 @@
+{"usernameTweet": "smturhan", "ID": "754081649315483650", "text": "Herkes sokağa ! Orospu cocuklarinim sozlerine itibar etmeyin. #SokağaSakınÇıkma", "url": "/smturhan/status/754081649315483650", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:34:10", "is_reply": false, "is_retweet": false, "user_id": "1899805580"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TC_Serkann_1903", "ID": "1281167054209417216", "text": "Bu kız ölmüştür beyne  darbe  yiyor", "url": "/TC_Serkann_1903/status/1281167054209417216", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:03:23", "is_reply": true, "is_retweet": false, "user_id": "895958694122459136"}

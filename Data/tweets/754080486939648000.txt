@@ -1,0 +1,1 @@
+{"usernameTweet": "jazzandie", "ID": "754080486939648000", "text": "Ülke bitmiş...\n#Turkey  #darbe  #SokagaSakinCikma", "url": "/jazzandie/status/754080486939648000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:32", "is_reply": false, "is_retweet": false, "user_id": "753674824099266560"}

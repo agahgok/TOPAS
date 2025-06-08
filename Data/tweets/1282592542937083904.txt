@@ -1,0 +1,1 @@
+{"usernameTweet": "maliva16", "ID": "1282592542937083904", "text": "pic.twitter.com/khqeEj35yS", "url": "/maliva16/status/1282592542937083904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 11:27:46", "is_reply": true, "is_retweet": false, "user_id": "1001981838288535553"}

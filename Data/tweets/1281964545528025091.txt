@@ -1,0 +1,1 @@
+{"usernameTweet": "zisannnur", "ID": "1281964545528025091", "text": "Darbe  gördüm, kriz gördüm, virüs gördüm bir türlü gerçek aşk göremedim", "url": "/zisannnur/status/1281964545528025091", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-11 17:52:20", "is_reply": false, "is_retweet": false, "user_id": "1000463379163729922"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_mariaguerrero_", "ID": "448972184632168449", "text": "50 millones me costaste para 5 puntos..... @Cristiano  no rindes eh... Pero tq", "url": "/_mariaguerrero_/status/448972184632168449", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:58:04", "is_reply": false, "is_retweet": false, "user_id": "167151975"}

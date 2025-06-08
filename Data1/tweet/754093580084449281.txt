@@ -1,0 +1,1 @@
+{"usernameTweet": "dualiteli", "ID": "754093580084449281", "text": "Size de geziyi kıskanmışlar gibi geldi mi ? Benim de #sokağaçıkma  da diyeceğim aklıma gelmezdi !!! #tarihenot", "url": "/dualiteli/status/754093580084449281", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:21:34", "is_reply": false, "is_retweet": false, "user_id": "94899109"}

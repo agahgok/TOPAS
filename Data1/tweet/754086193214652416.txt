@@ -1,0 +1,1 @@
+{"usernameTweet": "abdullahincebiz", "ID": "754086193214652416", "text": "# SokağaSakınÇıkma  çağrısına destek vermek Vatan Hainliğidir. Herkes MEYDANLARA", "url": "/abdullahincebiz/status/754086193214652416", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:52:13", "is_reply": false, "is_retweet": false, "user_id": "86698795"}

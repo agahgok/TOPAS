@@ -1,0 +1,1 @@
+{"usernameTweet": "kriyeerkal", "ID": "754320061385547776", "text": "Bu çağrı bana göre normal değil,sen sen ol ve  #sokağasakınçıkma", "url": "/kriyeerkal/status/754320061385547776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 17:21:31", "is_reply": false, "is_retweet": false, "user_id": "293692387"}

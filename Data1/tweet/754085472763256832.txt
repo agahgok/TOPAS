@@ -1,0 +1,1 @@
+{"usernameTweet": "umuutakar", "ID": "754085472763256832", "text": "Dinle insanların aklını karıştırmaya çalışıyorlar bu oyuna gelmeyin ! #SokağaÇıkma", "url": "/umuutakar/status/754085472763256832", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:49:21", "is_reply": false, "is_retweet": false, "user_id": "2427263262"}

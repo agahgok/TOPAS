@@ -1,0 +1,1 @@
+{"usernameTweet": "bluewall07", "ID": "754070967866036225", "text": "Sakın sokağa çıkmayın! Demokrasi sokakta değil! #SokağaÇıkma", "url": "/bluewall07/status/754070967866036225", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:43", "is_reply": false, "is_retweet": false, "user_id": "77604444"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "acamaril", "ID": "1282359165755719682", "text": "Si el presidente te pide que te tires a un barranco… pues no debería ser presidente. Es lo mismo.", "url": "/acamaril/status/1282359165755719682", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 20:00:24", "is_reply": true, "is_retweet": false, "user_id": "75863541"}

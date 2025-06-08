@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmtvolkan", "ID": "754093718181781504", "text": "Beyler filler tepişiyor çimen olmayın.. #SokağaSakınCıkma", "url": "/mehmtvolkan/status/754093718181781504", "nbr_retweet": 4, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:22:07", "is_reply": false, "is_retweet": false, "user_id": "157960429"}

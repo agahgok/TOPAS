@@ -1,0 +1,1 @@
+{"usernameTweet": "RecepUcakk", "ID": "754096622976507904", "text": "Politikada hiçbir şey kazayla olmaz. Olmuşsa, öyle planlanmıştır. #SokağaSakınÇıkma", "url": "/RecepUcakk/status/754096622976507904", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:33:40", "is_reply": false, "is_retweet": false, "user_id": "809685884"}

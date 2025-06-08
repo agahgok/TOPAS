@@ -1,0 +1,1 @@
+{"usernameTweet": "cilekes_59", "ID": "1282680523161309186", "text": "fenerbahçe şampiyonluk yolunda büyük  darbe  aldı bu sakatlıkla", "url": "/cilekes_59/status/1282680523161309186", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 17:17:22", "is_reply": true, "is_retweet": false, "user_id": "3379475463"}

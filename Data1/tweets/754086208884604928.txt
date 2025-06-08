@@ -1,0 +1,1 @@
+{"usernameTweet": "vbaybarsbilim", "ID": "754086208884604928", "text": "Çıkarlar için okutulan ezan rabbine en büyük saygısızlıktır. #SokağaSakınÇıkma", "url": "/vbaybarsbilim/status/754086208884604928", "nbr_retweet": 10, "nbr_favorite": 58, "nbr_reply": 2, "datetime": "2016-07-16 01:52:17", "is_reply": false, "is_retweet": false, "user_id": "395319078"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "musdiakyol", "ID": "754077825452371968", "text": "Taksime çıkmak hani yasaktı ? Çıktılar adamlar. Atsana biber gazı ! #SokağaSakınÇıkma", "url": "/musdiakyol/status/754077825452371968", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:18:58", "is_reply": false, "is_retweet": false, "user_id": "715009016"}

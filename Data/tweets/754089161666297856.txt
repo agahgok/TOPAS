@@ -1,0 +1,1 @@
+{"usernameTweet": "Uygarsvg22", "ID": "754089161666297856", "text": "# SokağaSakınÇıkma  oturdugu yerden başkanlık geldi", "url": "/Uygarsvg22/status/754089161666297856", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:04:01", "is_reply": false, "is_retweet": false, "user_id": "747126462411644928"}

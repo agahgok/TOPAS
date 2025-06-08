@@ -1,0 +1,1 @@
+{"usernameTweet": "simayabana", "ID": "754095274373570560", "text": "Devletimiz geriye gidiyo umarım gerilerde bi yerlerde Atatürk'e rastlarız. #SokağaSakınÇıkma", "url": "/simayabana/status/754095274373570560", "nbr_retweet": 3, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:28:18", "is_reply": false, "is_retweet": false, "user_id": "879972120"}

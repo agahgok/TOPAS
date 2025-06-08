@@ -1,0 +1,1 @@
+{"usernameTweet": "champcanisa", "ID": "1281373816116174848", "text": "•10 temmuz gecesi•\nnisanin insta hesabina  darbe  tesebbusunde bulundular", "url": "/champcanisa/status/1281373816116174848", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-10 02:44:59", "is_reply": false, "is_retweet": false, "user_id": "1248883151025451009"}

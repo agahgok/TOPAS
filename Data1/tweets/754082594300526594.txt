@@ -1,0 +1,1 @@
+{"usernameTweet": "ilhanliboyu", "ID": "754082594300526594", "text": "Antalya ve camiden şimdi anons ve sela, n'oluyor la?\n #SokağaSakınÇıkma   pic.twitter.com/hrBzBRjWeE", "url": "/ilhanliboyu/status/754082594300526594", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:37:55", "is_reply": false, "is_retweet": false, "user_id": "2332779851"}

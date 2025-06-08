@@ -1,0 +1,1 @@
+{"usernameTweet": "lawissimo", "ID": "1281577965311188992", "text": "Başkalarını itham ettikleri her şeyi ama her şeyi bizzat kendileri yaptılar,  darbe  dahil :(", "url": "/lawissimo/status/1281577965311188992", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 16:16:12", "is_reply": true, "is_retweet": false, "user_id": "1175826010689945601"}

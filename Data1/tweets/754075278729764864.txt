@@ -1,0 +1,1 @@
+{"usernameTweet": "Siyahin_Beyazi", "ID": "754075278729764864", "text": "# SokağaSakınÇıkma  askerini satan halk ancak Aziz Nesin in söylediği gibi gerizekalıdır. . .!!!", "url": "/Siyahin_Beyazi/status/754075278729764864", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:51", "is_reply": false, "is_retweet": false, "user_id": "2201387365"}

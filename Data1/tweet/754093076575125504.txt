@@ -1,0 +1,1 @@
+{"usernameTweet": "NevhiSahsi", "ID": "754093076575125504", "text": "İzmir'e bir daha \"GAVUR\" diyen imanını tazelesin #SokağaSakınÇıkma   pic.twitter.com/4me5givc0d", "url": "/NevhiSahsi/status/754093076575125504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:34", "is_reply": false, "is_retweet": false, "user_id": "1156742251"}

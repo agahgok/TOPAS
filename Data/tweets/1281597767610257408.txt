@@ -1,0 +1,1 @@
+{"usernameTweet": "dvrmakcakaya", "ID": "1281597767610257408", "text": "Bugünleri gösteren Rabbime hamdü senalar olsun.. pic.twitter.com/1h3AVm0Krv", "url": "/dvrmakcakaya/status/1281597767610257408", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-10 17:34:53", "is_reply": false, "is_retweet": false, "user_id": "2888426721"}

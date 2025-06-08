@@ -1,0 +1,1 @@
+{"usernameTweet": "Nazan1703", "ID": "754096614889885696", "text": "Datca da halkı meydanlara davet edıyor imam. Cıhat cagrısı #SokağaSakınÇıkma", "url": "/Nazan1703/status/754096614889885696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:33:38", "is_reply": false, "is_retweet": false, "user_id": "873798504"}

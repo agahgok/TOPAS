@@ -1,0 +1,1 @@
+{"usernameTweet": "Muhammedozdgn", "ID": "1281466015143079936", "text": "Hah  hadi onu geçtim  darbe  zamanı attığın twitler nedir?", "url": "/Muhammedozdgn/status/1281466015143079936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 08:51:21", "is_reply": true, "is_retweet": false, "user_id": "1197973363488153607"}

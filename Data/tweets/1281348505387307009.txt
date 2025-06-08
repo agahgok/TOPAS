@@ -1,0 +1,1 @@
+{"usernameTweet": "BabiEdition", "ID": "1281348505387307009", "text": "darbe  günü diye algıda seçicilik mi bilmiyorum ama yani yok hep unutamayacağım  bişiler oluyo", "url": "/BabiEdition/status/1281348505387307009", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 01:04:24", "is_reply": false, "is_retweet": false, "user_id": "1150710256776962048"}

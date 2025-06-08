@@ -1,0 +1,1 @@
+{"usernameTweet": "zkanNizam1", "ID": "1282028647197573120", "text": "Utanmadan şerefsizin biri de buna konrollu  darbe  dedi.", "url": "/zkanNizam1/status/1282028647197573120", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 22:07:03", "is_reply": true, "is_retweet": false, "user_id": "1266834268489220101"}

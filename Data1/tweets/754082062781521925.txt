@@ -1,0 +1,1 @@
+{"usernameTweet": "mertcanozturk5", "ID": "754082062781521925", "text": "Bu imamlar safdirik gece yarısı sela okuyor acaba neyin Selasl #SokağaSakınÇıkma", "url": "/mertcanozturk5/status/754082062781521925", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:48", "is_reply": false, "is_retweet": false, "user_id": "2819959275"}

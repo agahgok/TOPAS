@@ -1,0 +1,1 @@
+{"usernameTweet": "serdarozsoy35", "ID": "754091145865682944", "text": "# SokağaSakınÇıkma   pic.twitter.com/vs7Sw4Rc09", "url": "/serdarozsoy35/status/754091145865682944", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:11:54", "is_reply": false, "is_retweet": false, "user_id": "206331991"}

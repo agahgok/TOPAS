@@ -1,0 +1,1 @@
+{"usernameTweet": "OuzhanSarkulak3", "ID": "1282413689694564353", "text": "Öldürmeyen  darbe  güç verir abi de yaşıyo sayılmam", "url": "/OuzhanSarkulak3/status/1282413689694564353", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 23:37:04", "is_reply": true, "is_retweet": false, "user_id": "1114671018293985280"}

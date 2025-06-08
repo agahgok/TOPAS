@@ -1,0 +1,1 @@
+{"usernameTweet": "Edeler_diyari46", "ID": "1284399038834581504", "text": "Önce mısır  darbe  ile gelen sisi yi konuşsun.", "url": "/Edeler_diyari46/status/1284399038834581504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-18 11:06:08", "is_reply": true, "is_retweet": false, "user_id": "984094652117798915"}

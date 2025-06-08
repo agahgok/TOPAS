@@ -1,0 +1,1 @@
+{"usernameTweet": "DeusAnatolia", "ID": "754090112271650816", "text": "# SokağaSakınÇıkma", "url": "/DeusAnatolia/status/754090112271650816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:47", "is_reply": false, "is_retweet": false, "user_id": "3299506331"}

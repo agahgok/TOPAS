@@ -1,0 +1,1 @@
+{"usernameTweet": "azalisdede", "ID": "754072101150191616", "text": "# SokağaSakınÇıkma   pic.twitter.com/9PW7N5gy8p", "url": "/azalisdede/status/754072101150191616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:13", "is_reply": false, "is_retweet": false, "user_id": "3342413193"}

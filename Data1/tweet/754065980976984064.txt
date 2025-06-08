@@ -1,0 +1,1 @@
+{"usernameTweet": "comikase", "ID": "754065980976984064", "text": "# sokagacıkma  sakın", "url": "/comikase/status/754065980976984064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:31:54", "is_reply": false, "is_retweet": false, "user_id": "564761535"}

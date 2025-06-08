@@ -1,0 +1,1 @@
+{"usernameTweet": "HallArdc", "ID": "754082131391971328", "text": "# SokağaSakınÇıkma  Bursa sokakta!  pic.twitter.com/88iEqTqNoU", "url": "/HallArdc/status/754082131391971328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:04", "is_reply": false, "is_retweet": false, "user_id": "546521769"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "1yagmursesi", "ID": "754080983310340096", "text": "Bugun sokaga cikmayan türkiyeyi terk etsin... Algi yapiliyor bu taga yazmayin #SokağaSakınÇıkma", "url": "/1yagmursesi/status/754080983310340096", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:31", "is_reply": false, "is_retweet": false, "user_id": "3396402286"}

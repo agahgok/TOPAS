@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754088226076364800", "text": "Besıktasta ne oluyor #SokağaSakınÇıkma", "url": "/mertbzky/status/754088226076364800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:18", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

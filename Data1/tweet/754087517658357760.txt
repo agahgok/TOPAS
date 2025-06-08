@@ -1,0 +1,1 @@
+{"usernameTweet": "PampamRiddim", "ID": "754087517658357760", "text": "# SokağaSakınÇıkma  K.K da destekliyo siz noluyonuz amk çoçukları", "url": "/PampamRiddim/status/754087517658357760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:29", "is_reply": false, "is_retweet": false, "user_id": "1540691348"}

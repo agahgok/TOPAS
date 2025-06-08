@@ -1,0 +1,1 @@
+{"usernameTweet": "dabeciana", "ID": "1284310695954137089", "text": "WE HAVE MORE AHHAHAHAHAHAHAHABAJABALSKSKSK https:// twitter.com/aitaikimochi/s tatus/1284048348148686848   …", "url": "/dabeciana/status/1284310695954137089", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 05:15:05", "is_reply": false, "is_retweet": false, "user_id": "1065645342"}

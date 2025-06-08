@@ -1,0 +1,1 @@
+{"usernameTweet": "akhoca111", "ID": "754093360168701952", "text": "# SokağaSakınÇıkma  diyen darbecidir", "url": "/akhoca111/status/754093360168701952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:42", "is_reply": false, "is_retweet": false, "user_id": "1642704008"}

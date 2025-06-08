@@ -1,0 +1,1 @@
+{"usernameTweet": "hunermendbozkur", "ID": "1281527889222082560", "text": "\"gezi  darbe  girişimiyse ben darbeyi önledim\" demişti savunmasında katili", "url": "/hunermendbozkur/status/1281527889222082560", "nbr_retweet": 0, "nbr_favorite": 13, "nbr_reply": 0, "datetime": "2020-07-10 12:57:13", "is_reply": false, "is_retweet": false, "user_id": "1670534160"}

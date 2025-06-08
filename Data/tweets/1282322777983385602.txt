@@ -1,0 +1,1 @@
+{"usernameTweet": "lau_alco", "ID": "1282322777983385602", "text": "Como hubiera sido manejar adecuadamente la pandemia?", "url": "/lau_alco/status/1282322777983385602", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 17:35:49", "is_reply": true, "is_retweet": false, "user_id": "192635029"}

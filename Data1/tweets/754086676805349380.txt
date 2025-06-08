@@ -1,0 +1,1 @@
+{"usernameTweet": "orhankerem1", "ID": "754086676805349380", "text": "Çevik kuvvet mudurliğune giden askerler göz altina alindi  #SokağaSakınÇıkma   pic.twitter.com/DGN12UzlIj", "url": "/orhankerem1/status/754086676805349380", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:08", "is_reply": false, "is_retweet": false, "user_id": "546748439"}

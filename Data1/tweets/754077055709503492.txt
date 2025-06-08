@@ -1,0 +1,1 @@
+{"usernameTweet": "FatihCelenk1", "ID": "754077055709503492", "text": "Oyuna gelmeyin  #SokağaSakınÇıkma", "url": "/FatihCelenk1/status/754077055709503492", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:54", "is_reply": false, "is_retweet": false, "user_id": "287602935"}

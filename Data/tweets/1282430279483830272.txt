@@ -1,0 +1,1 @@
+{"usernameTweet": "asimilyano", "ID": "1282430279483830272", "text": "kendi çapımızda  darbe", "url": "/asimilyano/status/1282430279483830272", "nbr_retweet": 2, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-13 00:42:59", "is_reply": false, "is_retweet": false, "user_id": "2905213715"}

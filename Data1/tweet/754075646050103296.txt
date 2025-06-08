@@ -1,0 +1,1 @@
+{"usernameTweet": "Iamuniquemutant", "ID": "754075646050103296", "text": "Tank üzerinde tepinenler kurtarcak Türkiye yi. #SokağaSakınÇıkma", "url": "/Iamuniquemutant/status/754075646050103296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:18", "is_reply": false, "is_retweet": false, "user_id": "3435405615"}

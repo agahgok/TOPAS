@@ -1,0 +1,1 @@
+{"usernameTweet": "adnanulutas", "ID": "754094245137506308", "text": "org.hulisi akar dan talimat. havadaki o ucak ve helikopterleri yere indirmeyin  dedi #SokağaSakınÇıkma", "url": "/adnanulutas/status/754094245137506308", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:13", "is_reply": false, "is_retweet": false, "user_id": "227863098"}

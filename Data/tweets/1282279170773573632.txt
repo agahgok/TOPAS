@@ -1,0 +1,1 @@
+{"usernameTweet": "kuro_magnezyum", "ID": "1282279170773573632", "text": "bne alıştım mesela  darbe  yedikçe alışıyorsun sonra hissetmiyorsun", "url": "/kuro_magnezyum/status/1282279170773573632", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 14:42:32", "is_reply": true, "is_retweet": false, "user_id": "1245061083913768965"}

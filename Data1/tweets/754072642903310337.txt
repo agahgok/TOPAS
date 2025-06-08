@@ -1,0 +1,1 @@
+{"usernameTweet": "L0kosit", "ID": "754072642903310337", "text": "# SokağaSakınÇıkma  Ulan o kadar asker şehit olurken bu kadar çabuk meydanlara çıkan olmadı", "url": "/L0kosit/status/754072642903310337", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:22", "is_reply": false, "is_retweet": false, "user_id": "327044205"}

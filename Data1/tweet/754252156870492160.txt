@@ -1,0 +1,1 @@
+{"usernameTweet": "Berkay991", "ID": "754252156870492160", "text": "Sadece kendini ve yol arkadaşlarını yüceltmek için bir tiyatro kuran CB'nın oyununa gelme #SokağaSakınÇıkma", "url": "/Berkay991/status/754252156870492160", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 12:51:42", "is_reply": false, "is_retweet": false, "user_id": "2212251444"}

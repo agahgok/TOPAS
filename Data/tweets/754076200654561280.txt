@@ -1,0 +1,1 @@
+{"usernameTweet": "V_FORR", "ID": "754076200654561280", "text": "Oyuna gelme \n #SokağaSakınÇıkma \n #TskCumhuriyetinTeminatıdır pic.twitter.com/pAQ7ciO7ww", "url": "/V_FORR/status/754076200654561280", "nbr_retweet": 5, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:30", "is_reply": false, "is_retweet": false, "user_id": "1417571994"}

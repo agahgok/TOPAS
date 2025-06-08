@@ -1,0 +1,1 @@
+{"usernameTweet": "mrv_isbilir", "ID": "754067668274143232", "text": "# sokağaçıkma  ", "url": "/mrv_isbilir/status/754067668274143232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:38:36", "is_reply": false, "is_retweet": false, "user_id": "123947971"}

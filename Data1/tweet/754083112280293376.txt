@@ -1,0 +1,1 @@
+{"usernameTweet": "tonymontana652", "ID": "754083112280293376", "text": "# SokağaSakınÇıkma   https:// twitter.com/asiiidev/statu s/754080949017645061   …", "url": "/tonymontana652/status/754083112280293376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:58", "is_reply": false, "is_retweet": false, "user_id": "3075249569"}

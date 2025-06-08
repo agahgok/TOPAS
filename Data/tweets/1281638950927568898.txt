@@ -1,0 +1,1 @@
+{"usernameTweet": "fatiiihaydiin", "ID": "1281638950927568898", "text": "İnsanlara arkadaşım demeye korkuyorum  darbe  üstüne  darbe", "url": "/fatiiihaydiin/status/1281638950927568898", "nbr_retweet": 5, "nbr_favorite": 76, "nbr_reply": 1, "datetime": "2020-07-10 20:18:32", "is_reply": false, "is_retweet": false, "user_id": "1197208777260449792"}

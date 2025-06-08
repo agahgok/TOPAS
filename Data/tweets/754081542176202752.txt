@@ -1,0 +1,1 @@
+{"usernameTweet": "orhankerem1", "ID": "754081542176202752", "text": "Gelen giden tv ye bağlaniyr...bir araya gelip neden yek vucud olamiyirsunuz?? #SokağaSakınÇıkma", "url": "/orhankerem1/status/754081542176202752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:44", "is_reply": false, "is_retweet": false, "user_id": "546748439"}

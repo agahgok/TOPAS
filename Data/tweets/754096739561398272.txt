@@ -1,0 +1,1 @@
+{"usernameTweet": "VatanaAsik", "ID": "754096739561398272", "text": "Basbakan yıldirim: Ankara semalarinda ucan her ucak FÜZE İLE VURULACAK.  #SokağaÇıkma", "url": "/VatanaAsik/status/754096739561398272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:34:07", "is_reply": false, "is_retweet": false, "user_id": "115334548"}

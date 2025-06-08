@@ -1,0 +1,1 @@
+{"usernameTweet": "hll_shn", "ID": "1282580007181848583", "text": "AA'dan '15 Temmuz  Darbe  Yargılamaları' kitabı  http:// v.aa.com.tr/1907752  ", "url": "/hll_shn/status/1282580007181848583", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 10:37:57", "is_reply": false, "is_retweet": false, "user_id": "303060676"}

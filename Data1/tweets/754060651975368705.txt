@@ -1,0 +1,1 @@
+{"usernameTweet": "MrsDusHekimi", "ID": "754060651975368705", "text": "BU BİR KORSAN GİRİŞİM! #SOKAĞAÇIKMA  #sokağaçıkma", "url": "/MrsDusHekimi/status/754060651975368705", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:10:43", "is_reply": false, "is_retweet": false, "user_id": "246327171"}

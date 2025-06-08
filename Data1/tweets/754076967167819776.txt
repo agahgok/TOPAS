@@ -1,0 +1,1 @@
+{"usernameTweet": "SezgnArsln", "ID": "754076967167819776", "text": "# sokağasakınçıkma", "url": "/SezgnArsln/status/754076967167819776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:33", "is_reply": false, "is_retweet": false, "user_id": "263689229"}

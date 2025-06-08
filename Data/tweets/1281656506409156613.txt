@@ -1,0 +1,1 @@
+{"usernameTweet": "goktasarim", "ID": "1281656506409156613", "text": "Menderesi asan  darbe  metnini Türkeş okumuştu Erol", "url": "/goktasarim/status/1281656506409156613", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 21:28:17", "is_reply": true, "is_retweet": false, "user_id": "2686093644"}

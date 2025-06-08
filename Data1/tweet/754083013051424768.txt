@@ -1,0 +1,1 @@
+{"usernameTweet": "hseyn0007", "ID": "754083013051424768", "text": "BE ALLAHIN APTALI SEN HANGİ AKILLA DARBE YE KALKISIYON 2000 ONCESI TURKIYEMI SANIYON HALA #SokağaSakınÇıkma", "url": "/hseyn0007/status/754083013051424768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:35", "is_reply": false, "is_retweet": false, "user_id": "3432969310"}

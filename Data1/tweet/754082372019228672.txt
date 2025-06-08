@@ -1,0 +1,1 @@
+{"usernameTweet": "TlnBal", "ID": "754082372019228672", "text": "Şehit cenazeleri gelirken sokağa çıkmayan halk sokağamı çıkıyor??? \nYazıklar olsun #SokağaSakınÇıkma", "url": "/TlnBal/status/754082372019228672", "nbr_retweet": 2, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:37:02", "is_reply": false, "is_retweet": false, "user_id": "465388984"}

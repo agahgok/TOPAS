@@ -1,0 +1,1 @@
+{"usernameTweet": "dry_sky1", "ID": "754085549510684673", "text": "Asker koğuşunda insanlar evinde Türkiyem yerinde dursun #sokagasakincikma", "url": "/dry_sky1/status/754085549510684673", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:49:39", "is_reply": false, "is_retweet": false, "user_id": "3699165802"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "what_are_yu", "ID": "754071075823157248", "text": "# SokağaSakınÇıkma  lutfen!", "url": "/what_are_yu/status/754071075823157248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:09", "is_reply": false, "is_retweet": false, "user_id": "388785275"}

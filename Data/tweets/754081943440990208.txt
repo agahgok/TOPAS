@@ -1,0 +1,1 @@
+{"usernameTweet": "OmerTC7", "ID": "754081943440990208", "text": "Ezan batıyor içlerindeki şeytan dürtüyor şerefsizleri #darbe  #ankara  #SokağaSakınÇıkma", "url": "/OmerTC7/status/754081943440990208", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:20", "is_reply": false, "is_retweet": false, "user_id": "753612732964929536"}

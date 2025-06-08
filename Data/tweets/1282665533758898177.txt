@@ -1,0 +1,1 @@
+{"usernameTweet": "BiricimL", "ID": "1282665533758898177", "text": "Ders alındı ki tarih tekerrür etmedi çok şükür  darbe  yapılamadı.", "url": "/BiricimL/status/1282665533758898177", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:17:48", "is_reply": true, "is_retweet": false, "user_id": "1186995255297622018"}

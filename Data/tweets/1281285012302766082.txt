@@ -1,0 +1,1 @@
+{"usernameTweet": "defocikk", "ID": "1281285012302766082", "text": "Darbe  üstüne  darbe  yapıyorsunuz kalbime...", "url": "/defocikk/status/1281285012302766082", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 20:52:06", "is_reply": true, "is_retweet": false, "user_id": "3362823891"}

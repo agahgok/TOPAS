@@ -1,0 +1,1 @@
+{"usernameTweet": "rmetin42", "ID": "1282055489191280640", "text": "15 Temmuz Hain  Darbe  Girişimini  pic.twitter.com/a6fcO5PY6Z", "url": "/rmetin42/status/1282055489191280640", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 23:53:42", "is_reply": false, "is_retweet": false, "user_id": "3806842043"}

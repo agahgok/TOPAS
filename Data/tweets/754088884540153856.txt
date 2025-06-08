@@ -1,0 +1,1 @@
+{"usernameTweet": "yhyacr", "ID": "754088884540153856", "text": "Hoca coştu minareden milleti gaza getiriyo #SokağaÇıkma", "url": "/yhyacr/status/754088884540153856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:55", "is_reply": false, "is_retweet": false, "user_id": "198925676"}

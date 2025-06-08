@@ -1,0 +1,1 @@
+{"usernameTweet": "Malum_Pasa", "ID": "754092803395821568", "text": "\"Başkanlık uğruna ya rab,\nNe güneşler batıyor...\" \n#SokağaSakınÇıkma", "url": "/Malum_Pasa/status/754092803395821568", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:29", "is_reply": false, "is_retweet": false, "user_id": "3238852877"}

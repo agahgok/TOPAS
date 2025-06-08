@@ -1,0 +1,1 @@
+{"usernameTweet": "diilaratural", "ID": "754074416112336896", "text": "adam sıçmaya korumayla gidiyo dışarı çıkıyorsunuz ne çeşit koyunlarsınız amk #SokağaSakınÇıkma", "url": "/diilaratural/status/754074416112336896", "nbr_retweet": 45, "nbr_favorite": 146, "nbr_reply": 4, "datetime": "2016-07-16 01:05:25", "is_reply": false, "is_retweet": false, "user_id": "740988924923875328"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ssserkanist", "ID": "1281639803184979969", "text": "Abdest alanlar  darbe  yaptı bu ülkede. #AyasofyaCamii", "url": "/ssserkanist/status/1281639803184979969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 20:21:55", "is_reply": true, "is_retweet": false, "user_id": "758758286636228608"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "nfebzi", "ID": "1281699945616211969", "text": "junkyuya bir  darbe  de kameraman abiden xpsmxpsxkslzj", "url": "/nfebzi/status/1281699945616211969", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 00:20:54", "is_reply": true, "is_retweet": false, "user_id": "1101802380159537155"}

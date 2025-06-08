@@ -1,0 +1,1 @@
+{"usernameTweet": "kabukludony", "ID": "754073892206043136", "text": "# SokağaSakınÇıkma  önce itidal! Sokayim darbenize!", "url": "/kabukludony/status/754073892206043136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:20", "is_reply": false, "is_retweet": false, "user_id": "90446637"}

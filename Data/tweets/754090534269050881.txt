@@ -1,0 +1,1 @@
+{"usernameTweet": "vdsenol", "ID": "754090534269050881", "text": "# sokağasakınçıkma     F-16 LAR çapulcuların(darbecilerin) helikopterini düşürdü", "url": "/vdsenol/status/754090534269050881", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:28", "is_reply": false, "is_retweet": false, "user_id": "2207638495"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Ahaber", "ID": "1282381723452481536", "text": "Terör örgütü PKK'ya ağır  darbe !  pic.twitter.com/N1ExpaxBdL", "url": "/Ahaber/status/1282381723452481536", "nbr_retweet": 10, "nbr_favorite": 64, "nbr_reply": 0, "datetime": "2020-07-12 21:30:03", "is_reply": false, "is_retweet": false, "user_id": "285685164"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yesilcerceve", "ID": "754092972434714624", "text": "# SokağaSakınÇıkma  evlerinizde oturun diyen zihniyet şimdi bizleri sokağa dökmeye çalışıyor!sakinn", "url": "/yesilcerceve/status/754092972434714624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:09", "is_reply": false, "is_retweet": false, "user_id": "600330821"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "OrhanKurkcu", "ID": "754084454902161408", "text": "# SokağaSakınÇıkma  diyen serefsizler vatan dusmani hainler bu oyun  basiniza yikilacaktir", "url": "/OrhanKurkcu/status/754084454902161408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:18", "is_reply": false, "is_retweet": false, "user_id": "2966642786"}

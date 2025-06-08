@@ -1,0 +1,1 @@
+{"usernameTweet": "Tonyukukabi", "ID": "754082599212052482", "text": "# SokağaSakınÇıkma  diyen fetonun Köpekleri demir yumruk tepenize inecek.", "url": "/Tonyukukabi/status/754082599212052482", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:56", "is_reply": false, "is_retweet": false, "user_id": "4877210542"}

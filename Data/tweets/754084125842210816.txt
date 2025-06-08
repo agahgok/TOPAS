@@ -1,0 +1,1 @@
+{"usernameTweet": "ElvnGrmz", "ID": "754084125842210816", "text": "# SokağaSakınÇıkma  benim oyuma kimse darbe yapamaq", "url": "/ElvnGrmz/status/754084125842210816", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:44:00", "is_reply": false, "is_retweet": false, "user_id": "3359317421"}

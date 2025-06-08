@@ -1,0 +1,1 @@
+{"usernameTweet": "Josephmenols", "ID": "754071195767627776", "text": "# SokağaSakınÇıkma  türk ve kürt milleti oyuna gelme.!", "url": "/Josephmenols/status/754071195767627776", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:52:37", "is_reply": false, "is_retweet": false, "user_id": "2199376844"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ajlangozusulu", "ID": "754277880390160384", "text": "# sokağasakınçıkma  #darbeyehayır", "url": "/ajlangozusulu/status/754277880390160384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 14:33:55", "is_reply": false, "is_retweet": false, "user_id": "108477614"}

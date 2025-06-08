@@ -1,0 +1,1 @@
+{"usernameTweet": "bugrahangursu", "ID": "754092711930724352", "text": "Soran olursa bu gece şehit olan 17 polisin katili kim diyeceğiz? #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/bugrahangursu/status/754092711930724352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:07", "is_reply": false, "is_retweet": false, "user_id": "62245934"}

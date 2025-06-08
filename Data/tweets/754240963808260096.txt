@@ -1,0 +1,1 @@
+{"usernameTweet": "gitgelakilli", "ID": "754240963808260096", "text": "siz davul zurnayla gönderdiğiniz çocukların kafasını kestiniz. #sokağasakınçıkma", "url": "/gitgelakilli/status/754240963808260096", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 12:07:13", "is_reply": false, "is_retweet": false, "user_id": "947328775"}

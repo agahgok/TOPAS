@@ -1,0 +1,1 @@
+{"usernameTweet": "cgtykrmtc", "ID": "754103389831720960", "text": "Osman Sinav yönetmen mi ya   #SokağaSakınÇıkma", "url": "/cgtykrmtc/status/754103389831720960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:00:33", "is_reply": false, "is_retweet": false, "user_id": "230378699"}

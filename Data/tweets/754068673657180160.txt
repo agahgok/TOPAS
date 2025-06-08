@@ -1,0 +1,1 @@
+{"usernameTweet": "islandofthougt", "ID": "754068673657180160", "text": "# SokağaSakınÇıkma  çıkarsanız ölürsünüz.", "url": "/islandofthougt/status/754068673657180160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:42:36", "is_reply": false, "is_retweet": false, "user_id": "2455993852"}

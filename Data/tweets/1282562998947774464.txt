@@ -1,0 +1,1 @@
+{"usernameTweet": "diegomaritimo", "ID": "1282562998947774464", "text": "Gracias por tomarte el tiempo en contestar!!", "url": "/diegomaritimo/status/1282562998947774464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 09:30:22", "is_reply": true, "is_retweet": false, "user_id": "572169712"}

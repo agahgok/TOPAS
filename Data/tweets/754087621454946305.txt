@@ -1,0 +1,1 @@
+{"usernameTweet": "GokhanYurukcu", "ID": "754087621454946305", "text": "Dini yine alet ediyorlar oyuna gelme #SokağaSakınÇıkma", "url": "/GokhanYurukcu/status/754087621454946305", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:53", "is_reply": false, "is_retweet": false, "user_id": "320958187"}

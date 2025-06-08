@@ -1,0 +1,1 @@
+{"usernameTweet": "acunagabey", "ID": "1281586844736659458", "text": "E hani ezanlari susturmak icin yapilmisti  darbe", "url": "/acunagabey/status/1281586844736659458", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 16:51:29", "is_reply": true, "is_retweet": false, "user_id": "2982978471"}

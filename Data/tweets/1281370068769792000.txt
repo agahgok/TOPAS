@@ -1,0 +1,1 @@
+{"usernameTweet": "cemnisim", "ID": "1281370068769792000", "text": "DARBE  GECESİ BUGÜN \nKILIÇLARI KUŞANIN SAVAŞA GİDİYORUZ", "url": "/cemnisim/status/1281370068769792000", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-10 02:30:05", "is_reply": false, "is_retweet": false, "user_id": "1254122135620116480"}

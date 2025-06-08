@@ -1,0 +1,1 @@
+{"usernameTweet": "1903Emrullahh", "ID": "754089868473532420", "text": "17 polis şehit olmuş #SokağaSakınÇıkma", "url": "/1903Emrullahh/status/754089868473532420", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:49", "is_reply": false, "is_retweet": false, "user_id": "379782199"}

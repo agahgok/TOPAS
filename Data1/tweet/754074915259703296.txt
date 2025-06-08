@@ -1,0 +1,1 @@
+{"usernameTweet": "mayykill", "ID": "754074915259703296", "text": "# SokağaSakınÇıkma \nTürk askeri\nTürk polisine Kurşun sıkmas\nOyuna Gelme TÜRKİYE", "url": "/mayykill/status/754074915259703296", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:24", "is_reply": false, "is_retweet": false, "user_id": "1397610272"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "delicezeytin89", "ID": "754088289053839361", "text": "Balkon konuşması is loading. \n#SokağaSakınÇıkma", "url": "/delicezeytin89/status/754088289053839361", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:33", "is_reply": false, "is_retweet": false, "user_id": "362062680"}

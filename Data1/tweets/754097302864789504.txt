@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754097302864789504", "text": "# SokağaSakınÇıkma  postmodern darbe 3.5G reklami gibi degilmi sizcede!!!", "url": "/orjinalkarakter/status/754097302864789504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:36:22", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

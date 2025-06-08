@@ -1,0 +1,1 @@
+{"usernameTweet": "Jope1903", "ID": "754081720757002240", "text": "Fetonun picleri... #SokağaSakınÇıkma", "url": "/Jope1903/status/754081720757002240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:27", "is_reply": false, "is_retweet": false, "user_id": "294756422"}

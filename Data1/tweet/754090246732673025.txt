@@ -1,0 +1,1 @@
+{"usernameTweet": "yaratilmis", "ID": "754090246732673025", "text": "# SokağaSakınÇıkma  sokak degil meydandayız  pic.twitter.com/4MREeAeUhh", "url": "/yaratilmis/status/754090246732673025", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 02:08:19", "is_reply": false, "is_retweet": false, "user_id": "725034646770167811"}

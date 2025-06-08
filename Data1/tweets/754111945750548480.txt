@@ -1,0 +1,1 @@
+{"usernameTweet": "ozlmkya", "ID": "754111945750548480", "text": "Akp iktidarı ve başkanlık selamati icin ezan okundu. Din herzaman olduğu gibi devrede. \n#SokağaSakınÇıkma", "url": "/ozlmkya/status/754111945750548480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:34:33", "is_reply": false, "is_retweet": false, "user_id": "1952238356"}

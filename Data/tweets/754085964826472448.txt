@@ -1,0 +1,1 @@
+{"usernameTweet": "orhankerem1", "ID": "754085964826472448", "text": "Ve batmanda da halki sokağa cagiriyor,arabalarla anons yapiyorlar.. #SokağaSakınÇıkma", "url": "/orhankerem1/status/754085964826472448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:18", "is_reply": false, "is_retweet": false, "user_id": "546748439"}

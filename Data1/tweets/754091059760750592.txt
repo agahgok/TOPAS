@@ -1,0 +1,1 @@
+{"usernameTweet": "ferhatkazguc", "ID": "754091059760750592", "text": "Galyena gelme  #SokağaSakınÇıkma", "url": "/ferhatkazguc/status/754091059760750592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:11:33", "is_reply": false, "is_retweet": false, "user_id": "343276675"}

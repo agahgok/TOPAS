@@ -1,0 +1,1 @@
+{"usernameTweet": "Sahmeran54Senem", "ID": "754093029498191872", "text": "# SokağaSakınÇıkma  RTE İNANMAYIN F 16 LARKIMSEUCURANAZ ÖYLE   pic.twitter.com/2R4dmEo8jB", "url": "/Sahmeran54Senem/status/754093029498191872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:23", "is_reply": false, "is_retweet": false, "user_id": "3001839548"}

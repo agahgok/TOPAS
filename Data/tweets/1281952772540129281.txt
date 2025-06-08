@@ -1,0 +1,1 @@
+{"usernameTweet": "kilic_hasan27", "ID": "1281952772540129281", "text": "Bugün Recep Tayyip Erdoğan fetöye her bi  darbe  indirişinde ses kimden geliyorsa fetöcü odur.", "url": "/kilic_hasan27/status/1281952772540129281", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 17:05:33", "is_reply": true, "is_retweet": false, "user_id": "4256811431"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "dirilis_981", "ID": "754137210442637312", "text": "Gavurun pici olursun belki adında Coni olur #SokağaSakınÇıkma", "url": "/dirilis_981/status/754137210442637312", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 05:14:56", "is_reply": false, "is_retweet": false, "user_id": "2688585131"}

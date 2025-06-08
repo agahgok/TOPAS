@@ -1,0 +1,1 @@
+{"usernameTweet": "keremtunaa", "ID": "754081675894726656", "text": "# SokağaSakınÇıkma  mesele memleket meselesi siz hala anlamadınız mı!", "url": "/keremtunaa/status/754081675894726656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:16", "is_reply": false, "is_retweet": false, "user_id": "383919338"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Ultio2", "ID": "754096967190478849", "text": "# sokağasakınçıkma  meclisi vurdular", "url": "/Ultio2/status/754096967190478849", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:35:02", "is_reply": false, "is_retweet": false, "user_id": "1346403889"}

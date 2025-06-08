@@ -1,0 +1,1 @@
+{"usernameTweet": "heatone1", "ID": "754070678068920324", "text": "# SokağaSakınÇıkma  Halkı sokağa çıkararak iç savaş çıkartmaya çalışanlara inanmayın bu oyuna gelmeyin tuzaktır bu", "url": "/heatone1/status/754070678068920324", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:50:34", "is_reply": false, "is_retweet": false, "user_id": "424087454"}

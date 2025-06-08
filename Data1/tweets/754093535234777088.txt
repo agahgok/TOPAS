@@ -1,0 +1,1 @@
+{"usernameTweet": "1MuhammetCiftci", "ID": "754093535234777088", "text": "# DarbeyeHayır  #SokağaSakınÇıkma  #HalkYönetimeElKoydu  hadi hayrlısi", "url": "/1MuhammetCiftci/status/754093535234777088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:23", "is_reply": false, "is_retweet": false, "user_id": "190606675"}

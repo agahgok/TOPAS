@@ -1,0 +1,1 @@
+{"usernameTweet": "Ghodum", "ID": "754082712013639680", "text": "Camiilerden ezan dışında arapça sesler yükseliyor... #sokağasakınçıkma", "url": "/Ghodum/status/754082712013639680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:23", "is_reply": false, "is_retweet": false, "user_id": "234687723"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "azra_kr", "ID": "754075078598459392", "text": "Bilal nerde ciksin sokaga #SokağaSakınÇıkma", "url": "/azra_kr/status/754075078598459392", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:08:03", "is_reply": false, "is_retweet": false, "user_id": "3027337997"}

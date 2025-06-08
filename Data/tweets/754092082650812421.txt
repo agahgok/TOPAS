@@ -1,0 +1,1 @@
+{"usernameTweet": "mukerrer_hayat", "ID": "754092082650812421", "text": "Son darbe bükücü RTE için :)\n#SokağaSakınÇıkma \nEn hızlı darbe bükücü RTE :)\nBiz de yedik yaa...", "url": "/mukerrer_hayat/status/754092082650812421", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:37", "is_reply": false, "is_retweet": false, "user_id": "2781076258"}

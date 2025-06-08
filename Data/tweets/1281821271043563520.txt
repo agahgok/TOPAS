@@ -1,0 +1,1 @@
+{"usernameTweet": "OdundanAdam", "ID": "1281821271043563520", "text": "Ahahahha resmen  darbe  yapmış", "url": "/OdundanAdam/status/1281821271043563520", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 08:23:00", "is_reply": true, "is_retweet": false, "user_id": "316052110"}

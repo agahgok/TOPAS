@@ -1,0 +1,1 @@
+{"usernameTweet": "safakoztas", "ID": "754088570181279745", "text": "Tiyatroda olsa darbe girişimi de gördük ya gelsin başkanlık #SokağaSakınÇıkma", "url": "/safakoztas/status/754088570181279745", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:40", "is_reply": false, "is_retweet": false, "user_id": "360461744"}

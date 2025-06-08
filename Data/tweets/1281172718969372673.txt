@@ -1,0 +1,1 @@
+{"usernameTweet": "abdurrahimelvrn", "ID": "1281172718969372673", "text": "Darbe  şakşakçısı #AhlaksızLeventÖzeren", "url": "/abdurrahimelvrn/status/1281172718969372673", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:25:53", "is_reply": false, "is_retweet": false, "user_id": "3346779082"}

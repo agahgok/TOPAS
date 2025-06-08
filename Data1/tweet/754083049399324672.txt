@@ -1,0 +1,1 @@
+{"usernameTweet": "ZerRuhiye", "ID": "754083049399324672", "text": "Sizi sokağa çağıranların hepsi evlerinde sevdikleriyle beraber\n#SokağaSakınÇıkma", "url": "/ZerRuhiye/status/754083049399324672", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:43", "is_reply": false, "is_retweet": false, "user_id": "2435582355"}

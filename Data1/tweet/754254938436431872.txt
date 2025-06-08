@@ -1,0 +1,1 @@
+{"usernameTweet": "sosyalistdunya", "ID": "754254938436431872", "text": "# darbedegiltiyatro  #SokağaSakınÇıkma  Okadar yer bombalandı ancak saray bırakıldı", "url": "/sosyalistdunya/status/754254938436431872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 13:02:45", "is_reply": false, "is_retweet": false, "user_id": "4825309083"}

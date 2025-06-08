@@ -1,0 +1,1 @@
+{"usernameTweet": "sosmerro", "ID": "754520363338432512", "text": "# sokağasakınçıkma  ? bu nasıl rahatsız insan psikolojisidir. Az düşün, anla, sorgula, anlam ara hain herif.", "url": "/sosmerro/status/754520363338432512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-17 06:37:27", "is_reply": false, "is_retweet": false, "user_id": "1630178394"}

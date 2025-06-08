@@ -1,0 +1,1 @@
+{"usernameTweet": "oBySaL", "ID": "754423785508528130", "text": "Kahpece evimizde oturup darbecilere çanak tutmak yerine #SokağaÇıkma  diyenlere inat #MilletçeMeydanlardayız", "url": "/oBySaL/status/754423785508528130", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-17 00:13:41", "is_reply": false, "is_retweet": false, "user_id": "4899289228"}

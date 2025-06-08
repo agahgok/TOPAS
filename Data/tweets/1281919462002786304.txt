@@ -1,0 +1,1 @@
+{"usernameTweet": "ioflaz", "ID": "1281919462002786304", "text": "Onun için her 10 yılda bir  darbe  vs  yapıyorlardı.  Laik demokratik miş  de miş miş.....", "url": "/ioflaz/status/1281919462002786304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 14:53:11", "is_reply": true, "is_retweet": false, "user_id": "106224262"}

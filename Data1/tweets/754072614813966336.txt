@@ -1,0 +1,1 @@
+{"usernameTweet": "melisanrg", "ID": "754072614813966336", "text": "Camiler anons yapıyor \"halkımızı meydanlara davet ediyoruz \"  diye #SokağaSakınÇıkma", "url": "/melisanrg/status/754072614813966336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:16", "is_reply": false, "is_retweet": false, "user_id": "383892088"}

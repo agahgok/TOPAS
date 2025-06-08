@@ -1,0 +1,1 @@
+{"usernameTweet": "toprakugurx", "ID": "1281409878741913600", "text": "AYRILIKLAR  DARBE  OLUR. BİR YALNIZLIK AŞKLA DOĞAR. \nSONRASINDA CEZAEVİ KOĞUŞUNDA YAŞAR KEMAL.", "url": "/toprakugurx/status/1281409878741913600", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-10 05:08:17", "is_reply": false, "is_retweet": false, "user_id": "1112082029628346371"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "nielmooficial", "ID": "1282368094548230146", "text": "Pero y la fuerza moral de las personas ? No la estás tomando en cuenta.", "url": "/nielmooficial/status/1282368094548230146", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 20:35:53", "is_reply": true, "is_retweet": false, "user_id": "525555270"}

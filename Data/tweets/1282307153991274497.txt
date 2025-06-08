@@ -1,0 +1,1 @@
+{"usernameTweet": "TARDISofMercury", "ID": "1282307153991274497", "text": "Bugün kalbime  darbe  üstüne  darbe  yiyorum...  pic.twitter.com/T1P7yFVHQb", "url": "/TARDISofMercury/status/1282307153991274497", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 16:33:44", "is_reply": false, "is_retweet": false, "user_id": "324525575"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tontidiyolar", "ID": "1282392605742043136", "text": "Hiç beklemediğim bir insandan  darbe  aldım. Oysaki bana çiçek bahçeleri vadetmişti.", "url": "/tontidiyolar/status/1282392605742043136", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-12 22:13:17", "is_reply": false, "is_retweet": false, "user_id": "1241013129670275077"}

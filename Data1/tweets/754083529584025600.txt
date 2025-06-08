@@ -1,0 +1,1 @@
+{"usernameTweet": "emreyavuz01", "ID": "754083529584025600", "text": "şimdi yarın işe gidecekmiyiz.gitmeyecekmiyiz onu söylesin biri #SokağaSakınÇıkma", "url": "/emreyavuz01/status/754083529584025600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:38", "is_reply": false, "is_retweet": false, "user_id": "438435212"}

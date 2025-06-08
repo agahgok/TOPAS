@@ -1,0 +1,1 @@
+{"usernameTweet": "caysizlandim", "ID": "1282420197798948869", "text": "Ama sen onu gel anlat kalbe\nYürüyor önümde büyük harbe\n Darbe  üstüne  darbe \nUslanmıyor bu", "url": "/caysizlandim/status/1282420197798948869", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 00:02:56", "is_reply": false, "is_retweet": false, "user_id": "2277460528"}

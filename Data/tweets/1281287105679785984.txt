@@ -1,0 +1,1 @@
+{"usernameTweet": "muhammetgullu31", "ID": "1281287105679785984", "text": "parçaların dökülecek, azalacaksın \nlakin sana vurulan her  darbe  seni sen yapacak", "url": "/muhammetgullu31/status/1281287105679785984", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-09 21:00:25", "is_reply": false, "is_retweet": false, "user_id": "1244648654927007746"}

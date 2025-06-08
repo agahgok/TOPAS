@@ -1,0 +1,1 @@
+{"usernameTweet": "minimalistkedi", "ID": "754079409678811136", "text": "Tarantino yazıyor,Christopfer Nolan yönetiyor sanki canına yandığımın memleketini.#SokağaSakınÇıkma", "url": "/minimalistkedi/status/754079409678811136", "nbr_retweet": 4, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:25:16", "is_reply": false, "is_retweet": false, "user_id": "75541907"}

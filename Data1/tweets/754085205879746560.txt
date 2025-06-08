@@ -1,0 +1,1 @@
+{"usernameTweet": "PixelToLife", "ID": "754085205879746560", "text": "Otur evde viskini yudumla ve #SokağaSakınÇıkma", "url": "/PixelToLife/status/754085205879746560", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:17", "is_reply": false, "is_retweet": false, "user_id": "286217131"}

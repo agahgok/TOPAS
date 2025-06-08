@@ -1,0 +1,1 @@
+{"usernameTweet": "awfuleu", "ID": "1281761058445840384", "text": "dsha okumadım bi  darbe  daha kaldırmama animem bitti xaten", "url": "/awfuleu/status/1281761058445840384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-11 04:23:44", "is_reply": true, "is_retweet": false, "user_id": "962699554289258496"}

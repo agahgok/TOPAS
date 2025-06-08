@@ -1,0 +1,1 @@
+{"usernameTweet": "krslm89", "ID": "1281335803868741633", "text": "“Bu nasıl  darbe ?” \n\nOlsa olsa Kumpasın ve İhanetin ta kendisi!...\n\n  pic.twitter.com/tje7MZFyki", "url": "/krslm89/status/1281335803868741633", "nbr_retweet": 7, "nbr_favorite": 26, "nbr_reply": 0, "datetime": "2020-07-10 00:13:56", "is_reply": true, "is_retweet": false, "user_id": "1225160590500540418"}

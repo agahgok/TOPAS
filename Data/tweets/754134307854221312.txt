@@ -1,0 +1,1 @@
+{"usernameTweet": "TARIKakar4", "ID": "754134307854221312", "text": "# SokağaÇıkma  diyenler lgbt yürüyüşünde gezi parkında Berki'n Elvan için yürüyüşte en ön safta olanlardır", "url": "/TARIKakar4/status/754134307854221312", "nbr_retweet": 3, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2016-07-16 05:03:24", "is_reply": false, "is_retweet": false, "user_id": "3870159983"}

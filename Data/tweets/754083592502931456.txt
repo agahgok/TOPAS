@@ -1,0 +1,1 @@
+{"usernameTweet": "metetaspinar", "ID": "754083592502931456", "text": "Darbe bitti derken Kozyataginda silah sesleri artti. An itibariyle Beyaz TV de kapandi. #SokağaSakınÇıkma", "url": "/metetaspinar/status/754083592502931456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:53", "is_reply": false, "is_retweet": false, "user_id": "350186026"}

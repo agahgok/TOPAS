@@ -1,0 +1,1 @@
+{"usernameTweet": "cryingolabilir", "ID": "1282266156745793537", "text": "bu nasıl  darbe", "url": "/cryingolabilir/status/1282266156745793537", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-12 13:50:49", "is_reply": false, "is_retweet": false, "user_id": "1183420712796729344"}

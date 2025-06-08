@@ -1,0 +1,1 @@
+{"usernameTweet": "erdoganyeliz061", "ID": "754104311819350016", "text": "başkanlık kokan hareketler bunlar #SokağaSakınÇıkma", "url": "/erdoganyeliz061/status/754104311819350016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:04:13", "is_reply": false, "is_retweet": false, "user_id": "754074380938932224"}

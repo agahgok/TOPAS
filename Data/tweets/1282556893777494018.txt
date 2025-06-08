@@ -1,0 +1,1 @@
+{"usernameTweet": "Merallimmm", "ID": "1282556893777494018", "text": "Öldürmeyen her  darbe  güç verir bana ", "url": "/Merallimmm/status/1282556893777494018", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-13 09:06:06", "is_reply": false, "is_retweet": false, "user_id": "2464298672"}

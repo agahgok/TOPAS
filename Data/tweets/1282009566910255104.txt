@@ -1,0 +1,1 @@
+{"usernameTweet": "muratkocabay38", "ID": "1282009566910255104", "text": "Bu Millet, size birdaha  darbe  yaptırmaz. \n\n#15TemmuzMehteri", "url": "/muratkocabay38/status/1282009566910255104", "nbr_retweet": 2, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2020-07-11 20:51:13", "is_reply": false, "is_retweet": false, "user_id": "910465153367408640"}

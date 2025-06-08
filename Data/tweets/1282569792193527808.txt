@@ -1,0 +1,1 @@
+{"usernameTweet": "MINAMORENOlex", "ID": "1282569792193527808", "text": "Cuba tengo familia no política en la isla, mi ex cuñado es cubano", "url": "/MINAMORENOlex/status/1282569792193527808", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 09:57:22", "is_reply": true, "is_retweet": false, "user_id": "1075977768360382464"}

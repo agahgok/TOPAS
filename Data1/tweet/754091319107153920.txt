@@ -1,0 +1,1 @@
+{"usernameTweet": "sbaturrr", "ID": "754091319107153920", "text": "Durdurun milleti durdurabilirsiniz... #SokağaSakınÇıkma   pic.twitter.com/yNTpfhNRQ4", "url": "/sbaturrr/status/754091319107153920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:35", "is_reply": false, "is_retweet": false, "user_id": "2261740813"}

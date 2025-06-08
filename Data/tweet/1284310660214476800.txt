@@ -1,0 +1,1 @@
+{"usernameTweet": "obaba_dabe", "ID": "1284310660214476800", "text": "抱えた洗濯物がゲートに引っかかり、受け身取れずに階段落ちて1階廊下の壁に激突w久々地獄見たwww pic.twitter.com/LGBAa8K1yy", "url": "/obaba_dabe/status/1284310660214476800", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-18 05:14:57", "is_reply": false, "is_retweet": false, "user_id": "1124526713247952896"}

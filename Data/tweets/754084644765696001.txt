@@ -1,0 +1,1 @@
+{"usernameTweet": "gokceketenci", "ID": "754084644765696001", "text": "Kabus gibi bir gece... #SokağaSakınÇıkma", "url": "/gokceketenci/status/754084644765696001", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:46:04", "is_reply": false, "is_retweet": false, "user_id": "18434522"}

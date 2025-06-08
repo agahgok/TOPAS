@@ -1,0 +1,1 @@
+{"usernameTweet": "TatulikaM", "ID": "754089912434065409", "text": "# PrayForTurkey   \n#Turkey  \n#SokağaSakınÇıkma   https:// twitter.com/Cronikeys/stat us/754089545352609796   …", "url": "/TatulikaM/status/754089912434065409", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:00", "is_reply": true, "is_retweet": false, "user_id": "2699932573"}

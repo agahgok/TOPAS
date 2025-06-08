@@ -1,0 +1,1 @@
+{"usernameTweet": "silan_zivar", "ID": "754092780192993286", "text": "Evet millet darbe akp mitingine döndü geçmiş olsun türkiye..#SokağaSakınÇıkma", "url": "/silan_zivar/status/754092780192993286", "nbr_retweet": 4, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2016-07-16 02:18:23", "is_reply": false, "is_retweet": false, "user_id": "2370358698"}

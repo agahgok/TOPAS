@@ -1,0 +1,1 @@
+{"usernameTweet": "cemcey1", "ID": "754080571060588544", "text": "# SokağaSakınÇıkma   pic.twitter.com/qstUoM6VON", "url": "/cemcey1/status/754080571060588544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:52", "is_reply": false, "is_retweet": false, "user_id": "90691620"}

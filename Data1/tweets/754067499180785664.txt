@@ -1,0 +1,1 @@
+{"usernameTweet": "bas_hat79", "ID": "754067499180785664", "text": "# sokagacikma  oyuna gelme ey halkim. Silahli gucun ustune silahsiz gidilmez..", "url": "/bas_hat79/status/754067499180785664", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:56", "is_reply": false, "is_retweet": false, "user_id": "1476513632"}

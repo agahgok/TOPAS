@@ -1,0 +1,1 @@
+{"usernameTweet": "axouchos", "ID": "1281753115834949637", "text": "Darbe  var dediler hasiktir lan ne darbesi yok ejderha indi aq diye tepki verdim aşağı yukarı.", "url": "/axouchos/status/1281753115834949637", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 03:52:11", "is_reply": false, "is_retweet": false, "user_id": "2698608476"}

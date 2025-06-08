@@ -1,0 +1,1 @@
+{"usernameTweet": "atesclup", "ID": "754107090852048896", "text": "Genelkurmay : Orgeneral Akar, görevinin başındadır. Rehin alma haberi asılsızdır. #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/atesclup/status/754107090852048896", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:15:15", "is_reply": false, "is_retweet": false, "user_id": "151444805"}

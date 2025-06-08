@@ -1,0 +1,1 @@
+{"usernameTweet": "sohbetodamorg", "ID": "754089575140569088", "text": "# SokağaSakınÇıkma  diyenler alayınız malsınız.", "url": "/sohbetodamorg/status/754089575140569088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:39", "is_reply": false, "is_retweet": false, "user_id": "2872574549"}

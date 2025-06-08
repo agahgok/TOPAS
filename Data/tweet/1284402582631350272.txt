@@ -1,0 +1,1 @@
+{"usernameTweet": "aysegul_simseek", "ID": "1284402582631350272", "text": "Öldürmeyen her  darbe  güç verir banaa", "url": "/aysegul_simseek/status/1284402582631350272", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 11:20:13", "is_reply": false, "is_retweet": false, "user_id": "1265793689726652417"}

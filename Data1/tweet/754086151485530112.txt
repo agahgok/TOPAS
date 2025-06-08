@@ -1,0 +1,1 @@
+{"usernameTweet": "tiryakimsi", "ID": "754086151485530112", "text": "Ulan ayak üstü  darbe mi olur çapulcular. Yedirirlermi sandınız. Vatanınıza sahip  çıkın  #SokağaSakınÇıkma", "url": "/tiryakimsi/status/754086151485530112", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:52:03", "is_reply": false, "is_retweet": false, "user_id": "3843571299"}

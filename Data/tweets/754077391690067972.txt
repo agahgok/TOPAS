@@ -1,0 +1,1 @@
+{"usernameTweet": "BLindGuardiAaN", "ID": "754077391690067972", "text": "Asker halka değil hükümete el koydu oyuna gelme #sokağasakınçıkma", "url": "/BLindGuardiAaN/status/754077391690067972", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:14", "is_reply": false, "is_retweet": false, "user_id": "3267021685"}

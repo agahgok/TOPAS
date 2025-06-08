@@ -1,0 +1,1 @@
+{"usernameTweet": "jorge_kato", "ID": "1282360916193968130", "text": "Típico perfil chairo, los parámetros inmediatos estaban en China, España, e Italia.   Ya  ??", "url": "/jorge_kato/status/1282360916193968130", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-12 20:07:22", "is_reply": true, "is_retweet": false, "user_id": "956659106"}

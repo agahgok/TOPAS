@@ -1,0 +1,1 @@
+{"usernameTweet": "ilaydabasaraner", "ID": "754096243522072576", "text": "Ülke geriye gidiyor. Umarım bi yerlerde Atatürk'e rastlarız. #SokağaSakınÇıkma", "url": "/ilaydabasaraner/status/754096243522072576", "nbr_retweet": 3, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2016-07-16 02:32:09", "is_reply": false, "is_retweet": false, "user_id": "3235461081"}

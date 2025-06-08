@@ -1,0 +1,1 @@
+{"usernameTweet": "Feridunbb", "ID": "1282004046145032193", "text": "Kenarlarından köşelerinden kasıldığı ya da  darbe  aldığı zaman kırılır genelde, dikkat etmek gerek ", "url": "/Feridunbb/status/1282004046145032193", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 20:29:17", "is_reply": true, "is_retweet": false, "user_id": "312163276"}

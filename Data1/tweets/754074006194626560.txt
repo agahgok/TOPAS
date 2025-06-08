@@ -1,0 +1,1 @@
+{"usernameTweet": "god_is_lowe", "ID": "754074006194626560", "text": "ankara emniyeti bombalanmış doğrumudur ? #SokağaSakınÇıkma", "url": "/god_is_lowe/status/754074006194626560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:47", "is_reply": false, "is_retweet": false, "user_id": "117573994"}

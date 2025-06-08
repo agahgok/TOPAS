@@ -1,0 +1,1 @@
+{"usernameTweet": "capulnazz", "ID": "754095895180939265", "text": "2013 --- 2016\n #SokağaSakınÇıkma \n#HalkMeydanlarda pic.twitter.com/1jV1G7FNkO", "url": "/capulnazz/status/754095895180939265", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:30:46", "is_reply": false, "is_retweet": false, "user_id": "1522710355"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "duyguboz11", "ID": "754082579620519936", "text": "# SokağaSakınÇıkma  Cumhurbaşkanı sokağa çağırdı ne için? Birbirimizle mi savaşıcaz?", "url": "/duyguboz11/status/754082579620519936", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:51", "is_reply": false, "is_retweet": false, "user_id": "1506820686"}

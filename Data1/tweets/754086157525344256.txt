@@ -1,0 +1,1 @@
+{"usernameTweet": "TuceUnL", "ID": "754086157525344256", "text": "Mersin'de insanları Cumhuriyet Meydanı'na davet eden bir duyuru yaptılar ve şu an sela veriliyor?  #SokağaSakınÇıkma", "url": "/TuceUnL/status/754086157525344256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:04", "is_reply": false, "is_retweet": false, "user_id": "786459739"}

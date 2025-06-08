@@ -1,0 +1,1 @@
+{"usernameTweet": "hacivelidayi", "ID": "1281527332205993984", "text": "Dövlet bize bağmiir diyenlere de algı varmı?", "url": "/hacivelidayi/status/1281527332205993984", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 12:55:00", "is_reply": true, "is_retweet": false, "user_id": "1475815999"}

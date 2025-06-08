@@ -1,0 +1,1 @@
+{"usernameTweet": "_zey", "ID": "754070198383218692", "text": "# SokağaSakınÇıkma  beynim yandi, nasil bir cumhurbaskani bunu der. Cikma guzel kardesim, gelme oyuna", "url": "/_zey/status/754070198383218692", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:48:39", "is_reply": false, "is_retweet": false, "user_id": "301369949"}

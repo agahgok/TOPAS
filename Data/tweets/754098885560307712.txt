@@ -1,0 +1,1 @@
+{"usernameTweet": "rubyyy82", "ID": "754098885560307712", "text": "Sıcak Gelişme:\nTBMM'ye Bomba Atıldı.. #SokağaSakınÇıkma  #TurkeyCoup  #DarbeSenaryosu  #DarbeDeğilTiyatro", "url": "/rubyyy82/status/754098885560307712", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:42:39", "is_reply": false, "is_retweet": false, "user_id": "236302029"}

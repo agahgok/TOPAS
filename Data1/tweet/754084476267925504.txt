@@ -1,0 +1,1 @@
+{"usernameTweet": "krc_yag", "ID": "754084476267925504", "text": "# SokağaSakınÇıkma  vesselam  pic.twitter.com/NUSljmrOUr", "url": "/krc_yag/status/754084476267925504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:24", "is_reply": false, "is_retweet": false, "user_id": "452392804"}

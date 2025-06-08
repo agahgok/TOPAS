@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmtkrkm", "ID": "754089479397408768", "text": "# DarbeTiyatrosu   #SokağaSakınÇıkma", "url": "/ahmtkrkm/status/754089479397408768", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:16", "is_reply": false, "is_retweet": false, "user_id": "169152860"}

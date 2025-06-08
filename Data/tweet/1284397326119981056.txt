@@ -1,0 +1,1 @@
+{"usernameTweet": "SahimerdanBudan", "ID": "1284397326119981056", "text": "Şöyle sorayım ben de sana halka rağmen devrim  darbe  değil midir", "url": "/SahimerdanBudan/status/1284397326119981056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 3, "datetime": "2020-07-18 10:59:20", "is_reply": true, "is_retweet": false, "user_id": "2275634782"}

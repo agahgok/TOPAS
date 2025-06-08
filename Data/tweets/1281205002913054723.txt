@@ -1,0 +1,1 @@
+{"usernameTweet": "DedeAyk", "ID": "1281205002913054723", "text": "tek üzüntüleri saltanat koalisyonlarının  darbe  yemiş olması ", "url": "/DedeAyk/status/1281205002913054723", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-09 15:34:10", "is_reply": false, "is_retweet": false, "user_id": "1230194976723742721"}

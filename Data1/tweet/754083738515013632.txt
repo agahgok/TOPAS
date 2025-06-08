@@ -1,0 +1,1 @@
+{"usernameTweet": "gkcealtnkaya", "ID": "754083738515013632", "text": "\"Asker ne yapacaksa halka yapacak\"  bu ülkenin cumhurbaşkanının sözleri bunlar... #SokağaSakınÇıkma", "url": "/gkcealtnkaya/status/754083738515013632", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:42:28", "is_reply": false, "is_retweet": false, "user_id": "1539284791"}

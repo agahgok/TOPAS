@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetyldzresmi", "ID": "1281643805314134016", "text": "Evet Dolar Euro Alın . Yine Ekonomimiz  Darbe  Yiyecek :(", "url": "/ahmetyldzresmi/status/1281643805314134016", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-10 20:37:49", "is_reply": true, "is_retweet": false, "user_id": "979450163310813185"}

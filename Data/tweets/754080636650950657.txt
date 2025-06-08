@@ -1,0 +1,1 @@
+{"usernameTweet": "OneAnomalous", "ID": "754080636650950657", "text": "# TurkeyCoup  #SokağaSakınÇıkma", "url": "/OneAnomalous/status/754080636650950657", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:08", "is_reply": true, "is_retweet": false, "user_id": "4744495538"}

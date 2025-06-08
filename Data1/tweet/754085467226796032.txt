@@ -1,0 +1,1 @@
+{"usernameTweet": "brbknntlc", "ID": "754085467226796032", "text": "Çapulcu, darbeciler bi sokağa çıksanıza bişey deneyeceğiz!! #SokağaSakınÇıkma  #DarbeyeHayır  #İstanbul  #Ankara", "url": "/brbknntlc/status/754085467226796032", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:49:20", "is_reply": false, "is_retweet": false, "user_id": "372429460"}

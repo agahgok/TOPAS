@@ -1,0 +1,1 @@
+{"usernameTweet": "enisakcan57", "ID": "1284354424060731393", "text": "Darbe  gecesi neredeydiniz amk larım", "url": "/enisakcan57/status/1284354424060731393", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:08:51", "is_reply": true, "is_retweet": false, "user_id": "1474385630"}

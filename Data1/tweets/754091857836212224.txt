@@ -1,0 +1,1 @@
+{"usernameTweet": "Serhat_Ermez", "ID": "754091857836212224", "text": "Amma çok küfür ettiniz lan bana , unfollow edin ya da engelleyin yeter aq\n#SokağaSakınÇıkma", "url": "/Serhat_Ermez/status/754091857836212224", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:14:43", "is_reply": false, "is_retweet": false, "user_id": "207032666"}

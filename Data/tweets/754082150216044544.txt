@@ -1,0 +1,1 @@
+{"usernameTweet": "OzncAltnts", "ID": "754082150216044544", "text": "Çıkma çıkma çıkma şimdi girdim içeri heryer karışık  #SokağaSakınÇıkma", "url": "/OzncAltnts/status/754082150216044544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:09", "is_reply": false, "is_retweet": false, "user_id": "187229722"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "iiiremmn", "ID": "1282416522737127429", "text": "Yine birileri Giresunlulardan  darbe  yemiş  pic.twitter.com/4CFAf1b6jk", "url": "/iiiremmn/status/1282416522737127429", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2020-07-12 23:48:19", "is_reply": false, "is_retweet": false, "user_id": "992023547756367872"}

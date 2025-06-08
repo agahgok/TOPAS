@@ -1,0 +1,1 @@
+{"usernameTweet": "CemalOksuz1160", "ID": "754068248111505408", "text": "# SOKAĞAÇIKMA", "url": "/CemalOksuz1160/status/754068248111505408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:40:54", "is_reply": false, "is_retweet": false, "user_id": "3091440334"}

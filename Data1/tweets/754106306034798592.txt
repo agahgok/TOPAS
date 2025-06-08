@@ -1,0 +1,1 @@
+{"usernameTweet": "SafiyeKocacal", "ID": "754106306034798592", "text": "# SokağaÇıkma  uyan Türkiye sonra çok geç olacak kanma oyuna bu darbe değil tiyatro", "url": "/SafiyeKocacal/status/754106306034798592", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:12:08", "is_reply": false, "is_retweet": false, "user_id": "4824629289"}

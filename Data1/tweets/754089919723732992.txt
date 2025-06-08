@@ -1,0 +1,1 @@
+{"usernameTweet": "ebruugltknn", "ID": "754089919723732992", "text": "Lütfen sokağa çıkıp ölüme gitmeyin.\nBu bir ölüm çağrısıdır,sakın kanmayın.\n #SokağaSakınÇıkma", "url": "/ebruugltknn/status/754089919723732992", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:01", "is_reply": false, "is_retweet": false, "user_id": "1729506128"}

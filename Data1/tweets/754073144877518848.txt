@@ -1,0 +1,1 @@
+{"usernameTweet": "GordumGecirdim", "ID": "754073144877518848", "text": "Polis devletin \" ASKER HALKINDIR \" uyanın #SokağaSakınÇıkma", "url": "/GordumGecirdim/status/754073144877518848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:22", "is_reply": false, "is_retweet": false, "user_id": "754070403044212738"}

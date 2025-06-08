@@ -1,0 +1,1 @@
+{"usernameTweet": "sametunerrr", "ID": "754088929872252928", "text": "Arkadaşlar bunların hepsi bir oyun  #SokağaSakınÇıkma", "url": "/sametunerrr/status/754088929872252928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:05", "is_reply": false, "is_retweet": false, "user_id": "3053755617"}

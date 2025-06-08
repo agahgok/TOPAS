@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754089406441590784", "text": "Fitne Zaman'ı  #SokağaSakınÇıkma  #ÇakmaDarbe pic.twitter.com/FVJT2SjGhO", "url": "/vakkaff/status/754089406441590784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:04:59", "is_reply": true, "is_retweet": false, "user_id": "943942980"}

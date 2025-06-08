@@ -1,0 +1,1 @@
+{"usernameTweet": "kronikmutlu", "ID": "1281528339493158912", "text": "Yağızın vatsabına bakmam lazım böyle bir ilişki yaşıyorsa hemen el koymalıyım  darbe  yapmalıyım ", "url": "/kronikmutlu/status/1281528339493158912", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-10 12:59:00", "is_reply": true, "is_retweet": false, "user_id": "701517219826638848"}

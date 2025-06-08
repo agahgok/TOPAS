@@ -1,0 +1,1 @@
+{"usernameTweet": "Grist1905", "ID": "754078626316820481", "text": "O PARTİ BU PARTİ OLAYI DEĞİL ÜLKEN ELDEN GİDİYOR.\n#SokağaSakınÇıkma \n#DarbeyeHayır", "url": "/Grist1905/status/754078626316820481", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:09", "is_reply": false, "is_retweet": false, "user_id": "1683678523"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "65d269000e55407", "ID": "1282351147223851008", "text": "Te leí y al que le falta sentido común es a ti", "url": "/65d269000e55407/status/1282351147223851008", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-12 19:28:33", "is_reply": true, "is_retweet": false, "user_id": "3294225109"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "COUNTRY_Erturk", "ID": "754210686436245504", "text": "Sahneye konan tiyatro oyununda 90 şehit bunun vebalini ödeyebilecekmisiniz.\n#SokağaSakınÇıkma", "url": "/COUNTRY_Erturk/status/754210686436245504", "nbr_retweet": 2, "nbr_favorite": 15, "nbr_reply": 0, "datetime": "2016-07-16 10:06:54", "is_reply": false, "is_retweet": false, "user_id": "335511904"}

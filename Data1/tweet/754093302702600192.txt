@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetbahadirr", "ID": "754093302702600192", "text": "# SokağaSakınÇıkma  insanları kendinize barikat olarak kullanmayın artık", "url": "/mehmetbahadirr/status/754093302702600192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:28", "is_reply": false, "is_retweet": false, "user_id": "866386975"}

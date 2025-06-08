@@ -1,0 +1,1 @@
+{"usernameTweet": "demetka72043678", "ID": "754080039109406720", "text": "# SokağaSakınÇıkma  erdoganin gazina gelme! O ciksin sokaga!", "url": "/demetka72043678/status/754080039109406720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:46", "is_reply": false, "is_retweet": false, "user_id": "3043492066"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "BussraaUysal", "ID": "754098641929965568", "text": "Sokağa çıkmayın #SokağaSakınÇıkma", "url": "/BussraaUysal/status/754098641929965568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:41:41", "is_reply": false, "is_retweet": false, "user_id": "486750570"}

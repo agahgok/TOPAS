@@ -1,0 +1,1 @@
+{"usernameTweet": "ultracimbom48", "ID": "754076618642034688", "text": "Arkadaslar izmirden bodruma gidecegim bisikinti varrmi yollarda acaba #SokağaSakınÇıkma", "url": "/ultracimbom48/status/754076618642034688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:14:10", "is_reply": false, "is_retweet": false, "user_id": "1698611966"}

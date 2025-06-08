@@ -1,0 +1,1 @@
+{"usernameTweet": "esrayan", "ID": "754073328256741377", "text": "Yeter ki muvaffak olsunlar. Cumhuriyetimize feda olsun #SokağaSakınÇıkma", "url": "/esrayan/status/754073328256741377", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:06", "is_reply": true, "is_retweet": false, "user_id": "81239870"}

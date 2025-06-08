@@ -1,0 +1,1 @@
+{"usernameTweet": "lukevlogs33", "ID": "448971924417548288", "text": "# elchiringuitodeNitro  Hablad del feo gesto de Cristiano  Ronaldo !!!", "url": "/lukevlogs33/status/448971924417548288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:57:02", "is_reply": false, "is_retweet": false, "user_id": "1937595218"}

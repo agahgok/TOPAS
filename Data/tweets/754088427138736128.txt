@@ -1,0 +1,1 @@
+{"usernameTweet": "yagizzers", "ID": "754088427138736128", "text": "# SokağaSakınÇıkma   pic.twitter.com/6hBIQreQZv", "url": "/yagizzers/status/754088427138736128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:05", "is_reply": false, "is_retweet": false, "user_id": "4476386955"}

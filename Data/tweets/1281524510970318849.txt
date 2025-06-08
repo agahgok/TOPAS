@@ -1,0 +1,1 @@
+{"usernameTweet": "of_baden", "ID": "1281524510970318849", "text": "TK hocası sosyalistti,  darbe  yedim. HTR hocası muhafazakardı,  darbe  yedim. Ah humanities ahh ", "url": "/of_baden/status/1281524510970318849", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 12:43:47", "is_reply": true, "is_retweet": false, "user_id": "1251233557432983552"}

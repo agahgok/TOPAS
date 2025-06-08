@@ -1,0 +1,1 @@
+{"usernameTweet": "yvzmrll", "ID": "754095974272929792", "text": "Suriyelilerden beter halde miyiz evet ! #SokağaSakınÇıkma  #DarbeyeHayır  #Demokrasi  #TürkiyeCumhuriyeti", "url": "/yvzmrll/status/754095974272929792", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:05", "is_reply": false, "is_retweet": false, "user_id": "2327228899"}

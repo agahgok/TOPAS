@@ -1,0 +1,1 @@
+{"usernameTweet": "babil32", "ID": "754080347562905600", "text": "Çıkmadık burdur   #SokağaSakınÇıkma   pic.twitter.com/BBgheDV7cV", "url": "/babil32/status/754080347562905600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:59", "is_reply": false, "is_retweet": false, "user_id": "275406270"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "m_gngr", "ID": "754083013835821057", "text": "Darbe öyle değil böyle olur #SokağaSakınÇıkma   pic.twitter.com/GeECNVHq3H", "url": "/m_gngr/status/754083013835821057", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:35", "is_reply": false, "is_retweet": false, "user_id": "167522758"}

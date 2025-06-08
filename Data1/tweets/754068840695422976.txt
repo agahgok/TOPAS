@@ -1,0 +1,1 @@
+{"usernameTweet": "zllktlr", "ID": "754068840695422976", "text": "# TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma   pic.twitter.com/bPi6YuG5m2", "url": "/zllktlr/status/754068840695422976", "nbr_retweet": 8, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 00:43:16", "is_reply": false, "is_retweet": false, "user_id": "345759584"}

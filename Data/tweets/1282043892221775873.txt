@@ -1,0 +1,1 @@
+{"usernameTweet": "Ceren_unicorn", "ID": "1282043892221775873", "text": "Delirmem için son bi  darbe  gerekiyordu o da geldi hadi bakalıms", "url": "/Ceren_unicorn/status/1282043892221775873", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 23:07:37", "is_reply": false, "is_retweet": false, "user_id": "808348441365581824"}

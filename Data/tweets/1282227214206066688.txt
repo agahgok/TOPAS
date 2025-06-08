@@ -1,0 +1,1 @@
+{"usernameTweet": "Dumanldalar3", "ID": "1282227214206066688", "text": "Parkta çocuklarla oynarken birden  darbe  olmuşmuş ve sonrası biz de terörist olmuşuz!!!", "url": "/Dumanldalar3/status/1282227214206066688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 11:16:05", "is_reply": true, "is_retweet": false, "user_id": "1143608691314352128"}

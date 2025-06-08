@@ -1,0 +1,1 @@
+{"usernameTweet": "samedicus", "ID": "754089976053325825", "text": "ŞEHİTLERİMİZ VARKEN NEREDEYDİNİZ ULAN ŞEREFSİZLER!... #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/samedicus/status/754089976053325825", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:07:15", "is_reply": false, "is_retweet": false, "user_id": "714867219432402945"}

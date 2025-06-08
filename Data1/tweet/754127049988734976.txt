@@ -1,0 +1,1 @@
+{"usernameTweet": "Unuslu", "ID": "754127049988734976", "text": "Meydanı tərk etməyin deyire hələ də! #sokağasakınçıkma   https:// twitter.com/140journos/sta tus/754126357949538304   …", "url": "/Unuslu/status/754127049988734976", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:34:34", "is_reply": false, "is_retweet": false, "user_id": "367919774"}

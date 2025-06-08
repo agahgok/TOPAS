@@ -1,0 +1,1 @@
+{"usernameTweet": "mlhklcc", "ID": "754082811489902592", "text": "Benim korumam yok! #DARBE  #SokağaSakınÇıkma", "url": "/mlhklcc/status/754082811489902592", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:38:47", "is_reply": false, "is_retweet": false, "user_id": "1727132754"}

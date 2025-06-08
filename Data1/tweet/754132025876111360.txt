@@ -1,0 +1,1 @@
+{"usernameTweet": "ekoc___", "ID": "754132025876111360", "text": "Kendileri sokaga cikmayip halki yem olarak cikarlari icin kullananlar siz cikin da gorelim!\n#SokagaÇıkma", "url": "/ekoc___/status/754132025876111360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:54:20", "is_reply": false, "is_retweet": false, "user_id": "247724682"}

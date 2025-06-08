@@ -1,0 +1,1 @@
+{"usernameTweet": "lakinolmadik", "ID": "754076210280460288", "text": "# SokağaSakınÇıkma", "url": "/lakinolmadik/status/754076210280460288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:33", "is_reply": false, "is_retweet": false, "user_id": "4464574403"}

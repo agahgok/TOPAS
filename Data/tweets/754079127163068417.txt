@@ -1,0 +1,1 @@
+{"usernameTweet": "ELelfide", "ID": "754079127163068417", "text": "Saka gibi ya, her biri Telefonla baglanip konusuyor.\nKendileri niye sokaga cikmiyorlar ki !\n#SokağaSakınÇıkma", "url": "/ELelfide/status/754079127163068417", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:24:08", "is_reply": false, "is_retweet": false, "user_id": "1511833992"}

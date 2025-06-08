@@ -1,0 +1,1 @@
+{"usernameTweet": "Dionysos_88", "ID": "754086055104610305", "text": "Bu darbe baya o ses türkiye ye döndü imamlar hünerlerini sergiliyor #SokağaSakınÇıkma", "url": "/Dionysos_88/status/754086055104610305", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:51:40", "is_reply": false, "is_retweet": false, "user_id": "584241319"}

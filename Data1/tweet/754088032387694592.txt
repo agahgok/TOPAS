@@ -1,0 +1,1 @@
+{"usernameTweet": "zeyneepcelebi", "ID": "754088032387694592", "text": "Oyuna gelmeyin. #SokağaSakınÇıkma", "url": "/zeyneepcelebi/status/754088032387694592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:31", "is_reply": false, "is_retweet": false, "user_id": "4901507260"}

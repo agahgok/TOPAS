@@ -1,0 +1,1 @@
+{"usernameTweet": "keskinenginn", "ID": "1282319373227696129", "text": "Abd bir ülkede ilk kez   darbe  yapma teşebbüsüne bu kadar pişman oldu.", "url": "/keskinenginn/status/1282319373227696129", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 17:22:17", "is_reply": false, "is_retweet": false, "user_id": "561114010"}

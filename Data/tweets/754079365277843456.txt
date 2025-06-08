@@ -1,0 +1,1 @@
+{"usernameTweet": "gundogdu1969", "ID": "754079365277843456", "text": "Sela okunuyor #SokağaSakınÇıkma", "url": "/gundogdu1969/status/754079365277843456", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:25:05", "is_reply": false, "is_retweet": false, "user_id": "733997305192321024"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "nazmicangok1", "ID": "754209718608986113", "text": "# SokağaSakınÇıkma  neden askerle polis bir olmuyor", "url": "/nazmicangok1/status/754209718608986113", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 10:03:04", "is_reply": false, "is_retweet": false, "user_id": "754208898484142080"}

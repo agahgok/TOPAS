@@ -1,0 +1,1 @@
+{"usernameTweet": "ondersavas", "ID": "754071665949151232", "text": "Dün sokağa çıkanları hain ilan edenler bugün sokağa çıkın diyor! #SokağaSakınÇıkma", "url": "/ondersavas/status/754071665949151232", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:54:29", "is_reply": false, "is_retweet": false, "user_id": "98874111"}

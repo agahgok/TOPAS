@@ -1,0 +1,1 @@
+{"usernameTweet": "ecrnkrasln", "ID": "754096325914800128", "text": "TİYATROYMUS SIZ ANCA EVDE OTURUP ONA BUNA SALLAMAYI BILIRSINIZ #SokağaSakınÇıkma", "url": "/ecrnkrasln/status/754096325914800128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:32:29", "is_reply": false, "is_retweet": false, "user_id": "738953393390137344"}

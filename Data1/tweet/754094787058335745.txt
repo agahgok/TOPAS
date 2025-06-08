@@ -1,0 +1,1 @@
+{"usernameTweet": "AlglBoras", "ID": "754094787058335745", "text": "# SokağaSakınÇıkma   pic.twitter.com/UFNatvHlNJ", "url": "/AlglBoras/status/754094787058335745", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:26:22", "is_reply": false, "is_retweet": false, "user_id": "876451699"}

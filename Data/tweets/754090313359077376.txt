@@ -1,0 +1,1 @@
+{"usernameTweet": "abaksitt", "ID": "754090313359077376", "text": "Ne kadar güzel bi film izlemeye doyamıyorum. #SokağaSakınÇıkma", "url": "/abaksitt/status/754090313359077376", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:35", "is_reply": false, "is_retweet": false, "user_id": "2417744091"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "beyinsizdayi", "ID": "754093524967129089", "text": "Tabi ya suriyeliler e VATANDAŞ lik verilince kaybedilen oylar geri geliyor  #SokağaSakınÇıkma", "url": "/beyinsizdayi/status/754093524967129089", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:21", "is_reply": false, "is_retweet": false, "user_id": "4850867218"}

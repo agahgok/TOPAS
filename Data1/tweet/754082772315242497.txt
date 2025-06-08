@@ -1,0 +1,1 @@
+{"usernameTweet": "cengel22", "ID": "754082772315242497", "text": "Bandirma camii de sela okunmaya başlandı... #SokağaSakınÇıkma", "url": "/cengel22/status/754082772315242497", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:38:37", "is_reply": false, "is_retweet": false, "user_id": "1270962762"}

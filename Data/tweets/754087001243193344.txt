@@ -1,0 +1,1 @@
+{"usernameTweet": "E_mreTUFAN", "ID": "754087001243193344", "text": "Aklıselim insan evinden cıkmaz.Bunlar birbirine düşürecek insan arıyorlar. #SokağaSakınÇıkma", "url": "/E_mreTUFAN/status/754087001243193344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:55:26", "is_reply": true, "is_retweet": false, "user_id": "2770867120"}

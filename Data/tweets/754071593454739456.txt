@@ -1,0 +1,1 @@
+{"usernameTweet": "ilkeyapici", "ID": "754071593454739456", "text": "# SokağaÇıkma  #OyunaGelme pic.twitter.com/B4wUGo1xN6", "url": "/ilkeyapici/status/754071593454739456", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 00:54:12", "is_reply": false, "is_retweet": false, "user_id": "1026224100"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "zynps_z", "ID": "754081229310464000", "text": "# SokağaSakınÇıkma  diyenlere karşı bu millet vatanina sahip cikicak .\nMilli mücadale için Sokağa Çık..", "url": "/zynps_z/status/754081229310464000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:29", "is_reply": false, "is_retweet": false, "user_id": "3387500463"}

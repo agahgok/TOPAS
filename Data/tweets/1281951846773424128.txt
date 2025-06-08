@@ -1,0 +1,1 @@
+{"usernameTweet": "kbrglr42", "ID": "1281951846773424128", "text": "O zaman sınava çalışanlara büyük  darbe  bu ya 10 bin ne ?", "url": "/kbrglr42/status/1281951846773424128", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 17:01:52", "is_reply": true, "is_retweet": false, "user_id": "919160474415091712"}

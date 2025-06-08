@@ -1,0 +1,1 @@
+{"usernameTweet": "emredersinis", "ID": "1281940869252370434", "text": "o  darbe  korkusundandı. kemalistlerin oyunu mu bekliyordu tayyip? komik olmayın", "url": "/emredersinis/status/1281940869252370434", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 16:18:15", "is_reply": true, "is_retweet": false, "user_id": "292933931"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "laleeresulova", "ID": "754079984050929665", "text": "Aklın varsa #SokağaSakınÇıkma", "url": "/laleeresulova/status/754079984050929665", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:32", "is_reply": false, "is_retweet": false, "user_id": "2930710216"}

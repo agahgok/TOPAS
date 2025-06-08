@@ -1,0 +1,1 @@
+{"usernameTweet": "Halimesaman", "ID": "754084169274257408", "text": "Heil Tayyip!\n#Ankara  \n#sokagasakincikma", "url": "/Halimesaman/status/754084169274257408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:10", "is_reply": false, "is_retweet": false, "user_id": "269049223"}

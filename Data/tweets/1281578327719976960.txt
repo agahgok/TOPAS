@@ -1,0 +1,1 @@
+{"usernameTweet": "ferat_demir", "ID": "1281578327719976960", "text": "Unutmadık seni  #Aliismailkorkmaz  o karanlık sokakta sana vurulan her  darbe  bizide acıttı..", "url": "/ferat_demir/status/1281578327719976960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 16:17:38", "is_reply": false, "is_retweet": false, "user_id": "91393451"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ORION9TR", "ID": "754092923436793856", "text": "# SokağaSakınÇıkma   https:// twitter.com/Tuluhantekeli/ status/754091929592270848   …", "url": "/ORION9TR/status/754092923436793856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:57", "is_reply": false, "is_retweet": false, "user_id": "286345874"}

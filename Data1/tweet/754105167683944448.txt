@@ -1,0 +1,1 @@
+{"usernameTweet": "malisrts", "ID": "754105167683944448", "text": "# SokağaSakınÇıkma  Şehitleri için bile Sela okutmamış bir Diyanet bu saatte Sela okuyor Allah belanızi versin.", "url": "/malisrts/status/754105167683944448", "nbr_retweet": 1, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 03:07:37", "is_reply": false, "is_retweet": false, "user_id": "1861431469"}

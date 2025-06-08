@@ -1,0 +1,1 @@
+{"usernameTweet": "safderunhfz", "ID": "1281334976513024000", "text": "15 Temmuz Hain  Darbe  gecesi Selâ okuyanlardan biri de bendim ", "url": "/safderunhfz/status/1281334976513024000", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2020-07-10 00:10:39", "is_reply": true, "is_retweet": false, "user_id": "1105271259238150145"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "guzelolacak__", "ID": "754077843970203648", "text": "# SokağaSakınÇıkma  kendini chavez sandı", "url": "/guzelolacak__/status/754077843970203648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:02", "is_reply": false, "is_retweet": false, "user_id": "349071221"}

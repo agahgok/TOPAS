@@ -1,0 +1,1 @@
+{"usernameTweet": "Davut25051599", "ID": "1281637740933779456", "text": "Cumhuriyet, din sömürüsü yapan orospu çocuklarına  darbe  vurdu.", "url": "/Davut25051599/status/1281637740933779456", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 20:13:43", "is_reply": true, "is_retweet": false, "user_id": "1147109845310627845"}

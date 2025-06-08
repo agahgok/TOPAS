@@ -1,0 +1,1 @@
+{"usernameTweet": "cansu_yalim", "ID": "754262771974406144", "text": "GEZI PARKI EYLEMLERINDE SANA MASKE VEREN BU ELLERI UNUTMA!\n#sokagasakincikma   pic.twitter.com/wfLX3XfeDn", "url": "/cansu_yalim/status/754262771974406144", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 13:33:53", "is_reply": false, "is_retweet": false, "user_id": "2979877595"}

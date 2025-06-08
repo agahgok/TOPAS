@@ -1,0 +1,1 @@
+{"usernameTweet": "kabosiene", "ID": "1281968384616402945", "text": "Aš  darbe  pietaut be telefo eidavau, nes laikrodyje turiu :D", "url": "/kabosiene/status/1281968384616402945", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 18:07:35", "is_reply": true, "is_retweet": false, "user_id": "380244178"}

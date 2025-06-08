@@ -1,0 +1,1 @@
+{"usernameTweet": "xperfectddl", "ID": "754080654111993857", "text": "Yaralılar varmış ya sokağa çıkmayın #SokağaSakınÇıkma", "url": "/xperfectddl/status/754080654111993857", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:12", "is_reply": false, "is_retweet": false, "user_id": "2748395921"}

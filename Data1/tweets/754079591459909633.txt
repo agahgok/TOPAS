@@ -1,0 +1,1 @@
+{"usernameTweet": "burak_kocamann", "ID": "754079591459909633", "text": "Hayat işte nerden nereye #SokağaSakınÇıkma   pic.twitter.com/v7mVhuuCEu", "url": "/burak_kocamann/status/754079591459909633", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:59", "is_reply": false, "is_retweet": false, "user_id": "2555734679"}

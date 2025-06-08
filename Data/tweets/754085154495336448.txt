@@ -1,0 +1,1 @@
+{"usernameTweet": "yamiyagmurmlkc", "ID": "754085154495336448", "text": "# SokağaSakınÇıkma", "url": "/yamiyagmurmlkc/status/754085154495336448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:05", "is_reply": false, "is_retweet": false, "user_id": "55252342"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "BilgehanGokhan", "ID": "754122050210496513", "text": "# SokağaSakınÇıkma     pic.twitter.com/yw7XBLujqM", "url": "/BilgehanGokhan/status/754122050210496513", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 04:14:42", "is_reply": false, "is_retweet": false, "user_id": "3302605516"}

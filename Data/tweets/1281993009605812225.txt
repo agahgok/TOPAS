@@ -1,0 +1,1 @@
+{"usernameTweet": "Serkankalayl1", "ID": "1281993009605812225", "text": "Maddi  darbe  11 aylık bebeğim maması bezi ne olacak onlar ne olacak o inkar edilen haklar", "url": "/Serkankalayl1/status/1281993009605812225", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 19:45:26", "is_reply": false, "is_retweet": false, "user_id": "1240379861363023879"}

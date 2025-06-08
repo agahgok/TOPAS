@@ -1,0 +1,1 @@
+{"usernameTweet": "artaemis1", "ID": "1282454423864774658", "text": "Masum Suat :') Hüsnü'den bir  darbe  yedi kıyamam. Sende mutluluğu bulacak eminim dhsjbsjdhsbdksbdj", "url": "/artaemis1/status/1282454423864774658", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 02:18:56", "is_reply": true, "is_retweet": false, "user_id": "1257490031163379712"}

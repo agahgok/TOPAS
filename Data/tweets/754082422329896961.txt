@@ -1,0 +1,1 @@
+{"usernameTweet": "gundogdu1969", "ID": "754082422329896961", "text": "Tv kanallari kapaniyor #SokağaSakınÇıkma", "url": "/gundogdu1969/status/754082422329896961", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:14", "is_reply": false, "is_retweet": false, "user_id": "733997305192321024"}

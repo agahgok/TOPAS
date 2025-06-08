@@ -1,0 +1,1 @@
+{"usernameTweet": "yoruk_fikret", "ID": "754094114132598784", "text": "# SokağaSakınÇıkma  sokaklardayiz 3-5 capulcuyamı birakıcaz ülkeyi", "url": "/yoruk_fikret/status/754094114132598784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:41", "is_reply": false, "is_retweet": false, "user_id": "3818513842"}

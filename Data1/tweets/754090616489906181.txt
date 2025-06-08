@@ -1,0 +1,1 @@
+{"usernameTweet": "4k_Genclik", "ID": "754090616489906181", "text": "# SokağaSakınÇıkma  inadına sokaktayız. . Bu vatanı çapulculara bırakmayız. .", "url": "/4k_Genclik/status/754090616489906181", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:09:47", "is_reply": false, "is_retweet": false, "user_id": "3084152891"}

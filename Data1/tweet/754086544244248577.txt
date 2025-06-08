@@ -1,0 +1,1 @@
+{"usernameTweet": "kredikartimnet", "ID": "754086544244248577", "text": "Allah'ım sen memleketimizi koru.. #SokağaSakınÇıkma  #DarbelereHayır pic.twitter.com/HPB9TNTEI9", "url": "/kredikartimnet/status/754086544244248577", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:37", "is_reply": false, "is_retweet": false, "user_id": "167751629"}

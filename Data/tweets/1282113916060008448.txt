@@ -1,0 +1,1 @@
+{"usernameTweet": "Mehmet__Kiraz", "ID": "1282113916060008448", "text": "Darbe  alacak sistem mı var ki?", "url": "/Mehmet__Kiraz/status/1282113916060008448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 03:45:52", "is_reply": true, "is_retweet": false, "user_id": "398992629"}

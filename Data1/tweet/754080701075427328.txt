@@ -1,0 +1,1 @@
+{"usernameTweet": "Kemoo_1907", "ID": "754080701075427328", "text": "# SokağaSakınÇıkma  \nDaha inandirici yapsaydiniz keske.", "url": "/Kemoo_1907/status/754080701075427328", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:30:23", "is_reply": false, "is_retweet": false, "user_id": "710372026553339905"}

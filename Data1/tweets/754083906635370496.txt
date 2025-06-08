@@ -1,0 +1,1 @@
+{"usernameTweet": "irfansercee", "ID": "754083906635370496", "text": "Sokağa çıkin metrobüsler acilsi ucretsiz. Havalimanina gelin #SokağaSakınÇıkma", "url": "/irfansercee/status/754083906635370496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:08", "is_reply": false, "is_retweet": false, "user_id": "1438540800"}

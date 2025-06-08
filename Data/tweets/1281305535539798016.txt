@@ -1,0 +1,1 @@
+{"usernameTweet": "UgradimGecerken", "ID": "1281305535539798016", "text": "Admin adam gibi başlık at. 15 Temmuz  darbe  girişiminde Akp binasına saldırı davası diye değiştir.", "url": "/UgradimGecerken/status/1281305535539798016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 22:13:39", "is_reply": true, "is_retweet": false, "user_id": "1853493246"}

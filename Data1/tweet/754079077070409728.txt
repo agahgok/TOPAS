@@ -1,0 +1,1 @@
+{"usernameTweet": "1sinemtoplu", "ID": "754079077070409728", "text": "Seccadelerde bulusmalıyız.  #SokağaSakınÇıkma", "url": "/1sinemtoplu/status/754079077070409728", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:23:56", "is_reply": false, "is_retweet": false, "user_id": "3339447377"}

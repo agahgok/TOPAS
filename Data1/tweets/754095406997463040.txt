@@ -1,0 +1,1 @@
+{"usernameTweet": "melisanrg", "ID": "754095406997463040", "text": "Asıl game of thrones ülkemizde, boşuna dizi izliyoruz, ımdb si düşük ama #SokağaSakınÇıkma", "url": "/melisanrg/status/754095406997463040", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:28:50", "is_reply": false, "is_retweet": false, "user_id": "383892088"}

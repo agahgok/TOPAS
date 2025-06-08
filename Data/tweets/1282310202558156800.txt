@@ -1,0 +1,1 @@
+{"usernameTweet": "cengiz_uluca", "ID": "1282310202558156800", "text": "15 temmuzda küçük bir  darbe  oldu diyen şahıstır kendileri", "url": "/cengiz_uluca/status/1282310202558156800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 16:45:51", "is_reply": true, "is_retweet": false, "user_id": "1259834064414089216"}

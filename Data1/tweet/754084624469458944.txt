@@ -1,0 +1,1 @@
+{"usernameTweet": "halilmusabsavas", "ID": "754084624469458944", "text": "Halk yönetime el koydu . Darbeciler teslim oluyor.bu ülke 80lere geri dönmez . #SokağaSakınÇıkma", "url": "/halilmusabsavas/status/754084624469458944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:59", "is_reply": false, "is_retweet": false, "user_id": "350566124"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "legatusmcarthur", "ID": "754077120779911169", "text": "# SokağaSakınÇıkma", "url": "/legatusmcarthur/status/754077120779911169", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:10", "is_reply": false, "is_retweet": false, "user_id": "3597851957"}

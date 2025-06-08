@@ -1,0 +1,1 @@
+{"usernameTweet": "hermannelig", "ID": "754078022869848064", "text": "# SokağaSakınÇıkma", "url": "/hermannelig/status/754078022869848064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:45", "is_reply": false, "is_retweet": false, "user_id": "471397972"}

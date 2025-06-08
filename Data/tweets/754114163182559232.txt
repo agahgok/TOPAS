@@ -1,0 +1,1 @@
+{"usernameTweet": "rebeqRe", "ID": "754114163182559232", "text": "Çikmayin dedik diktatorun gazina gelmeyin dedik!!!! #SokağaSakınÇıkma", "url": "/rebeqRe/status/754114163182559232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:43:21", "is_reply": false, "is_retweet": false, "user_id": "148474505"}

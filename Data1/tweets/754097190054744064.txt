@@ -1,0 +1,1 @@
+{"usernameTweet": "sewalsimalyldrm", "ID": "754097190054744064", "text": "# TijenKaraş  #TRT1  #SokağaSakınÇıkma  !!!", "url": "/sewalsimalyldrm/status/754097190054744064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:35:55", "is_reply": false, "is_retweet": false, "user_id": "2731570606"}

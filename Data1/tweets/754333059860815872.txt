@@ -1,0 +1,1 @@
+{"usernameTweet": "dinazorperi", "ID": "754333059860815872", "text": "ASKERİMİ KATLEDENLERE ORTAK/DESTEK OLMA! İZMİR BU GÜN KONAK MEYDANINDA TOPLANMA!!!! #sokagacikma", "url": "/dinazorperi/status/754333059860815872", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 18:13:10", "is_reply": false, "is_retweet": false, "user_id": "709134700548382720"}

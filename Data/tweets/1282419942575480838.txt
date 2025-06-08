@@ -1,0 +1,1 @@
+{"usernameTweet": "ZCufadar", "ID": "1282419942575480838", "text": "AyBar zaten öldü hala bir sağdan bir soldan  darbe  yemekte. Allah kurtarsın gacılar #survivor2020", "url": "/ZCufadar/status/1282419942575480838", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 00:01:55", "is_reply": false, "is_retweet": false, "user_id": "1247129715867082755"}

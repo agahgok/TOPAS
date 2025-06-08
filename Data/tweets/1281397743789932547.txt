@@ -1,0 +1,1 @@
+{"usernameTweet": "candemeyin", "ID": "1281397743789932547", "text": "Sabahın 4’ünde  darbe  haberi alsam bu kadar şaşırmazdım herhalde", "url": "/candemeyin/status/1281397743789932547", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 04:20:03", "is_reply": true, "is_retweet": false, "user_id": "233878573"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "onuraayas", "ID": "754127465736507393", "text": "Camilerden halkı sokağ davet edip iç savaş çıkarmaya çalışıyorlar #SokağaSakınÇıkma", "url": "/onuraayas/status/754127465736507393", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 04:36:13", "is_reply": false, "is_retweet": false, "user_id": "1442412150"}

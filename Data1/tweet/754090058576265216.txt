@@ -1,0 +1,1 @@
+{"usernameTweet": "19FRMZ19", "ID": "754090058576265216", "text": "Bu darbe falan değil akp reklamıdır....!! Gidin yatın... #SokağaSakınÇıkma", "url": "/19FRMZ19/status/754090058576265216", "nbr_retweet": 4, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:07:34", "is_reply": false, "is_retweet": false, "user_id": "2168734365"}

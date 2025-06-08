@@ -1,0 +1,1 @@
+{"usernameTweet": "batuhanHRZ", "ID": "754072480055189504", "text": "Bu bir tiyatro olabilir mi? Başkanlık için mağdur edebiyatıyla destek arttırma çabası olabilir mi? #SokağaÇıkma", "url": "/batuhanHRZ/status/754072480055189504", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:57:43", "is_reply": false, "is_retweet": false, "user_id": "215818286"}

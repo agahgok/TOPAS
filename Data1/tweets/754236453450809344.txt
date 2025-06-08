@@ -1,0 +1,1 @@
+{"usernameTweet": "mstarabaci", "ID": "754236453450809344", "text": "Böyle bir darbe komediyasi olmaz  #SokağaSakınÇıkma", "url": "/mstarabaci/status/754236453450809344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 11:49:18", "is_reply": false, "is_retweet": false, "user_id": "4011252453"}

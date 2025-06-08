@@ -1,0 +1,1 @@
+{"usernameTweet": "enesdemiray11", "ID": "1282680895108001793", "text": "Savaşlar gördük,  darbe  gördük, salgın gördük ama bi huzur göremedik amk yerinde.", "url": "/enesdemiray11/status/1282680895108001793", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 17:18:51", "is_reply": false, "is_retweet": false, "user_id": "1113327336689160192"}

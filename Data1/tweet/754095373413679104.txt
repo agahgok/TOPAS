@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754095373413679104", "text": "Senaryo cakma darbe oldu abd sen feto yu ver arada bende baskan olıyım hadı bırısı yalan desın #SokağaSakınÇıkma", "url": "/mertbzky/status/754095373413679104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:42", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

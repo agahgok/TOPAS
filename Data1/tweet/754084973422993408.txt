@@ -1,0 +1,1 @@
+{"usernameTweet": "AnlHrlk", "ID": "754084973422993408", "text": "Tam da bu yüzden #sokağasakınçıkma   https:// twitter.com/sakirabiforeve r/status/754081821110001664   …", "url": "/AnlHrlk/status/754084973422993408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:22", "is_reply": false, "is_retweet": false, "user_id": "286087862"}

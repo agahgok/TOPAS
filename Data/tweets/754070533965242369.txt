@@ -1,0 +1,1 @@
+{"usernameTweet": "aviesmiley", "ID": "754070533965242369", "text": "\"Cumhurbaşkanı Erdoğan\" sokağa çıkın diyor. Resmen iç savaşa sürüklüyor. #sokağasakınçıkma", "url": "/aviesmiley/status/754070533965242369", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:49:59", "is_reply": false, "is_retweet": false, "user_id": "421881352"}

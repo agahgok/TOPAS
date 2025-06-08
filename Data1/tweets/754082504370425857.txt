@@ -1,0 +1,1 @@
+{"usernameTweet": "birgun62", "ID": "754082504370425857", "text": "Aldanmayın sokağa inme #SokağaSakınÇıkma", "url": "/birgun62/status/754082504370425857", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:37:33", "is_reply": false, "is_retweet": false, "user_id": "2862949551"}

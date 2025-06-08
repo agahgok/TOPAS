@@ -1,0 +1,1 @@
+{"usernameTweet": "UKuluchan", "ID": "754081672665104384", "text": "ezan ile insanı gaza getirmeye çalışan aptallar #SokağaSakınÇıkma", "url": "/UKuluchan/status/754081672665104384", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:15", "is_reply": false, "is_retweet": false, "user_id": "99371042"}

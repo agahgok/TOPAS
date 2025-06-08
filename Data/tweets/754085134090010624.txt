@@ -1,0 +1,1 @@
+{"usernameTweet": "DrBVannacutt", "ID": "754085134090010624", "text": "# SokağaSakınÇıkma  sokak çok güzel... gelsenize :)", "url": "/DrBVannacutt/status/754085134090010624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:00", "is_reply": false, "is_retweet": false, "user_id": "127486391"}

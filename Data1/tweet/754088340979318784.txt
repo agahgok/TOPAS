@@ -1,0 +1,1 @@
+{"usernameTweet": "mmba02", "ID": "754088340979318784", "text": "# SokağaSakınÇıkma  siywn ödlekler annalarınızın eteklerinin altına girin siz ALLAH -U EKBER ", "url": "/mmba02/status/754088340979318784", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:00:45", "is_reply": false, "is_retweet": false, "user_id": "3028428357"}

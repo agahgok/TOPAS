@@ -1,0 +1,1 @@
+{"usernameTweet": "nuriyebg38", "ID": "754089678895276033", "text": "Bu ülkeyi bu hale getiren herkes utansın! Nedir bu polise yapılanlar #SokağaSakınÇıkma", "url": "/nuriyebg38/status/754089678895276033", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:04", "is_reply": false, "is_retweet": false, "user_id": "3238836545"}

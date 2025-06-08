@@ -1,0 +1,1 @@
+{"usernameTweet": "HalitToku2", "ID": "1282402645987270656", "text": "Cumhurbaşkanı olduğu ülkedeki  darbe  girişimini enişteden öğrenmek?", "url": "/HalitToku2/status/1282402645987270656", "nbr_retweet": 9, "nbr_favorite": 19, "nbr_reply": 0, "datetime": "2020-07-12 22:53:11", "is_reply": false, "is_retweet": false, "user_id": "1257272761891897345"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "besa_mustafa23", "ID": "754090455286083585", "text": "Burası türkiye mısır değil #SokağaSakınÇıkma", "url": "/besa_mustafa23/status/754090455286083585", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:09:09", "is_reply": false, "is_retweet": false, "user_id": "370818010"}

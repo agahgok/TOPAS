@@ -1,0 +1,1 @@
+{"usernameTweet": "soulfly_xq", "ID": "754072149896355840", "text": "Uyanalım bu bir rüya olsun #SokağaSakınÇıkma", "url": "/soulfly_xq/status/754072149896355840", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:56:25", "is_reply": false, "is_retweet": false, "user_id": "702796340540133376"}

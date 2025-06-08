@@ -1,0 +1,1 @@
+{"usernameTweet": "ygtbkrts", "ID": "754071409341505536", "text": "Mantıklı düşünün vatan evladını vatan evladına vurduracaklar kanmayın!! #SokağaSakınÇıkma", "url": "/ygtbkrts/status/754071409341505536", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:53:28", "is_reply": false, "is_retweet": false, "user_id": "3426797981"}

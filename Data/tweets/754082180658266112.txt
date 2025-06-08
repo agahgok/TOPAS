@@ -1,0 +1,1 @@
+{"usernameTweet": "mrakifkrc", "ID": "754082180658266112", "text": "bir despota teslim olmuş imamlar camilerden demokrasiye sahip çıkın diyorlar insanlara #SokağaSakınÇıkma", "url": "/mrakifkrc/status/754082180658266112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:16", "is_reply": false, "is_retweet": false, "user_id": "289553095"}

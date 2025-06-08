@@ -1,0 +1,1 @@
+{"usernameTweet": "maiieao", "ID": "754085452802555905", "text": "# SokağaSakınÇıkma  sokağa çıkanın amk", "url": "/maiieao/status/754085452802555905", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:16", "is_reply": false, "is_retweet": false, "user_id": "3171757738"}

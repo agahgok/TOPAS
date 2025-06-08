@@ -1,0 +1,1 @@
+{"usernameTweet": "KadirCakir", "ID": "754070855664021504", "text": "Camilerden sokağa çıkmayın anonsları yapılıyor. #Turkey  #SokağaSakınÇıkma  #Gezi  #SONDAKİKA", "url": "/KadirCakir/status/754070855664021504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:16", "is_reply": false, "is_retweet": false, "user_id": "71759632"}

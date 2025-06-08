@@ -1,0 +1,1 @@
+{"usernameTweet": "gokhangoker36", "ID": "754059946279350273", "text": "Bizim trafo alacaklarını diyorum... #SokağaSakınÇıkma   pic.twitter.com/U3CeVkcxql", "url": "/gokhangoker36/status/754059946279350273", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:07:55", "is_reply": false, "is_retweet": false, "user_id": "278566873"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754088519484710912", "text": "# SokağaSakınÇıkma  #ÇakmaDarbe pic.twitter.com/tZ4i9QK6vI", "url": "/vakkaff/status/754088519484710912", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:01:27", "is_reply": true, "is_retweet": false, "user_id": "943942980"}

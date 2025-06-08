@@ -1,0 +1,1 @@
+{"usernameTweet": "diren_pia", "ID": "754100641497251840", "text": "Yurdum benim şahdamarım...\n\n#SokağaSakınÇıkma", "url": "/diren_pia/status/754100641497251840", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:49:38", "is_reply": false, "is_retweet": false, "user_id": "276102200"}

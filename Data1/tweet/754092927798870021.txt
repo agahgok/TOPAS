@@ -1,0 +1,1 @@
+{"usernameTweet": "disparazit", "ID": "754092927798870021", "text": "Talat Aydemir, sen misin?  #SokağaSakınÇıkma  #DarbeyeHayır", "url": "/disparazit/status/754092927798870021", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:59", "is_reply": false, "is_retweet": false, "user_id": "3025110989"}

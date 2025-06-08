@@ -1,0 +1,1 @@
+{"usernameTweet": "nesliyesiler", "ID": "754074929822326784", "text": "Mecidiyeköy de Ezan sesi duyuyorum bu saaTTe..Saka dimi???\n#darbe  #sokagacikma", "url": "/nesliyesiler/status/754074929822326784", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:07:27", "is_reply": false, "is_retweet": false, "user_id": "103060995"}

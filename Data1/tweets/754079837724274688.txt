@@ -1,0 +1,1 @@
+{"usernameTweet": "SubliminalIssiz", "ID": "754079837724274688", "text": "Sela veriliyor sebebini bilen var mı? Amacı nedir?  #SokağaSakınÇıkma", "url": "/SubliminalIssiz/status/754079837724274688", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:58", "is_reply": false, "is_retweet": false, "user_id": "3053407973"}

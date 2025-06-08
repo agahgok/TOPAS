@@ -1,0 +1,1 @@
+{"usernameTweet": "TanyeliSemra", "ID": "754077604479692801", "text": "# SokağaSakınÇıkma  İç savaş çıkarmak istiyorlar", "url": "/TanyeliSemra/status/754077604479692801", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:05", "is_reply": false, "is_retweet": false, "user_id": "3363111183"}

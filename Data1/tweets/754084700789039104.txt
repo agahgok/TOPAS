@@ -1,0 +1,1 @@
+{"usernameTweet": "GursuAhmet", "ID": "754084700789039104", "text": "# SokağaSakınÇıkma  diyen aslaklar o yüzden mi geziye milleti çağırdınız", "url": "/GursuAhmet/status/754084700789039104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:17", "is_reply": false, "is_retweet": false, "user_id": "545773776"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "edebiyatkavsagi", "ID": "1282050726164860929", "text": "Darbe  olmadığı sürece isterse gkb olsun sivillere artistlik yapamaz", "url": "/edebiyatkavsagi/status/1282050726164860929", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 23:34:47", "is_reply": true, "is_retweet": false, "user_id": "3892210457"}

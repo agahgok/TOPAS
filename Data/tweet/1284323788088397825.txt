@@ -1,0 +1,1 @@
+{"usernameTweet": "MZrepD4EcO8duh0", "ID": "1284323788088397825", "text": "pic.twitter.com/MdCn33snnV", "url": "/MZrepD4EcO8duh0/status/1284323788088397825", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 06:07:07", "is_reply": true, "is_retweet": false, "user_id": "1029852971830595584"}

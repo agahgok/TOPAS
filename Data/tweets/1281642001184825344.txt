@@ -1,0 +1,1 @@
+{"usernameTweet": "riveltt", "ID": "1281642001184825344", "text": "Inşallah anlatmıştır finale günler kala Barış bi  darbe  daha yermesin ", "url": "/riveltt/status/1281642001184825344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 20:30:39", "is_reply": true, "is_retweet": false, "user_id": "907238617629720576"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Eylem_erdemm", "ID": "1282055570946772994", "text": "Ama sen onu gel anlat kalbe,yürüyor önümde büyük harbe, darbe  üstüne  darbe  uslanmıyor bu", "url": "/Eylem_erdemm/status/1282055570946772994", "nbr_retweet": 0, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2020-07-11 23:54:02", "is_reply": false, "is_retweet": false, "user_id": "1192830707942469632"}

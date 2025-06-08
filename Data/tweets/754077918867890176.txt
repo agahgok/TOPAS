@@ -1,0 +1,1 @@
+{"usernameTweet": "eserseyazarim", "ID": "754077918867890176", "text": "Taksim Türk bayrağı dolmuş. Bir şey diyemiyorum normalde girsek suç olurdu #SokağaSakınÇıkma", "url": "/eserseyazarim/status/754077918867890176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:20", "is_reply": false, "is_retweet": false, "user_id": "2380238538"}

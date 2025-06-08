@@ -1,0 +1,1 @@
+{"usernameTweet": "AnlayanGuzel", "ID": "1282344641225019395", "text": "15 Temmuz'da yaşadığımız korkutucu  darbe  gibi gel. Aniden panik içinde bırak beni... ", "url": "/AnlayanGuzel/status/1282344641225019395", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 19:02:41", "is_reply": false, "is_retweet": false, "user_id": "1264459526109102080"}

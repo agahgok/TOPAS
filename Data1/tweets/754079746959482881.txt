@@ -1,0 +1,1 @@
+{"usernameTweet": "faysalfdn", "ID": "754079746959482881", "text": "Camilerde tekibir sesleri ve sokağa çıkma çağırısı var. \n#SokağaÇıkma", "url": "/faysalfdn/status/754079746959482881", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:36", "is_reply": false, "is_retweet": false, "user_id": "3939256636"}

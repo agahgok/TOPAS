@@ -1,0 +1,1 @@
+{"usernameTweet": "aakmk34", "ID": "754084488368517120", "text": "# SokağaSakınÇıkma  asparagas haberi trt gerçekliğiyle ortaya çıkardı  pic.twitter.com/aIyX0m0bDk", "url": "/aakmk34/status/754084488368517120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:26", "is_reply": false, "is_retweet": false, "user_id": "2353607932"}

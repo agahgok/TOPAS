@@ -1,0 +1,1 @@
+{"usernameTweet": "Nsngnzyrk", "ID": "754086429664378880", "text": "Sürü sokakta da çoban nerede?  #SokağaSakınÇıkma   pic.twitter.com/yzoPFMCHlx", "url": "/Nsngnzyrk/status/754086429664378880", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:09", "is_reply": false, "is_retweet": false, "user_id": "1363482410"}

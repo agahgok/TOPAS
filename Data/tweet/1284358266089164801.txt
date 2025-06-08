@@ -1,0 +1,1 @@
+{"usernameTweet": "DabeePare", "ID": "1284358266089164801", "text": "hahahahaa", "url": "/DabeePare/status/1284358266089164801", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:24:07", "is_reply": false, "is_retweet": false, "user_id": "1112016133169664002"}

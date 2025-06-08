@@ -1,0 +1,1 @@
+{"usernameTweet": "M_Kemal_TR", "ID": "754082777281228800", "text": "Kacak saray bombalaniyor \n#SokağaSakınÇıkma", "url": "/M_Kemal_TR/status/754082777281228800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:38", "is_reply": false, "is_retweet": false, "user_id": "2982480310"}

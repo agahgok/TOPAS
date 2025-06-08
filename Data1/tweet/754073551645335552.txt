@@ -1,0 +1,1 @@
+{"usernameTweet": "tubaatasever1", "ID": "754073551645335552", "text": "# SokağaSakınÇıkma  yazık etmeyim bu vatana", "url": "/tubaatasever1/status/754073551645335552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:59", "is_reply": false, "is_retweet": false, "user_id": "415659571"}

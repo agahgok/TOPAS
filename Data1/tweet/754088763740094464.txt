@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynepeels", "ID": "754088763740094464", "text": "Ülkenin şu durumuna sevinen net VATANSİZDIR #SokağaSakınÇıkma  #Ankara", "url": "/zeynepeels/status/754088763740094464", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:02:26", "is_reply": false, "is_retweet": false, "user_id": "308905427"}

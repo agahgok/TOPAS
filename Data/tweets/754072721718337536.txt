@@ -1,0 +1,1 @@
+{"usernameTweet": "seliinyigit", "ID": "754072721718337536", "text": "OYUNA GELME !! #Sokağasakınçıkma", "url": "/seliinyigit/status/754072721718337536", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:41", "is_reply": false, "is_retweet": false, "user_id": "4227632548"}

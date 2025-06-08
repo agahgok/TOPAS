@@ -1,0 +1,1 @@
+{"usernameTweet": "Cesarettin61", "ID": "1281823732210774016", "text": "Şu an chp lilerin olmayan beyinleri  darbe  gördü ", "url": "/Cesarettin61/status/1281823732210774016", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 08:32:47", "is_reply": true, "is_retweet": false, "user_id": "1197748250117316608"}

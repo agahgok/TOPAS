@@ -1,0 +1,1 @@
+{"usernameTweet": "osmanagabey7", "ID": "754080392102178816", "text": "# SokağaSakınÇıkma  Kan akmasın Yetkililer gerekenleri yapar.", "url": "/osmanagabey7/status/754080392102178816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:10", "is_reply": false, "is_retweet": false, "user_id": "711281341061599232"}

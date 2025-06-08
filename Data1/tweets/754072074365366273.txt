@@ -1,0 +1,1 @@
+{"usernameTweet": "osmanli_elif", "ID": "754072074365366273", "text": "Korsan yasağa böyle tepki. \n\n #SokağaSakınÇıkma   pic.twitter.com/Sj60GbVPzK", "url": "/osmanli_elif/status/754072074365366273", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:07", "is_reply": false, "is_retweet": false, "user_id": "3030795451"}

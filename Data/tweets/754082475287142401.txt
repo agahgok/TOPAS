@@ -1,0 +1,1 @@
+{"usernameTweet": "cync1982", "ID": "754082475287142401", "text": "# SokağaSakınÇıkma  #Ankara pic.twitter.com/rDQF7OXWEE", "url": "/cync1982/status/754082475287142401", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:26", "is_reply": false, "is_retweet": false, "user_id": "314441687"}

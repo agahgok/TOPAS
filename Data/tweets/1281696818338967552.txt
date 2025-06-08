@@ -1,0 +1,1 @@
+{"usernameTweet": "biyolog_yusuf", "ID": "1281696818338967552", "text": "Yazıklar olsun bize 10y yıl önce  darbe  yaptılar kimseden çıt yok#Fetöhırsızlığının10cuyılı", "url": "/biyolog_yusuf/status/1281696818338967552", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 00:08:28", "is_reply": false, "is_retweet": false, "user_id": "908883151"}

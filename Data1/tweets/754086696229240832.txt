@@ -1,0 +1,1 @@
+{"usernameTweet": "tsbasin", "ID": "754086696229240832", "text": "o kadar bomba patladı hala oyun diyenler var orospu cocuklari bu vatanı bolemiceksiniz #SokağaSakınÇıkma", "url": "/tsbasin/status/754086696229240832", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:54:13", "is_reply": false, "is_retweet": false, "user_id": "1886201426"}

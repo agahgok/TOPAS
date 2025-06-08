@@ -1,0 +1,1 @@
+{"usernameTweet": "streslipolyanne", "ID": "754094195472789505", "text": "Herkes aynı kabusu gördü #SokağaSakınÇıkma", "url": "/streslipolyanne/status/754094195472789505", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:24:01", "is_reply": false, "is_retweet": false, "user_id": "1103447420"}

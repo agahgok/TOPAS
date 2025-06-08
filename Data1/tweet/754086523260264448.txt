@@ -1,0 +1,1 @@
+{"usernameTweet": "sezibarutcu", "ID": "754086523260264448", "text": "# sokağaçıkma  meydanlarda piyon olma!", "url": "/sezibarutcu/status/754086523260264448", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:53:32", "is_reply": false, "is_retweet": false, "user_id": "731334547"}

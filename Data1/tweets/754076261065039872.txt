@@ -1,0 +1,1 @@
+{"usernameTweet": "Halil_Unsal", "ID": "754076261065039872", "text": "# SokağaSakınÇıkma  İnanma!!! Yönetimi YAŞ ile atıyan bizzat TAYYİP ERDOĞAN dır.", "url": "/Halil_Unsal/status/754076261065039872", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:45", "is_reply": false, "is_retweet": false, "user_id": "1969816272"}

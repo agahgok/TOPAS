@@ -1,0 +1,1 @@
+{"usernameTweet": "serkanbellek", "ID": "754078086824624128", "text": "# SokağaSakınÇıkma  sokağa çıkma askere karşı çıkma polise karşı cikma", "url": "/serkanbellek/status/754078086824624128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:00", "is_reply": false, "is_retweet": false, "user_id": "304493527"}

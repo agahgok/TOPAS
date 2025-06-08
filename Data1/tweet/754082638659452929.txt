@@ -1,0 +1,1 @@
+{"usernameTweet": "damlaben92d", "ID": "754082638659452929", "text": "Çocuklarını düşün önce cagırıyor sonra inanmayın diyor oyuna gelme #SokağaSakınÇıkma", "url": "/damlaben92d/status/754082638659452929", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:05", "is_reply": false, "is_retweet": false, "user_id": "4570643057"}

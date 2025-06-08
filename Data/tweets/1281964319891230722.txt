@@ -1,0 +1,1 @@
+{"usernameTweet": "AskeriKD", "ID": "1281964319891230722", "text": "Lean piyasasına büyük  darbe ..  https:// twitter.com/moonchildlrn/s tatus/1281622644945821697   …", "url": "/AskeriKD/status/1281964319891230722", "nbr_retweet": 0, "nbr_favorite": 31, "nbr_reply": 1, "datetime": "2020-07-11 17:51:26", "is_reply": false, "is_retweet": false, "user_id": "1152194151385112576"}

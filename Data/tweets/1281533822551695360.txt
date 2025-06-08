@@ -1,0 +1,1 @@
+{"usernameTweet": "halil_3258", "ID": "1281533822551695360", "text": "Bugün Cuma 'ya gitmedim. Ha bu arada  darbe  yapanın Allah belasını versin.", "url": "/halil_3258/status/1281533822551695360", "nbr_retweet": 3, "nbr_favorite": 19, "nbr_reply": 3, "datetime": "2020-07-10 13:20:47", "is_reply": false, "is_retweet": false, "user_id": "930667389636743168"}

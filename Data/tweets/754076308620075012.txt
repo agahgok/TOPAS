@@ -1,0 +1,1 @@
+{"usernameTweet": "neslihanyuksel", "ID": "754076308620075012", "text": "Sakın olun ve evinizde oturun  #SokağaSakınÇıkma", "url": "/neslihanyuksel/status/754076308620075012", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:56", "is_reply": false, "is_retweet": false, "user_id": "336952587"}

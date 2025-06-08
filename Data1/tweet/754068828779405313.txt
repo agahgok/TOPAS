@@ -1,0 +1,1 @@
+{"usernameTweet": "caglayanadam", "ID": "754068828779405313", "text": "# sokağaçıkma", "url": "/caglayanadam/status/754068828779405313", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:43:13", "is_reply": false, "is_retweet": false, "user_id": "147484761"}

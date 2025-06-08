@@ -1,0 +1,1 @@
+{"usernameTweet": "BilgehanGokhan", "ID": "754122899796201476", "text": "# SokağaSakınÇıkma    https:// twitter.com/kursun_bozkurt _/status/754122735400484864   …", "url": "/BilgehanGokhan/status/754122899796201476", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 04:18:04", "is_reply": false, "is_retweet": false, "user_id": "3302605516"}

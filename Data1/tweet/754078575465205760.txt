@@ -1,0 +1,1 @@
+{"usernameTweet": "CemalGeyveli", "ID": "754078575465205760", "text": "# SokağaSakınÇıkma  AK İTLER siz çıkabilirsiniz ama halk bu oyuna gelmemeli", "url": "/CemalGeyveli/status/754078575465205760", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:21:57", "is_reply": false, "is_retweet": false, "user_id": "3153578514"}

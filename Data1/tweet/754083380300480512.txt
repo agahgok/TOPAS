@@ -1,0 +1,1 @@
+{"usernameTweet": "tieyne", "ID": "754083380300480512", "text": "Bu kaçıncı sela ezan? Diyanet bir açıklama yapsın. bu ezanlar hangi dine mezhebe göre okunuyor şu anda? #sokagacikma", "url": "/tieyne/status/754083380300480512", "nbr_retweet": 8, "nbr_favorite": 9, "nbr_reply": 3, "datetime": "2016-07-16 01:41:02", "is_reply": false, "is_retweet": false, "user_id": "87270109"}

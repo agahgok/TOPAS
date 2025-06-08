@@ -1,0 +1,1 @@
+{"usernameTweet": "sedaykan", "ID": "754077778186792960", "text": "Karı gibi ananızın eteğinin altına saklanın #SokağaSakınÇıkma  yın sokak ödlekler için değil", "url": "/sedaykan/status/754077778186792960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:47", "is_reply": false, "is_retweet": false, "user_id": "703585818573742080"}

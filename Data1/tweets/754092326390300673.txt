@@ -1,0 +1,1 @@
+{"usernameTweet": "smmm1972", "ID": "754092326390300673", "text": "Millet sokakta #SokağaSakınÇıkma", "url": "/smmm1972/status/754092326390300673", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:35", "is_reply": false, "is_retweet": false, "user_id": "149963380"}

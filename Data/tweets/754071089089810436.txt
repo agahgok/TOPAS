@@ -1,0 +1,1 @@
+{"usernameTweet": "kurt0270", "ID": "754071089089810436", "text": "# SokağaSakınÇıkma \nonlarca komplo dönüyor dikkat etmek gerek soğukkanlılığı elden bırakmamak gerek", "url": "/kurt0270/status/754071089089810436", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:12", "is_reply": false, "is_retweet": false, "user_id": "478724014"}

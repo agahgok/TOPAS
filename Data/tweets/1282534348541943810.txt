@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1282534348541943810", "text": "¡Feliz día Licenciada! ¡Saludos!", "url": "/Darbe_LM/status/1282534348541943810", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 07:36:31", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

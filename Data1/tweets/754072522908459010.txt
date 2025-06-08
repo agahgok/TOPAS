@@ -1,0 +1,1 @@
+{"usernameTweet": "dilekgler3", "ID": "754072522908459010", "text": "# sokagasakincikma", "url": "/dilekgler3/status/754072522908459010", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:54", "is_reply": false, "is_retweet": false, "user_id": "371384507"}

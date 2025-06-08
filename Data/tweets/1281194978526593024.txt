@@ -1,0 +1,1 @@
+{"usernameTweet": "AlpHanau", "ID": "1281194978526593024", "text": "İnsanın parayla alamadığı tek şey tecrübedir insanlardan çok ama çok  darbe  yedim sizi çok iyi anlıyorum ", "url": "/AlpHanau/status/1281194978526593024", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 14:54:20", "is_reply": true, "is_retweet": false, "user_id": "2517139776"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "akn9512", "ID": "754072995518447616", "text": "SOKAKTAYIZZX!! #SokağaSakınÇıkma   pic.twitter.com/jRAB9Yo4tx", "url": "/akn9512/status/754072995518447616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:46", "is_reply": false, "is_retweet": false, "user_id": "743769890436300800"}

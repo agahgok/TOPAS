@@ -1,0 +1,1 @@
+{"usernameTweet": "CR7_Colombia", "ID": "448972160149639169", "text": "Cristiano  Ronaldo  Vs Carlos Bacca.  pic.twitter.com/uAze1lCBXT", "url": "/CR7_Colombia/status/448972160149639169", "nbr_retweet": 39, "nbr_favorite": 20, "nbr_reply": 0, "datetime": "2014-03-27 02:57:59", "is_reply": false, "is_retweet": false, "user_id": "1539265753"}

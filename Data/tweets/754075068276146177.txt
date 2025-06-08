@@ -1,0 +1,1 @@
+{"usernameTweet": "sizzdelirttinz", "ID": "754075068276146177", "text": "# SokağaSakınÇıkma  DOGAL SECILIME KURBAN GITME", "url": "/sizzdelirttinz/status/754075068276146177", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:00", "is_reply": false, "is_retweet": false, "user_id": "714544035973607424"}

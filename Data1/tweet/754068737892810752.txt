@@ -1,0 +1,1 @@
+{"usernameTweet": "GAGS1925AMY", "ID": "754068737892810752", "text": "# SokağaSakınÇıkma", "url": "/GAGS1925AMY/status/754068737892810752", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:42:51", "is_reply": false, "is_retweet": false, "user_id": "299667415"}

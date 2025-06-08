@@ -1,0 +1,1 @@
+{"usernameTweet": "burcuakku", "ID": "754328787890778112", "text": "Türkiye'de siyasi bir suç işleniyor !!! #sokağasakınçıkma  Türkiye", "url": "/burcuakku/status/754328787890778112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 17:56:12", "is_reply": false, "is_retweet": false, "user_id": "168536510"}

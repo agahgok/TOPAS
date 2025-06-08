@@ -1,0 +1,1 @@
+{"usernameTweet": "SANDIALEONA", "ID": "1282673787251589121", "text": "Y aunque tengan la información a la mano de todos modos las personas son egoístas eso viene desde el hogar.", "url": "/SANDIALEONA/status/1282673787251589121", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 16:50:36", "is_reply": true, "is_retweet": false, "user_id": "1949377548"}

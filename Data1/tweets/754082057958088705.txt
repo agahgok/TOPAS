@@ -1,0 +1,1 @@
+{"usernameTweet": "fosmanca", "ID": "754082057958088705", "text": "Sokağa çıktık,  darbeyi yıktık #SokağaSakınÇıkma   pic.twitter.com/Q5timHH3x5", "url": "/fosmanca/status/754082057958088705", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:35:47", "is_reply": false, "is_retweet": false, "user_id": "598504229"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_ezo_ezo", "ID": "754080555000627201", "text": "Sokağa davet edenler\nBi önden siz çıkın sokağa bakalım\n #SokağaSakınÇıkma", "url": "/_ezo_ezo/status/754080555000627201", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:29:49", "is_reply": false, "is_retweet": false, "user_id": "3031165038"}

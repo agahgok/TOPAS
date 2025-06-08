@@ -1,0 +1,1 @@
+{"usernameTweet": "hulyaacann", "ID": "754073266642452480", "text": "Bakan Bozdağ Chpli,mhpli,hdpli herkese sokağa bekliyorum diyor biz siz akıllısınız  #SokağaSakınÇıkma", "url": "/hulyaacann/status/754073266642452480", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:00:51", "is_reply": false, "is_retweet": false, "user_id": "1600574700"}

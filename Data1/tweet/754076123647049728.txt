@@ -1,0 +1,1 @@
+{"usernameTweet": "ozntyfr", "ID": "754076123647049728", "text": "la oğlum darbede açıklama yapan başbakan mı olur? kime darbe yapıldı o zaman? oyuna gelme #SokağaSakınÇıkma", "url": "/ozntyfr/status/754076123647049728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:12", "is_reply": false, "is_retweet": false, "user_id": "1733112140"}

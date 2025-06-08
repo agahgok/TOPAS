@@ -1,0 +1,1 @@
+{"usernameTweet": "gelmert1", "ID": "754083632617103360", "text": "Hirsızliğa  devam diyen sokağa çıksın #SokağaSakınÇıkma", "url": "/gelmert1/status/754083632617103360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:02", "is_reply": false, "is_retweet": false, "user_id": "734675586090569728"}

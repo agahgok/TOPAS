@@ -1,0 +1,1 @@
+{"usernameTweet": "d_kuscu", "ID": "754069157860216836", "text": "IHH mesaj geldi sokağa çık diye #SokagaSakinCikma", "url": "/d_kuscu/status/754069157860216836", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:44:31", "is_reply": false, "is_retweet": false, "user_id": "587302388"}

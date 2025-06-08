@@ -1,0 +1,1 @@
+{"usernameTweet": "Batuhangokcn", "ID": "754080704326168576", "text": "Bu tagi acanin anasini sikeyim serefsiz vatan hainleri #SokağaSakınÇıkma", "url": "/Batuhangokcn/status/754080704326168576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:24", "is_reply": false, "is_retweet": false, "user_id": "2986563681"}

@@ -1,0 +1,1 @@
+{"ID": "3073427893", "name": "ボーダーブレイク先輩bot", "screen_name": "YJUbb_bot", "avatar": "https://pbs.twimg.com/profile_images/575710472646713344/mJX3eRfR_bigger.jpeg"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "u_derman", "ID": "754077928200237056", "text": "# SokağaSakınÇıkma   https:// twitter.com/yagizefe/statu s/754047912473137152   …", "url": "/u_derman/status/754077928200237056", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:22", "is_reply": false, "is_retweet": false, "user_id": "2924420732"}

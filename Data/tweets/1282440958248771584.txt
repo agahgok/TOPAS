@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1282440958248771584", "text": "¡Que linda Danithza! Muchas gracias por tus palabras y siempre muy honrado de participar con ustedes! Un abrazo!", "url": "/Darbe_LM/status/1282440958248771584", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 01:25:25", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

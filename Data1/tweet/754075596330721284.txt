@@ -1,0 +1,1 @@
+{"usernameTweet": "ELelfide", "ID": "754075596330721284", "text": "Beyaz TV de gavatin biri galeyana gelmis.\nKiçini yirtiyor resmen.\n#SokağaSakınÇıkma", "url": "/ELelfide/status/754075596330721284", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:06", "is_reply": false, "is_retweet": false, "user_id": "1511833992"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AhmedHoca1", "ID": "754085425875128320", "text": "# SokağaSakınÇıkma  Güvenlik toplantısına çağrı yapıldı mı? Ülkenin güvenliği söz konusu değil mi yoksa!!!", "url": "/AhmedHoca1/status/754085425875128320", "nbr_retweet": 1, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2016-07-16 01:49:10", "is_reply": false, "is_retweet": false, "user_id": "2990002233"}

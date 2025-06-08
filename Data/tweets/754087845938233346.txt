@@ -1,0 +1,1 @@
+{"usernameTweet": "H_Levent_K", "ID": "754087845938233346", "text": "# SokağaSakınÇıkma", "url": "/H_Levent_K/status/754087845938233346", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:47", "is_reply": false, "is_retweet": false, "user_id": "330413440"}

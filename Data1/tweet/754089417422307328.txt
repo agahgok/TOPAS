@@ -1,0 +1,1 @@
+{"usernameTweet": "Samet_Demirhan", "ID": "754089417422307328", "text": "# SokağaSakınÇıkma  Diyen zihniyet bence artık susun klavyeyle olmaz o iş.Çık sokaga bağır YİYOSA!", "url": "/Samet_Demirhan/status/754089417422307328", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:02", "is_reply": false, "is_retweet": false, "user_id": "921729306"}

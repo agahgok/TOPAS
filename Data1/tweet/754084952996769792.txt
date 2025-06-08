@@ -1,0 +1,1 @@
+{"usernameTweet": "cerenizmce", "ID": "754084952996769792", "text": "Rtv 'ciyim böyle senaryo görmedim!! #SokağaSakınÇıkma", "url": "/cerenizmce/status/754084952996769792", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:17", "is_reply": false, "is_retweet": false, "user_id": "3401355317"}

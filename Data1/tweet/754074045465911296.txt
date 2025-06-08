@@ -1,0 +1,1 @@
+{"usernameTweet": "tayfunege", "ID": "754074045465911296", "text": "# sokagasakincikma", "url": "/tayfunege/status/754074045465911296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:57", "is_reply": false, "is_retweet": false, "user_id": "121798756"}

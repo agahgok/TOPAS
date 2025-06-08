@@ -1,0 +1,1 @@
+{"usernameTweet": "sher_zm", "ID": "754081363670798337", "text": "# SokağaSakınÇıkma  oyuna gelme", "url": "/sher_zm/status/754081363670798337", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:01", "is_reply": false, "is_retweet": false, "user_id": "90223733"}

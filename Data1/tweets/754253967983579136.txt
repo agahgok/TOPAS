@@ -1,0 +1,1 @@
+{"usernameTweet": "minelarinel", "ID": "754253967983579136", "text": "Bu akşam da herkesi sokağa çıkmaya davet etmeleri normal bi hareket değil, #SokağaSakınÇıkma", "url": "/minelarinel/status/754253967983579136", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 12:58:53", "is_reply": false, "is_retweet": false, "user_id": "370165858"}

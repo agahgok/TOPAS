@@ -1,0 +1,1 @@
+{"usernameTweet": "1necla2", "ID": "754073289153273856", "text": "# SokağaSakınÇıkma ,iç savaşı başlatma.", "url": "/1necla2/status/754073289153273856", "nbr_retweet": 21, "nbr_favorite": 29, "nbr_reply": 0, "datetime": "2016-07-16 01:00:56", "is_reply": false, "is_retweet": false, "user_id": "3070710946"}

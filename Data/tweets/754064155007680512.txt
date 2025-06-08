@@ -1,0 +1,1 @@
+{"usernameTweet": "azo06", "ID": "754064155007680512", "text": "# sokagacıkma   pic.twitter.com/kxOfHVfu6L", "url": "/azo06/status/754064155007680512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:24:39", "is_reply": false, "is_retweet": false, "user_id": "387618598"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ukalaamukalaa", "ID": "754080614534541313", "text": "# SokağaSakınÇıkma  sen Pensilvanya'ya çık senin vatanın burası değil", "url": "/ukalaamukalaa/status/754080614534541313", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:03", "is_reply": false, "is_retweet": false, "user_id": "3361229645"}

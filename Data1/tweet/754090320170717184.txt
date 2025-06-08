@@ -1,0 +1,1 @@
+{"usernameTweet": "dllovatic03", "ID": "754090320170717184", "text": "Bu ülkeden de, insanından da, muhalefetinden de, iktidarından da bi cacık olmaz... #sokağasakınçıkma", "url": "/dllovatic03/status/754090320170717184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:37", "is_reply": false, "is_retweet": false, "user_id": "2696067187"}

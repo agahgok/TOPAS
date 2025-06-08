@@ -1,0 +1,1 @@
+{"usernameTweet": "sevda_bolatt", "ID": "1282020433114652674", "text": "Yks geçen seneki gibi bize  darbe  yapmazsa ölüm tarihim gençlik.  pic.twitter.com/fV9FUmO3JL", "url": "/sevda_bolatt/status/1282020433114652674", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2020-07-11 21:34:24", "is_reply": false, "is_retweet": false, "user_id": "1022677865442238467"}

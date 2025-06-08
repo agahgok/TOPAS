@@ -1,0 +1,1 @@
+{"usernameTweet": "elfyalaz", "ID": "754080833875705856", "text": "Bedava otobüsle, yevmiyesi 50'den mitinge gitmeye benzemez o iş salak. Otur oturduğun yerde.  #SokağaSakınÇıkma", "url": "/elfyalaz/status/754080833875705856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:55", "is_reply": false, "is_retweet": false, "user_id": "329253634"}

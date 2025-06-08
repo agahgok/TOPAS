@@ -1,0 +1,1 @@
+{"usernameTweet": "AhkaDogan", "ID": "754076069888663552", "text": "Suriye Suriye diye diye ülkeyi unuttun bak ne oldu #SokağaSakınÇıkma  darbe girişimi başarısız olur inşallah", "url": "/AhkaDogan/status/754076069888663552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:59", "is_reply": false, "is_retweet": false, "user_id": "4014867207"}

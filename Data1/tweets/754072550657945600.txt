@@ -1,0 +1,1 @@
+{"usernameTweet": "VetHek1", "ID": "754072550657945600", "text": "Yiyorsa önce sen çık sokağa tayyipciğim  #SokağaSakınÇıkma", "url": "/VetHek1/status/754072550657945600", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:58:00", "is_reply": false, "is_retweet": false, "user_id": "2382040033"}

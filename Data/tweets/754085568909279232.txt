@@ -1,0 +1,1 @@
+{"usernameTweet": "sunkeydan", "ID": "754085568909279232", "text": "Provokasyon ihtimali yuksek  #SokağaSakınÇıkma", "url": "/sunkeydan/status/754085568909279232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:44", "is_reply": false, "is_retweet": false, "user_id": "3986801423"}

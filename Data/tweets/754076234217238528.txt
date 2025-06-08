@@ -1,0 +1,1 @@
+{"usernameTweet": "avademm", "ID": "754076234217238528", "text": "Bu onun başkanlık tezgahıdır , inanmayın #SokağaSakınÇıkma  'yın", "url": "/avademm/status/754076234217238528", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:38", "is_reply": false, "is_retweet": false, "user_id": "1530227610"}

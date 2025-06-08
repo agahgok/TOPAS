@@ -1,0 +1,1 @@
+{"usernameTweet": "mause89034346", "ID": "754083882329309184", "text": "Gaz var mı gaz? #SokağaSakınÇıkma    https:// twitter.com/emniyetgm/stat us/754078227690319872   …", "url": "/mause89034346/status/754083882329309184", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:43:02", "is_reply": false, "is_retweet": false, "user_id": "1473025878"}

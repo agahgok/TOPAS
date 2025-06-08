@@ -1,0 +1,1 @@
+{"usernameTweet": "sooaven", "ID": "1281701276460429322", "text": "katildigim hicbi etkinlikte yapilmamis olmam.....bu kacinci  darbe  yiyisim twitter halkindan sayamadim", "url": "/sooaven/status/1281701276460429322", "nbr_retweet": 0, "nbr_favorite": 21, "nbr_reply": 0, "datetime": "2020-07-11 00:26:11", "is_reply": false, "is_retweet": false, "user_id": "1276988330505392128"}

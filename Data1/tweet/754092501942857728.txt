@@ -1,0 +1,1 @@
+{"usernameTweet": "mstfkrn1907", "ID": "754092501942857728", "text": "# SokağaSakınÇıkma  sokakta makarna yok ki niye çıkalım akp tam olarak şu an bedava makarna dagitmali bence", "url": "/mstfkrn1907/status/754092501942857728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:17", "is_reply": false, "is_retweet": false, "user_id": "1584253932"}

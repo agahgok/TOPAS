@@ -1,0 +1,1 @@
+{"usernameTweet": "dderyacetinel", "ID": "754072381061226496", "text": "Çok çirkin bir oyun bu #SokağaSakınÇıkma", "url": "/dderyacetinel/status/754072381061226496", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:57:20", "is_reply": false, "is_retweet": false, "user_id": "619414601"}

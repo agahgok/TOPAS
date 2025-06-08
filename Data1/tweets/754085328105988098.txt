@@ -1,0 +1,1 @@
+{"usernameTweet": "batuhantas123", "ID": "754085328105988098", "text": "TSK ALLAH YARDIMCINIZ OLSUN ! #SokağaSakınÇıkma", "url": "/batuhantas123/status/754085328105988098", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:47", "is_reply": false, "is_retweet": false, "user_id": "1158203779"}

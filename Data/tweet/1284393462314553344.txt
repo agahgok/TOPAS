@@ -1,0 +1,1 @@
+{"usernameTweet": "Reichskanzler__", "ID": "1284393462314553344", "text": "kyk kredi ödemem geldi ertelemeye 3k koyuyor her yerden  darbe  yiyorum", "url": "/Reichskanzler__/status/1284393462314553344", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 1, "datetime": "2020-07-18 10:43:58", "is_reply": false, "is_retweet": false, "user_id": "853680469589856256"}

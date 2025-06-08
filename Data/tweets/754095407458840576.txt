@@ -1,0 +1,1 @@
+{"usernameTweet": "PopiHaks", "ID": "754095407458840576", "text": "# SokağaSakınÇıkma  terör olayları yaşanabilir çünkü güvenlik zaafiyetiçok yüksek..", "url": "/PopiHaks/status/754095407458840576", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:50", "is_reply": false, "is_retweet": false, "user_id": "2372575746"}

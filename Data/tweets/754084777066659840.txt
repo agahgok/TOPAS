@@ -1,0 +1,1 @@
+{"usernameTweet": "erkamklc", "ID": "754084777066659840", "text": "Ulan paralel yapı diyo kendi adamı lan uyuyo millet valla gidiyo vatan \n#Turquie  #Ankara  #SokağaSakınÇıkma", "url": "/erkamklc/status/754084777066659840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:35", "is_reply": false, "is_retweet": false, "user_id": "1660588159"}

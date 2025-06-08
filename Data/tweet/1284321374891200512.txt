@@ -1,0 +1,1 @@
+{"usernameTweet": "happyinssu", "ID": "1284321374891200512", "text": "任せて欲しい()", "url": "/happyinssu/status/1284321374891200512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 05:57:31", "is_reply": true, "is_retweet": false, "user_id": "523248853"}

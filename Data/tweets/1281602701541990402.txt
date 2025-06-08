@@ -1,0 +1,1 @@
+{"usernameTweet": "Psycho_Basgan", "ID": "1281602701541990402", "text": "Bu ülke 2  darbe  gördü bir bok olmadı.", "url": "/Psycho_Basgan/status/1281602701541990402", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 17:54:29", "is_reply": true, "is_retweet": false, "user_id": "185950890"}

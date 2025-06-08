@@ -1,0 +1,1 @@
+{"usernameTweet": "SessizNyx", "ID": "1284401582151475200", "text": "O gece o  Darbe  Gerçek  Darbe  Olsaydı O bastonu Alıp o Yaladıklarınıza Sokarlardı Amca.", "url": "/SessizNyx/status/1284401582151475200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 11:16:14", "is_reply": true, "is_retweet": false, "user_id": "891447754244968450"}

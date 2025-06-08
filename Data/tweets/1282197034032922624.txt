@@ -1,0 +1,1 @@
+{"usernameTweet": "ozlemberberler", "ID": "1282197034032922624", "text": "Bu nasıl  darbe", "url": "/ozlemberberler/status/1282197034032922624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 09:16:09", "is_reply": false, "is_retweet": false, "user_id": "1189334482966454272"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "fikrisinan", "ID": "754093418977132544", "text": "# SokağaSakınÇıkma  gezizekalılar bu geceyi o geceyle karıştırmayın sokağa çıkın vatanınıza sahip çıkın", "url": "/fikrisinan/status/754093418977132544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:56", "is_reply": false, "is_retweet": false, "user_id": "1303661042"}

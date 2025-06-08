@@ -1,0 +1,1 @@
+{"usernameTweet": "1907_aag27", "ID": "1281246647893266435", "text": "Her kuşatmada bu kadar  darbe  alınmaz ki eksik yanlarını tamamlasınlar", "url": "/1907_aag27/status/1281246647893266435", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 18:19:39", "is_reply": true, "is_retweet": false, "user_id": "2712622859"}

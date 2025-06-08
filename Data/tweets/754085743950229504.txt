@@ -1,0 +1,1 @@
+{"usernameTweet": "IcanHardworking", "ID": "754085743950229504", "text": "# SokağaSakınÇıkma  Darbe namazı 2 sünnet 5 farz", "url": "/IcanHardworking/status/754085743950229504", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:50:26", "is_reply": false, "is_retweet": false, "user_id": "787774854"}

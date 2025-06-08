@@ -1,0 +1,1 @@
+{"usernameTweet": "cgtykrmtc", "ID": "754096373834911744", "text": "Simdi Genelkurmay baskanimizi kurtaramadik mi daha ? #SokağaSakınÇıkma", "url": "/cgtykrmtc/status/754096373834911744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:32:40", "is_reply": false, "is_retweet": false, "user_id": "230378699"}

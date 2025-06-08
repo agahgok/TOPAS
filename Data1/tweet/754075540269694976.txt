@@ -1,0 +1,1 @@
+{"usernameTweet": "Chocsquad", "ID": "754075540269694976", "text": "SOKAGA CIKMAYIN DOKULUN SOKAGA KOSUN SOKAGA VATAN ICIN TURKIYE ICIN #SokağaSakınÇıkma", "url": "/Chocsquad/status/754075540269694976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:53", "is_reply": false, "is_retweet": false, "user_id": "742106853501480960"}

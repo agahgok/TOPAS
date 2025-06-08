@@ -1,0 +1,1 @@
+{"usernameTweet": "best_guler", "ID": "754073709732823041", "text": "# SokağaSakınÇıkma  !!!", "url": "/best_guler/status/754073709732823041", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:37", "is_reply": false, "is_retweet": false, "user_id": "613505651"}

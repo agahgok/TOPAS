@@ -1,0 +1,1 @@
+{"usernameTweet": "ezgidunyasi", "ID": "754084694422065152", "text": "keep calm and #SokağaSakınÇıkma", "url": "/ezgidunyasi/status/754084694422065152", "nbr_retweet": 4, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:46:16", "is_reply": false, "is_retweet": false, "user_id": "80802635"}

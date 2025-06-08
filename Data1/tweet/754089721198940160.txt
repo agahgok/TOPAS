@@ -1,0 +1,1 @@
+{"usernameTweet": "ozanerbektas", "ID": "754089721198940160", "text": "Anadolu Ajansı: \"17 Polis hayatını kaybetti.\"\n#SokağaSakınÇıkma", "url": "/ozanerbektas/status/754089721198940160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:14", "is_reply": false, "is_retweet": false, "user_id": "284787216"}

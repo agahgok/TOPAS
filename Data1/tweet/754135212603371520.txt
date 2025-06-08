@@ -1,0 +1,1 @@
+{"usernameTweet": "bubirderintutku", "ID": "754135212603371520", "text": "Dağda kahraman, şehre inince mi terörist oldu?! #SokağaÇıkma", "url": "/bubirderintutku/status/754135212603371520", "nbr_retweet": 3, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2016-07-16 05:07:00", "is_reply": false, "is_retweet": false, "user_id": "745426032379846657"}

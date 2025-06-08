@@ -1,0 +1,1 @@
+{"usernameTweet": "ErginEsta", "ID": "754075838577016832", "text": "Bakanlar\nBaşbakan\nSokakta mı\n\n#SokağaSakınÇıkma", "url": "/ErginEsta/status/754075838577016832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:04", "is_reply": false, "is_retweet": false, "user_id": "2289775007"}

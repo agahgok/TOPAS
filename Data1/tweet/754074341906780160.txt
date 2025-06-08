@@ -1,0 +1,1 @@
+{"usernameTweet": "yeniden_biz", "ID": "754074341906780160", "text": "Şakamı bu   #SokağaSakınÇıkma", "url": "/yeniden_biz/status/754074341906780160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:07", "is_reply": false, "is_retweet": false, "user_id": "2392419222"}

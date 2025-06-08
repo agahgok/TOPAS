@@ -1,0 +1,1 @@
+{"usernameTweet": "Rihannaismylfe", "ID": "754081806790656001", "text": "Hangi CB halkını sokağa dökmeye çalışmış.\n#SokağaSakınÇıkma", "url": "/Rihannaismylfe/status/754081806790656001", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:34:47", "is_reply": false, "is_retweet": false, "user_id": "914316114"}

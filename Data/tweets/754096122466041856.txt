@@ -1,0 +1,1 @@
+{"usernameTweet": "silaymaz", "ID": "754096122466041856", "text": "Evimin yakindaki camide her 5 dakikada bir ezan okuyup allahdan yardim istiyorlar. #SokağaSakınÇıkma", "url": "/silaymaz/status/754096122466041856", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:31:40", "is_reply": false, "is_retweet": false, "user_id": "3292268856"}

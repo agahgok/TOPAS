@@ -1,0 +1,1 @@
+{"usernameTweet": "MilliBirlik06_", "ID": "1282038057273823233", "text": "Darbe  gece neden bilgisayarları formatlayıp gençleri evlerine gönderdiler?", "url": "/MilliBirlik06_/status/1282038057273823233", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 2, "datetime": "2020-07-11 22:44:26", "is_reply": true, "is_retweet": false, "user_id": "964220468"}

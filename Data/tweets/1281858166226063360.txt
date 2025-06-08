@@ -1,0 +1,1 @@
+{"usernameTweet": "Mavihikayesi", "ID": "1281858166226063360", "text": "Kim derdi, böyle uslanmaz her yasaktan ayrı  darbe  doğar.", "url": "/Mavihikayesi/status/1281858166226063360", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-11 10:49:37", "is_reply": false, "is_retweet": false, "user_id": "2677196269"}

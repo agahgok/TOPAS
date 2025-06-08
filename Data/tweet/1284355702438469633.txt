@@ -1,0 +1,1 @@
+{"usernameTweet": "colakrengin", "ID": "1284355702438469633", "text": "Denedikleri  DARBE  tam başarılı olamadı daha devam ediyor", "url": "/colakrengin/status/1284355702438469633", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 08:13:56", "is_reply": true, "is_retweet": false, "user_id": "1680532806"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Alikemal_uzun", "ID": "1185143875666698240", "text": "# turkiyekazandi pic.twitter.com/irKHqz8rpa", "url": "/Alikemal_uzun/status/1185143875666698240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2019-10-18 13:41:33", "is_reply": false, "is_retweet": false, "user_id": "149129212"}

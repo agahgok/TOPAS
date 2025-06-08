@@ -1,0 +1,1 @@
+{"usernameTweet": "unalhso", "ID": "754071460633841664", "text": "# SokağaSakınÇıkma  sokağa Suriyeliler çıksın.", "url": "/unalhso/status/754071460633841664", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:53:40", "is_reply": false, "is_retweet": false, "user_id": "234070996"}

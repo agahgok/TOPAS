@@ -1,0 +1,1 @@
+{"usernameTweet": "TubaElbir", "ID": "754095693204258818", "text": "Gerçekten RTE yi olumsuz etkileyecek birşey olsaydı internet  yavaşlardı. Gaza gelmeyin... #SokağaSakınÇıkma", "url": "/TubaElbir/status/754095693204258818", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:29:58", "is_reply": false, "is_retweet": false, "user_id": "329886466"}

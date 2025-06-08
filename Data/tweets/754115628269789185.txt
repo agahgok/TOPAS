@@ -1,0 +1,1 @@
+{"usernameTweet": "Sahmeran54Senem", "ID": "754115628269789185", "text": "@ Selcuk_Orgun  #SokağaSakınÇıkma  CahilAkliniKullanYkimIcinSokagaCikiyirsunBununRteIcin", "url": "/Sahmeran54Senem/status/754115628269789185", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:49:11", "is_reply": false, "is_retweet": false, "user_id": "3001839548"}

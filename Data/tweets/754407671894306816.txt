@@ -1,0 +1,1 @@
+{"usernameTweet": "CansuAzun", "ID": "754407671894306816", "text": "bu saatte neyin selası ya? hala milleti kışkırtmak için türlü numaralar yapılıyor. skandal. #SokağaSakınÇıkma", "url": "/CansuAzun/status/754407671894306816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 23:09:39", "is_reply": false, "is_retweet": false, "user_id": "112234595"}

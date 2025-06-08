@@ -1,0 +1,1 @@
+{"usernameTweet": "muh_of_mat", "ID": "754074162969317377", "text": "Bunların sorumlusu kimse dışarda mücadeleyi de onlar yapsın  #SokağaSakınÇıkma", "url": "/muh_of_mat/status/754074162969317377", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:25", "is_reply": false, "is_retweet": false, "user_id": "939689600"}

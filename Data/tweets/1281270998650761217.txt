@@ -1,0 +1,1 @@
+{"usernameTweet": "fatmaatw", "ID": "1281270998650761217", "text": "Fatmanur  darbe  gördü, kriz gördü, virüs gördü ama bir tek gerçek aşkı göremedi.", "url": "/fatmaatw/status/1281270998650761217", "nbr_retweet": 6, "nbr_favorite": 83, "nbr_reply": 1, "datetime": "2020-07-09 19:56:25", "is_reply": false, "is_retweet": false, "user_id": "858700146791546880"}

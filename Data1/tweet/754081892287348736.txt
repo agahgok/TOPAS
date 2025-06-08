@@ -1,0 +1,1 @@
+{"usernameTweet": "Unuslu", "ID": "754081892287348736", "text": "Belə oyun olmur. Amma iş orasındadır ki, belə çevriliş də olmur. #sokağasakınçıkma", "url": "/Unuslu/status/754081892287348736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:35:07", "is_reply": false, "is_retweet": false, "user_id": "367919774"}

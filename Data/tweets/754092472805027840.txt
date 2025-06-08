@@ -1,0 +1,1 @@
+{"usernameTweet": "OutrisOma", "ID": "754092472805027840", "text": "# SokağaSakınÇıkma  akp nin kışkırtmasına inanma. Çatışmalar hala sürüyor. Asker çekilmedi.", "url": "/OutrisOma/status/754092472805027840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:10", "is_reply": false, "is_retweet": false, "user_id": "731167445852016641"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "arwenevenstr", "ID": "754069516242608128", "text": "Gün akıllıca davranma günü.. #sokağaçıkma", "url": "/arwenevenstr/status/754069516242608128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:45:57", "is_reply": false, "is_retweet": false, "user_id": "250645893"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "temren_murat", "ID": "754082648759427072", "text": "Omer celik evde oturup meydanlardayiz diyor\n#SokağaSakınÇıkma", "url": "/temren_murat/status/754082648759427072", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:38:08", "is_reply": false, "is_retweet": false, "user_id": "2888594290"}

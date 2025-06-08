@@ -1,0 +1,1 @@
+{"usernameTweet": "Omer79321220", "ID": "1281616495638978563", "text": "Darbe  yapanları bildiği halde söylemeyenlerinde ABV", "url": "/Omer79321220/status/1281616495638978563", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-10 18:49:18", "is_reply": true, "is_retweet": false, "user_id": "1109037898719023107"}

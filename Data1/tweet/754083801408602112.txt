@@ -1,0 +1,1 @@
+{"usernameTweet": "Si_Belius", "ID": "754083801408602112", "text": "Oyuna gelme  #SokağaSakınÇıkma", "url": "/Si_Belius/status/754083801408602112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:43", "is_reply": false, "is_retweet": false, "user_id": "2376974330"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "demirguven1", "ID": "754094768553156609", "text": "# SokağaSakınÇıkma  Diplomasideki hatalarla kaybedilen her oy darbe tiyatrosuyla geri alınmıştır", "url": "/demirguven1/status/754094768553156609", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:26:17", "is_reply": false, "is_retweet": false, "user_id": "288372379"}

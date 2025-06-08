@@ -1,0 +1,1 @@
+{"usernameTweet": "ptyfn", "ID": "1282474671150170114", "text": "Yürüyor önümde büyük harbe\n Darbe  üstüne  darbe", "url": "/ptyfn/status/1282474671150170114", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-13 03:39:23", "is_reply": false, "is_retweet": false, "user_id": "1593705144"}

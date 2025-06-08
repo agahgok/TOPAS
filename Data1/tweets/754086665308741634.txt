@@ -1,0 +1,1 @@
+{"usernameTweet": "mademoisellewoo", "ID": "754086665308741634", "text": "# SokağaSakınÇıkma  gelme oyuna milleti ayaklandırma ayakları bunlar..", "url": "/mademoisellewoo/status/754086665308741634", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:05", "is_reply": false, "is_retweet": false, "user_id": "954282708"}

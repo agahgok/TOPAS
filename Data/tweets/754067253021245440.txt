@@ -1,0 +1,1 @@
+{"usernameTweet": "demy1902", "ID": "754067253021245440", "text": "# sokagacıkma", "url": "/demy1902/status/754067253021245440", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:36:57", "is_reply": false, "is_retweet": false, "user_id": "137797707"}

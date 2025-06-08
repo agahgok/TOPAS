@@ -1,0 +1,1 @@
+{"usernameTweet": "ZipkinReis", "ID": "1281515943911456768", "text": "Darbe  övücüsü, terörist sevici, Ahlaksız Levent Özeren hakkındaki görüşlerinizi merak ediyoruz.", "url": "/ZipkinReis/status/1281515943911456768", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 12:09:45", "is_reply": true, "is_retweet": false, "user_id": "2292313886"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Xeina_1907", "ID": "754075280512323585", "text": "Daha iyi özetlenemezdi #TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma   pic.twitter.com/a3fF52FsNr", "url": "/Xeina_1907/status/754075280512323585", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:51", "is_reply": false, "is_retweet": false, "user_id": "711266010037395457"}

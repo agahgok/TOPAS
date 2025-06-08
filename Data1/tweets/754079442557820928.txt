@@ -1,0 +1,1 @@
+{"usernameTweet": "gelyunusum", "ID": "754079442557820928", "text": "# SokağaSakınÇıkma  Millet zaten sokakta siz uyuyun...", "url": "/gelyunusum/status/754079442557820928", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:25:23", "is_reply": false, "is_retweet": false, "user_id": "367029176"}

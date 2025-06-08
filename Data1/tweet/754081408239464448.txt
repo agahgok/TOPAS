@@ -1,0 +1,1 @@
+{"usernameTweet": "husey_bath", "ID": "754081408239464448", "text": "# SokağaSakınÇıkma  DİYELERE #DarbeyeKarsıUElkeneSahipCık   DİYORUM #DARBEYEHAYIR  DİYORUM", "url": "/husey_bath/status/754081408239464448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:12", "is_reply": false, "is_retweet": false, "user_id": "1573639549"}

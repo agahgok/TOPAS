@@ -1,0 +1,1 @@
+{"usernameTweet": "adogan4646", "ID": "754089054992564224", "text": "Ezan ve sela eşliğinde sokağa çıkın çağrısı yapanların nasıl bir demokrasi istediklerini düşün ve #sokağaçıkma", "url": "/adogan4646/status/754089054992564224", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:03:35", "is_reply": false, "is_retweet": false, "user_id": "1381811828"}

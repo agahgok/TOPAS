@@ -1,0 +1,1 @@
+{"usernameTweet": "karasakal31", "ID": "1281189679359025163", "text": "Çotanak..Beklemediğimiz yerden  darbe  yedik.", "url": "/karasakal31/status/1281189679359025163", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2020-07-09 14:33:17", "is_reply": true, "is_retweet": false, "user_id": "1121430595786170368"}

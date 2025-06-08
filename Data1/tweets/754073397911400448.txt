@@ -1,0 +1,1 @@
+{"usernameTweet": "frkn_1453", "ID": "754073397911400448", "text": "provokasyona gelme . Tayyibin piyonu olma #SokağaSakınÇıkma", "url": "/frkn_1453/status/754073397911400448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:01:22", "is_reply": false, "is_retweet": false, "user_id": "771380533"}

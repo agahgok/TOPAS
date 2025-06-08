@@ -1,0 +1,1 @@
+{"usernameTweet": "tugayatiss", "ID": "754071733146091520", "text": "3 yıl önce sokağa çıkan hain, şimdi sokağa cıkan vatansever.. #SokağaSakınÇıkma", "url": "/tugayatiss/status/754071733146091520", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:54:45", "is_reply": false, "is_retweet": false, "user_id": "339855179"}

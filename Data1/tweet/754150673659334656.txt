@@ -1,0 +1,1 @@
+{"usernameTweet": "kabardey2003", "ID": "754150673659334656", "text": "# SokağaSakınÇıkma  bir bakan ülkesinde darbe olmuş ve gülüyor  pic.twitter.com/mZoOAliqd5", "url": "/kabardey2003/status/754150673659334656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 06:08:26", "is_reply": false, "is_retweet": false, "user_id": "214003793"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Malum_Pasa", "ID": "754093754869542912", "text": "Ulan tekbir demokrasi sloganı oldu ya! \n#SokağaSakınÇıkma", "url": "/Malum_Pasa/status/754093754869542912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:16", "is_reply": false, "is_retweet": false, "user_id": "3238852877"}

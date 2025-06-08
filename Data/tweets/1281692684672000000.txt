@@ -1,0 +1,1 @@
+{"usernameTweet": "cemalorbaris", "ID": "1281692684672000000", "text": "neden her güzel momen'tan sonra  darbe  yiyoruz amk #cembar", "url": "/cemalorbaris/status/1281692684672000000", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-10 23:52:03", "is_reply": false, "is_retweet": false, "user_id": "1218466124012118016"}

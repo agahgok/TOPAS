@@ -1,0 +1,1 @@
+{"usernameTweet": "erencnklc", "ID": "754074512338149376", "text": "HİÇ BİR DİKTATÖR İÇ SAVAŞ ÇIKARTMADAN GİTMEZ.\n - Lenin #SokağaSakınÇıkma", "url": "/erencnklc/status/754074512338149376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:48", "is_reply": false, "is_retweet": false, "user_id": "1449131918"}

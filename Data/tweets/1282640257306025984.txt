@@ -1,0 +1,1 @@
+{"usernameTweet": "ktholoji", "ID": "1282640257306025984", "text": "bu nasıl  darbe   pic.twitter.com/Eo13gOmoLq", "url": "/ktholoji/status/1282640257306025984", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 14:37:22", "is_reply": false, "is_retweet": false, "user_id": "1226462353186787329"}

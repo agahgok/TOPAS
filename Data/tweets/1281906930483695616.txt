@@ -1,0 +1,1 @@
+{"usernameTweet": "xjjkxpjmx", "ID": "1281906930483695616", "text": "SELCAYA BAK AQ ÖLELİM DİYE ATMIŞ BU BİR  DARBE  AMK KATLİAM BU  pic.twitter.com/X4ZfZN8ahV", "url": "/xjjkxpjmx/status/1281906930483695616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 14:03:23", "is_reply": false, "is_retweet": false, "user_id": "1071422140627542016"}

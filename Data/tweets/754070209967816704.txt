@@ -1,0 +1,1 @@
+{"usernameTweet": "lazbiregekizi", "ID": "754070209967816704", "text": "Koruması olana kolaydır sokağa çık demesi! #SokağaSakınÇıkma", "url": "/lazbiregekizi/status/754070209967816704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:48:42", "is_reply": false, "is_retweet": false, "user_id": "714904172081115136"}

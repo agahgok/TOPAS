@@ -1,0 +1,1 @@
+{"usernameTweet": "Amahmut38", "ID": "754084242796183558", "text": "Tabut tabut al bayraklara sarılan şehitlerim gelirken niye milleti sokağa çağırmıyordunuz\n#SokağaSakınÇıkma", "url": "/Amahmut38/status/754084242796183558", "nbr_retweet": 2, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:44:28", "is_reply": false, "is_retweet": false, "user_id": "966394788"}

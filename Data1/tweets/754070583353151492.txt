@@ -1,0 +1,1 @@
+{"usernameTweet": "asugurpinar", "ID": "754070583353151492", "text": "# SokağaSakınÇıkma  soğukkanlılığınızı koruyun sokağa çıkmayın Mısırı hatırlayın", "url": "/asugurpinar/status/754070583353151492", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:11", "is_reply": false, "is_retweet": false, "user_id": "3661735875"}

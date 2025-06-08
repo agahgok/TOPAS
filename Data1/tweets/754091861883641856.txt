@@ -1,0 +1,1 @@
+{"usernameTweet": "tinaroje_", "ID": "754091861883641856", "text": "Oyuna gelme!! #SokağaSakınÇıkma", "url": "/tinaroje_/status/754091861883641856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:44", "is_reply": false, "is_retweet": false, "user_id": "2823160257"}

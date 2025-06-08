@@ -1,0 +1,1 @@
+{"usernameTweet": "buseertok4", "ID": "1282444658937933824", "text": "Darbe  yiye yiye bir hal oldum artık yeter kaldıramıyorum", "url": "/buseertok4/status/1282444658937933824", "nbr_retweet": 1, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-13 01:40:08", "is_reply": false, "is_retweet": false, "user_id": "1239585731296792584"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "maslanim", "ID": "754104101428924416", "text": "Bir sürü insana ateş ediyorlar. Dalgamı geçiyorsunuz. Fetoşcular allah belanızı versin #SokağaSakınÇıkma", "url": "/maslanim/status/754104101428924416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:03:23", "is_reply": false, "is_retweet": false, "user_id": "106407682"}

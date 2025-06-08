@@ -1,0 +1,1 @@
+{"usernameTweet": "emrahekmekci21", "ID": "754076000959533056", "text": "# SokağaSakınÇıkma  çık yada çıkma cok guzel tiyatro", "url": "/emrahekmekci21/status/754076000959533056", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:11:43", "is_reply": false, "is_retweet": false, "user_id": "569989040"}

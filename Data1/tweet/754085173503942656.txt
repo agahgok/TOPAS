@@ -1,0 +1,1 @@
+{"usernameTweet": "tufan_teksin", "ID": "754085173503942656", "text": "hayatımda gördüğüm en yüksek bütçeli senaryo #SokağaSakınÇıkma", "url": "/tufan_teksin/status/754085173503942656", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:10", "is_reply": false, "is_retweet": false, "user_id": "87826179"}

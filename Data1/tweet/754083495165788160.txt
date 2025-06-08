@@ -1,0 +1,1 @@
+{"usernameTweet": "55gehc", "ID": "754083495165788160", "text": "# SokağaSakınÇıkma  askerimizle karşı karşıya gelme.", "url": "/55gehc/status/754083495165788160", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:30", "is_reply": false, "is_retweet": false, "user_id": "547739983"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "serdarr_akinci", "ID": "754098720820584448", "text": "Halka çıkın ben geliyorum diyen reisiniz nerede?   #SokağaÇıkma   pic.twitter.com/2rrddlxqY6", "url": "/serdarr_akinci/status/754098720820584448", "nbr_retweet": 17, "nbr_favorite": 15, "nbr_reply": 3, "datetime": "2016-07-16 02:42:00", "is_reply": false, "is_retweet": false, "user_id": "2769231634"}

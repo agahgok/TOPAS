@@ -1,0 +1,1 @@
+{"usernameTweet": "SerdarA06", "ID": "754079246436282369", "text": "# SokağaSakınÇıkma   pic.twitter.com/FaWGlHRJ1f", "url": "/SerdarA06/status/754079246436282369", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:24:37", "is_reply": false, "is_retweet": false, "user_id": "720206108"}

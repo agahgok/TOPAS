@@ -1,0 +1,1 @@
+{"usernameTweet": "alikemal_shn61", "ID": "1188101284915752963", "text": "Okey", "url": "/alikemal_shn61/status/1188101284915752963", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2019-10-26 17:33:14", "is_reply": true, "is_retweet": false, "user_id": "896451067491360772"}

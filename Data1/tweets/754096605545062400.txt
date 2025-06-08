@@ -1,0 +1,1 @@
+{"usernameTweet": "CnsYldran", "ID": "754096605545062400", "text": "Gençler pokemon go oynamıyoruz karşınızdaki de roket takımı değil #SokağaSakınÇıkma", "url": "/CnsYldran/status/754096605545062400", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:33:35", "is_reply": false, "is_retweet": false, "user_id": "2253495386"}

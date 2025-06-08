@@ -1,0 +1,1 @@
+{"usernameTweet": "Mustafa15784083", "ID": "1282592515640758272", "text": "Darbe  mi ", "url": "/Mustafa15784083/status/1282592515640758272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 11:27:39", "is_reply": true, "is_retweet": false, "user_id": "1223135639765487630"}

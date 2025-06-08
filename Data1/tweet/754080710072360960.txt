@@ -1,0 +1,1 @@
+{"usernameTweet": "gzmzerenn", "ID": "754080710072360960", "text": "# SokağaSakınÇıkma  oyuna getiriliyoruz sakın buna inanma !!!", "url": "/gzmzerenn/status/754080710072360960", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:26", "is_reply": false, "is_retweet": false, "user_id": "734337348"}

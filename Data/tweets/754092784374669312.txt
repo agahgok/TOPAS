@@ -1,0 +1,1 @@
+{"usernameTweet": "ffundaa_aydn", "ID": "754092784374669312", "text": "# SokağaSakınÇıkma   #DarbeyeHayır   .", "url": "/ffundaa_aydn/status/754092784374669312", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:18:24", "is_reply": false, "is_retweet": false, "user_id": "210017543"}

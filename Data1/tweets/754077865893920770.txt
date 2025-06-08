@@ -1,0 +1,1 @@
+{"usernameTweet": "desertedjungle", "ID": "754077865893920770", "text": "# SokağaSakınÇıkma", "url": "/desertedjungle/status/754077865893920770", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:07", "is_reply": false, "is_retweet": false, "user_id": "3143837212"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bizzatbenkendim", "ID": "754083524878163968", "text": "# SokağaSakınÇıkma  cıları lanetliyorum hepiniz deşifre edilmeli bu ülkede iş dahi bulamamalısınız", "url": "/bizzatbenkendim/status/754083524878163968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:37", "is_reply": false, "is_retweet": false, "user_id": "441262110"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AtillaComert", "ID": "754076107599650816", "text": "ama sen yine de #SokağaÇıkma", "url": "/AtillaComert/status/754076107599650816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:08", "is_reply": true, "is_retweet": false, "user_id": "501639375"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ozerbiri", "ID": "754086196200996864", "text": "Bu erdoğan ne zaman herşey olacak ya herşey olmadan rahat etmeyecek gibi #SokağaSakınÇıkma", "url": "/ozerbiri/status/754086196200996864", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:52:14", "is_reply": false, "is_retweet": false, "user_id": "270991566"}

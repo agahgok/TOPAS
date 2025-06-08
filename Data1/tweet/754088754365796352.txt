@@ -1,0 +1,1 @@
+{"usernameTweet": "ZerRuhiye", "ID": "754088754365796352", "text": "Camide imamlar sokağa davet etmek için yoğun mesaide,onca şehit verdik bu kadar sela duymadık\n#SokağaSakınÇıkma", "url": "/ZerRuhiye/status/754088754365796352", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:02:23", "is_reply": false, "is_retweet": false, "user_id": "2435582355"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "taigaga_ASPRA", "ID": "1284362133078020096", "text": "入庫どころかその行き道でヤバそう", "url": "/taigaga_ASPRA/status/1284362133078020096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-18 08:39:29", "is_reply": true, "is_retweet": false, "user_id": "816607236365512704"}

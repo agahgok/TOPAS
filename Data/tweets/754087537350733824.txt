@@ -1,0 +1,1 @@
+{"usernameTweet": "ctb0101", "ID": "754087537350733824", "text": "Gecenin bu vaktinde ezan okunuyorsa .....\n#SokağaSakınÇıkma   pic.twitter.com/cuNwEjgnJG", "url": "/ctb0101/status/754087537350733824", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:33", "is_reply": false, "is_retweet": false, "user_id": "70658025"}

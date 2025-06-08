@@ -1,0 +1,1 @@
+{"usernameTweet": "Ms_LondonBaby", "ID": "754078623217442817", "text": "# SokağaSakınÇıkma", "url": "/Ms_LondonBaby/status/754078623217442817", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:08", "is_reply": false, "is_retweet": false, "user_id": "291725667"}

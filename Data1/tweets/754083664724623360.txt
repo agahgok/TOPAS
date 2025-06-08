@@ -1,0 +1,1 @@
+{"usernameTweet": "OzanTufanFC", "ID": "754083664724623360", "text": "Şuan Türkiye'de en çok izlenen tiyatro oynanıyor. Kendine darbe yap başkanlığı kap! #SokağaSakınÇıkma", "url": "/OzanTufanFC/status/754083664724623360", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:42:10", "is_reply": false, "is_retweet": false, "user_id": "262259557"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "MarlaSayko", "ID": "754089624033689605", "text": "Ölen asker olsaydı ne derdiler acaba #SokağaSakınÇıkma   pic.twitter.com/6j5cS6fHFT", "url": "/MarlaSayko/status/754089624033689605", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:51", "is_reply": false, "is_retweet": false, "user_id": "3482166258"}

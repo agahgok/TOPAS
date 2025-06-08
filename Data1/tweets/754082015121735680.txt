@@ -1,0 +1,1 @@
+{"usernameTweet": "tmlssss", "ID": "754082015121735680", "text": "Darbenin amacı halkı eve hapsedip heryeri ele geçirmek, burdakiler bunu bilmiyor mu?  #SokağaSakınÇıkma", "url": "/tmlssss/status/754082015121735680", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:37", "is_reply": false, "is_retweet": false, "user_id": "1400878250"}

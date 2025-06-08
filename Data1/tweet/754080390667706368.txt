@@ -1,0 +1,1 @@
+{"usernameTweet": "eyyucurhinn", "ID": "754080390667706368", "text": "ezan okunuyor camileri kışla gören bir lider için olağan bir durum.\n#sokağasakınçıkma \n#darbeyehayır", "url": "/eyyucurhinn/status/754080390667706368", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:29:09", "is_reply": false, "is_retweet": false, "user_id": "731739938"}

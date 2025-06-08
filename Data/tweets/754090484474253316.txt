@@ -1,0 +1,1 @@
+{"usernameTweet": "aaziz01GS", "ID": "754090484474253316", "text": "Sokaktayiz sokakta #SokağaSakınÇıkma", "url": "/aaziz01GS/status/754090484474253316", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:16", "is_reply": false, "is_retweet": false, "user_id": "296766004"}

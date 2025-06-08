@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafaydin5734", "ID": "754106924703051776", "text": "# SokağaÇıkma  vatanını sevmiyorsan çıkma zaten", "url": "/mustafaydin5734/status/754106924703051776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:14:36", "is_reply": false, "is_retweet": false, "user_id": "3774396081"}

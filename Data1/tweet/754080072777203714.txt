@@ -1,0 +1,1 @@
+{"usernameTweet": "AaaskMmm", "ID": "754080072777203714", "text": "Sakın çıkmayın ülkücü sloganı atan melih gökcegn oğlu saray eşrafı çıkan oyuna gelme türkiyem #SokağaSakınÇıkma", "url": "/AaaskMmm/status/754080072777203714", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:54", "is_reply": false, "is_retweet": false, "user_id": "4855230646"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "UzakYol61", "ID": "1281268140312342528", "text": "Amca gerçek  darbe  olsaydı şimdiki kadar ülkeye zarar vermezdi acaba yanılıyor muyum ", "url": "/UzakYol61/status/1281268140312342528", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 19:45:04", "is_reply": true, "is_retweet": false, "user_id": "738595335086346242"}

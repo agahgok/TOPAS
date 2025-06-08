@@ -1,0 +1,1 @@
+{"usernameTweet": "kucukuyuz", "ID": "754091468034347008", "text": "4 bomba 5 ezan-sela duydum oturduğum yerde çıkmayın sokaga ya #SokağaSakınÇıkma", "url": "/kucukuyuz/status/754091468034347008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:10", "is_reply": false, "is_retweet": false, "user_id": "2805568535"}

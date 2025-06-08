@@ -1,0 +1,1 @@
+{"usernameTweet": "b_darbe", "ID": "1282638074220908544", "text": "सुन्दर चित्र का प्रदर्शन", "url": "/b_darbe/status/1282638074220908544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 14:28:41", "is_reply": true, "is_retweet": false, "user_id": "1014796701993848832"}

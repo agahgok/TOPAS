@@ -1,0 +1,1 @@
+{"usernameTweet": "basakmtnnn", "ID": "754086150537637888", "text": "# SokağaSakınÇıkma  darbeye de diktatörlüğe de hayır", "url": "/basakmtnnn/status/754086150537637888", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:03", "is_reply": false, "is_retweet": false, "user_id": "3235799027"}

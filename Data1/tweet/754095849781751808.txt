@@ -1,0 +1,1 @@
+{"usernameTweet": "esrabilge2007", "ID": "754095849781751808", "text": "# SokağaSakınÇıkma  yahu işi osmanlının çöküşü ne getirdiler yuh", "url": "/esrabilge2007/status/754095849781751808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:30:35", "is_reply": false, "is_retweet": false, "user_id": "2355326195"}

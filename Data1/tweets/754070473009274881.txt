@@ -1,0 +1,1 @@
+{"usernameTweet": "KadirCakir", "ID": "754070473009274881", "text": "@ trt1  Uyududan gitti. #Turkey  #SokağaSakınÇıkma", "url": "/KadirCakir/status/754070473009274881", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:49:45", "is_reply": false, "is_retweet": false, "user_id": "71759632"}

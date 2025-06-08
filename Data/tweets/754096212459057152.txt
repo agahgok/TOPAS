@@ -1,0 +1,1 @@
+{"usernameTweet": "cinedem", "ID": "754096212459057152", "text": "# SokağaSakınÇıkma  sanki k.S. K göz göz maçı var izmir de.... Kornalar kornalar", "url": "/cinedem/status/754096212459057152", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:32:02", "is_reply": false, "is_retweet": false, "user_id": "189103271"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "toggo_tr", "ID": "754081864260943873", "text": "# SokağaSakınÇıkma  Bu durum ciddi gezi olaylarındaki gibi gaz bombaları yok silahla müdahale var", "url": "/toggo_tr/status/754081864260943873", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:01", "is_reply": false, "is_retweet": false, "user_id": "153077301"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "OzalTanis", "ID": "1281717500531609603", "text": "Darbe  bildirisi gibi olmuş..", "url": "/OzalTanis/status/1281717500531609603", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 01:30:39", "is_reply": true, "is_retweet": false, "user_id": "1255398489883893762"}

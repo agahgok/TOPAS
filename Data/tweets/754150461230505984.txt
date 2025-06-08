@@ -1,0 +1,1 @@
+{"usernameTweet": "zbkiraz", "ID": "754150461230505984", "text": "Allah belanızı versin şerefsizler #SokağaSakınÇıkma", "url": "/zbkiraz/status/754150461230505984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 06:07:36", "is_reply": false, "is_retweet": false, "user_id": "324855279"}

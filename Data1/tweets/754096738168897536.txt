@@ -1,0 +1,1 @@
+{"usernameTweet": "DenisAsil", "ID": "754096738168897536", "text": "Asker kışlasına, insanlar evine dönsün!  #SokağaSakınÇıkma", "url": "/DenisAsil/status/754096738168897536", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:34:07", "is_reply": false, "is_retweet": false, "user_id": "18863612"}

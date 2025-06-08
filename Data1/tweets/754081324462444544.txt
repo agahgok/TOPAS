@@ -1,0 +1,1 @@
+{"usernameTweet": "fikretkerttu", "ID": "754081324462444544", "text": "O kadar şehit oldu sokağa çıkmadınız şimdi mi çıkıyorsunuz?#SokağaSakınÇıkma  oyuna gelme", "url": "/fikretkerttu/status/754081324462444544", "nbr_retweet": 90, "nbr_favorite": 170, "nbr_reply": 7, "datetime": "2016-07-16 01:32:52", "is_reply": false, "is_retweet": false, "user_id": "2223796368"}

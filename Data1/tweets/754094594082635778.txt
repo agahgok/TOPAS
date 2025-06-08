@@ -1,0 +1,1 @@
+{"usernameTweet": "duyguboz11", "ID": "754094594082635778", "text": "# SokağaSakınÇıkma  oscar goes to....", "url": "/duyguboz11/status/754094594082635778", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:36", "is_reply": false, "is_retweet": false, "user_id": "1506820686"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "EmmiOsman", "ID": "754074003992698880", "text": "# SokağaSakınÇıkma \n\nBilal'i sokakta görmeden sokağa çıkmayın. Görseniz de çıkmayın kesin kaçıyordur.", "url": "/EmmiOsman/status/754074003992698880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:47", "is_reply": false, "is_retweet": false, "user_id": "3039398637"}

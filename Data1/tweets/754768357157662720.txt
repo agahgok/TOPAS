@@ -1,0 +1,1 @@
+{"usernameTweet": "diren_kendim", "ID": "754768357157662720", "text": "Seladan, korna sesinden, öggg geldi, yeter la yeterrr #SokağaSakınÇıkma", "url": "/diren_kendim/status/754768357157662720", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-17 23:02:53", "is_reply": false, "is_retweet": false, "user_id": "147852066"}

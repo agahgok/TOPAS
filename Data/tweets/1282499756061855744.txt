@@ -1,0 +1,1 @@
+{"usernameTweet": "CuriosidadPoli1", "ID": "1282499756061855744", "text": "https:// twitter.com/CuriosidadPoli 1/status/1282499467304996864?s=20   …", "url": "/CuriosidadPoli1/status/1282499756061855744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 05:19:04", "is_reply": true, "is_retweet": false, "user_id": "1200062296493580290"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ZeynepAlsancakk", "ID": "754103440939290624", "text": "Uçaklardan gelen seslerden millet ağlıyor bu ne hal amk #SokağaSakınÇıkma", "url": "/ZeynepAlsancakk/status/754103440939290624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:00:45", "is_reply": false, "is_retweet": false, "user_id": "161338234"}

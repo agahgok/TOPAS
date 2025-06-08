@@ -1,0 +1,1 @@
+{"usernameTweet": "gnciarz", "ID": "1282435222722805776", "text": "Sünepe sömürülmeye alışan insanlar  darbe  çıkarmaya çalışan insanları hiç anlamazlar çok da dın", "url": "/gnciarz/status/1282435222722805776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 01:02:38", "is_reply": false, "is_retweet": false, "user_id": "1155952999576920066"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kutsalittifak31", "ID": "1282017306198106113", "text": "Vatan Partisi iktidarını bile herhangi bir  darbe  hükümetine tercih ederim.", "url": "/kutsalittifak31/status/1282017306198106113", "nbr_retweet": 2, "nbr_favorite": 24, "nbr_reply": 4, "datetime": "2020-07-11 21:21:59", "is_reply": false, "is_retweet": false, "user_id": "880009423359553538"}

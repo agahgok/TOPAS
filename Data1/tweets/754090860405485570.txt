@@ -1,0 +1,1 @@
+{"usernameTweet": "yokbendegilim", "ID": "754090860405485570", "text": "# SokağaSakınÇıkma  camiden sokaga cik cagrisi var #Ankara  @batikentim pic.twitter.com/l618PmF19v", "url": "/yokbendegilim/status/754090860405485570", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:46", "is_reply": false, "is_retweet": false, "user_id": "712783580"}

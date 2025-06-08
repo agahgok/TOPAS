@@ -1,0 +1,1 @@
+{"usernameTweet": "Neragraffiti", "ID": "754077281727963137", "text": "# SokağaSakınÇıkma", "url": "/Neragraffiti/status/754077281727963137", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:16:48", "is_reply": false, "is_retweet": false, "user_id": "1676740374"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "merveyadadeniz", "ID": "754074741653274624", "text": "Ailenizi,sevdiklerinizi,sizi sevenleri düşünün! #SokağaSakınÇıkma", "url": "/merveyadadeniz/status/754074741653274624", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:06:43", "is_reply": false, "is_retweet": false, "user_id": "191043461"}

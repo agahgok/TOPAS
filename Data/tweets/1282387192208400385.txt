@@ -1,0 +1,1 @@
+{"usernameTweet": "sisyphus07", "ID": "1282387192208400385", "text": "Neymis durusunuz merak ediyorum.Once kontrollu  darbe  sonra  darbe  ne dediginiz belli degil.Bu mu durusunuz?", "url": "/sisyphus07/status/1282387192208400385", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 21:51:46", "is_reply": true, "is_retweet": false, "user_id": "187507139"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754093461595418624", "text": "Filmi bitirinde uyuyalım artık yarın iş var #SokağaSakınÇıkma", "url": "/mertbzky/status/754093461595418624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:06", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

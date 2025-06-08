@@ -1,0 +1,1 @@
+{"usernameTweet": "CemreMnv", "ID": "754079101686800384", "text": "ufff 2. bolum ne zaman? revolution, up next Battle of baskanlik #SokağaSakınÇıkma", "url": "/CemreMnv/status/754079101686800384", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2016-07-16 01:24:02", "is_reply": false, "is_retweet": false, "user_id": "194269266"}

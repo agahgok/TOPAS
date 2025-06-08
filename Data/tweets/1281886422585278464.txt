@@ -1,0 +1,1 @@
+{"usernameTweet": "chayneshi", "ID": "1281886422585278464", "text": "Yine beklemediğim yerden  darbe  almak istemiyorum  , o yüzden menş", "url": "/chayneshi/status/1281886422585278464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 12:41:54", "is_reply": true, "is_retweet": false, "user_id": "1242049892744343552"}

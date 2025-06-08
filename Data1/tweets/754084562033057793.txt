@@ -1,0 +1,1 @@
+{"usernameTweet": "demokrasisafi", "ID": "754084562033057793", "text": "Diyanet İşleri değil siyaset işleri.  #SokağaSakınÇıkma", "url": "/demokrasisafi/status/754084562033057793", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:44", "is_reply": false, "is_retweet": false, "user_id": "754081842345672704"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ugurmoralioglu", "ID": "754068566903775232", "text": "# sokağaçıkma", "url": "/ugurmoralioglu/status/754068566903775232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:42:10", "is_reply": false, "is_retweet": false, "user_id": "323128489"}

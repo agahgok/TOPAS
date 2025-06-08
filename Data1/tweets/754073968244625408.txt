@@ -1,0 +1,1 @@
+{"usernameTweet": "zllktlr", "ID": "754073968244625408", "text": "YÜCE ATATÜRK  #SokağaSakınÇıkma   pic.twitter.com/UNr9Gh7fjs", "url": "/zllktlr/status/754073968244625408", "nbr_retweet": 13, "nbr_favorite": 9, "nbr_reply": 1, "datetime": "2016-07-16 01:03:38", "is_reply": false, "is_retweet": false, "user_id": "345759584"}

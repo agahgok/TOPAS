@@ -1,0 +1,1 @@
+{"usernameTweet": "elifertrk12", "ID": "754073544494026752", "text": "Bana ne! Bana ne! Çıkmayacağım işte sokağa.... #SokağaSakınÇıkma", "url": "/elifertrk12/status/754073544494026752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:57", "is_reply": false, "is_retweet": false, "user_id": "497705357"}

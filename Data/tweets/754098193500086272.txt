@@ -1,0 +1,1 @@
+{"usernameTweet": "mugeeofficial", "ID": "754098193500086272", "text": "Uymayin su manyaga #darbe  #SokağaSakınÇıkma", "url": "/mugeeofficial/status/754098193500086272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:39:54", "is_reply": true, "is_retweet": false, "user_id": "167326320"}

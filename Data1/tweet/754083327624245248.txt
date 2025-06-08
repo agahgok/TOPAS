@@ -1,0 +1,1 @@
+{"usernameTweet": "kaankaya52", "ID": "754083327624245248", "text": "Written and directed by: R.T.E. #SokağaSakınÇıkma  #Ankara  TRT 1 Ordu Komutanı pic.twitter.com/MsL21rwmFc", "url": "/kaankaya52/status/754083327624245248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:50", "is_reply": false, "is_retweet": false, "user_id": "81842347"}

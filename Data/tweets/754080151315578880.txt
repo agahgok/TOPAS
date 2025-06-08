@@ -1,0 +1,1 @@
+{"usernameTweet": "didemklc76", "ID": "754080151315578880", "text": "Bu saatte ne ezanı??.. #SokağaSakınÇıkma", "url": "/didemklc76/status/754080151315578880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:12", "is_reply": false, "is_retweet": false, "user_id": "1477089931"}

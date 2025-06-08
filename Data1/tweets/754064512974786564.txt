@@ -1,0 +1,1 @@
+{"usernameTweet": "__fe28", "ID": "754064512974786564", "text": "Arkadaşlar kendinize dikkat edin.Sokağa çıkmayın  #SokağaSakınÇıkma", "url": "/__fe28/status/754064512974786564", "nbr_retweet": 12, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2016-07-16 00:26:04", "is_reply": false, "is_retweet": false, "user_id": "715251602655985665"}

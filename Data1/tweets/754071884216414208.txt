@@ -1,0 +1,1 @@
+{"usernameTweet": "momsenismylife", "ID": "754071884216414208", "text": "Kendini ateşe atma, sen onların umrunda değilsin! #SokağaSakınÇıkma", "url": "/momsenismylife/status/754071884216414208", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:55:21", "is_reply": false, "is_retweet": false, "user_id": "283634374"}

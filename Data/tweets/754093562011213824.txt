@@ -1,0 +1,1 @@
+{"usernameTweet": "ondercatalkaya", "ID": "754093562011213824", "text": "Yurtta Sulh Konseyi was here. (4 saatliğine) \n #SokağaSakınÇıkma", "url": "/ondercatalkaya/status/754093562011213824", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:30", "is_reply": false, "is_retweet": false, "user_id": "18447670"}

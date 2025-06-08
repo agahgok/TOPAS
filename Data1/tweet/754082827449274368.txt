@@ -1,0 +1,1 @@
+{"usernameTweet": "ZerRuhiye", "ID": "754082827449274368", "text": "# SokağaSakınÇıkma   pic.twitter.com/8CRkRptzCO", "url": "/ZerRuhiye/status/754082827449274368", "nbr_retweet": 3, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:38:50", "is_reply": false, "is_retweet": false, "user_id": "2435582355"}

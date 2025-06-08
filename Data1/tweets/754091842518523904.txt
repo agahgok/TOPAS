@@ -1,0 +1,1 @@
+{"usernameTweet": "altinaysayarer", "ID": "754091842518523904", "text": "Dini oyunlarınıza oyuncak ettiniz Allahınızdan bulun..!!! #SokağaSakınÇıkma", "url": "/altinaysayarer/status/754091842518523904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:40", "is_reply": false, "is_retweet": false, "user_id": "1622755592"}

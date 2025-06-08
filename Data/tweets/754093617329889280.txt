@@ -1,0 +1,1 @@
+{"usernameTweet": "smellslikesoul", "ID": "754093617329889280", "text": "# SokağaSakınÇıkma", "url": "/smellslikesoul/status/754093617329889280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:43", "is_reply": false, "is_retweet": false, "user_id": "3356517370"}

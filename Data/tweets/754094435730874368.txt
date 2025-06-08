@@ -1,0 +1,1 @@
+{"usernameTweet": "ersin_sevinc", "ID": "754094435730874368", "text": "# SokağaSakınÇıkma  %52 yi merak ediyordunuz kapak olsun", "url": "/ersin_sevinc/status/754094435730874368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:58", "is_reply": false, "is_retweet": false, "user_id": "118779664"}

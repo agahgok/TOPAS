@@ -1,0 +1,1 @@
+{"usernameTweet": "kamacyocovali", "ID": "1281632760311029760", "text": "Fetöcülerin hepsinin  darbe  olayından sonra malum partili kesilip, millete laf atması...", "url": "/kamacyocovali/status/1281632760311029760", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 19:53:56", "is_reply": false, "is_retweet": false, "user_id": "859098253320744961"}

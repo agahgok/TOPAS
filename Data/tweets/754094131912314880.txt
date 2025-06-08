@@ -1,0 +1,1 @@
+{"usernameTweet": "polenmart", "ID": "754094131912314880", "text": "# SokağaSakınÇıkma", "url": "/polenmart/status/754094131912314880", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:23:46", "is_reply": false, "is_retweet": false, "user_id": "166947160"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ikem_on", "ID": "754099391732981760", "text": "900 tane resmi sivil şehit verirken evinde MAKARNA YİYEN AK OROSPU cocukları şimdide #SokağaSakınÇıkma  sikmesinler.", "url": "/ikem_on/status/754099391732981760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:44:40", "is_reply": false, "is_retweet": false, "user_id": "2240348842"}

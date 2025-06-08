@@ -1,0 +1,1 @@
+{"usernameTweet": "starkkiz", "ID": "754080661984645121", "text": "Gezide sokağa çıkanlara neler yapıldı gördük biliyoruz. Niye çıksın ki millet sokağa. #SokağaSakınÇıkma", "url": "/starkkiz/status/754080661984645121", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:14", "is_reply": false, "is_retweet": false, "user_id": "187513595"}

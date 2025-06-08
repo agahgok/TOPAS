@@ -1,0 +1,1 @@
+{"usernameTweet": "soldevrimm", "ID": "754077986102575104", "text": "Yarın size 3 5 çapulcu dediğinde anlarsınız  #SokağaSakınÇıkma", "url": "/soldevrimm/status/754077986102575104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:36", "is_reply": false, "is_retweet": false, "user_id": "3315773224"}

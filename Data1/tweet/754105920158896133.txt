@@ -1,0 +1,1 @@
+{"usernameTweet": "dondurmalirmiks", "ID": "754105920158896133", "text": "Şu  #SokağaÇıkma  diyen aptallar!! Acaba ortalığın durulma sebebi şuan evlerde yatıyor olmanız mı?", "url": "/dondurmalirmiks/status/754105920158896133", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 03:10:36", "is_reply": false, "is_retweet": false, "user_id": "3775533141"}

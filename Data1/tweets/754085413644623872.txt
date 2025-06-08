@@ -1,0 +1,1 @@
+{"usernameTweet": "ntyzytn", "ID": "754085413644623872", "text": "Camilerden sokağa çıkın daveti geliyor! Oyuna gelme  #SokağaSakınÇıkma", "url": "/ntyzytn/status/754085413644623872", "nbr_retweet": 1, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:49:07", "is_reply": false, "is_retweet": false, "user_id": "2148636990"}

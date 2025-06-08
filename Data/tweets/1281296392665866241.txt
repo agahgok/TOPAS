@@ -1,0 +1,1 @@
+{"usernameTweet": "lucachangrettas", "ID": "1281296392665866241", "text": "Gene mi sarhoştun yoksa.  Darbe  gecesi yazdığın bir sürü twetler var ortalıkta.", "url": "/lucachangrettas/status/1281296392665866241", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 21:37:20", "is_reply": true, "is_retweet": false, "user_id": "1227492377100767232"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynepmenefse", "ID": "754080447970377728", "text": "Halk sokağa çıktı diye öldürten şimdi sokağa çıkın çağrısı yapıyor #SokağaSakınÇıkma", "url": "/zeynepmenefse/status/754080447970377728", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:29:23", "is_reply": false, "is_retweet": false, "user_id": "4091488097"}

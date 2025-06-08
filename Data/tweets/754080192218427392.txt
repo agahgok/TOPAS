@@ -1,0 +1,1 @@
+{"usernameTweet": "ask_basketbol", "ID": "754080192218427392", "text": "adam her yerden kazanıyor.hayırlı ollsun başkanlık #SokağaSakınÇıkma", "url": "/ask_basketbol/status/754080192218427392", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:22", "is_reply": false, "is_retweet": false, "user_id": "732267921762848768"}

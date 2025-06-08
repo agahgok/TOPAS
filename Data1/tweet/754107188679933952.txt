@@ -1,0 +1,1 @@
+{"usernameTweet": "rftarikan09", "ID": "754107188679933952", "text": "Milletin iradesi değil koyunların iradesi,mezardan oy verenlerin iradesi  #SokağaSakınÇıkma", "url": "/rftarikan09/status/754107188679933952", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 03:15:39", "is_reply": false, "is_retweet": false, "user_id": "2826520616"}

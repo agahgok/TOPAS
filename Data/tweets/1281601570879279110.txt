@@ -1,0 +1,1 @@
+{"usernameTweet": "worldwide1441", "ID": "1281601570879279110", "text": "İman - küfür muharebesinde, İmanın lehine büyük bir karar  Küfür surlarına büyük bir  darbe .", "url": "/worldwide1441/status/1281601570879279110", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 17:50:00", "is_reply": true, "is_retweet": false, "user_id": "1243070410104676352"}

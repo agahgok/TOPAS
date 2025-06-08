@@ -1,0 +1,1 @@
+{"usernameTweet": "Ademoglu272020", "ID": "1282089335353946112", "text": "Darbe  izledik. Tv de...\nDaha sonra bize  darbe  yapıldığını anladik.", "url": "/Ademoglu272020/status/1282089335353946112", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-12 02:08:12", "is_reply": true, "is_retweet": false, "user_id": "1213627630630498304"}

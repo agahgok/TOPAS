@@ -1,0 +1,1 @@
+{"usernameTweet": "xvatansever", "ID": "754088977485983744", "text": "Bu tag a gönül verenler sizide unutmayacağız bu akan kandan siz sorumlusunuz  #SokağaSakınÇıkma", "url": "/xvatansever/status/754088977485983744", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:03:17", "is_reply": false, "is_retweet": false, "user_id": "109235497"}

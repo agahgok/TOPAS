@@ -1,0 +1,1 @@
+{"usernameTweet": "aysenuurylmaz", "ID": "754093292422361088", "text": "Teşvik ediyorlar, gelmeyin oyunlara! #SokağaSakınÇıkma", "url": "/aysenuurylmaz/status/754093292422361088", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:20:25", "is_reply": false, "is_retweet": false, "user_id": "2180210756"}

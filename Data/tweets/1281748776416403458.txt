@@ -1,0 +1,1 @@
+{"usernameTweet": "emrebelli6", "ID": "1281748776416403458", "text": "Bu  darbe -seviciden başkasını bulamadınız mı?  pic.twitter.com/6tBtugdeL8", "url": "/emrebelli6/status/1281748776416403458", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 03:34:56", "is_reply": true, "is_retweet": false, "user_id": "1213582308512419840"}

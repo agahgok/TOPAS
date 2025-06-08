@@ -1,0 +1,1 @@
+{"usernameTweet": "gizxmzmx", "ID": "754073313169838084", "text": "# SokağaSakınÇıkma", "url": "/gizxmzmx/status/754073313169838084", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:02", "is_reply": false, "is_retweet": false, "user_id": "3404662461"}

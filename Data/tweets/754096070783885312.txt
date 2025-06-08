@@ -1,0 +1,1 @@
+{"usernameTweet": "tarcfez", "ID": "754096070783885312", "text": "Yazılanlar söylenenler ve görüntüler utanıyorum. #SokağaSakınÇıkma", "url": "/tarcfez/status/754096070783885312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:28", "is_reply": false, "is_retweet": false, "user_id": "2714335588"}

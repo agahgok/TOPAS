@@ -1,0 +1,1 @@
+{"usernameTweet": "BRCADDEM", "ID": "754080639725498368", "text": "Cumhurbaşkanı cep telefonu ile halka sokağa çıkın dedi yuh artık..Çıkana salak derim. #SokağaSakınÇıkma", "url": "/BRCADDEM/status/754080639725498368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:09", "is_reply": false, "is_retweet": false, "user_id": "2394587950"}

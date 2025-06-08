@@ -1,0 +1,1 @@
+{"usernameTweet": "idollica", "ID": "754084632128266240", "text": "# sokagasakincikma  bu kanlı oyuna alet olma!", "url": "/idollica/status/754084632128266240", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:46:01", "is_reply": false, "is_retweet": false, "user_id": "1710692467"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Alperkvi", "ID": "754090290319949829", "text": "Asker ölünce sokağa cıkmayanlar \nAskere karsı sokağa cıkıyor #SokağaSakınÇıkma", "url": "/Alperkvi/status/754090290319949829", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:08:30", "is_reply": false, "is_retweet": false, "user_id": "2287894982"}

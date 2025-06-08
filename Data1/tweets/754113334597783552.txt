@@ -1,0 +1,1 @@
+{"usernameTweet": "DAYI_BEY23", "ID": "754113334597783552", "text": "Biz buradayız siz nerdesiniz #SokağaSakınÇıkma   pic.twitter.com/cUlwn7e3ET", "url": "/DAYI_BEY23/status/754113334597783552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:40:04", "is_reply": false, "is_retweet": false, "user_id": "3718549517"}

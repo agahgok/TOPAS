@@ -1,0 +1,1 @@
+{"usernameTweet": "aslindatv", "ID": "754074284763426817", "text": "HANGİ TARAF OLDUĞUN FARKETMEZ #SokağaSakınÇıkma", "url": "/aslindatv/status/754074284763426817", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:54", "is_reply": false, "is_retweet": false, "user_id": "725446144629813249"}

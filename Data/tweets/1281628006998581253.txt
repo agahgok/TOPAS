@@ -1,0 +1,1 @@
+{"usernameTweet": "SibbelA", "ID": "1281628006998581253", "text": "Asıl mesele bu yalnız, Ortadokslara ağır  darbe", "url": "/SibbelA/status/1281628006998581253", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-10 19:35:03", "is_reply": true, "is_retweet": false, "user_id": "103532353"}

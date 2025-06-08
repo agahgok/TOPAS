@@ -1,0 +1,1 @@
+{"usernameTweet": "Kosoval56142550", "ID": "1281340156499419141", "text": "heee Haziran'da da  darbe  oluyordu ziyaaaa", "url": "/Kosoval56142550/status/1281340156499419141", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 00:31:14", "is_reply": true, "is_retweet": false, "user_id": "1065538853098934272"}

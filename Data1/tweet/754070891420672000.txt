@@ -1,0 +1,1 @@
+{"usernameTweet": "CaptainFutureee", "ID": "754070891420672000", "text": "# SokağaSakınÇıkma", "url": "/CaptainFutureee/status/754070891420672000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:25", "is_reply": false, "is_retweet": false, "user_id": "67993302"}

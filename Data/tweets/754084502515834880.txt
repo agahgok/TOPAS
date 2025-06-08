@@ -1,0 +1,1 @@
+{"usernameTweet": "yavuzs23", "ID": "754084502515834880", "text": "# SokağaSakınÇıkma  \nDua ey  https:// twitter.com/CemilTokpinar/ status/754058118296985600   …", "url": "/yavuzs23/status/754084502515834880", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:30", "is_reply": false, "is_retweet": false, "user_id": "2921371894"}

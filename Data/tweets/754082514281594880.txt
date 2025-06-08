@@ -1,0 +1,1 @@
+{"usernameTweet": "AnnthePutnam", "ID": "754082514281594880", "text": "Aklını kullan,oyuna gelme, canını sokakta bulmadın.  #SokağaSakınÇıkma", "url": "/AnnthePutnam/status/754082514281594880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:36", "is_reply": false, "is_retweet": false, "user_id": "223911582"}

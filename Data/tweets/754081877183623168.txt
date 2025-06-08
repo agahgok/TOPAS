@@ -1,0 +1,1 @@
+{"usernameTweet": "EmrecanKurt", "ID": "754081877183623168", "text": "Ne olursa olsun #SokağaSakınÇıkma  \n16.07.2016 #Turkiye  de #darbe  var", "url": "/EmrecanKurt/status/754081877183623168", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:04", "is_reply": false, "is_retweet": false, "user_id": "104029585"}

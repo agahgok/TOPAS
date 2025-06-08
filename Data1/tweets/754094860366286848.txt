@@ -1,0 +1,1 @@
+{"usernameTweet": "babaanne1", "ID": "754094860366286848", "text": "# SokağaSakınÇıkma  #DarbeyeHayır  \n\nşu dk. itibariyle darbe sona ermiş bulunuyor ezanlar susabilir", "url": "/babaanne1/status/754094860366286848", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 02:26:39", "is_reply": false, "is_retweet": false, "user_id": "446568085"}

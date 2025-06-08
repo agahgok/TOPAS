@@ -1,0 +1,1 @@
+{"usernameTweet": "irisderler", "ID": "754120374758084608", "text": "Hitler Almanyasında Hitlerin kendi kendine darbe teşebbüsü yaptırdığını unutmayalım #SokağaSakınÇıkma", "url": "/irisderler/status/754120374758084608", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:08:02", "is_reply": false, "is_retweet": false, "user_id": "1354044438"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hyndemir", "ID": "754088507149254656", "text": "Sokağa çıkan herkese saldıran polis herkesi sokağa çağırıyor #SokağaSakınÇıkma", "url": "/hyndemir/status/754088507149254656", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:01:25", "is_reply": false, "is_retweet": false, "user_id": "632353948"}

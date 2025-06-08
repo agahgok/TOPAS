@@ -1,0 +1,1 @@
+{"usernameTweet": "bilinseydi00", "ID": "754110421737607168", "text": "Herkes bunu bilsin halk askere darbe yaptı, zalimler ( fetullah) için yaşasın cehennem #SokağaSakınÇıkma", "url": "/bilinseydi00/status/754110421737607168", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:28:29", "is_reply": false, "is_retweet": false, "user_id": "3436963150"}

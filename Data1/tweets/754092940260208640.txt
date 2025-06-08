@@ -1,0 +1,1 @@
+{"usernameTweet": "mrschanelno5", "ID": "754092940260208640", "text": "Salın pokemonları askerin üstüne!  \n\n#SokağaSakınÇıkma  #DarbeyeHayir", "url": "/mrschanelno5/status/754092940260208640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:19:01", "is_reply": false, "is_retweet": false, "user_id": "109109909"}

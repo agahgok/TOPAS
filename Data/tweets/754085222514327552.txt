@@ -1,0 +1,1 @@
+{"usernameTweet": "sahrasln", "ID": "754085222514327552", "text": "Polisler de halkı destekliyor yazık.. Mehmetçiklerimiz şehit olduğunda nerdeydiniz ?? #SokağaSakınÇıkma", "url": "/sahrasln/status/754085222514327552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:21", "is_reply": false, "is_retweet": false, "user_id": "752958016501219328"}

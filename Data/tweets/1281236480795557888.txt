@@ -1,0 +1,1 @@
+{"usernameTweet": "sevimkayya", "ID": "1281236480795557888", "text": "Bu  darbe  ve contası sensin", "url": "/sevimkayya/status/1281236480795557888", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-09 17:39:15", "is_reply": false, "is_retweet": false, "user_id": "1259666047986262016"}

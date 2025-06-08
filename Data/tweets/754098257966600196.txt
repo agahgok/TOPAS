@@ -1,0 +1,1 @@
+{"usernameTweet": "Ecevit_ER", "ID": "754098257966600196", "text": "Seçimle gelen seçimle gider,\nHile ile gelen darbe ile gider..\n\nNe yazık ki!\n\n#SokağaSakınÇıkma", "url": "/Ecevit_ER/status/754098257966600196", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:40:09", "is_reply": false, "is_retweet": false, "user_id": "2844392078"}

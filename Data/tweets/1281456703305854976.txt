@@ -1,0 +1,1 @@
+{"usernameTweet": "NARANJERO75", "ID": "1281456703305854976", "text": "¡Órale! Armamos esa mesa... muy interesante el tema.", "url": "/NARANJERO75/status/1281456703305854976", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-10 08:14:21", "is_reply": true, "is_retweet": false, "user_id": "181765751"}

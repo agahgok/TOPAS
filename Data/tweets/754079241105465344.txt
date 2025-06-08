@@ -1,0 +1,1 @@
+{"usernameTweet": "Tavsangibifalan", "ID": "754079241105465344", "text": "Kendi evinde korumalarıyla oturan bi adamın sözüne kanıp da #SokağaSakınÇıkma", "url": "/Tavsangibifalan/status/754079241105465344", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 1, "datetime": "2016-07-16 01:24:35", "is_reply": false, "is_retweet": false, "user_id": "109588820"}

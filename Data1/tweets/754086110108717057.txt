@@ -1,0 +1,1 @@
+{"usernameTweet": "sunkeydan", "ID": "754086110108717057", "text": "Adamin elinde silah var ve sakasi yok lutfen  #SokağaSakınÇıkma", "url": "/sunkeydan/status/754086110108717057", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:51:53", "is_reply": false, "is_retweet": false, "user_id": "3986801423"}

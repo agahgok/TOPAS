@@ -1,0 +1,1 @@
+{"usernameTweet": "2023TRKY", "ID": "754093431375355904", "text": "# SokağaSakınÇıkma  tagı açan kepaze. Sanamı soracak bu millet. #HalkMeydanlarda", "url": "/2023TRKY/status/754093431375355904", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:59", "is_reply": false, "is_retweet": false, "user_id": "3056770733"}

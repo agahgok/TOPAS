@@ -1,0 +1,1 @@
+{"usernameTweet": "izmirZeybegi", "ID": "754093533154377728", "text": "# SokağaSakınÇıkma  #DarbeyeHayir  #galeyanagelme", "url": "/izmirZeybegi/status/754093533154377728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:23", "is_reply": false, "is_retweet": false, "user_id": "1882437680"}

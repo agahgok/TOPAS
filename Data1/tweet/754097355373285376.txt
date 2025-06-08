@@ -1,0 +1,1 @@
+{"usernameTweet": "Sul3ymanTorun", "ID": "754097355373285376", "text": "Ulan geri zekalılar adamın tiyatroya ihtiyacımı var.Ne kadar malsınız. #SokağaSakınÇıkma", "url": "/Sul3ymanTorun/status/754097355373285376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:36:34", "is_reply": false, "is_retweet": false, "user_id": "3291872607"}

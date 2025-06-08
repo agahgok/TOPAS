@@ -1,0 +1,1 @@
+{"usernameTweet": "furkansan34", "ID": "754088916467187712", "text": "17 polisimiz askerimiz tarafından şehit edildi bu mevzu uzar #SokağaSakınÇıkma", "url": "/furkansan34/status/754088916467187712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:02", "is_reply": false, "is_retweet": false, "user_id": "440751675"}

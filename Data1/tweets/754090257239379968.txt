@@ -1,0 +1,1 @@
+{"usernameTweet": "bizzatbenkendim", "ID": "754090257239379968", "text": "# SokağaSakınÇıkma   pic.twitter.com/hqAdwWa0AH", "url": "/bizzatbenkendim/status/754090257239379968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:22", "is_reply": false, "is_retweet": false, "user_id": "441262110"}

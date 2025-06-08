@@ -1,0 +1,1 @@
+{"usernameTweet": "Mna_nr", "ID": "754080383327670272", "text": "Ülke sizin gibi korkaklara kalmadı allaha şükür #SokağaSakınÇıkma", "url": "/Mna_nr/status/754080383327670272", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:29:08", "is_reply": false, "is_retweet": false, "user_id": "312059899"}

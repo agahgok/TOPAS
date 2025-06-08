@@ -1,0 +1,1 @@
+{"usernameTweet": "szgl525", "ID": "754078367129927680", "text": "Sizin çıkmanız daha iyi olur aslında malum tank, polis arabası parçalamakta üstünüze yok.  #SokağaSakınÇıkma", "url": "/szgl525/status/754078367129927680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:07", "is_reply": false, "is_retweet": false, "user_id": "4833605344"}

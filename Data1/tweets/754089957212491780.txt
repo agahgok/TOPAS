@@ -1,0 +1,1 @@
+{"usernameTweet": "atesclup", "ID": "754089957212491780", "text": "AA: Gölbaşı Özel Harekat Başkanlığı'nda 17 polis şehit oldu. #DarbeyeHayı  #SokağaSakınÇıkma", "url": "/atesclup/status/754089957212491780", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:07:10", "is_reply": false, "is_retweet": false, "user_id": "151444805"}

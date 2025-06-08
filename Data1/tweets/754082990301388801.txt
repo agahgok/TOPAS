@@ -1,0 +1,1 @@
+{"usernameTweet": "GGuler353", "ID": "754082990301388801", "text": "# SokağaSakınÇıkma", "url": "/GGuler353/status/754082990301388801", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:29", "is_reply": false, "is_retweet": false, "user_id": "1362830814"}

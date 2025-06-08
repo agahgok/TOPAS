@@ -1,0 +1,1 @@
+{"usernameTweet": "XIIHANKAN", "ID": "754071518976499713", "text": "# SokağaSakınÇıkma", "url": "/XIIHANKAN/status/754071518976499713", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:54", "is_reply": false, "is_retweet": false, "user_id": "104897744"}

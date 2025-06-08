@@ -1,0 +1,1 @@
+{"usernameTweet": "UsualSuspectKS", "ID": "754064407282520064", "text": "Öncelik Barış  #SokağaSakınÇıkma", "url": "/UsualSuspectKS/status/754064407282520064", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:25:39", "is_reply": false, "is_retweet": false, "user_id": "70990576"}

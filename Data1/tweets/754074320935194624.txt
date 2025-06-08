@@ -1,0 +1,1 @@
+{"usernameTweet": "kekobaci", "ID": "754074320935194624", "text": "Gezi parkı için sokağa çıktığımız da terörist olmuştuk ! #sokagacikma", "url": "/kekobaci/status/754074320935194624", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:05:02", "is_reply": false, "is_retweet": false, "user_id": "248417933"}

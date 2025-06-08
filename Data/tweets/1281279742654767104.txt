@@ -1,0 +1,1 @@
+{"usernameTweet": "adanaliethem", "ID": "1281279742654767104", "text": "Saraydaki ne para lazım.deprem afet  darbe  salgın hastalık Ibana para ister.vermezlerse ceza ile alır", "url": "/adanaliethem/status/1281279742654767104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 20:31:10", "is_reply": true, "is_retweet": false, "user_id": "842207437"}

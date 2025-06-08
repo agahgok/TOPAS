@@ -1,0 +1,1 @@
+{"usernameTweet": "EbruEyre", "ID": "754073382195437569", "text": "# SokağaSakınÇıkma \nBaşkomutan MUSTAFA KEMAL ATATÜRK tür sana ne oluyor?", "url": "/EbruEyre/status/754073382195437569", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:18", "is_reply": false, "is_retweet": false, "user_id": "3347706363"}

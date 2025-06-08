@@ -1,0 +1,1 @@
+{"usernameTweet": "hkngrl55", "ID": "754094932093177857", "text": "Tankın altında kalıp ezilen abimizin hesabını kim verecek?   #SokağaSakınÇıkma", "url": "/hkngrl55/status/754094932093177857", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:26:56", "is_reply": false, "is_retweet": false, "user_id": "253240739"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AtayBrnsel", "ID": "754084511554629633", "text": "Yazan Recep Tayyip Erdoğan \nYöneten Recep Tayyip Erdoğan \nOynayan Recep Tayyip Erdoğan #SokağaSakınÇıkma", "url": "/AtayBrnsel/status/754084511554629633", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:45:32", "is_reply": false, "is_retweet": false, "user_id": "366060934"}

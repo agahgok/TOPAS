@@ -1,0 +1,1 @@
+{"usernameTweet": "berfinbolkar62", "ID": "754080175969689603", "text": "Darbeye inanma\nBaşkanlik oyunu bu kanma\nTüm bu oyunlar biter sabaha\nAyıx ol #SokağaSakınÇıkma", "url": "/berfinbolkar62/status/754080175969689603", "nbr_retweet": 4, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:18", "is_reply": false, "is_retweet": false, "user_id": "2917922896"}

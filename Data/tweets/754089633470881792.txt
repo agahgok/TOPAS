@@ -1,0 +1,1 @@
+{"usernameTweet": "revolution0034", "ID": "754089633470881792", "text": "Evet gece bu saatte sela okuyorlar! #SokağaÇıkma   pic.twitter.com/TVnkIvchKR", "url": "/revolution0034/status/754089633470881792", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:53", "is_reply": false, "is_retweet": false, "user_id": "352212721"}

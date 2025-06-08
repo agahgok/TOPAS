@@ -1,0 +1,1 @@
+{"usernameTweet": "ArdaAguloglu", "ID": "754083515172589573", "text": "# SokağaSakınÇıkma  kendinize acımıyorsanız ailelerinize acıyın", "url": "/ArdaAguloglu/status/754083515172589573", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:34", "is_reply": false, "is_retweet": false, "user_id": "344900959"}

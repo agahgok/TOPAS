@@ -1,0 +1,1 @@
+{"usernameTweet": "BAltuntasoglu", "ID": "1282560470101233664", "text": "Günaydın Viking geçen hafta şer  darbe  yedi bu hafta toparlar mı acaba", "url": "/BAltuntasoglu/status/1282560470101233664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 09:20:19", "is_reply": true, "is_retweet": false, "user_id": "1016004284419330048"}

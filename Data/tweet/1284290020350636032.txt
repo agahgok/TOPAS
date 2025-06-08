@@ -1,0 +1,1 @@
+{"usernameTweet": "dabe_wgn", "ID": "1284290020350636032", "text": "って思って調べたら、2万台でいいのあるやん", "url": "/dabe_wgn/status/1284290020350636032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 03:52:56", "is_reply": false, "is_retweet": false, "user_id": "1082840784087334913"}

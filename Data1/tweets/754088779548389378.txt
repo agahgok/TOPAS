@@ -1,0 +1,1 @@
+{"usernameTweet": "zevzevkk", "ID": "754088779548389378", "text": "Önceden allah için ezan okunurdu şimdi kimin için okunuyo sokağa düşen cahiller  #SokağaSakınÇıkma", "url": "/zevzevkk/status/754088779548389378", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:29", "is_reply": false, "is_retweet": false, "user_id": "3050138561"}

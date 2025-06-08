@@ -1,0 +1,1 @@
+{"usernameTweet": "yedimsi", "ID": "754075353287651329", "text": "Biraz akıllı olun. Milletin oyununa gelip sokaklara dökülmeyin #SokağaSakınÇıkma", "url": "/yedimsi/status/754075353287651329", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:08", "is_reply": false, "is_retweet": false, "user_id": "598241643"}

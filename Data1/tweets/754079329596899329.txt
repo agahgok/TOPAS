@@ -1,0 +1,1 @@
+{"usernameTweet": "ismailvural13", "ID": "754079329596899329", "text": "Askerle halki karsi karsiya getirenler utansin bide sokaga meydana cikin diyolar #SokağaSakınÇıkma", "url": "/ismailvural13/status/754079329596899329", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:56", "is_reply": false, "is_retweet": false, "user_id": "875816480"}

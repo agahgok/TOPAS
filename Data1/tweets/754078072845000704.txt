@@ -1,0 +1,1 @@
+{"usernameTweet": "nl_acr", "ID": "754078072845000704", "text": "@ ntv  taksim deiidiğiniz yer izmir konak değil mi insanları taksimemi çekmeye çalışıyosunuz siz #sokağasakınçıkma", "url": "/nl_acr/status/754078072845000704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:57", "is_reply": false, "is_retweet": false, "user_id": "1851116438"}

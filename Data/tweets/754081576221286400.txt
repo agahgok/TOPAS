@@ -1,0 +1,1 @@
+{"usernameTweet": "AvAslihanipek", "ID": "754081576221286400", "text": "ezan okunuyor!Allah akıl fikir versin #sokağasakınçıkma", "url": "/AvAslihanipek/status/754081576221286400", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:33:52", "is_reply": false, "is_retweet": false, "user_id": "2873156750"}

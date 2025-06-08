@@ -1,0 +1,1 @@
+{"usernameTweet": "UnGulizar", "ID": "754097850879967232", "text": "# SokağaSakınÇıkma . Biz derdimizin dermanını sokakta değil seccade de arıyoruz. Rabbim ülkemize huzur versin.", "url": "/UnGulizar/status/754097850879967232", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:38:32", "is_reply": false, "is_retweet": false, "user_id": "3024580144"}

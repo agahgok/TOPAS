@@ -1,0 +1,1 @@
+{"usernameTweet": "ZerRuhiye", "ID": "754091404335443969", "text": "İmamların yoğun çabası muhtarları zora sokacak gibi halen Çağrı yapıyorlar\n#SokağaSakınÇıkma", "url": "/ZerRuhiye/status/754091404335443969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:55", "is_reply": false, "is_retweet": false, "user_id": "2435582355"}

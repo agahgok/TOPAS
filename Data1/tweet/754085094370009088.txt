@@ -1,0 +1,1 @@
+{"usernameTweet": "Tegabbi", "ID": "754085094370009088", "text": "# SokağaSakınÇıkma  #Ankara pic.twitter.com/3itxpZoDDH", "url": "/Tegabbi/status/754085094370009088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:51", "is_reply": false, "is_retweet": false, "user_id": "42650524"}

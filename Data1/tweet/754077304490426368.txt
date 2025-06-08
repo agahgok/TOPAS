@@ -1,0 +1,1 @@
+{"usernameTweet": "samirabeyrut", "ID": "754077304490426368", "text": "MUSTAFA KEMAL ATATÜRK e daha çok ihtiyaç duyuyoruz.\n\n #SokağaSakınÇıkma", "url": "/samirabeyrut/status/754077304490426368", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:16:54", "is_reply": false, "is_retweet": false, "user_id": "3314998918"}

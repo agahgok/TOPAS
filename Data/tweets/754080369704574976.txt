@@ -1,0 +1,1 @@
+{"usernameTweet": "buesraaguerel", "ID": "754080369704574976", "text": "Camilerden. #SokağaSakınÇıkma   https:// twitter.com/babiyasemim/st atus/754074387549159425   …", "url": "/buesraaguerel/status/754080369704574976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:04", "is_reply": false, "is_retweet": false, "user_id": "744205314086604801"}

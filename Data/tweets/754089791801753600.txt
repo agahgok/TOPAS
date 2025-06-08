@@ -1,0 +1,1 @@
+{"usernameTweet": "DagistanY", "ID": "754089791801753600", "text": "Şu andan itibaren Darbecilik oyunu bitmiştir. #SokağaSakınÇıkma", "url": "/DagistanY/status/754089791801753600", "nbr_retweet": 2, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:06:31", "is_reply": false, "is_retweet": false, "user_id": "263265183"}

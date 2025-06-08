@@ -1,0 +1,1 @@
+{"usernameTweet": "l_Milli_Hesap_l", "ID": "754077826865922048", "text": "# SokağaSakınÇıkma  <<<< Bu TAG`a darbeciler lehine yazan herkes kayit altina alinmali.", "url": "/l_Milli_Hesap_l/status/754077826865922048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:58", "is_reply": false, "is_retweet": false, "user_id": "217260222"}

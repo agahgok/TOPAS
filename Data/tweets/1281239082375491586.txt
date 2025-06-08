@@ -1,0 +1,1 @@
+{"usernameTweet": "LadyExpeliarmus", "ID": "1281239082375491586", "text": "Bosver canim anket yardirak son  darbe  Yallah bismillah deyip vurmamiz lazim ", "url": "/LadyExpeliarmus/status/1281239082375491586", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-09 17:49:36", "is_reply": true, "is_retweet": false, "user_id": "2257829778"}

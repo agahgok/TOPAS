@@ -1,0 +1,1 @@
+{"usernameTweet": "elfblgcc", "ID": "754096696448131072", "text": "# SokağaSakınÇıkma", "url": "/elfblgcc/status/754096696448131072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:33:57", "is_reply": false, "is_retweet": false, "user_id": "3030551495"}

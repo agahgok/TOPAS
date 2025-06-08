@@ -1,0 +1,1 @@
+{"usernameTweet": "tropicalices", "ID": "1282359021912174592", "text": "asiri psikolojik  darbe  icerdigi icin bakemonagatariyi biraktim baska bi animeye baslicam", "url": "/tropicalices/status/1282359021912174592", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2020-07-12 19:59:50", "is_reply": false, "is_retweet": false, "user_id": "1253294269265297409"}

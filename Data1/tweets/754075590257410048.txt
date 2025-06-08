@@ -1,0 +1,1 @@
+{"usernameTweet": "kiraz016", "ID": "754075590257410048", "text": "Oyuna gelme \nSokağa çıkma  #SokağaSakınÇıkma", "url": "/kiraz016/status/754075590257410048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:05", "is_reply": false, "is_retweet": false, "user_id": "3429482423"}

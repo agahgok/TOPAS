@@ -1,0 +1,1 @@
+{"usernameTweet": "fevziayr", "ID": "754101657529675777", "text": "İlk defa darbeye şahit oluyorum. Çok heyecanlı   #Türkiye  #RomantikDarbe  #SokağaSakınÇıkma", "url": "/fevziayr/status/754101657529675777", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:53:40", "is_reply": false, "is_retweet": false, "user_id": "1027321562"}

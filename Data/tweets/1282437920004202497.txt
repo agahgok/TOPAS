@@ -1,0 +1,1 @@
+{"usernameTweet": "bsra_gns45", "ID": "1282437920004202497", "text": "ama senin onu gel anlat kalbe yürüyor önünde büyük harbe  darbe  üstüne  darbe  uslanmıyoreee buuuuuğ", "url": "/bsra_gns45/status/1282437920004202497", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 01:13:21", "is_reply": true, "is_retweet": false, "user_id": "937668787175854080"}

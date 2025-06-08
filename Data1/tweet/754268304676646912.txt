@@ -1,0 +1,1 @@
+{"usernameTweet": "meri_merve", "ID": "754268304676646912", "text": "https://www. facebook.com/sureyya.ger/po sts/1231617993523185   …  #SokağaSakınÇıkma", "url": "/meri_merve/status/754268304676646912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 13:55:52", "is_reply": false, "is_retweet": false, "user_id": "95664151"}

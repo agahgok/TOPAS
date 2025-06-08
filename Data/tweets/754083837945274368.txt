@@ -1,0 +1,1 @@
+{"usernameTweet": "cihat_karakas", "ID": "754083837945274368", "text": "# SokağaSakınÇıkma  diyen avanaklar işte burası DADAŞLAR diyarı  pic.twitter.com/lh84qxmO8T", "url": "/cihat_karakas/status/754083837945274368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:51", "is_reply": false, "is_retweet": false, "user_id": "1538918299"}

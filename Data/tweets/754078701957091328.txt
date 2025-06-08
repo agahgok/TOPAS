@@ -1,0 +1,1 @@
+{"usernameTweet": "Ziyanur", "ID": "754078701957091328", "text": "# SokağaSakınÇıkma  Saat 01:15 Bağdat Caddesi\nKadıköy Kadıköylülüğünü gösteryor.  pic.twitter.com/rafoZ7GQnv", "url": "/Ziyanur/status/754078701957091328", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:22:27", "is_reply": false, "is_retweet": false, "user_id": "243665567"}

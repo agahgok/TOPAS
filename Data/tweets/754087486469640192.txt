@@ -1,0 +1,1 @@
+{"usernameTweet": "AslVulas", "ID": "754087486469640192", "text": "# SokağaSakınÇıkma  çünkü yufka yureklilerle çetin yollar aşilmaz imiş", "url": "/AslVulas/status/754087486469640192", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:57:21", "is_reply": false, "is_retweet": false, "user_id": "3030852296"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "morales_jeral", "ID": "1282310843930161152", "text": "El primer idiota  pic.twitter.com/O93YvEKX8q", "url": "/morales_jeral/status/1282310843930161152", "nbr_retweet": 3, "nbr_favorite": 65, "nbr_reply": 1, "datetime": "2020-07-12 16:48:24", "is_reply": true, "is_retweet": false, "user_id": "1058888122803609600"}

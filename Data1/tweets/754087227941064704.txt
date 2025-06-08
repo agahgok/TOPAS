@@ -1,0 +1,1 @@
+{"usernameTweet": "mvcttr", "ID": "754087227941064704", "text": "Gezide bk yiyen picler  #SokağaSakınÇıkma  diyo....", "url": "/mvcttr/status/754087227941064704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:20", "is_reply": false, "is_retweet": false, "user_id": "1606531850"}

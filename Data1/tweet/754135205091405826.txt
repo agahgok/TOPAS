@@ -1,0 +1,1 @@
+{"usernameTweet": "knnan34", "ID": "754135205091405826", "text": "Hepiniz kaybettiniz Allahın izni ile halk millet kazandı Allah hain lere fırsat vermesin amin. . . #SokağaÇıkma", "url": "/knnan34/status/754135205091405826", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:06:58", "is_reply": false, "is_retweet": false, "user_id": "3770444417"}

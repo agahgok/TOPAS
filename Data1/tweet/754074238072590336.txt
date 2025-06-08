@@ -1,0 +1,1 @@
+{"usernameTweet": "yamanzm", "ID": "754074238072590336", "text": "Biz sokağa çıktık terörist yaptınız şimdi milleti sokağa çağırıyorsunuz.\n#SokağaSakınÇıkma", "url": "/yamanzm/status/754074238072590336", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:04:43", "is_reply": false, "is_retweet": false, "user_id": "182035478"}

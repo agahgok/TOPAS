@@ -1,0 +1,1 @@
+{"usernameTweet": "alicandinc", "ID": "754094408463704064", "text": "Sandıkla gelen, sandıkla gider. #SokağaSakınÇıkma  #darbeyehayır", "url": "/alicandinc/status/754094408463704064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:24:52", "is_reply": false, "is_retweet": false, "user_id": "91857900"}

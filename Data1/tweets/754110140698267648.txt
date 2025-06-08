@@ -1,0 +1,1 @@
+{"usernameTweet": "furkantkdg", "ID": "754110140698267648", "text": "Oyuna gelmeyelim  #SokağaSakınÇıkma", "url": "/furkantkdg/status/754110140698267648", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:27:22", "is_reply": false, "is_retweet": false, "user_id": "4090891199"}

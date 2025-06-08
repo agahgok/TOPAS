@@ -1,0 +1,1 @@
+{"usernameTweet": "expectance__", "ID": "754084647173169152", "text": "Diyanet selayı da verdi ya buyrun cenaze namazına... #SokağaSakınÇıkma", "url": "/expectance__/status/754084647173169152", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:04", "is_reply": false, "is_retweet": false, "user_id": "306621698"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "EmreAvsarbeyi", "ID": "754117429547012096", "text": "# sokağaçıkma  \n https://www. facebook.com/muslu.apo.5/vi deos/10206802027074835/   …", "url": "/EmreAvsarbeyi/status/754117429547012096", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:56:20", "is_reply": false, "is_retweet": false, "user_id": "2342299226"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "eLcinozsusLu", "ID": "754074234243211265", "text": "Oyuna gelmeyin. #SokağaSakınÇıkma", "url": "/eLcinozsusLu/status/754074234243211265", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:04:42", "is_reply": false, "is_retweet": false, "user_id": "172296700"}

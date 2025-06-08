@@ -1,0 +1,1 @@
+{"usernameTweet": "seherazmn", "ID": "754092556997230592", "text": "Gezide sokağa çıkanlarla bu şerefli olay için sokağa çıkanları bir tutanlar  var ne komik. #SokağaSakınÇıkma", "url": "/seherazmn/status/754092556997230592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:30", "is_reply": false, "is_retweet": false, "user_id": "1559952259"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Nihat02620255", "ID": "1282309275524706304", "text": "15 Temmuz gecesi yapılan hain  darbe  girişimi konuşmaları pic.twitter.com/8KVc6u0gZ3", "url": "/Nihat02620255/status/1282309275524706304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 16:42:10", "is_reply": false, "is_retweet": false, "user_id": "1082728873618538499"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "serkanerl", "ID": "754120886089818112", "text": "Ben bu filimi biliyorum Persepolis #darbe  #sahtedarbe  #SokağaSakınÇıkma", "url": "/serkanerl/status/754120886089818112", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:10:04", "is_reply": false, "is_retweet": false, "user_id": "308469301"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "c_bmyfc", "ID": "1282089539318747136", "text": "darbe  bile oldu aq ne berbat alti yil", "url": "/c_bmyfc/status/1282089539318747136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 02:09:00", "is_reply": false, "is_retweet": false, "user_id": "1248946508604596225"}

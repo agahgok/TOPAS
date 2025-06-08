@@ -1,0 +1,1 @@
+{"usernameTweet": "suiceneris", "ID": "754091217219100672", "text": "Resmen tiyatro #SokağaSakınÇıkma", "url": "/suiceneris/status/754091217219100672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:11", "is_reply": false, "is_retweet": false, "user_id": "2961871289"}

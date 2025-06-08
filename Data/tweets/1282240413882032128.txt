@@ -1,0 +1,1 @@
+{"usernameTweet": "melossfacts", "ID": "1282240413882032128", "text": "cnm rte abiye kutlama dedğimiz şey mevlüt yaz cnm daha mantıklı ordan  darbe  yemeyelim", "url": "/melossfacts/status/1282240413882032128", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-12 12:08:32", "is_reply": true, "is_retweet": false, "user_id": "1231663468169834497"}

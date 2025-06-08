@@ -1,0 +1,1 @@
+{"usernameTweet": "ekin2002", "ID": "754097631094157313", "text": "Bir hışımla geldi geçti peh peh peh!\nO neydi öyle \"kalkışması ile yatışması bi oldu\"\n\n #SokağaSakınÇıkma", "url": "/ekin2002/status/754097631094157313", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:37:40", "is_reply": false, "is_retweet": false, "user_id": "183575499"}

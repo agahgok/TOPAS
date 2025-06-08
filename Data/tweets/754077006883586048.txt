@@ -1,0 +1,1 @@
+{"usernameTweet": "CagIaJK", "ID": "754077006883586048", "text": "Dakika da iki tane geçmeye başladı emniyet binasına doğru gidiyor bu seferde #SokağaSakınÇıkma  #ankara", "url": "/CagIaJK/status/754077006883586048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:15:43", "is_reply": false, "is_retweet": false, "user_id": "1539455227"}

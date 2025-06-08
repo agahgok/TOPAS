@@ -1,0 +1,1 @@
+{"usernameTweet": "nevzatsabri", "ID": "1281575334622658560", "text": "Vesayete son  darbe .. Hayırlı olsun inşallah..  pic.twitter.com/vX3E2VTYjg", "url": "/nevzatsabri/status/1281575334622658560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 16:05:44", "is_reply": false, "is_retweet": false, "user_id": "1563102535"}

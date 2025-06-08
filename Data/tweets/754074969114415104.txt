@@ -1,0 +1,1 @@
+{"usernameTweet": "iremarig", "ID": "754074969114415104", "text": "Millet bakkalları boşalttı #SokağaSakınÇıkma", "url": "/iremarig/status/754074969114415104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:37", "is_reply": false, "is_retweet": false, "user_id": "1487449670"}

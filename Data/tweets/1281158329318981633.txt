@@ -1,0 +1,1 @@
+{"usernameTweet": "muhendissen", "ID": "1281158329318981633", "text": "Akla küfürler savuran, kim bilir kalbe ne der?\nAşkta devrimi anlarım da,  darbe  neden?", "url": "/muhendissen/status/1281158329318981633", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 12:28:43", "is_reply": false, "is_retweet": false, "user_id": "3372560746"}

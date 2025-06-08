@@ -1,0 +1,1 @@
+{"usernameTweet": "mkdds06", "ID": "754094071648518146", "text": "# SokağaSakınÇıkma  herşeyi affedin ama vatana ihanet edeni asla affetmeyin. \nHz. Ali (ra)", "url": "/mkdds06/status/754094071648518146", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:31", "is_reply": false, "is_retweet": false, "user_id": "2480245524"}

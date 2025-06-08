@@ -1,0 +1,1 @@
+{"usernameTweet": "Tngz_Altai", "ID": "754076005409718272", "text": "Bu darbe değil tiyatro. Benzer bir gösteriyle Yeltsin demokrasi kahramanı olmuştu.  #SokağaSakınÇıkma", "url": "/Tngz_Altai/status/754076005409718272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:44", "is_reply": false, "is_retweet": false, "user_id": "1485958568"}

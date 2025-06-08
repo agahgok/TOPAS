@@ -1,0 +1,1 @@
+{"usernameTweet": "alpsyr01", "ID": "754096510225219584", "text": "Pankart bile hazırlanmış :) #DarbeyeHayır  #SokağaSakınÇıkma  #Turkey  #HalkMeydanlarda pic.twitter.com/klICuBx0Pg", "url": "/alpsyr01/status/754096510225219584", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:33:13", "is_reply": false, "is_retweet": false, "user_id": "2205127150"}

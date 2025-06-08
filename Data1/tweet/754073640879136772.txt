@@ -1,0 +1,1 @@
+{"usernameTweet": "flower_63111", "ID": "754073640879136772", "text": "Urfada polis aralarından tekbir sesleri yükseliyor  #SokağaSakınÇıkma", "url": "/flower_63111/status/754073640879136772", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:02:20", "is_reply": false, "is_retweet": false, "user_id": "600013849"}

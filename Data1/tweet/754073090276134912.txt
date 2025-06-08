@@ -1,0 +1,1 @@
+{"usernameTweet": "gizemibak", "ID": "754073090276134912", "text": "# SokağaSakınÇıkma  O kacacak olan sana olacak.", "url": "/gizemibak/status/754073090276134912", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:00:09", "is_reply": false, "is_retweet": false, "user_id": "287910614"}

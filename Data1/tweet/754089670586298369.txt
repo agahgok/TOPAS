@@ -1,0 +1,1 @@
+{"usernameTweet": "Malum_Pasa", "ID": "754089670586298369", "text": "Biz de İpsala Sınır Kapısına doğru mu koşsak? #SokağaSakınÇıkma", "url": "/Malum_Pasa/status/754089670586298369", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:02", "is_reply": false, "is_retweet": false, "user_id": "3238852877"}

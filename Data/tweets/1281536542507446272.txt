@@ -1,0 +1,1 @@
+{"usernameTweet": "ONDERGUZELARSLA", "ID": "1281536542507446272", "text": "Bu hafta cuma hutbesinin konusu 15 Temmuz hain  darbe  girişimi ve Fetö üzerine idi.", "url": "/ONDERGUZELARSLA/status/1281536542507446272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 13:31:36", "is_reply": false, "is_retweet": false, "user_id": "406352283"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "RMelskaa_1", "ID": "754072632887214081", "text": "Asker bizim askerimiz\n#SokağaSakınÇıkma", "url": "/RMelskaa_1/status/754072632887214081", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:20", "is_reply": false, "is_retweet": false, "user_id": "744907902289215488"}

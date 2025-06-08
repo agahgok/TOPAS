@@ -1,0 +1,1 @@
+{"usernameTweet": "PacoSan1219", "ID": "1281550968866451457", "text": "Uf no creo @EdgardBuscaglia  se le subió el humo solo el tiene razón lo demás no existe.", "url": "/PacoSan1219/status/1281550968866451457", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 14:28:55", "is_reply": true, "is_retweet": false, "user_id": "711349946662854657"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "elinbyrk", "ID": "754070542941061120", "text": "Telefonda görüntülü konuşma yapmak kolay çık meydana uzun adam görelim seni.   #SokağaSakınÇıkma", "url": "/elinbyrk/status/754070542941061120", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:50:02", "is_reply": false, "is_retweet": false, "user_id": "101768153"}

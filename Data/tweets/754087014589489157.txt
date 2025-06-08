@@ -1,0 +1,1 @@
+{"usernameTweet": "cemalixox", "ID": "754087014589489157", "text": "GÖRÜN DİN İLE HALKI NASIL KANDIRIYORLAR BİLADER. #SokağaSakınÇıkma", "url": "/cemalixox/status/754087014589489157", "nbr_retweet": 13, "nbr_favorite": 47, "nbr_reply": 2, "datetime": "2016-07-16 01:55:29", "is_reply": false, "is_retweet": false, "user_id": "422656848"}

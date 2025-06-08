@@ -1,0 +1,1 @@
+{"usernameTweet": "cembarkocu", "ID": "1282384517349744640", "text": "Darbe  yedik ajasdjsk #cembar", "url": "/cembarkocu/status/1282384517349744640", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 21:41:09", "is_reply": false, "is_retweet": false, "user_id": "1248319520126775299"}

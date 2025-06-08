@@ -1,0 +1,1 @@
+{"usernameTweet": "BroMerdini", "ID": "754080607244877824", "text": "# SokağaÇıkma", "url": "/BroMerdini/status/754080607244877824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:01", "is_reply": false, "is_retweet": false, "user_id": "426643631"}

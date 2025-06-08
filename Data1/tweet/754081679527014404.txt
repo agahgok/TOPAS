@@ -1,0 +1,1 @@
+{"usernameTweet": "mdtgny", "ID": "754081679527014404", "text": "# SokağaSakınÇıkma \n şişliden ezan ve silah sesleri geliyor", "url": "/mdtgny/status/754081679527014404", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:17", "is_reply": false, "is_retweet": false, "user_id": "115629405"}

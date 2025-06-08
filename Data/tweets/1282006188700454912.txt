@@ -1,0 +1,1 @@
+{"usernameTweet": "ataput31", "ID": "1282006188700454912", "text": "Kemalist  darbe  yapiyorum geldi miiiiii", "url": "/ataput31/status/1282006188700454912", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-11 20:37:48", "is_reply": false, "is_retweet": false, "user_id": "1241855531725225984"}

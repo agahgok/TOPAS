@@ -1,0 +1,1 @@
+{"usernameTweet": "cematabay34", "ID": "754087776472227840", "text": "Ramazan bitti gecenin bu vakti ezan okunuyor. Şehitler için böyle birşey oldu mu? #SokağaSakınÇıkma", "url": "/cematabay34/status/754087776472227840", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:58:30", "is_reply": false, "is_retweet": false, "user_id": "4909063865"}

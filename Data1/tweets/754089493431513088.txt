@@ -1,0 +1,1 @@
+{"usernameTweet": "mmehmetdanaci", "ID": "754089493431513088", "text": "Askerin emir komutayi kırıp polise teslim olduğu nerede görülmüş.. #SokağaSakınÇıkma", "url": "/mmehmetdanaci/status/754089493431513088", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:20", "is_reply": false, "is_retweet": false, "user_id": "408317566"}

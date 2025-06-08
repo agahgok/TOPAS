@@ -1,0 +1,1 @@
+{"usernameTweet": "ggeksi", "ID": "754402925229793280", "text": "@ emireksioglu  #SokağaSakınÇıkma", "url": "/ggeksi/status/754402925229793280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 22:50:48", "is_reply": false, "is_retweet": false, "user_id": "151851169"}

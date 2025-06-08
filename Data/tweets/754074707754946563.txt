@@ -1,0 +1,1 @@
+{"usernameTweet": "iilhan76", "ID": "754074707754946563", "text": "Kopruler açıldı havaalanından uçaklar kalkmaya başladı \nHalk darbeyi bastırıyor #SokağaSakınÇıkma", "url": "/iilhan76/status/754074707754946563", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:35", "is_reply": false, "is_retweet": false, "user_id": "151208035"}

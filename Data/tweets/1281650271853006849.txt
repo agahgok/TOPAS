@@ -1,0 +1,1 @@
+{"usernameTweet": "dlny07", "ID": "1281650271853006849", "text": "Devlwt sana  darbe  yapmış kardeş...", "url": "/dlny07/status/1281650271853006849", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 21:03:31", "is_reply": true, "is_retweet": false, "user_id": "1207948342464000000"}

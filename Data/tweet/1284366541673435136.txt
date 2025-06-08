@@ -1,0 +1,1 @@
+{"usernameTweet": "CANYUKSELCE", "ID": "1284366541673435136", "text": "Bu sözleşme ahlak ve aileye yapılan kara bir  darbe .", "url": "/CANYUKSELCE/status/1284366541673435136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:57:00", "is_reply": true, "is_retweet": false, "user_id": "1269470119761240065"}

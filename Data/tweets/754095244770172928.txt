@@ -1,0 +1,1 @@
+{"usernameTweet": "GulTarlabelen", "ID": "754095244770172928", "text": "Reyiz eee geldik meydanlara nerdesin mızıkçılık yapıyorsun ama #SokağaSakınÇıkma", "url": "/GulTarlabelen/status/754095244770172928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:11", "is_reply": false, "is_retweet": false, "user_id": "3437718321"}

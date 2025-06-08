@@ -1,0 +1,1 @@
+{"usernameTweet": "abkhazian_", "ID": "754093341499850752", "text": "@ fuatavni_f  şşşşşşşş olum,ihtilal var gibi #SokağaSakınÇıkma .", "url": "/abkhazian_/status/754093341499850752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:37", "is_reply": false, "is_retweet": false, "user_id": "719466153236697088"}

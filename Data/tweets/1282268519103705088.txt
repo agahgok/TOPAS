@@ -1,0 +1,1 @@
+{"usernameTweet": "Chetinceviz", "ID": "1282268519103705088", "text": "Tabi. O istihbarat olacak.  Darbe  neyim olursa kim haber verecek kız ", "url": "/Chetinceviz/status/1282268519103705088", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 2, "datetime": "2020-07-12 14:00:13", "is_reply": true, "is_retweet": false, "user_id": "1160141995756707840"}

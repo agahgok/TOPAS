@@ -1,0 +1,1 @@
+{"usernameTweet": "kancasurat", "ID": "754088256896139264", "text": "Tekrar tekrar sela okunuyor. Din istismarcilari! #SokağaSakınÇıkma", "url": "/kancasurat/status/754088256896139264", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:00:25", "is_reply": false, "is_retweet": false, "user_id": "3636702195"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "msafterglow", "ID": "1282483968202473474", "text": "neyse oldurmeyen  darbe  guclendirir\nicimden ne geliyorsa onu paylasicam", "url": "/msafterglow/status/1282483968202473474", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 04:16:20", "is_reply": true, "is_retweet": false, "user_id": "1166852847788527617"}

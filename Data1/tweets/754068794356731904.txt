@@ -1,0 +1,1 @@
+{"usernameTweet": "cagrasli", "ID": "754068794356731904", "text": "# sokagacikma", "url": "/cagrasli/status/754068794356731904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:43:05", "is_reply": false, "is_retweet": false, "user_id": "743852906605060096"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "denizggulr", "ID": "754084397255630850", "text": "Demokrasi şeytan işidir diyen imam demokrasiye sahip çıkın mı diyor? #SokağaSakınÇıkma", "url": "/denizggulr/status/754084397255630850", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:05", "is_reply": false, "is_retweet": false, "user_id": "4187509223"}

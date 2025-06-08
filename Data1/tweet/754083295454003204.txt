@@ -1,0 +1,1 @@
+{"usernameTweet": "MarlaSayko", "ID": "754083295454003204", "text": "# SokağaSakınÇıkma  ezan sesleri yükseldi", "url": "/MarlaSayko/status/754083295454003204", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:42", "is_reply": false, "is_retweet": false, "user_id": "3482166258"}

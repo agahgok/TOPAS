@@ -1,0 +1,1 @@
+{"usernameTweet": "HetmanOmeri", "ID": "754094720608075776", "text": "Yıllardır bu mazlum halklar,\nhep kişla ile camii arasina \ntalim edilmiştir.!\n#SokağaSakınÇıkma", "url": "/HetmanOmeri/status/754094720608075776", "nbr_retweet": 8, "nbr_favorite": 11, "nbr_reply": 0, "datetime": "2016-07-16 02:26:06", "is_reply": false, "is_retweet": false, "user_id": "227967967"}

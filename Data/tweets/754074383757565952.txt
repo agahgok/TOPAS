@@ -1,0 +1,1 @@
+{"usernameTweet": "ensar_ozcelik", "ID": "754074383757565952", "text": "Nerde bomba patlayacağı belirsiz milleti sokağa çağırıyolar #SokağaSakınÇıkma", "url": "/ensar_ozcelik/status/754074383757565952", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:17", "is_reply": false, "is_retweet": false, "user_id": "2268777556"}

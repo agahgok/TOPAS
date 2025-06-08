@@ -1,0 +1,1 @@
+{"usernameTweet": "sevimucman", "ID": "754083058169634816", "text": "Camilerle selalarla din somurusune dewam mi? #SokağaSakınÇıkma", "url": "/sevimucman/status/754083058169634816", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:39:45", "is_reply": false, "is_retweet": false, "user_id": "322343338"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hsynckr1903", "ID": "754069592092319748", "text": "# sokağaçıkma", "url": "/hsynckr1903/status/754069592092319748", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:46:15", "is_reply": false, "is_retweet": false, "user_id": "1586268427"}

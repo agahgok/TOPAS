@@ -1,0 +1,1 @@
+{"usernameTweet": "YakisikliPsiko", "ID": "754073896467312640", "text": "Seni sokağa davet edenler, sokağa çıkmadığı sürece #SokağaSakınÇıkma", "url": "/YakisikliPsiko/status/754073896467312640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:21", "is_reply": false, "is_retweet": false, "user_id": "185993242"}

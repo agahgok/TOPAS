@@ -1,0 +1,1 @@
+{"usernameTweet": "esrabilge2007", "ID": "754098844791631872", "text": "# SokağaSakınÇıkma  yaralananlar ve ölenler var alın milleti sokağa doktunuz görün ne ye mal oldugunu", "url": "/esrabilge2007/status/754098844791631872", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:42:29", "is_reply": false, "is_retweet": false, "user_id": "2355326195"}

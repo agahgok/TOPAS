@@ -1,0 +1,1 @@
+{"usernameTweet": "berkkurun", "ID": "754074044538814464", "text": "Bilal çıksın sokağa #SokağaSakınÇıkma", "url": "/berkkurun/status/754074044538814464", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:03:56", "is_reply": false, "is_retweet": false, "user_id": "3056812108"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "MGrlyen", "ID": "1282303737701314560", "text": "\"Eğer bir amaç uğruna ayakta değilseniz, her  darbe  sizi yere serebilir..\"\n\nMalcolm X", "url": "/MGrlyen/status/1282303737701314560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 16:20:09", "is_reply": false, "is_retweet": false, "user_id": "946314618368151552"}

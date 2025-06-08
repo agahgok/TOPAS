@@ -1,0 +1,1 @@
+{"usernameTweet": "burak05white", "ID": "754078871524343808", "text": "Saçmalamayın #Oyunagelme  #SokağaSakınÇıkma", "url": "/burak05white/status/754078871524343808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:07", "is_reply": false, "is_retweet": false, "user_id": "180007478"}

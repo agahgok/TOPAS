@@ -1,0 +1,1 @@
+{"usernameTweet": "ryaayazchn86", "ID": "754101353044144129", "text": "Millete çık diyorsun kendin telefondan bağlanıyorsun.\nÖnce kendin çıkacaksın\n#sokagacikma", "url": "/ryaayazchn86/status/754101353044144129", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:52:27", "is_reply": false, "is_retweet": false, "user_id": "2833534761"}

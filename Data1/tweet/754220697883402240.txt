@@ -1,0 +1,1 @@
+{"usernameTweet": "the__rainy", "ID": "754220697883402240", "text": "Hani sokağa çıkanlar vatan hainiydi?\n#SokağaSakınÇıkma \n#DarbeDeğilTiyatro pic.twitter.com/jazpZiUHFb", "url": "/the__rainy/status/754220697883402240", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 10:46:41", "is_reply": false, "is_retweet": false, "user_id": "402417474"}

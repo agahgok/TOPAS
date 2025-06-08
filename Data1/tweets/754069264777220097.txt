@@ -1,0 +1,1 @@
+{"usernameTweet": "DenizYahu", "ID": "754069264777220097", "text": "Cikmayin arkadaslar #SokağaSakınÇıkma", "url": "/DenizYahu/status/754069264777220097", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:44:57", "is_reply": false, "is_retweet": false, "user_id": "705481311520223232"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "srnarcn", "ID": "754273590061694976", "text": "# DarbeDegilTiyatro  #Sokagacikma", "url": "/srnarcn/status/754273590061694976", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 14:16:52", "is_reply": true, "is_retweet": false, "user_id": "2793902825"}

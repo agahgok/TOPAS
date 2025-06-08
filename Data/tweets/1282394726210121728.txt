@@ -1,0 +1,1 @@
+{"usernameTweet": "aksacli_ak", "ID": "1282394726210121728", "text": "Resmen  darbe  yapmış \nAma ben istisna olabilir im güzellik ", "url": "/aksacli_ak/status/1282394726210121728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:21:43", "is_reply": true, "is_retweet": false, "user_id": "921053497432387584"}

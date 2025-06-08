@@ -1,0 +1,1 @@
+{"usernameTweet": "selcukthesnake", "ID": "754066291053518848", "text": "Sokağa çıkmayın arkadaşlar. #sokagacikma  #SokağaSakınÇıkma", "url": "/selcukthesnake/status/754066291053518848", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:33:08", "is_reply": false, "is_retweet": false, "user_id": "293145738"}

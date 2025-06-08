@@ -1,0 +1,1 @@
+{"usernameTweet": "burakzm", "ID": "754097046550880256", "text": "# SokağaSakınÇıkma  Gene madur bir recep cikacak ve baskan olmak isteyecek olay bu kadar basit", "url": "/burakzm/status/754097046550880256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:35:21", "is_reply": false, "is_retweet": false, "user_id": "385940676"}

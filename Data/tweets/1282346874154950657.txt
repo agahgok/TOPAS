@@ -1,0 +1,1 @@
+{"usernameTweet": "Cemal_Coskun_", "ID": "1282346874154950657", "text": "AA'dan '15 Temmuz  Darbe  Yargılamaları' kitabı  http:// v.aa.com.tr/1907752  ", "url": "/Cemal_Coskun_/status/1282346874154950657", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 19:11:34", "is_reply": false, "is_retweet": false, "user_id": "172330844"}

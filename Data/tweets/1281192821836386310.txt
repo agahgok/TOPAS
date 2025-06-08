@@ -1,0 +1,1 @@
+{"usernameTweet": "herazuss", "ID": "1281192821836386310", "text": "salamıyorsun işte tanıdıklarından  darbe  yiyorsun. :(", "url": "/herazuss/status/1281192821836386310", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-09 14:45:46", "is_reply": true, "is_retweet": false, "user_id": "1242148984401080323"}

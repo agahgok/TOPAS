@@ -1,0 +1,1 @@
+{"usernameTweet": "Pespelin1907", "ID": "754072559575072769", "text": "Cumhurbaskaninin yuzunde korku mu vardi? \n\n#SokağaSakınÇıkma", "url": "/Pespelin1907/status/754072559575072769", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 00:58:02", "is_reply": false, "is_retweet": false, "user_id": "177331057"}

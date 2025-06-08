@@ -1,0 +1,1 @@
+{"usernameTweet": "twetimmgeldi", "ID": "754075176858451970", "text": "Salak olma Türkiye'm, siper ettirme kendini #SokağaSakınÇıkma", "url": "/twetimmgeldi/status/754075176858451970", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:26", "is_reply": false, "is_retweet": false, "user_id": "487799780"}

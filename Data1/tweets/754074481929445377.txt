@@ -1,0 +1,1 @@
+{"usernameTweet": "ismailvefa", "ID": "754074481929445377", "text": "# SokağaSakınÇıkma  diyenleri not alın. Bu darbe girişimi bittikten sonra onlardan da hesap sorulur.", "url": "/ismailvefa/status/754074481929445377", "nbr_retweet": 3, "nbr_favorite": 4, "nbr_reply": 2, "datetime": "2016-07-16 01:05:41", "is_reply": false, "is_retweet": false, "user_id": "270397826"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "naliintogran", "ID": "754084604701708289", "text": "Polis ve asker çatışmasının. .   #SokağaSakınÇıkma", "url": "/naliintogran/status/754084604701708289", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:54", "is_reply": false, "is_retweet": false, "user_id": "724343469058207746"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "LMuhafazakar", "ID": "1282026070192070656", "text": "Dr. Ahmet Araparı 15 temmuz  darbe  girişimi değildi,bölme ve parçalama girişimi idi diyor", "url": "/LMuhafazakar/status/1282026070192070656", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 21:56:48", "is_reply": true, "is_retweet": false, "user_id": "1234095373058297858"}

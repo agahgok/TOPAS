@@ -1,0 +1,1 @@
+{"usernameTweet": "frkn_1453", "ID": "754077676156092416", "text": "# SokağaSakınÇıkma  oyuna gelme sokağa çıkma", "url": "/frkn_1453/status/754077676156092416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:22", "is_reply": false, "is_retweet": false, "user_id": "771380533"}

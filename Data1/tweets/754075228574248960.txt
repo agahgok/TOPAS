@@ -1,0 +1,1 @@
+{"usernameTweet": "yasnurerkoc", "ID": "754075228574248960", "text": "Geleyana gelmeyin #SokağaSakınÇıkma", "url": "/yasnurerkoc/status/754075228574248960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:39", "is_reply": false, "is_retweet": false, "user_id": "717632953006866432"}

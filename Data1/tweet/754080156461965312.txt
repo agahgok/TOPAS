@@ -1,0 +1,1 @@
+{"usernameTweet": "defomelbarask", "ID": "754080156461965312", "text": "Utanmasalar sokağa çıkmayanları vatan haini ilan edecekler! #SokağaSakınÇıkma", "url": "/defomelbarask/status/754080156461965312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:14", "is_reply": false, "is_retweet": false, "user_id": "709039854055718912"}

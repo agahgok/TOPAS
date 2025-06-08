@@ -1,0 +1,1 @@
+{"usernameTweet": "Emmanue03400100", "ID": "1282430502063022080", "text": "Obligar dice?!!! ", "url": "/Emmanue03400100/status/1282430502063022080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 00:43:52", "is_reply": true, "is_retweet": false, "user_id": "972946277104197632"}

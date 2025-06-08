@@ -1,0 +1,1 @@
+{"usernameTweet": "raz_u", "ID": "754068132629741569", "text": "# sokagacikma  lütfen", "url": "/raz_u/status/754068132629741569", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:40:27", "is_reply": false, "is_retweet": false, "user_id": "56394959"}

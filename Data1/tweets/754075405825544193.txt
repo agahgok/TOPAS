@@ -1,0 +1,1 @@
+{"usernameTweet": "anlayvaz", "ID": "754075405825544193", "text": "# SokagaCikma", "url": "/anlayvaz/status/754075405825544193", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:21", "is_reply": false, "is_retweet": false, "user_id": "229663453"}

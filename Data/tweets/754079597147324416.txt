@@ -1,0 +1,1 @@
+{"usernameTweet": "ER_K4N_07", "ID": "754079597147324416", "text": "# SokağaSakınÇıkma \n Sokaktayız!!   \n#Ankara  \n Meydan inliyor ya Allah Bismillah Allahu Ekber", "url": "/ER_K4N_07/status/754079597147324416", "nbr_retweet": 4, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:26:00", "is_reply": false, "is_retweet": false, "user_id": "331692093"}

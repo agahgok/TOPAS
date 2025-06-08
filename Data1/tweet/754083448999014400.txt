@@ -1,0 +1,1 @@
+{"usernameTweet": "mause89034346", "ID": "754083448999014400", "text": "Bitmeyen sela yapmışlar?  #SokağaSakınÇıkma", "url": "/mause89034346/status/754083448999014400", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 01:41:19", "is_reply": false, "is_retweet": false, "user_id": "1473025878"}

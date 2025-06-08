@@ -1,0 +1,1 @@
+{"usernameTweet": "Meltem_Yusicim", "ID": "754067649089380354", "text": "# Sokağasakınçıkma", "url": "/Meltem_Yusicim/status/754067649089380354", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:38:32", "is_reply": false, "is_retweet": false, "user_id": "322125543"}

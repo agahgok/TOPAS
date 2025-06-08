@@ -1,0 +1,1 @@
+{"usernameTweet": "dryuur", "ID": "754101353610416129", "text": "Fox Tv yi açın Allah'ım sen bizi koru...  #SokağaSakınÇıkma", "url": "/dryuur/status/754101353610416129", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:52:27", "is_reply": false, "is_retweet": false, "user_id": "408847143"}

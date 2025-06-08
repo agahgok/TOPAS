@@ -1,0 +1,1 @@
+{"usernameTweet": "yas_oli20", "ID": "1282381321008971777", "text": "Barıştan Derya’ya  darbe  hahahahahhahaah #aycanyanac  #survivor2020", "url": "/yas_oli20/status/1282381321008971777", "nbr_retweet": 0, "nbr_favorite": 23, "nbr_reply": 1, "datetime": "2020-07-12 21:28:27", "is_reply": false, "is_retweet": false, "user_id": "1262136284686028801"}

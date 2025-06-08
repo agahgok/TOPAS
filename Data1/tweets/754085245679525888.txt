@@ -1,0 +1,1 @@
+{"usernameTweet": "endoplazmikretu", "ID": "754085245679525888", "text": "# SokağaSakınÇıkma  sakın sokağa çıkma telkin ol telkin et", "url": "/endoplazmikretu/status/754085245679525888", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:27", "is_reply": false, "is_retweet": false, "user_id": "597686306"}

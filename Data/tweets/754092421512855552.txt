@@ -1,0 +1,1 @@
+{"usernameTweet": "GolgeTam35", "ID": "754092421512855552", "text": "Bak  #SokağaSakınÇıkma  dedin sokaktayım darbecilere duyrulur ve gülüyorum halinize  pic.twitter.com/qFBqvTU4Uj", "url": "/GolgeTam35/status/754092421512855552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:58", "is_reply": false, "is_retweet": false, "user_id": "384470289"}

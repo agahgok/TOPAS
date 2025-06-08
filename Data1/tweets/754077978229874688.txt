@@ -1,0 +1,1 @@
+{"usernameTweet": "nry888", "ID": "754077978229874688", "text": "Halka kursu sikan Asker de asker değildir bunu bilin...! #SokağaSakınÇıkma", "url": "/nry888/status/754077978229874688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:19:34", "is_reply": false, "is_retweet": false, "user_id": "313245302"}

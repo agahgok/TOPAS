@@ -1,0 +1,1 @@
+{"usernameTweet": "dqnbzk", "ID": "754078745405849600", "text": "ASKER ŞEHİT olunca sokağa çıkmayanlar, ASKER'E karşı sokaktalar! #SokağaSakınÇıkma", "url": "/dqnbzk/status/754078745405849600", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:22:37", "is_reply": false, "is_retweet": false, "user_id": "4439312843"}

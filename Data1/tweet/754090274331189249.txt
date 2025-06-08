@@ -1,0 +1,1 @@
+{"usernameTweet": "samirabeyrut", "ID": "754090274331189249", "text": "Ezanı ve camileri alet etmeye devam ediyorlar\n\n #SokağaSakınÇıkma", "url": "/samirabeyrut/status/754090274331189249", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:08:26", "is_reply": false, "is_retweet": false, "user_id": "3314998918"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tasyatak", "ID": "754082025536122880", "text": "Bu ülkenin Cumhur'u sokağa çık demiş siz kimsinde  #SokağaSakınÇıkma  diyorsunuz bu millet sizimi dinler kalbinimi", "url": "/tasyatak/status/754082025536122880", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:35:39", "is_reply": false, "is_retweet": false, "user_id": "390365221"}

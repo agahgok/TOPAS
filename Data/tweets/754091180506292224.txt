@@ -1,0 +1,1 @@
+{"usernameTweet": "DagistanY", "ID": "754091180506292224", "text": "# SokağaSakınÇıkma  F-16, HELİKOPTERİ DÜŞÜRMÜŞ.Asker karşı ,Polis karşı ,Halk karşı ,Kim  bu darbeyi yapan !", "url": "/DagistanY/status/754091180506292224", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:02", "is_reply": false, "is_retweet": false, "user_id": "263265183"}

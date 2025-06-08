@@ -1,0 +1,1 @@
+{"usernameTweet": "ayten_avci", "ID": "754073161906397184", "text": "# SokağaÇıkma \n#OyunaGelme   http:// fb.me/2jGpw6pfN  ", "url": "/ayten_avci/status/754073161906397184", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:00:26", "is_reply": false, "is_retweet": false, "user_id": "500213439"}

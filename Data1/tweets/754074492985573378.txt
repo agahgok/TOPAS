@@ -1,0 +1,1 @@
+{"usernameTweet": "niyetszche", "ID": "754074492985573378", "text": "# SokağaSakınÇıkma  tayyibe kalkan olma", "url": "/niyetszche/status/754074492985573378", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:05:43", "is_reply": false, "is_retweet": false, "user_id": "3370535433"}

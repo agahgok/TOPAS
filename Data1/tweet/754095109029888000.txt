@@ -1,0 +1,1 @@
+{"usernameTweet": "tnrertrk", "ID": "754095109029888000", "text": "Askerle milleti karşı karşıya getirmek nedir ya.Oyuna gelmeyin, sokağa çıkmayın.\n#SokağaSakınÇıkma", "url": "/tnrertrk/status/754095109029888000", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:27:39", "is_reply": false, "is_retweet": false, "user_id": "3348621232"}

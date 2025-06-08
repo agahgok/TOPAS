@@ -1,0 +1,1 @@
+{"usernameTweet": "fadim_acar", "ID": "754088669452042240", "text": "# SokağaSakınÇıkma  en güvenli oldupun yer Evin", "url": "/fadim_acar/status/754088669452042240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:03", "is_reply": false, "is_retweet": false, "user_id": "373232936"}

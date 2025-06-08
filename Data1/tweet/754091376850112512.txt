@@ -1,0 +1,1 @@
+{"usernameTweet": "Moneydxpara", "ID": "754091376850112512", "text": "# SokağaSakınÇıkma  BURSA İL JANDARMA KOMUTANI DARBE GİRİŞİMINDEN TUTUKLANDI", "url": "/Moneydxpara/status/754091376850112512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:49", "is_reply": false, "is_retweet": false, "user_id": "197214360"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "geceminkisblog", "ID": "1282108224284565505", "text": "AHAHAHHAHA AQ OĞUZ  DARBE  YEDI", "url": "/geceminkisblog/status/1282108224284565505", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 03:23:15", "is_reply": true, "is_retweet": false, "user_id": "1159887920381288448"}

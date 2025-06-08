@@ -1,0 +1,1 @@
+{"usernameTweet": "EsinOthan", "ID": "754075083669442560", "text": "Saat 01:01 Pendik'te ezan okunuyor töbe töbe #SokağaSakınÇıkma", "url": "/EsinOthan/status/754075083669442560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:04", "is_reply": false, "is_retweet": false, "user_id": "354876071"}

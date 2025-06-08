@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkulerSevdam", "ID": "754067906103742464", "text": "Sokağa çıkanları eleştirenler, şimdi milleti sokaklara dökülmeye çağırıyor\n\n#SokağaÇıkma", "url": "/TurkulerSevdam/status/754067906103742464", "nbr_retweet": 9, "nbr_favorite": 25, "nbr_reply": 0, "datetime": "2016-07-16 00:39:33", "is_reply": false, "is_retweet": false, "user_id": "214293566"}

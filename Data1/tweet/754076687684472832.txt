@@ -1,0 +1,1 @@
+{"usernameTweet": "buse_afsar", "ID": "754076687684472832", "text": "# SokağaSakınÇıkma \nOyuna gelme canindan olma ulkeyi zenginlere péşgeş cekenlere canak tutut ma", "url": "/buse_afsar/status/754076687684472832", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:14:27", "is_reply": false, "is_retweet": false, "user_id": "2770847881"}

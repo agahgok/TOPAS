@@ -1,0 +1,1 @@
+{"usernameTweet": "burcuakku", "ID": "754099625347416064", "text": "hay Ağzına sağlık gezi olaylarındaki halk neydi demokrasi istedi çapulcu oldu !!! #SokağaBilalCiksin  #sokağaçıkma", "url": "/burcuakku/status/754099625347416064", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 2, "datetime": "2016-07-16 02:45:35", "is_reply": true, "is_retweet": false, "user_id": "168536510"}

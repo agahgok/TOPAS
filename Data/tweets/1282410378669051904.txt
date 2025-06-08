@@ -1,0 +1,1 @@
+{"usernameTweet": "EsmaAdvar19", "ID": "1282410378669051904", "text": "15 temmuz canlı yayın:  İlk tvitter etiketi Türkiye'de  darbe  olmaz  pic.twitter.com/TJbUXdmmVs", "url": "/EsmaAdvar19/status/1282410378669051904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:23:54", "is_reply": true, "is_retweet": false, "user_id": "994947503828226054"}

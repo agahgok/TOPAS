@@ -1,0 +1,1 @@
+{"usernameTweet": "yildirimeezgi", "ID": "754085275152908288", "text": "Selalardan sonra imamlar sokağa çıkın çağrısı yapıyorlar #SokağaSakınÇıkma", "url": "/yildirimeezgi/status/754085275152908288", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:34", "is_reply": false, "is_retweet": false, "user_id": "161675936"}

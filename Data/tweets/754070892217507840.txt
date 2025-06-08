@@ -1,0 +1,1 @@
+{"usernameTweet": "cantmzl", "ID": "754070892217507840", "text": "# SokağaSakınÇıkma", "url": "/cantmzl/status/754070892217507840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:25", "is_reply": false, "is_retweet": false, "user_id": "2544122977"}

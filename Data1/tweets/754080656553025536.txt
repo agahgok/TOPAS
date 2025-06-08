@@ -1,0 +1,1 @@
+{"usernameTweet": "marabaa", "ID": "754080656553025536", "text": "# SokağaSakınÇıkma", "url": "/marabaa/status/754080656553025536", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:13", "is_reply": false, "is_retweet": false, "user_id": "820272739"}

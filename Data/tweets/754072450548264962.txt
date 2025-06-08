@@ -1,0 +1,1 @@
+{"usernameTweet": "noblemurmur", "ID": "754072450548264962", "text": "Bilal baban çağırıyor #darbe   #SokağaSakınÇıkma   pic.twitter.com/23iyOqfbOB", "url": "/noblemurmur/status/754072450548264962", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:36", "is_reply": false, "is_retweet": false, "user_id": "1491666367"}

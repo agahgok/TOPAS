@@ -1,0 +1,1 @@
+{"usernameTweet": "mapuscucembarfc", "ID": "1282681184422633472", "text": "DİRECTİONER VE CBFC OLAN MİNNAK KALBİM  DARBE  ÜSTÜNE  DARBE  ALIYOR", "url": "/mapuscucembarfc/status/1282681184422633472", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 17:20:00", "is_reply": true, "is_retweet": false, "user_id": "1266710947537829894"}

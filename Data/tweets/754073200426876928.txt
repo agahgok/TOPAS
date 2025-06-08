@@ -1,0 +1,1 @@
+{"usernameTweet": "iilhan76", "ID": "754073200426876928", "text": "Yarin çık gec  olabilir şimdi sokaga #SokağaSakınÇıkma", "url": "/iilhan76/status/754073200426876928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:35", "is_reply": false, "is_retweet": false, "user_id": "151208035"}

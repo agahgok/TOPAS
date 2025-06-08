@@ -1,0 +1,1 @@
+{"usernameTweet": "hcbrsy", "ID": "1282318040722530305", "text": "vallao milet iyice burnundan solumaya başladı, yalandan  darbe  şeyiyle sokağa yalaka salmaya benzemez o işler,", "url": "/hcbrsy/status/1282318040722530305", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 17:16:59", "is_reply": true, "is_retweet": false, "user_id": "308434494"}

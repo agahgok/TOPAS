@@ -1,0 +1,1 @@
+{"usernameTweet": "dayxone", "ID": "1281480903672451072", "text": "Bir uyuduk uyandigimizda cemnisciler pert olmus nisabolukbasi insta hesabina da  darbe  olmus te allam ya", "url": "/dayxone/status/1281480903672451072", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 09:50:30", "is_reply": false, "is_retweet": false, "user_id": "830786662305234945"}

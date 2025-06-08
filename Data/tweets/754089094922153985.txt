@@ -1,0 +1,1 @@
+{"usernameTweet": "litailer", "ID": "754089094922153985", "text": "Mecliste alkis tutuluyo halk sokakta #SokağaSakınÇıkma", "url": "/litailer/status/754089094922153985", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:45", "is_reply": false, "is_retweet": false, "user_id": "146928755"}

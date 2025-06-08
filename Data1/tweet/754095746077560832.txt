@@ -1,0 +1,1 @@
+{"usernameTweet": "efulim53", "ID": "754095746077560832", "text": "Halkı sokağa çağıran RTE neden sokakta değil? Ya da nerede olduğunu bilen var mı? #SokağaÇıkma", "url": "/efulim53/status/754095746077560832", "nbr_retweet": 4, "nbr_favorite": 15, "nbr_reply": 1, "datetime": "2016-07-16 02:30:10", "is_reply": false, "is_retweet": false, "user_id": "184143847"}

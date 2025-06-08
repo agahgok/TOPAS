@@ -1,0 +1,1 @@
+{"usernameTweet": "juanroliva58", "ID": "1282398056374251523", "text": "Pe nde ja", "url": "/juanroliva58/status/1282398056374251523", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:34:57", "is_reply": true, "is_retweet": false, "user_id": "2469717043"}

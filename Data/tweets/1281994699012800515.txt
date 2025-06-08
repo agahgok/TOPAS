@@ -1,0 +1,1 @@
+{"usernameTweet": "mehdikocakaya", "ID": "1281994699012800515", "text": "Tek yaptıkları piyasaya  darbe  vurmak, döviz kuru dalgalandırmak, sazanlara yem atmak", "url": "/mehdikocakaya/status/1281994699012800515", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 19:52:09", "is_reply": true, "is_retweet": false, "user_id": "2258933839"}

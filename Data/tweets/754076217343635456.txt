@@ -1,0 +1,1 @@
+{"usernameTweet": "elinbyrk", "ID": "754076217343635456", "text": "Siz kimi kime düşürmeye çalışıyorsunuz akıllı olun düşmeyin artık bu oyunlara  #SokağaSakınÇıkma", "url": "/elinbyrk/status/754076217343635456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:12:34", "is_reply": false, "is_retweet": false, "user_id": "101768153"}

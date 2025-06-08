@@ -1,0 +1,1 @@
+{"usernameTweet": "35oykuerkrn35", "ID": "754086691309248513", "text": "# SokağaSakınÇıkma  15. sela ak partinin selası okunuyo gibi.", "url": "/35oykuerkrn35/status/754086691309248513", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:12", "is_reply": false, "is_retweet": false, "user_id": "3382016655"}

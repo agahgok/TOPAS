@@ -1,0 +1,1 @@
+{"usernameTweet": "fikrisinan", "ID": "754084680186683393", "text": "# SokağaSakınÇıkma  %49,5", "url": "/fikrisinan/status/754084680186683393", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:12", "is_reply": false, "is_retweet": false, "user_id": "1303661042"}

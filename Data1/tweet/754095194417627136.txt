@@ -1,0 +1,1 @@
+{"usernameTweet": "hikmetbayram", "ID": "754095194417627136", "text": "Üç ağaç için değil Türkiye için bu millet ayakta  #SokağaSakınÇıkma", "url": "/hikmetbayram/status/754095194417627136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:59", "is_reply": false, "is_retweet": false, "user_id": "256145251"}

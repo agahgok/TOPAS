@@ -1,0 +1,1 @@
+{"usernameTweet": "AliD78320499", "ID": "1282140041670733825", "text": "He yahu. Size  darbe  olsun diye’de yaptık", "url": "/AliD78320499/status/1282140041670733825", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 05:29:41", "is_reply": true, "is_retweet": false, "user_id": "498782729"}

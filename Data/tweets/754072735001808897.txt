@@ -1,0 +1,1 @@
+{"usernameTweet": "hakankytmz", "ID": "754072735001808897", "text": "# SokağaSakınÇıkma  \nSOKAĞA ÇIKINNNN DEMOKRASİ İÇİN VATAN İÇİN İSTİKLAL İÇİN SOKAĞAAA ÇIKIN.....", "url": "/hakankytmz/status/754072735001808897", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:44", "is_reply": false, "is_retweet": false, "user_id": "1479339266"}

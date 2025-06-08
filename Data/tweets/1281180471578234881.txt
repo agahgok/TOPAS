@@ -1,0 +1,1 @@
+{"usernameTweet": "hellomyaliennn", "ID": "1281180471578234881", "text": "şok oldum resmen ya sjzbsjjs bu yediğimiz ilk  darbe  de değil üstelik", "url": "/hellomyaliennn/status/1281180471578234881", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 13:56:42", "is_reply": true, "is_retweet": false, "user_id": "1220419102453440512"}

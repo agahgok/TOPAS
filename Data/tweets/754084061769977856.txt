@@ -1,0 +1,1 @@
+{"usernameTweet": "mavikam", "ID": "754084061769977856", "text": "megafonlardan anonslar yuh artık #SokağaSakınÇıkma", "url": "/mavikam/status/754084061769977856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:45", "is_reply": false, "is_retweet": false, "user_id": "161782233"}

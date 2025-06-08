@@ -1,0 +1,1 @@
+{"usernameTweet": "wersay13", "ID": "754083699373768708", "text": "Peki RTE de sokağa çıkacak mı #SokağaSakınÇıkma", "url": "/wersay13/status/754083699373768708", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:18", "is_reply": false, "is_retweet": false, "user_id": "747892811073208320"}

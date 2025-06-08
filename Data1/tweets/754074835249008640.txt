@@ -1,0 +1,1 @@
+{"usernameTweet": "rotasizbiri", "ID": "754074835249008640", "text": "SOKAĞA ÇIKAN GÖT KILIDIR KİMVURDUYA GİTME #SOKAĞASAKINÇIKMA", "url": "/rotasizbiri/status/754074835249008640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:05", "is_reply": false, "is_retweet": false, "user_id": "4227875352"}

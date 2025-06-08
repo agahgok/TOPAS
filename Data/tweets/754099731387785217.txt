@@ -1,0 +1,1 @@
+{"usernameTweet": "elusshh", "ID": "754099731387785217", "text": "sivil halka ateş açılıyor  #SokağaÇıkma", "url": "/elusshh/status/754099731387785217", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:46:01", "is_reply": false, "is_retweet": false, "user_id": "392743932"}

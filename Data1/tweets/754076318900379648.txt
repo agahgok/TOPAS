@@ -1,0 +1,1 @@
+{"usernameTweet": "19husii05", "ID": "754076318900379648", "text": "# SokağaSakınÇıkma  gezi de sokağa çıkmayın diye feryat edenler şimdi insanları sokağa davet ediyor", "url": "/19husii05/status/754076318900379648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:59", "is_reply": false, "is_retweet": false, "user_id": "145593375"}

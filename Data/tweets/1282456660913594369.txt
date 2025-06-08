@@ -1,0 +1,1 @@
+{"usernameTweet": "MarioPrezCrdob1", "ID": "1282456660913594369", "text": "Otro “Harvey” de la 4T ", "url": "/MarioPrezCrdob1/status/1282456660913594369", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 02:27:49", "is_reply": true, "is_retweet": false, "user_id": "1249875357454544896"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kamaciartunc", "ID": "754077153617117184", "text": "Guzel senaryo donuyor. #SokağaSakınÇıkma", "url": "/kamaciartunc/status/754077153617117184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:18", "is_reply": false, "is_retweet": false, "user_id": "1180008854"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ozturk280178", "ID": "1281958530334052352", "text": "Darbe  ve KHK lı, ikisi bir cümle içine hiç yakışmıyor. DarbeyeLanet KHKlıyaAdalet", "url": "/ozturk280178/status/1281958530334052352", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 17:28:25", "is_reply": false, "is_retweet": false, "user_id": "782696890391334912"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet_dde", "ID": "754090353926479874", "text": "# SokağaSakınÇıkma  siz anca ülkeyi karıştırmak için çıkarsınız sokağa", "url": "/mehmet_dde/status/754090353926479874", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:45", "is_reply": false, "is_retweet": false, "user_id": "1248163741"}

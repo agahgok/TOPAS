@@ -1,0 +1,1 @@
+{"usernameTweet": "SEZAK_sezak", "ID": "755137358429876224", "text": "Çıkmayın malak gibi yatın, biz yeteriz inşallah temelli çıkamazsınız  #SokağaSakınÇıkma", "url": "/SEZAK_sezak/status/755137358429876224", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-18 23:29:10", "is_reply": false, "is_retweet": false, "user_id": "1403298630"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "1senacelik", "ID": "754082700881952768", "text": "Kafanı kullan #SokağaSakınÇıkma", "url": "/1senacelik/status/754082700881952768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:20", "is_reply": false, "is_retweet": false, "user_id": "3642836542"}

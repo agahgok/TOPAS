@@ -1,0 +1,1 @@
+{"usernameTweet": "_yedina_", "ID": "754107274352791552", "text": "# SokağaÇıkma  diyenlerin yüzü yok evet sokağa çıkmaya!", "url": "/_yedina_/status/754107274352791552", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:15:59", "is_reply": false, "is_retweet": false, "user_id": "229090801"}

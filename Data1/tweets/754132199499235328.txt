@@ -1,0 +1,1 @@
+{"usernameTweet": "MertcanKavak1", "ID": "754132199499235328", "text": "Kendi askerine, Türk askerine karşı çıkanlardır sokağa çıkanlar. Yazıklar olsun..\n#sokağaçıkma", "url": "/MertcanKavak1/status/754132199499235328", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 04:55:02", "is_reply": false, "is_retweet": false, "user_id": "4895216559"}

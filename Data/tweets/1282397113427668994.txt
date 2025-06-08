@@ -1,0 +1,1 @@
+{"usernameTweet": "yilmazardaa", "ID": "1282397113427668994", "text": "Parçaların dökülecek, azalacaksın lakin sana vurulan her  darbe  seni sen yapacak", "url": "/yilmazardaa/status/1282397113427668994", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 22:31:12", "is_reply": false, "is_retweet": false, "user_id": "170043939"}

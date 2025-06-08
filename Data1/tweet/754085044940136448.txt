@@ -1,0 +1,1 @@
+{"usernameTweet": "___muHEn", "ID": "754085044940136448", "text": "Burdaki camiden şiki şiki baba caliyo lan  #SokağaSakınÇıkma", "url": "/___muHEn/status/754085044940136448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:39", "is_reply": false, "is_retweet": false, "user_id": "83339731"}

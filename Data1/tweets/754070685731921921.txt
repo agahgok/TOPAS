@@ -1,0 +1,1 @@
+{"usernameTweet": "denizakturk06", "ID": "754070685731921921", "text": "Canını ve vatanını seviyorsan #SokağaSakınÇıkma", "url": "/denizakturk06/status/754070685731921921", "nbr_retweet": 3, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:50:36", "is_reply": false, "is_retweet": false, "user_id": "2842876462"}

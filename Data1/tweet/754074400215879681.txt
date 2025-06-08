@@ -1,0 +1,1 @@
+{"usernameTweet": "efenin_teyzesi", "ID": "754074400215879681", "text": "Hiçbir diktatör iç savaş çıkarmadan gitmez.. -Lenin\n#SokağaSakınÇıkma", "url": "/efenin_teyzesi/status/754074400215879681", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:05:21", "is_reply": false, "is_retweet": false, "user_id": "319820823"}

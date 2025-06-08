@@ -1,0 +1,1 @@
+{"usernameTweet": "ebxxde", "ID": "754077175830175744", "text": "SOKAĞA ÇIKMA, OYUNA GELME. #SokağaSakınÇıkma", "url": "/ebxxde/status/754077175830175744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:23", "is_reply": false, "is_retweet": false, "user_id": "2764209127"}

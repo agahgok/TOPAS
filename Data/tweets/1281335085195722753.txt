@@ -1,0 +1,1 @@
+{"usernameTweet": "ysnsyr_", "ID": "1281335085195722753", "text": "Nijerya’da  darbe  olmuş,iyimisin merak ettim ...", "url": "/ysnsyr_/status/1281335085195722753", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-10 00:11:05", "is_reply": false, "is_retweet": false, "user_id": "1278758099805970432"}

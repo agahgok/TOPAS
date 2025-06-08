@@ -1,0 +1,1 @@
+{"usernameTweet": "NaileErdem", "ID": "754079186696933376", "text": "# SokağaSakınÇıkma  bir can degil mi? Gelecek nesillere #armaganolsun  #darbeyehayir", "url": "/NaileErdem/status/754079186696933376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:22", "is_reply": false, "is_retweet": false, "user_id": "1099165476"}

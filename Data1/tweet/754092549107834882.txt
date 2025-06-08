@@ -1,0 +1,1 @@
+{"usernameTweet": "kemal_gunyel", "ID": "754092549107834882", "text": "İster inanan ol ister inanmayan  #SokağaSakınÇıkma", "url": "/kemal_gunyel/status/754092549107834882", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:28", "is_reply": false, "is_retweet": false, "user_id": "708263455774646272"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "flademus", "ID": "754096499991216128", "text": "# sokağasakıncıkma  demokrasiyle alakası olmayanlar bugün demokrasi için aglıyorlar oyuna gelme..", "url": "/flademus/status/754096499991216128", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:33:10", "is_reply": false, "is_retweet": false, "user_id": "109387639"}

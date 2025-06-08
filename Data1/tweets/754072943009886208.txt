@@ -1,0 +1,1 @@
+{"usernameTweet": "gizemozkanal", "ID": "754072943009886208", "text": "# SOKAĞASAKINÇIKMA  !!!!", "url": "/gizemozkanal/status/754072943009886208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:34", "is_reply": false, "is_retweet": false, "user_id": "2562534941"}

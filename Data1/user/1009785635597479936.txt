@@ -1,0 +1,1 @@
+{"ID": "1009785635597479936", "name": "音ゲー曲歌いますbot", "screen_name": "zuorhi_viyantas", "avatar": "https://pbs.twimg.com/profile_images/1042770793564844039/263n3SR2_bigger.jpg"}

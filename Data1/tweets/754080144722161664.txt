@@ -1,0 +1,1 @@
+{"usernameTweet": "buyrunben", "ID": "754080144722161664", "text": "Kendi oğullarını yolladı lar sokağa sen çıkma #SokağaSakınÇıkma", "url": "/buyrunben/status/754080144722161664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:11", "is_reply": false, "is_retweet": false, "user_id": "82025669"}

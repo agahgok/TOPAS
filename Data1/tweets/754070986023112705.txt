@@ -1,0 +1,1 @@
+{"usernameTweet": "esriki", "ID": "754070986023112705", "text": "# SokağaSakınÇıkma  kolluk kuvvetlerinin askerle boy ölçüşecek donanım var mı ?", "url": "/esriki/status/754070986023112705", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:51:47", "is_reply": false, "is_retweet": false, "user_id": "354844084"}

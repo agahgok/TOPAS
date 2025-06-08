@@ -1,0 +1,1 @@
+{"usernameTweet": "nakookan", "ID": "754059598462464000", "text": "# sokağaçıkma", "url": "/nakookan/status/754059598462464000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:06:32", "is_reply": false, "is_retweet": false, "user_id": "185108906"}

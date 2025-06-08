@@ -1,0 +1,1 @@
+{"usernameTweet": "seda_sumer", "ID": "754076440681934848", "text": "# SokağaSakınÇıkma  şuan camilerden yayın yapılıyor sokağa çıkın YAPMAYIN sakın", "url": "/seda_sumer/status/754076440681934848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:28", "is_reply": false, "is_retweet": false, "user_id": "3039399508"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "barisaltinpicak", "ID": "754087836761088000", "text": "Oyun başarılı oldu. Şimdi gelsin oylar.  #SokağaSakınÇıkma", "url": "/barisaltinpicak/status/754087836761088000", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:58:45", "is_reply": false, "is_retweet": false, "user_id": "101206708"}

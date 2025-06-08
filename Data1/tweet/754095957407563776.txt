@@ -1,0 +1,1 @@
+{"usernameTweet": "disiejder", "ID": "754095957407563776", "text": "...İnsanlar hakikate değil, hakikat gibi görünen şeylere inanırlar. #SokağaSakınÇıkma  ...", "url": "/disiejder/status/754095957407563776", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:01", "is_reply": false, "is_retweet": false, "user_id": "358099311"}

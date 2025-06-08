@@ -1,0 +1,1 @@
+{"usernameTweet": "bkeskin88", "ID": "754076047172333568", "text": "Bu adam neyin kafasını yaşıyor? #SokağaSakınÇıkma   pic.twitter.com/Pep5tY6BBp", "url": "/bkeskin88/status/754076047172333568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:54", "is_reply": false, "is_retweet": false, "user_id": "4204096132"}

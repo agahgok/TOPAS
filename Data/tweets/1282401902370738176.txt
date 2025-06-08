@@ -1,0 +1,1 @@
+{"usernameTweet": "alexxxmora", "ID": "1282401902370738176", "text": "Leeo? Pffff", "url": "/alexxxmora/status/1282401902370738176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:50:14", "is_reply": true, "is_retweet": false, "user_id": "71853119"}

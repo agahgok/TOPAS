@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet_ayem", "ID": "754082746557984768", "text": "# SokağaSakınÇıkma   pic.twitter.com/3fC0lje5Z7", "url": "/mehmet_ayem/status/754082746557984768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:31", "is_reply": false, "is_retweet": false, "user_id": "716342526026891266"}

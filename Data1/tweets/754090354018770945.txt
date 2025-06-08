@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmtkrkm", "ID": "754090354018770945", "text": "# SokağaSakınÇıkma  #DarbeTiyatrosu  na figüran olma", "url": "/ahmtkrkm/status/754090354018770945", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:08:45", "is_reply": false, "is_retweet": false, "user_id": "169152860"}

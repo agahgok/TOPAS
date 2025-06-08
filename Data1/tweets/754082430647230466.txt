@@ -1,0 +1,1 @@
+{"usernameTweet": "CYanapolis", "ID": "754082430647230466", "text": "Hacı başlamadan bitmiş dağılabilirsiniz #Darbevardedilergeldik  #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/CYanapolis/status/754082430647230466", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:16", "is_reply": false, "is_retweet": false, "user_id": "753600976892862465"}

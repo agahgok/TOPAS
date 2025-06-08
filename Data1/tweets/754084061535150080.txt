@@ -1,0 +1,1 @@
+{"usernameTweet": "GfbAngels", "ID": "754084061535150080", "text": "Tüm ülkede sela ve ezanla cihad çağrısı yapıldı. Bunu da gördük. \n#SokağaSakınÇıkma", "url": "/GfbAngels/status/754084061535150080", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:43:45", "is_reply": false, "is_retweet": false, "user_id": "164679283"}

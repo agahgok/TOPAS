@@ -1,0 +1,1 @@
+{"usernameTweet": "mustfaaa", "ID": "754073150393094145", "text": "Sen cakma solcu kactane solcu astilar darbede ve sen ulkucu kactane ulkucu?  #SokağaSakınÇıkma", "url": "/mustfaaa/status/754073150393094145", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:00:23", "is_reply": false, "is_retweet": false, "user_id": "167363190"}

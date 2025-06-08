@@ -1,0 +1,1 @@
+{"usernameTweet": "metindo19925576", "ID": "1282346228144132099", "text": "Hain  darbe  girişimi unutulamaz ", "url": "/metindo19925576/status/1282346228144132099", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 19:09:00", "is_reply": true, "is_retweet": false, "user_id": "1070030189525196801"}

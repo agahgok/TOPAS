@@ -1,0 +1,1 @@
+{"usernameTweet": "KayraYeilba", "ID": "754093449251590144", "text": "# SokağaSakınÇıkma  !!!!", "url": "/KayraYeilba/status/754093449251590144", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:21:03", "is_reply": false, "is_retweet": false, "user_id": "368544624"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Halil_Unsal", "ID": "754076538795098112", "text": "# SokağaSakınÇıkma  Bu TSK nın yaptığı bir darbe değil TSKya yapılan bir darbedir. !!", "url": "/Halil_Unsal/status/754076538795098112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:51", "is_reply": false, "is_retweet": false, "user_id": "1969816272"}

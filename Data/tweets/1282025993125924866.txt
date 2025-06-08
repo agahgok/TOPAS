@@ -1,0 +1,1 @@
+{"usernameTweet": "owlofbeacon", "ID": "1282025993125924866", "text": "utanmadan oyun kurucusu olduğu  darbe  girişimine \"biz internet oyunu zannettik\" demişti. rezil bunak!", "url": "/owlofbeacon/status/1282025993125924866", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 21:56:30", "is_reply": true, "is_retweet": false, "user_id": "210876309"}

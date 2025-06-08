@@ -1,0 +1,1 @@
+{"usernameTweet": "ilembmyb", "ID": "1282078384147832832", "text": "bu gece çok  darbe  yedim önce gökhan sonra sema ben anketlere gidiyom iyi mi geceler", "url": "/ilembmyb/status/1282078384147832832", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 01:24:41", "is_reply": false, "is_retweet": false, "user_id": "1278052835045883905"}

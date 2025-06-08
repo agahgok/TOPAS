@@ -1,0 +1,1 @@
+{"usernameTweet": "onurbicerrr", "ID": "754096034243117056", "text": "# Sokağacikma  al işte bir de siliv şehit verdik", "url": "/onurbicerrr/status/754096034243117056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:19", "is_reply": false, "is_retweet": false, "user_id": "1940883031"}

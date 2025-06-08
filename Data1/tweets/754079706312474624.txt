@@ -1,0 +1,1 @@
+{"usernameTweet": "MeteAtature", "ID": "754079706312474624", "text": "# SokağaSakınÇıkma", "url": "/MeteAtature/status/754079706312474624", "nbr_retweet": 19, "nbr_favorite": 40, "nbr_reply": 3, "datetime": "2016-07-16 01:26:26", "is_reply": false, "is_retweet": false, "user_id": "1085563848"}

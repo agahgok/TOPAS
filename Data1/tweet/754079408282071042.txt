@@ -1,0 +1,1 @@
+{"usernameTweet": "muradmanisali", "ID": "754079408282071042", "text": "# SokağaSakınÇıkma   pic.twitter.com/GgWq7Ivk5a", "url": "/muradmanisali/status/754079408282071042", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:15", "is_reply": false, "is_retweet": false, "user_id": "2949405173"}

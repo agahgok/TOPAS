@@ -1,0 +1,1 @@
+{"usernameTweet": "erdemamayinemi", "ID": "1281314750610264064", "text": "Lan ekranı açar açmaz  darbe  üstüne  darbe  yedim  pic.twitter.com/DsidpKkMT4", "url": "/erdemamayinemi/status/1281314750610264064", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 22:50:16", "is_reply": false, "is_retweet": false, "user_id": "343276726"}

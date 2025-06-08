@@ -1,0 +1,1 @@
+{"usernameTweet": "karamelkz_", "ID": "1282413496618156035", "text": "Darbe  üstüne  darbe  uslanmıyorum", "url": "/karamelkz_/status/1282413496618156035", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-12 23:36:18", "is_reply": false, "is_retweet": false, "user_id": "1263591737290702854"}

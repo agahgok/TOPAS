@@ -1,0 +1,1 @@
+{"usernameTweet": "CanAydn96", "ID": "754137222459363328", "text": "Bir başkanlık uğruna\nNe tiyatrolar dönüyor..\n#SokağaSakınÇıkma  #DarbeDeğilTiyatro", "url": "/CanAydn96/status/754137222459363328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:14:59", "is_reply": false, "is_retweet": false, "user_id": "513267700"}

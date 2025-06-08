@@ -1,0 +1,1 @@
+{"usernameTweet": "BerberogluNazif", "ID": "1282564507429212160", "text": "yalnız bu bir  darbe  değil", "url": "/BerberogluNazif/status/1282564507429212160", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-13 09:36:22", "is_reply": true, "is_retweet": false, "user_id": "1164094629328883713"}

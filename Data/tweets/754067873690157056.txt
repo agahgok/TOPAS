@@ -1,0 +1,1 @@
+{"usernameTweet": "umudatutunmak", "ID": "754067873690157056", "text": "Kendilerini kurtarmak için halkı kalkan yapıyorlar. Bu oyuna gelmeyin\n#SokağaÇıkma", "url": "/umudatutunmak/status/754067873690157056", "nbr_retweet": 17, "nbr_favorite": 6, "nbr_reply": 1, "datetime": "2016-07-16 00:39:25", "is_reply": false, "is_retweet": false, "user_id": "253152993"}

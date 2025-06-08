@@ -1,0 +1,1 @@
+{"usernameTweet": "Mehmet_dogann", "ID": "754077258810175488", "text": "# SokağaSakınÇıkma  #darbe  Ezan okunuyor .", "url": "/Mehmet_dogann/status/754077258810175488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:43", "is_reply": false, "is_retweet": false, "user_id": "219456452"}

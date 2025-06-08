@@ -1,0 +1,1 @@
+{"usernameTweet": "aydinesma", "ID": "754073452311707648", "text": "Darbeye boyun eğeceğine ölecek çok insan var siz gidin sivrisineklerle oynaşın leşler #SokağaSakınÇıkma", "url": "/aydinesma/status/754073452311707648", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:01:35", "is_reply": false, "is_retweet": false, "user_id": "159538641"}

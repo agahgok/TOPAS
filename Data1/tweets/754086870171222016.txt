@@ -1,0 +1,1 @@
+{"usernameTweet": "EthanCalebEli", "ID": "754086870171222016", "text": "Evet evet darbeciler Twitter'a ulaşımı engelledi #SokağaSakınÇıkma", "url": "/EthanCalebEli/status/754086870171222016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:54", "is_reply": false, "is_retweet": false, "user_id": "3436906948"}

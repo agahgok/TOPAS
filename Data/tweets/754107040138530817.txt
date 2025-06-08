@@ -1,0 +1,1 @@
+{"usernameTweet": "Raspicandir", "ID": "754107040138530817", "text": "# SokağaSakınÇıkma  Baskanliga giden yol saglam kurgu ister", "url": "/Raspicandir/status/754107040138530817", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:15:03", "is_reply": false, "is_retweet": false, "user_id": "754105043117346816"}

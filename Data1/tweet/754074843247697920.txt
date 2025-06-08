@@ -1,0 +1,1 @@
+{"usernameTweet": "FuruncuPelin", "ID": "754074843247697920", "text": "Bazı gerizekalılar çıkın diyor ,Ulan bu kadar mı aptalsınız be? #SokağaSakınÇıkma", "url": "/FuruncuPelin/status/754074843247697920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:07", "is_reply": false, "is_retweet": false, "user_id": "708058891108671488"}

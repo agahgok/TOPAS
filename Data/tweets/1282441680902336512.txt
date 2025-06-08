@@ -1,0 +1,1 @@
+{"usernameTweet": "elifnurgulirmak", "ID": "1282441680902336512", "text": "Gece gece trendyola  darbe  yapılmış", "url": "/elifnurgulirmak/status/1282441680902336512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-13 01:28:17", "is_reply": false, "is_retweet": false, "user_id": "167534181"}

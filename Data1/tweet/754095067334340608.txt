@@ -1,0 +1,1 @@
+{"usernameTweet": "Trabzon49997101", "ID": "754095067334340608", "text": "Sokağa çık  #SokağaSakınÇıkma", "url": "/Trabzon49997101/status/754095067334340608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:29", "is_reply": false, "is_retweet": false, "user_id": "4745151393"}

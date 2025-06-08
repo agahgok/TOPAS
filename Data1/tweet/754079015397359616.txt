@@ -1,0 +1,1 @@
+{"usernameTweet": "bunyaminkurt", "ID": "754079015397359616", "text": "# SokağaSakınÇıkma \nDarbe girişiminin son hali  pic.twitter.com/btF7x2iRZu", "url": "/bunyaminkurt/status/754079015397359616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:42", "is_reply": false, "is_retweet": false, "user_id": "101364967"}

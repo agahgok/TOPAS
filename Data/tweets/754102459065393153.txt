@@ -1,0 +1,1 @@
+{"usernameTweet": "cmknylmz", "ID": "754102459065393153", "text": "# SokağaSakınÇıkma  bana bişey olmaz deme Meclisi bombalayan seni hiç düşünmez. Yapma güzel kardeşim", "url": "/cmknylmz/status/754102459065393153", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:56:51", "is_reply": false, "is_retweet": false, "user_id": "244968268"}

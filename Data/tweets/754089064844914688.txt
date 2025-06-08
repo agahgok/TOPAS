@@ -1,0 +1,1 @@
+{"usernameTweet": "jelly107th", "ID": "754089064844914688", "text": "Başgomutanımız nirde ? O yaldızlı  üniformasıyla  temaşa itmek isterük zat-ı alilerini. #SokağaSakınÇıkma", "url": "/jelly107th/status/754089064844914688", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:03:38", "is_reply": false, "is_retweet": false, "user_id": "293546280"}

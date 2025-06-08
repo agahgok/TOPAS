@@ -1,0 +1,1 @@
+{"usernameTweet": "fosmanca", "ID": "754086862365585408", "text": "Sokağa çıktık, iti köpeği susturduk #SokağaSakınÇıkma", "url": "/fosmanca/status/754086862365585408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:52", "is_reply": false, "is_retweet": false, "user_id": "598504229"}

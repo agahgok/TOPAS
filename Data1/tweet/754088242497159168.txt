@@ -1,0 +1,1 @@
+{"usernameTweet": "AzadiFm", "ID": "754088242497159168", "text": "Bu Saaten Sonra Diyanet Darbeye Tümüyle El Koydu...!\n#SokağaSakınÇıkma", "url": "/AzadiFm/status/754088242497159168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:21", "is_reply": false, "is_retweet": false, "user_id": "2427991098"}

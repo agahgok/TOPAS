@@ -1,0 +1,1 @@
+{"usernameTweet": "zgrkara36934871", "ID": "754081426249752579", "text": "Askere karşı gelmeyin başkası için #SokağaSakınÇıkma", "url": "/zgrkara36934871/status/754081426249752579", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:16", "is_reply": false, "is_retweet": false, "user_id": "746352138570334208"}

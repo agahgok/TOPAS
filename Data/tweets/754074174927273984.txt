@@ -1,0 +1,1 @@
+{"usernameTweet": "ensar_ozcelik", "ID": "754074174927273984", "text": "Bizim yüzlerce korumamız yok  #SokağaSakınÇıkma", "url": "/ensar_ozcelik/status/754074174927273984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:27", "is_reply": false, "is_retweet": false, "user_id": "2268777556"}

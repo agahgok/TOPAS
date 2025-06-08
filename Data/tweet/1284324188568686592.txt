@@ -1,0 +1,1 @@
+{"usernameTweet": "ora_ichigo_dabe", "ID": "1284324188568686592", "text": "どれだ", "url": "/ora_ichigo_dabe/status/1284324188568686592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 06:08:42", "is_reply": false, "is_retweet": false, "user_id": "960746873794383872"}

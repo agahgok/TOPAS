@@ -1,0 +1,1 @@
+{"usernameTweet": "Gmz_Kayaa", "ID": "754081384696774656", "text": "Nasıl bir oyundur bu ya Cami İmamı bile sokağa davet ediyor yazıklar olsun!!! OYUNA GELME #SokağaSakınÇıkma", "url": "/Gmz_Kayaa/status/754081384696774656", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:33:06", "is_reply": false, "is_retweet": false, "user_id": "2169242871"}

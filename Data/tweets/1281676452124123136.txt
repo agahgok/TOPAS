@@ -1,0 +1,1 @@
+{"usernameTweet": "Hseyin79777609", "ID": "1281676452124123136", "text": "Sayın genel başkanım üyemiz dediğin  darbe  yanlısı biri ve fötonun usakligini yapan biri", "url": "/Hseyin79777609/status/1281676452124123136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 22:47:33", "is_reply": true, "is_retweet": false, "user_id": "1270273394802647040"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "laik0adam", "ID": "754085051059544064", "text": "# SokağaSakınÇıkma  ANKARA MAMAKTAKİ ZIHLI BİRLİKLER KARIŞMI SAĞLAM HABER MERMİ SESLERİ VARMIŞ", "url": "/laik0adam/status/754085051059544064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:41", "is_reply": false, "is_retweet": false, "user_id": "2283495302"}

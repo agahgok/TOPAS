@@ -1,0 +1,1 @@
+{"usernameTweet": "yorum_cccfc", "ID": "1281662789178793985", "text": "Aşkım şöyle sabahtan beri  darbe  üstüne  darbe  söyle..", "url": "/yorum_cccfc/status/1281662789178793985", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 21:53:15", "is_reply": true, "is_retweet": false, "user_id": "1254545324800192514"}

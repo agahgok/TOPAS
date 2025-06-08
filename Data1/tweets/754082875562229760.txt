@@ -1,0 +1,1 @@
+{"usernameTweet": "osmannbasar", "ID": "754082875562229760", "text": "# SokağaSakınÇıkma  diyenden uzak dur! Vatan hainidir kansızdır", "url": "/osmannbasar/status/754082875562229760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:02", "is_reply": false, "is_retweet": false, "user_id": "2405764919"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "nazliiatay", "ID": "1281297763846754304", "text": "2.  Darbe", "url": "/nazliiatay/status/1281297763846754304", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-09 21:42:46", "is_reply": true, "is_retweet": false, "user_id": "1015284775769264130"}

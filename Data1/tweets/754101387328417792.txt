@@ -1,0 +1,1 @@
+{"usernameTweet": "Besho_Naseer", "ID": "754101387328417792", "text": " adamsın #Turkey  #فشل_الانقلاب  #SokağaSakınÇıkma   pic.twitter.com/hoLKAsf4mO", "url": "/Besho_Naseer/status/754101387328417792", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:52:35", "is_reply": false, "is_retweet": false, "user_id": "351236873"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "murattcnn", "ID": "754100214596833280", "text": "HAYDI TURKIYE #SokağaÇıkma", "url": "/murattcnn/status/754100214596833280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:47:56", "is_reply": false, "is_retweet": false, "user_id": "2895579802"}

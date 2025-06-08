@@ -1,0 +1,1 @@
+{"usernameTweet": "AuReOLa____", "ID": "754067856581681161", "text": "# SokağaSakınÇıkma  gaza gelmeyin.", "url": "/AuReOLa____/status/754067856581681161", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:39:21", "is_reply": false, "is_retweet": false, "user_id": "306362396"}

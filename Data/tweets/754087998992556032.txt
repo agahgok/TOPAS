@@ -1,0 +1,1 @@
+{"usernameTweet": "JeemSpace", "ID": "754087998992556032", "text": "Hatırlatma\nRTE: 2013 Sokağa çıkanlar teröristtir.\n\n#SokağaSakınÇıkma", "url": "/JeemSpace/status/754087998992556032", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:23", "is_reply": false, "is_retweet": false, "user_id": "805142012"}

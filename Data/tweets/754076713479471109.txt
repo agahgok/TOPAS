@@ -1,0 +1,1 @@
+{"usernameTweet": "emeltim", "ID": "754076713479471109", "text": "# SokağaSakınÇıkma \n\nHayırlı olsun Türkiye Çakma darbe yaşayan ilk ülke olarak tarihe geçtik...", "url": "/emeltim/status/754076713479471109", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:33", "is_reply": false, "is_retweet": false, "user_id": "100732598"}

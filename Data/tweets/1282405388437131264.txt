@@ -1,0 +1,1 @@
+{"usernameTweet": "recpert_merve", "ID": "1282405388437131264", "text": "Resmen  darbe  üstüne  darbe  alıyorum", "url": "/recpert_merve/status/1282405388437131264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:04:05", "is_reply": false, "is_retweet": false, "user_id": "1452119982"}

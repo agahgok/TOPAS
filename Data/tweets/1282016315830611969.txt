@@ -1,0 +1,1 @@
+{"usernameTweet": "SooSaNa_Gh", "ID": "1282016315830611969", "text": "Ama sen onu gel anlat kalbe\nYürüyor önümde büyük harbe\n Darbe  üstüne  darbe \nUslanmıyor bu", "url": "/SooSaNa_Gh/status/1282016315830611969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 21:18:03", "is_reply": false, "is_retweet": false, "user_id": "255171483"}

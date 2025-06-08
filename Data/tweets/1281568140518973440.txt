@@ -1,0 +1,1 @@
+{"usernameTweet": "VeyselZgl", "ID": "1281568140518973440", "text": "Öldürmeyen her  darbe  bize güç verir", "url": "/VeyselZgl/status/1281568140518973440", "nbr_retweet": 0, "nbr_favorite": 42, "nbr_reply": 1, "datetime": "2020-07-10 15:37:09", "is_reply": false, "is_retweet": false, "user_id": "1248003794618789889"}

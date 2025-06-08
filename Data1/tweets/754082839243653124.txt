@@ -1,0 +1,1 @@
+{"usernameTweet": "chansudmn", "ID": "754082839243653124", "text": "Eheeeyyy çoşkulu çoşkulu çıktılar hemde ne diyonuz  #SokağaSakınÇıkma", "url": "/chansudmn/status/754082839243653124", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:53", "is_reply": false, "is_retweet": false, "user_id": "260390790"}

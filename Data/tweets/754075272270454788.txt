@@ -1,0 +1,1 @@
+{"usernameTweet": "GmNoree", "ID": "754075272270454788", "text": "# SokağaSakınÇıkma  !!", "url": "/GmNoree/status/754075272270454788", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:49", "is_reply": false, "is_retweet": false, "user_id": "3002847687"}

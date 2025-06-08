@@ -1,0 +1,1 @@
+{"usernameTweet": "07_engin_07", "ID": "754060814592663552", "text": "YEMİNLEN ÜLKE ZURNA HAVASINA DÖNDÜ!\n#TskCumhuriyetinTeminatıdır  #SokağaSakınÇıkma", "url": "/07_engin_07/status/754060814592663552", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:11:22", "is_reply": false, "is_retweet": false, "user_id": "566070988"}

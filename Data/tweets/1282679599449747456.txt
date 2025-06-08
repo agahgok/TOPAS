@@ -1,0 +1,1 @@
+{"usernameTweet": "nisazlato", "ID": "1282679599449747456", "text": "cemnisciler hazır olsun  darbe  büyük yerden geliyo", "url": "/nisazlato/status/1282679599449747456", "nbr_retweet": 1, "nbr_favorite": 58, "nbr_reply": 6, "datetime": "2020-07-13 17:13:42", "is_reply": false, "is_retweet": false, "user_id": "1249829579105107970"}

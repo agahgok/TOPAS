@@ -1,0 +1,1 @@
+{"usernameTweet": "AliAkbasa350", "ID": "1282424785956474881", "text": "Bu son  darbe  çok acıtacak bunların canını \n#Sıra5816da  \n#5816SayılıKanunKaldırılsın", "url": "/AliAkbasa350/status/1282424785956474881", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-13 00:21:09", "is_reply": true, "is_retweet": false, "user_id": "935548444751618053"}

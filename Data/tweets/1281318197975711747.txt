@@ -1,0 +1,1 @@
+{"usernameTweet": "aerhan32", "ID": "1281318197975711747", "text": "Hafif  darbe  aldık ama şükür sağlık olsun", "url": "/aerhan32/status/1281318197975711747", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 23:03:58", "is_reply": true, "is_retweet": false, "user_id": "2945463899"}

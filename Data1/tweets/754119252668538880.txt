@@ -1,0 +1,1 @@
+{"usernameTweet": "aydasenlikvar", "ID": "754119252668538880", "text": "Adam \"sokağa çıkın ben de orda olcam\" diyor hala ya. Çok istiyosa çıksın kendi başına #SokağaSakınÇıkma", "url": "/aydasenlikvar/status/754119252668538880", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:03:35", "is_reply": true, "is_retweet": false, "user_id": "258763197"}

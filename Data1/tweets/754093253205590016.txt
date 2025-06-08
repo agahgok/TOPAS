@@ -1,0 +1,1 @@
+{"usernameTweet": "bandircaz", "ID": "754093253205590016", "text": "Tayyip bilal çıksın sokağa  #SokağaSakınÇıkma", "url": "/bandircaz/status/754093253205590016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:16", "is_reply": false, "is_retweet": false, "user_id": "748020241138065412"}

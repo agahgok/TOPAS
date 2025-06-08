@@ -1,0 +1,1 @@
+{"usernameTweet": "tekfasd", "ID": "754081418725163008", "text": "Mübarek ezanı dini alet etmeseydiniz bari dinsiz köpekler #SokağaSakınÇıkma", "url": "/tekfasd/status/754081418725163008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:15", "is_reply": false, "is_retweet": false, "user_id": "2210005478"}

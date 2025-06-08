@@ -1,0 +1,1 @@
+{"usernameTweet": "belkigamze", "ID": "754071043044741120", "text": "Masumları sokağa çağıranların hepsi yargılanacak, ÇIKMAYIN! #SokağaSakınÇıkma", "url": "/belkigamze/status/754071043044741120", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:52:01", "is_reply": false, "is_retweet": false, "user_id": "348390442"}

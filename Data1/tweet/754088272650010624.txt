@@ -1,0 +1,1 @@
+{"usernameTweet": "sosyalistdunya", "ID": "754088272650010624", "text": "# SokağaSakınÇıkma  adam haklı çıkacak galiba  pic.twitter.com/kySKCf709u", "url": "/sosyalistdunya/status/754088272650010624", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:29", "is_reply": false, "is_retweet": false, "user_id": "4825309083"}

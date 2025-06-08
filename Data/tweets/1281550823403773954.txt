@@ -1,0 +1,1 @@
+{"usernameTweet": "idristopcu59", "ID": "1281550823403773954", "text": "Eyvah yine  darbe  yemiş", "url": "/idristopcu59/status/1281550823403773954", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 14:28:21", "is_reply": true, "is_retweet": false, "user_id": "758945390871719936"}

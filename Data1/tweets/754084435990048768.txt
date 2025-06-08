@@ -1,0 +1,1 @@
+{"usernameTweet": "AyseDjambaz", "ID": "754084435990048768", "text": "şehitler olurken neden ezanlar okunmadı tekbir getirilmedi asker terörist oldu #SokağaSakınÇıkma", "url": "/AyseDjambaz/status/754084435990048768", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:14", "is_reply": false, "is_retweet": false, "user_id": "2829851883"}

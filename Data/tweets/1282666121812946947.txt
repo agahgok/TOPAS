@@ -1,0 +1,1 @@
+{"usernameTweet": "Sabah", "ID": "1282666121812946947", "text": "15 Temmuz FETÖ'cü  darbe  girişimine ait yeni görüntüler ortaya çıktı!", "url": "/Sabah/status/1282666121812946947", "nbr_retweet": 30, "nbr_favorite": 75, "nbr_reply": 5, "datetime": "2020-07-13 16:20:08", "is_reply": false, "is_retweet": false, "user_id": "82943239"}

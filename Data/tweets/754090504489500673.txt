@@ -1,0 +1,1 @@
+{"usernameTweet": "emrah_132", "ID": "754090504489500673", "text": "hiçbir siyasinin gözaltına alınmadığı düşük bütçeli darbemizi de izledik hadi uyuyalım. #SokağaSakınÇıkma", "url": "/emrah_132/status/754090504489500673", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:09:21", "is_reply": false, "is_retweet": false, "user_id": "3982150714"}

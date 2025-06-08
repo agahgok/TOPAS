@@ -1,0 +1,1 @@
+{"usernameTweet": "feyyaman", "ID": "754081367567306754", "text": "Çık sokağa islam için dava için  #SokağaSakınÇıkma", "url": "/feyyaman/status/754081367567306754", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:02", "is_reply": false, "is_retweet": false, "user_id": "854911106"}

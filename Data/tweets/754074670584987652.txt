@@ -1,0 +1,1 @@
+{"usernameTweet": "sametkaan2", "ID": "754074670584987652", "text": "Sokaklara inin şerefsizlere bırakmayız bu ülkeyiiiiiii #SokağaSakınÇıkma", "url": "/sametkaan2/status/754074670584987652", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:26", "is_reply": false, "is_retweet": false, "user_id": "441103802"}

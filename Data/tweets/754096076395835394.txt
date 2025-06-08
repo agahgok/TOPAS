@@ -1,0 +1,1 @@
+{"usernameTweet": "dogasingo", "ID": "754096076395835394", "text": "# sokağasakınçıkma", "url": "/dogasingo/status/754096076395835394", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:29", "is_reply": false, "is_retweet": false, "user_id": "1006947774"}

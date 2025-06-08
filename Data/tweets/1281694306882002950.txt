@@ -1,0 +1,1 @@
+{"usernameTweet": "_Alileriyim", "ID": "1281694306882002950", "text": "Darbe  üstüne  darbe", "url": "/_Alileriyim/status/1281694306882002950", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 23:58:30", "is_reply": true, "is_retweet": false, "user_id": "1202512897433309184"}

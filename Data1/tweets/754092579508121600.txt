@@ -1,0 +1,1 @@
+{"usernameTweet": "blntynrdg76", "ID": "754092579508121600", "text": "Bu darbe sanki Erdoğanı mazlum göstererek başkanlığa götürme hareketidir #SokağaSakınÇıkma", "url": "/blntynrdg76/status/754092579508121600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:17:35", "is_reply": false, "is_retweet": false, "user_id": "825670170"}

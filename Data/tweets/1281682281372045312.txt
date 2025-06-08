@@ -1,0 +1,1 @@
+{"usernameTweet": "derindarbe31", "ID": "1281682281372045312", "text": "Yunanistan'la doğu akdenizde anlaşan filistin mi :D", "url": "/derindarbe31/status/1281682281372045312", "nbr_retweet": 0, "nbr_favorite": 38, "nbr_reply": 5, "datetime": "2020-07-10 23:10:43", "is_reply": true, "is_retweet": false, "user_id": "1281292563840983042"}

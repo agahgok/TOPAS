@@ -1,0 +1,1 @@
+{"usernameTweet": "CneytEfe10", "ID": "754087930050842624", "text": "# SokağaSakınÇıkma  Ya Allah Bismillah Allah'u Ekber!", "url": "/CneytEfe10/status/754087930050842624", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:07", "is_reply": false, "is_retweet": false, "user_id": "701724578683478016"}

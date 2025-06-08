@@ -1,0 +1,1 @@
+{"usernameTweet": "Elagm17", "ID": "754097980416876545", "text": "Hasret duyduğum tek şey şu millete günaydın diyebilmek. Bir türlü uyanmadılar gitti. #SokağaSakınÇıkma", "url": "/Elagm17/status/754097980416876545", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:39:03", "is_reply": false, "is_retweet": false, "user_id": "754071520234864640"}

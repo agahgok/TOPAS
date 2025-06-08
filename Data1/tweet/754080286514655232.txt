@@ -1,0 +1,1 @@
+{"usernameTweet": "ulkumturkiyem", "ID": "754080286514655232", "text": "# SokağaSakınÇıkma  sizi sokağa daver edenler kendileri de geliyor mu oyuna gelme", "url": "/ulkumturkiyem/status/754080286514655232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:45", "is_reply": false, "is_retweet": false, "user_id": "740870871644930048"}

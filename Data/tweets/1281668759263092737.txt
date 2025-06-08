@@ -1,0 +1,1 @@
+{"usernameTweet": "ramazan39915276", "ID": "1281668759263092737", "text": "A selam değerli başkanım. Darbeye cuntacılara  darbe  yok başkanım", "url": "/ramazan39915276/status/1281668759263092737", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 22:16:59", "is_reply": true, "is_retweet": false, "user_id": "1056984841282052096"}

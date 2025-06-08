@@ -1,0 +1,1 @@
+{"usernameTweet": "fridaderya", "ID": "754107720190529536", "text": "Şimdi yarın dışarı çıkıyomuyuz çıkmıyomuyuz??? #SokağaSakınÇıkma", "url": "/fridaderya/status/754107720190529536", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:17:45", "is_reply": false, "is_retweet": false, "user_id": "168265676"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1281446435347668994", "text": "Y bien utilizado el argumento le puede servir al Gob. Del Estado con lo del Hospital. \"Se hizo lo posible.\"", "url": "/Darbe_LM/status/1281446435347668994", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 2, "datetime": "2020-07-10 07:33:32", "is_reply": true, "is_retweet": false, "user_id": "333550973"}

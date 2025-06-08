@@ -1,0 +1,1 @@
+{"usernameTweet": "onurarpac", "ID": "754077587798974466", "text": "Sakın ha sakın, büyük tiyatro dönüyor. Darbe falan hikaye...\n\n #SokağaSakınÇıkma", "url": "/onurarpac/status/754077587798974466", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:18:01", "is_reply": false, "is_retweet": false, "user_id": "93881151"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ibrahiminc_", "ID": "754075127898312704", "text": "# SokağaSakınÇıkma  Sokaklar bizim zaten kim kimi nerden kovuyor.", "url": "/ibrahiminc_/status/754075127898312704", "nbr_retweet": 1, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:08:15", "is_reply": false, "is_retweet": false, "user_id": "2601696277"}

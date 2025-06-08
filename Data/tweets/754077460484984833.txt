@@ -1,0 +1,1 @@
+{"usernameTweet": "bectamer87", "ID": "754077460484984833", "text": "# SokağaSakınÇıkma \nBuda BöyLe Tarihe Geçsin Yarım SaaTTe Herşey BiTTi !!!", "url": "/bectamer87/status/754077460484984833", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:31", "is_reply": false, "is_retweet": false, "user_id": "3435808605"}

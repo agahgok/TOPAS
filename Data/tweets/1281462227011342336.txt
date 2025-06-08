@@ -1,0 +1,1 @@
+{"usernameTweet": "Arielopez1", "ID": "1281462227011342336", "text": "Pues si, esos delitos notoriamente afectan gravemente el interés público.", "url": "/Arielopez1/status/1281462227011342336", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 08:36:17", "is_reply": true, "is_retweet": false, "user_id": "43915600"}

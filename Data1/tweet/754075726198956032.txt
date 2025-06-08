@@ -1,0 +1,1 @@
+{"usernameTweet": "BetigulCeylan", "ID": "754075726198956032", "text": "# SokağaSakınÇıkma", "url": "/BetigulCeylan/status/754075726198956032", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:37", "is_reply": false, "is_retweet": false, "user_id": "293580185"}

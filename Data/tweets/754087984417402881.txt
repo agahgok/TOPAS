@@ -1,0 +1,1 @@
+{"usernameTweet": "BurakKarakoc_", "ID": "754087984417402881", "text": "# SokağaSakınÇıkma  Demokrasine sahip çıkmak başka Namusun olan askerine karşı durmak başka.", "url": "/BurakKarakoc_/status/754087984417402881", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:20", "is_reply": false, "is_retweet": false, "user_id": "172073821"}

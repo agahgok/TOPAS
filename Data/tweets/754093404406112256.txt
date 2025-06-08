@@ -1,0 +1,1 @@
+{"usernameTweet": "macioglu", "ID": "754093404406112256", "text": "Dolar 3.01 geçti. Ülke ekonomisi ne durumda acaba :( #DarbeyeHayır   #SokağaSakınÇıkma", "url": "/macioglu/status/754093404406112256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:52", "is_reply": false, "is_retweet": false, "user_id": "545965889"}

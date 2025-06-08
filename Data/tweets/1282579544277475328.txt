@@ -1,0 +1,1 @@
+{"usernameTweet": "Yarennerayy", "ID": "1282579544277475328", "text": "15 temmuz  darbe  girişimine destek veren soysuzlar sonunuz yakındır", "url": "/Yarennerayy/status/1282579544277475328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 10:36:07", "is_reply": true, "is_retweet": false, "user_id": "1131623917842518016"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "cinpirikk", "ID": "754120964233912320", "text": "# yurttasulhcihandasulh  #atamınizindeyiz  #DarbeyeHayır  #SokağaSakınÇıkma   pic.twitter.com/TdqOuUo11A", "url": "/cinpirikk/status/754120964233912320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:10:23", "is_reply": false, "is_retweet": false, "user_id": "318358616"}

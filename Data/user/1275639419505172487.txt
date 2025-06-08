@@ -1,0 +1,1 @@
+{"ID": "1275639419505172487", "name": "구글", "screen_name": "2foo5CDYkkA7Ort", "avatar": "https://pbs.twimg.com/profile_images/1275641839404670976/6T4lxm8Z_bigger.png"}

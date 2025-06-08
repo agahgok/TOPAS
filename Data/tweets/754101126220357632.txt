@@ -1,0 +1,1 @@
+{"usernameTweet": "terellli", "ID": "754101126220357632", "text": "Mahvolduk lan\n #SokağaÇıkma", "url": "/terellli/status/754101126220357632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:51:33", "is_reply": false, "is_retweet": false, "user_id": "3010261636"}

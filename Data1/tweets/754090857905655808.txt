@@ -1,0 +1,1 @@
+{"usernameTweet": "gradivamio", "ID": "754090857905655808", "text": "# SokağaSakınÇıkma  #DarbeDeğilTiyatro  nur topu gb FAŞIST DIKTATORLUK CIKAR BU CAKMA DARBEDEN", "url": "/gradivamio/status/754090857905655808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:45", "is_reply": false, "is_retweet": false, "user_id": "91913166"}

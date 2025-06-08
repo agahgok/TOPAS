@@ -1,0 +1,1 @@
+{"usernameTweet": "metealtindas", "ID": "754072434177937408", "text": "1. Ordu komutanı : bu durum TSK nin desteklediği bir hareket değildir  #SokağaSakınÇıkma", "url": "/metealtindas/status/754072434177937408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:32", "is_reply": false, "is_retweet": false, "user_id": "145174037"}

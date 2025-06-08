@@ -1,0 +1,1 @@
+{"usernameTweet": "UEgemen", "ID": "754077103918837760", "text": "# SokağaSakınÇıkma \nSokaktayız\nAsker çeteleri kaçıyor", "url": "/UEgemen/status/754077103918837760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:06", "is_reply": false, "is_retweet": false, "user_id": "383415259"}

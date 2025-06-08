@@ -1,0 +1,1 @@
+{"usernameTweet": "RafaelR48207295", "ID": "1282561231170174976", "text": "Tengo cosas más importantes que hacer que ponerme a leer..... Que hueva.", "url": "/RafaelR48207295/status/1282561231170174976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 09:23:21", "is_reply": true, "is_retweet": false, "user_id": "959969294460293120"}

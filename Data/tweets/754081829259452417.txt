@@ -1,0 +1,1 @@
+{"usernameTweet": "Hasretgecgin", "ID": "754081829259452417", "text": "Camilerden gelen seslere korkuyla kulak kabartiyorum. #SokagaSakinCikma  #OyunaGelme", "url": "/Hasretgecgin/status/754081829259452417", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:52", "is_reply": false, "is_retweet": false, "user_id": "331633007"}

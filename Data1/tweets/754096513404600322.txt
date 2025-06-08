@@ -1,0 +1,1 @@
+{"usernameTweet": "JvhbYaren556101", "ID": "754096513404600322", "text": "Türk Askerimizin herzamn yanındayız #SokağaSakınÇıkma", "url": "/JvhbYaren556101/status/754096513404600322", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:33:13", "is_reply": false, "is_retweet": false, "user_id": "751131276762054656"}

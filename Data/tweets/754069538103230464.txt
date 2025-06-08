@@ -1,0 +1,1 @@
+{"usernameTweet": "SOzkaracahisar", "ID": "754069538103230464", "text": "# SokağaSakınÇıkma    https:// twitter.com/kacsaattoldu/s tatus/754066720978006016   …", "url": "/SOzkaracahisar/status/754069538103230464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:46:02", "is_reply": false, "is_retweet": false, "user_id": "325197216"}

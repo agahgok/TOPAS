@@ -1,0 +1,1 @@
+{"usernameTweet": "NezamanTToldu", "ID": "754069602645241856", "text": "# SokağaSakınÇıkma  Türkiye TT listesine 13. sıradan girdi (00:45)", "url": "/NezamanTToldu/status/754069602645241856", "nbr_retweet": 4, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:46:17", "is_reply": false, "is_retweet": false, "user_id": "611211781"}

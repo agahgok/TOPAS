@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmet46guven", "ID": "754093235971190785", "text": "# SokağaSakınÇıkma  ymış vatana hiyanet ediyorsunuz vatanı koruyanlara laf etmeyin bari.", "url": "/ahmet46guven/status/754093235971190785", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:12", "is_reply": false, "is_retweet": false, "user_id": "578102484"}

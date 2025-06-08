@@ -1,0 +1,1 @@
+{"usernameTweet": "silan_zivar", "ID": "754090797587427332", "text": "Bırakın ya ne derbesi bütün bu senaryo bu oyunlar başkanlık içindir..#SokağaSakınÇıkma", "url": "/silan_zivar/status/754090797587427332", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:10:31", "is_reply": false, "is_retweet": false, "user_id": "2370358698"}

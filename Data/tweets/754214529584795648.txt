@@ -1,0 +1,1 @@
+{"usernameTweet": "doguknderman", "ID": "754214529584795648", "text": "sıcağı sıcağına paylaşayim #SokağaSakınÇıkma   pic.twitter.com/Wnh8iSlwJK", "url": "/doguknderman/status/754214529584795648", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 10:22:11", "is_reply": false, "is_retweet": false, "user_id": "919814995"}

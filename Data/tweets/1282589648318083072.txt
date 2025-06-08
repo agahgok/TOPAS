@@ -1,0 +1,1 @@
+{"usernameTweet": "mushfiggg", "ID": "1282589648318083072", "text": "gecə vaxtı möhtəşəm xasaya  darbe  oldu Xasay 3.0 insanlıq adına danışır", "url": "/mushfiggg/status/1282589648318083072", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 11:16:16", "is_reply": false, "is_retweet": false, "user_id": "856529592"}

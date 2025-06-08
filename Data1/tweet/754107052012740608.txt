@@ -1,0 +1,1 @@
+{"usernameTweet": "Kubraerbas1907", "ID": "754107052012740608", "text": "Sokağa çok de ama evinden otur canlı yayın yap! #SokağaÇıkma", "url": "/Kubraerbas1907/status/754107052012740608", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:15:06", "is_reply": false, "is_retweet": false, "user_id": "3123919122"}

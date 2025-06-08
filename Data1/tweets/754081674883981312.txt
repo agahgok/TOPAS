@@ -1,0 +1,1 @@
+{"usernameTweet": "gekan_gs", "ID": "754081674883981312", "text": "# SokağaSakınÇıkma  köprülerdeki hainleri öldürelim", "url": "/gekan_gs/status/754081674883981312", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:34:16", "is_reply": false, "is_retweet": false, "user_id": "3125130406"}

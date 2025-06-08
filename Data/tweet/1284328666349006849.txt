@@ -1,0 +1,1 @@
+{"usernameTweet": "taigaga_ASPRA", "ID": "1284328666349006849", "text": "前僕もD行った時気になって聞きましたw\n多分3000円くらいやったと思うのでそんな変わらないと思いますよ", "url": "/taigaga_ASPRA/status/1284328666349006849", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-18 06:26:30", "is_reply": true, "is_retweet": false, "user_id": "816607236365512704"}

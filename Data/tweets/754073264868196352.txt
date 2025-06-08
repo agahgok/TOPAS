@@ -1,0 +1,1 @@
+{"usernameTweet": "seldaesm", "ID": "754073264868196352", "text": "# oyunagelme  #sokagacikma   pic.twitter.com/CVXUGVxtk6", "url": "/seldaesm/status/754073264868196352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:51", "is_reply": false, "is_retweet": false, "user_id": "355165645"}

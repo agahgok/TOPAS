@@ -1,0 +1,1 @@
+{"usernameTweet": "u_derman", "ID": "754078249412620288", "text": "mobeseler kayıtta deniliyor, sokaktaki herkesi sonradan evlerinden toplanacak, #SokağaSakınÇıkma", "url": "/u_derman/status/754078249412620288", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:39", "is_reply": false, "is_retweet": false, "user_id": "2924420732"}

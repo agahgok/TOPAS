@@ -1,0 +1,1 @@
+{"usernameTweet": "noblemurmur", "ID": "754080108953079808", "text": "ABSURD COUP IN NEW TURKEY #SokağaSakınÇıkma", "url": "/noblemurmur/status/754080108953079808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:02", "is_reply": false, "is_retweet": false, "user_id": "1491666367"}

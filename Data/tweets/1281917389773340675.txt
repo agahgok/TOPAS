@@ -1,0 +1,1 @@
+{"usernameTweet": "Baran62492821", "ID": "1281917389773340675", "text": "Aşk da devrimi anlarımda ,  Darbe  neden", "url": "/Baran62492821/status/1281917389773340675", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-11 14:44:57", "is_reply": false, "is_retweet": false, "user_id": "943995348456034304"}

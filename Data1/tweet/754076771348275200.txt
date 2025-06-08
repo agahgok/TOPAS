@@ -1,0 +1,1 @@
+{"usernameTweet": "tugcemre_", "ID": "754076771348275200", "text": "ULAN IMAMLARA PRIM MI VERDINIZ CAMIILERDEN ANONS ETMELERI ICIN SOKAGA CIKIN DIYE?!?!?! #SokağaSakınÇıkma", "url": "/tugcemre_/status/754076771348275200", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:47", "is_reply": false, "is_retweet": false, "user_id": "185351558"}

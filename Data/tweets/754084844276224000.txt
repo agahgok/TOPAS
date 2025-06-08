@@ -1,0 +1,1 @@
+{"usernameTweet": "GurOngen", "ID": "754084844276224000", "text": "Hepımız kardesız oyuna gelmeyın #SokağaSakınÇıkma", "url": "/GurOngen/status/754084844276224000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:51", "is_reply": false, "is_retweet": false, "user_id": "2416586588"}

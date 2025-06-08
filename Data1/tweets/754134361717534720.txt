@@ -1,0 +1,1 @@
+{"usernameTweet": "hoppalax", "ID": "754134361717534720", "text": "Çok güzel kurgulanmış bir mizansen  #SokağaSakınÇıkma", "url": "/hoppalax/status/754134361717534720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:03:37", "is_reply": false, "is_retweet": false, "user_id": "155308792"}

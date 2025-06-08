@@ -1,0 +1,1 @@
+{"usernameTweet": "ne_kadar", "ID": "754089534078320640", "text": "# SokağaSakınÇıkma  artık hic bir sey eskisi gibii olmayacak. Bunların tek suclusu sensin", "url": "/ne_kadar/status/754089534078320640", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:29", "is_reply": false, "is_retweet": false, "user_id": "556652345"}

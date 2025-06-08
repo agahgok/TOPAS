@@ -1,0 +1,1 @@
+{"usernameTweet": "VelibaranVeli", "ID": "754081331534041088", "text": "# SokağaSakınÇıkma  gerçek bir darbe olsa sokaklar bu kadar koyun ile dolabilirmi acaba?", "url": "/VelibaranVeli/status/754081331534041088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:54", "is_reply": false, "is_retweet": false, "user_id": "4221522719"}

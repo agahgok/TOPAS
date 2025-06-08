@@ -1,0 +1,1 @@
+{"usernameTweet": "19husii05", "ID": "754079766366588928", "text": "# SokağaSakınÇıkma  gecenin bi vakti ilk ezan ardından sela okunuyor nedir bu", "url": "/19husii05/status/754079766366588928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:41", "is_reply": false, "is_retweet": false, "user_id": "145593375"}

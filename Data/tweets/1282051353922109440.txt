@@ -1,0 +1,1 @@
+{"usernameTweet": "issorze", "ID": "1282051353922109440", "text": "Darbe  bildirgesinde de bunu gördük.", "url": "/issorze/status/1282051353922109440", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 23:37:16", "is_reply": true, "is_retweet": false, "user_id": "498010618"}

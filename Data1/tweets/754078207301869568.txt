@@ -1,0 +1,1 @@
+{"usernameTweet": "klar_z", "ID": "754078207301869568", "text": "# SokağaSakınÇıkma   pic.twitter.com/WuZZTBfs3M", "url": "/klar_z/status/754078207301869568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:29", "is_reply": false, "is_retweet": false, "user_id": "3377896143"}

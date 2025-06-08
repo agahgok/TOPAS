@@ -1,0 +1,1 @@
+{"usernameTweet": "cnnzgul", "ID": "754075252154626048", "text": "# SokağaSakınÇıkma ...\nçok büyük patlama oldu", "url": "/cnnzgul/status/754075252154626048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:44", "is_reply": false, "is_retweet": false, "user_id": "1245634128"}

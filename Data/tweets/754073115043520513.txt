@@ -1,0 +1,1 @@
+{"usernameTweet": "birazsarhosgibi", "ID": "754073115043520513", "text": "Bile bile ölüme gitmeyin #SokağaSakınÇıkma", "url": "/birazsarhosgibi/status/754073115043520513", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:15", "is_reply": false, "is_retweet": false, "user_id": "1657472724"}

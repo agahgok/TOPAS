@@ -1,0 +1,1 @@
+{"usernameTweet": "beratuymk", "ID": "1282610700364505088", "text": "Sıkıntılar hep bi'  darbe", "url": "/beratuymk/status/1282610700364505088", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 12:39:55", "is_reply": false, "is_retweet": false, "user_id": "1150876893647908870"}

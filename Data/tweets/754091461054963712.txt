@@ -1,0 +1,1 @@
+{"usernameTweet": "eminekoc25", "ID": "754091461054963712", "text": "# SokağaSakınÇıkma  diyenler tt de birinci cunku onlar sokaga cikmaya korkiyorlar valla", "url": "/eminekoc25/status/754091461054963712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:09", "is_reply": false, "is_retweet": false, "user_id": "1085822366"}

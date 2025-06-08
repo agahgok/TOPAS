@@ -1,0 +1,1 @@
+{"usernameTweet": "AfsinOzdag", "ID": "754075876225064961", "text": "Herif milyonları ölüme çağırdı çıkmayın sokağa ...sahi çıkanlar ÇAPULCU değil miydi  #SokağaSakınÇıkma", "url": "/AfsinOzdag/status/754075876225064961", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:13", "is_reply": false, "is_retweet": false, "user_id": "3207916695"}

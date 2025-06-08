@@ -1,0 +1,1 @@
+{"usernameTweet": "recep_celik_", "ID": "754092421307334658", "text": "# SokağaSakınÇıkma  diyen akilsizlara sesleniyorum ülke elden gidincemi cıkıcaz disari #DarbeyeHayır", "url": "/recep_celik_/status/754092421307334658", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 02:16:58", "is_reply": false, "is_retweet": false, "user_id": "4084970062"}

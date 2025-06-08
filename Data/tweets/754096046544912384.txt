@@ -1,0 +1,1 @@
+{"usernameTweet": "Nazan1703", "ID": "754096046544912384", "text": "Bu darbeyi imamlar mı yaptı bu saatte Datca da sela #SokağaSakınÇıkma", "url": "/Nazan1703/status/754096046544912384", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:22", "is_reply": false, "is_retweet": false, "user_id": "873798504"}

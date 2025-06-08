@@ -1,0 +1,1 @@
+{"usernameTweet": "azadorak21", "ID": "1281341823626227713", "text": "Kaç  darbe  alıp hayatta yoluna devam edebiliyorsun? İşte kazanmak böyle bir şey...\n#KonuKilit", "url": "/azadorak21/status/1281341823626227713", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 00:37:51", "is_reply": false, "is_retweet": false, "user_id": "762211178173046784"}

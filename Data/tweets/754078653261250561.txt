@@ -1,0 +1,1 @@
+{"usernameTweet": "birambittii", "ID": "754078653261250561", "text": "# SokağaSakınÇıkma  manavgatdayım ve şu an saat 1:21 ezan okunuyor bi bilgisi olan varmı acil rt", "url": "/birambittii/status/754078653261250561", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:15", "is_reply": false, "is_retweet": false, "user_id": "4692037111"}

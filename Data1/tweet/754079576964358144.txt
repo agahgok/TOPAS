@@ -1,0 +1,1 @@
+{"usernameTweet": "allianzgomery", "ID": "754079576964358144", "text": "# SokağaSakınÇıkma", "url": "/allianzgomery/status/754079576964358144", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:55", "is_reply": false, "is_retweet": false, "user_id": "531472371"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mkarakaya37", "ID": "1282435585861464069", "text": "15.Temmuz’da haber Tv’ye kontrollu  darbe  diyenleri çıkarın,  darbe  gecesi Kahramanlıklarını anlatsınlar.", "url": "/mkarakaya37/status/1282435585861464069", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 01:04:04", "is_reply": false, "is_retweet": false, "user_id": "142838395"}

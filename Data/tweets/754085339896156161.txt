@@ -1,0 +1,1 @@
+{"usernameTweet": "the_orbithal", "ID": "754085339896156161", "text": "# SokağaSakınÇıkma  çıkmışken pokemon avlamayı ihmal etmeyin arkadaşlar", "url": "/the_orbithal/status/754085339896156161", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:48:49", "is_reply": false, "is_retweet": false, "user_id": "118166901"}

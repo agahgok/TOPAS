@@ -1,0 +1,1 @@
+{"usernameTweet": "huseyinnasik", "ID": "754073326092480512", "text": "# SokağaSakınÇıkma  bırak suriyeliler çıksın", "url": "/huseyinnasik/status/754073326092480512", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:01:05", "is_reply": false, "is_retweet": false, "user_id": "3473442015"}

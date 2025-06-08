@@ -1,0 +1,1 @@
+{"usernameTweet": "KapalSavunma", "ID": "754082491950968833", "text": "Evet sen o tankın üzerine çıkınca demokrasiyi kurtardın tebrikler... #SokağaSakınÇıkma", "url": "/KapalSavunma/status/754082491950968833", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:30", "is_reply": false, "is_retweet": false, "user_id": "4180597816"}

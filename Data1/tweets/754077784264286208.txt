@@ -1,0 +1,1 @@
+{"usernameTweet": "SalihaSultan", "ID": "754077784264286208", "text": "# SokağaSakınÇıkma  diyen teröristtir!", "url": "/SalihaSultan/status/754077784264286208", "nbr_retweet": 3, "nbr_favorite": 7, "nbr_reply": 4, "datetime": "2016-07-16 01:18:48", "is_reply": false, "is_retweet": false, "user_id": "376786363"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_yedina_", "ID": "754106729059811328", "text": "# SokağaÇıkma  bu vatanın evlatları sokaklarında !hain güruh sokağa sen çıkma!", "url": "/_yedina_/status/754106729059811328", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:13:49", "is_reply": false, "is_retweet": false, "user_id": "229090801"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yildirimakbas47", "ID": "754091516000428032", "text": "Ayakkabı kutularıyla Halkın parasını çalan kişiler için #SokağaSakınÇıkma  kardeşim", "url": "/yildirimakbas47/status/754091516000428032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:22", "is_reply": false, "is_retweet": false, "user_id": "721727107735404544"}

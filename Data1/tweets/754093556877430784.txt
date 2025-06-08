@@ -1,0 +1,1 @@
+{"usernameTweet": "umutlu_ilkem", "ID": "754093556877430784", "text": "89 TL Köprü Geçiş Ücreti Mi Olur Lan Köprüyede Çıkma #SokağaSakınÇıkma", "url": "/umutlu_ilkem/status/754093556877430784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:28", "is_reply": false, "is_retweet": false, "user_id": "220725934"}

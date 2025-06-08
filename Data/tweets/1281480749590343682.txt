@@ -1,0 +1,1 @@
+{"usernameTweet": "oralgur", "ID": "1281480749590343682", "text": "Sana vurulan her  darbe  bizim de canımızı yakti...  #Aliismailkorkmaz", "url": "/oralgur/status/1281480749590343682", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 09:49:54", "is_reply": false, "is_retweet": false, "user_id": "329624571"}

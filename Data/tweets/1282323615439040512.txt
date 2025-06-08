@@ -1,0 +1,1 @@
+{"usernameTweet": "seyfoDa1", "ID": "1282323615439040512", "text": "Babasına  darbe  yaptı yalnız kral hareket", "url": "/seyfoDa1/status/1282323615439040512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 17:39:08", "is_reply": true, "is_retweet": false, "user_id": "1265212853553946624"}

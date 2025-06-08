@@ -1,0 +1,1 @@
+{"usernameTweet": "Leonardoofiical", "ID": "1281171287365296128", "text": "Darbe  gecesi attigi twiti gorseydin boyle konusmazdin ^Ahmet karavasss", "url": "/Leonardoofiical/status/1281171287365296128", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 13:20:12", "is_reply": true, "is_retweet": false, "user_id": "925781904275705856"}

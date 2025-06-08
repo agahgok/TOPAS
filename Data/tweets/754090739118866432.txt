@@ -1,0 +1,1 @@
+{"usernameTweet": "konosaurus123", "ID": "754090739118866432", "text": "# SokağaSakınÇıkma", "url": "/konosaurus123/status/754090739118866432", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:17", "is_reply": false, "is_retweet": false, "user_id": "721656613875105792"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gkhn_ats", "ID": "754076153648975872", "text": "Bunu yazan destek veren hainler sizede sira gelecek #SokağaSakınÇıkma", "url": "/gkhn_ats/status/754076153648975872", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:19", "is_reply": false, "is_retweet": false, "user_id": "1036389360"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gkara616161", "ID": "754083935362043904", "text": "Evladına karşı #SokağaSakınÇıkma", "url": "/gkara616161/status/754083935362043904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:15", "is_reply": false, "is_retweet": false, "user_id": "754080108802039808"}

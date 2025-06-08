@@ -1,0 +1,1 @@
+{"usernameTweet": "haircurlyu", "ID": "754069677282881537", "text": "İç savaşa hayır  #SokağaSakınÇıkma", "url": "/haircurlyu/status/754069677282881537", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:46:35", "is_reply": false, "is_retweet": false, "user_id": "538313021"}

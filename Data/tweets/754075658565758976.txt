@@ -1,0 +1,1 @@
+{"usernameTweet": "u_derman", "ID": "754075658565758976", "text": "# SokağaSakınÇıkma  askerin sağduyusuna güveniyorum", "url": "/u_derman/status/754075658565758976", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:21", "is_reply": false, "is_retweet": false, "user_id": "2924420732"}

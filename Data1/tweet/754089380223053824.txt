@@ -1,0 +1,1 @@
+{"usernameTweet": "seker_im35", "ID": "754089380223053824", "text": "# sokagacikma   #sakinsokagacikmayin", "url": "/seker_im35/status/754089380223053824", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:04:53", "is_reply": false, "is_retweet": false, "user_id": "104547201"}

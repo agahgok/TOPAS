@@ -1,0 +1,1 @@
+{"usernameTweet": "ltCatscratch", "ID": "1281832483852623877", "text": "Yani inşaatcilara buyuk  darbe . Civi cakmadan cami yaptilar :)", "url": "/ltCatscratch/status/1281832483852623877", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 09:07:34", "is_reply": true, "is_retweet": false, "user_id": "1483402932"}

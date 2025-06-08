@@ -1,0 +1,1 @@
+{"usernameTweet": "Dnzipci", "ID": "754071080361484292", "text": "Beykozda sokaklarda anons yapılıyor halkı sokağa çağırıyor!!#sokağasakınçıkma", "url": "/Dnzipci/status/754071080361484292", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:52:10", "is_reply": false, "is_retweet": false, "user_id": "1516587114"}

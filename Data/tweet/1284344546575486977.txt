@@ -1,0 +1,1 @@
+{"usernameTweet": "dbenetes", "ID": "1284344546575486977", "text": "A ver si tienen huevos a volverlo a hacer, esos van a estar calladitos mucho tiempo.", "url": "/dbenetes/status/1284344546575486977", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 07:29:36", "is_reply": true, "is_retweet": false, "user_id": "332130352"}

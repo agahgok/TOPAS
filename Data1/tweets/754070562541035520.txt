@@ -1,0 +1,1 @@
+{"usernameTweet": "aysekirca52", "ID": "754070562541035520", "text": "# SokağaSakınÇıkma  kefenlileri ciksin!", "url": "/aysekirca52/status/754070562541035520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:06", "is_reply": false, "is_retweet": false, "user_id": "2966543481"}

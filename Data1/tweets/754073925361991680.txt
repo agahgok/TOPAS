@@ -1,0 +1,1 @@
+{"usernameTweet": "mayykill", "ID": "754073925361991680", "text": "# SokağaSakınÇıkma \nAsker bizim\nPolis bizim\nBu bir oyun\nPanik yapmayın\nKimse Büyük TÜRKİYE'YE\nZarar veremez", "url": "/mayykill/status/754073925361991680", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 01:03:28", "is_reply": false, "is_retweet": false, "user_id": "1397610272"}

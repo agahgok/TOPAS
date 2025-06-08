@@ -1,0 +1,1 @@
+{"usernameTweet": "cyd_bs", "ID": "754099281858924545", "text": "Akıl sağlığımıza dair son kırıntıları da bu gece kaybettik, bu selalar onun için..! #SokağaSakınÇıkma", "url": "/cyd_bs/status/754099281858924545", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:44:13", "is_reply": false, "is_retweet": false, "user_id": "76901696"}

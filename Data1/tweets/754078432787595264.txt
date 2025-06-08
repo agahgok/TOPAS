@@ -1,0 +1,1 @@
+{"usernameTweet": "Lokmashko", "ID": "754078432787595264", "text": "Can güvenliğin için #SokağaSakınÇıkma !", "url": "/Lokmashko/status/754078432787595264", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:23", "is_reply": false, "is_retweet": false, "user_id": "1863660528"}

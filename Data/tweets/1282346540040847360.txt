@@ -1,0 +1,1 @@
+{"usernameTweet": "HsnAbdllhCn", "ID": "1282346540040847360", "text": "neyse bu ilk yediğim  darbe  değil webtekno bey...", "url": "/HsnAbdllhCn/status/1282346540040847360", "nbr_retweet": 0, "nbr_favorite": 30, "nbr_reply": 1, "datetime": "2020-07-12 19:10:14", "is_reply": true, "is_retweet": false, "user_id": "1155907412806766592"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "piremses27", "ID": "754089460363620352", "text": "Ne demek #SokağaSakınÇıkma  meydan ite köpeğe mi kalsın.. Bu tagi açan omurgasız sen otur evinde biz sokaktayız", "url": "/piremses27/status/754089460363620352", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:05:12", "is_reply": false, "is_retweet": false, "user_id": "241312376"}

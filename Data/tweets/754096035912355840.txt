@@ -1,0 +1,1 @@
+{"usernameTweet": "bjk2429", "ID": "754096035912355840", "text": "ERZİNCAN'DAYIZ SOKAKTAYIZ #SokağaSakınÇıkma  #HalkMeydanlarda  #DarbeyeHayır pic.twitter.com/dZcn39z9AY", "url": "/bjk2429/status/754096035912355840", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:31:20", "is_reply": false, "is_retweet": false, "user_id": "1254118861"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ozgurhatuun", "ID": "754103076110397441", "text": "Çağan Irmak bile böyle senaryo yazmadı be ....!!! #RomantikDarbe  #DarbeyeHayir  #SokağaSakınÇıkma", "url": "/ozgurhatuun/status/754103076110397441", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 02:59:18", "is_reply": false, "is_retweet": false, "user_id": "260736742"}

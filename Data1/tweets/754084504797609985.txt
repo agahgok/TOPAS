@@ -1,0 +1,1 @@
+{"usernameTweet": "cetin_kaya21", "ID": "754084504797609985", "text": "Allahu Ekber #Ankara  ve diğer illerde #SokağaSakınÇıkma  diyenlerin yüzünü karartan Allah'a hamdolsun", "url": "/cetin_kaya21/status/754084504797609985", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:45:30", "is_reply": false, "is_retweet": false, "user_id": "2846489025"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "edakrsmll07", "ID": "1282663330688249858", "text": "Çocuklar bu nasıl  darbe  ?", "url": "/edakrsmll07/status/1282663330688249858", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 16:09:03", "is_reply": false, "is_retweet": false, "user_id": "898289193381769218"}

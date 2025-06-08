@@ -1,0 +1,1 @@
+{"usernameTweet": "emrebudakkk", "ID": "1282584766190059520", "text": "Allah  darbe  sevicilere fırsat vermesin", "url": "/emrebudakkk/status/1282584766190059520", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 10:56:52", "is_reply": true, "is_retweet": false, "user_id": "1272138476729794562"}

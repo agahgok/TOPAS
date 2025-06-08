@@ -1,0 +1,1 @@
+{"usernameTweet": "arzu_sucu", "ID": "754085296124391424", "text": "Ohaaaa sela veriliyo bu saatte\nDini bunada mı alet ettiniz sonunda ? #SokağaSakınÇıkma", "url": "/arzu_sucu/status/754085296124391424", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:39", "is_reply": false, "is_retweet": false, "user_id": "305796143"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "s3mrayd7n", "ID": "754081554289332224", "text": "Saat 01:33.Ordu'dayım ve sela okunuyor!!  #SokağaSakınÇıkma", "url": "/s3mrayd7n/status/754081554289332224", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:33:47", "is_reply": false, "is_retweet": false, "user_id": "372411332"}

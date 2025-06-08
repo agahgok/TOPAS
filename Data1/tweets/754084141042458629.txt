@@ -1,0 +1,1 @@
+{"usernameTweet": "Ma1071", "ID": "754084141042458629", "text": "# SokağaSakınÇıkma   Fetocu Darbeciler Husrana ugradilar !!  pic.twitter.com/Akvo4xDwqs", "url": "/Ma1071/status/754084141042458629", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:04", "is_reply": false, "is_retweet": false, "user_id": "1480805647"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Bucurukthedog", "ID": "1281678990806323201", "text": "sözde  darbe", "url": "/Bucurukthedog/status/1281678990806323201", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 22:57:38", "is_reply": true, "is_retweet": false, "user_id": "1195278125392904193"}

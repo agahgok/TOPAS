@@ -1,0 +1,1 @@
+{"usernameTweet": "O__Gutan", "ID": "754092302205906951", "text": "Minarelerden \"Müslüman olmayanı öldürün\" sesleri de duyacağız. Bu daha başlangıç.   #SokağaSakınÇıkma", "url": "/O__Gutan/status/754092302205906951", "nbr_retweet": 16, "nbr_favorite": 61, "nbr_reply": 2, "datetime": "2016-07-16 02:16:29", "is_reply": false, "is_retweet": false, "user_id": "2545603178"}

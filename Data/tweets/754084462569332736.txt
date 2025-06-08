@@ -1,0 +1,1 @@
+{"usernameTweet": "buketeknc", "ID": "754084462569332736", "text": "Halkı sükunete davet edeceklerine, sokağa çağırıyorlar. Bilal çıksın sokağa! #SokağaSakınÇıkma", "url": "/buketeknc/status/754084462569332736", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:20", "is_reply": false, "is_retweet": false, "user_id": "878717838"}

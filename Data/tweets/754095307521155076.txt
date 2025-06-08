@@ -1,0 +1,1 @@
+{"usernameTweet": "alpsyr01", "ID": "754095307521155076", "text": "Askere kurşun sıkan orospu çocuğu sen neyi savunuyorsun? o Asker er lan er #SokağaSakınÇıkma", "url": "/alpsyr01/status/754095307521155076", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:26", "is_reply": false, "is_retweet": false, "user_id": "2205127150"}

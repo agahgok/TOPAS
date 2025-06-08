@@ -1,0 +1,1 @@
+{"usernameTweet": "xhr_q", "ID": "1282630157392588800", "text": "Sadece büyük  bir  darbe  seni herşeye karşı keskinleştirir.", "url": "/xhr_q/status/1282630157392588800", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-13 13:57:14", "is_reply": false, "is_retweet": false, "user_id": "392595472"}

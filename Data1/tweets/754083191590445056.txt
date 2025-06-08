@@ -1,0 +1,1 @@
+{"usernameTweet": "Alitoputut6", "ID": "754083191590445056", "text": "Dakka başı ezan okunuyo ve tüm kanallar hala Erdoğanın..  #SokağaSakınÇıkma", "url": "/Alitoputut6/status/754083191590445056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:40:17", "is_reply": false, "is_retweet": false, "user_id": "3402713019"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "taigaga_ASPRA", "ID": "1284331560775249920", "text": "15000くらいで絶対収まるって言ってたんで、マフラーとテールランプの後ですかね \nあとModuloのテールゲートスポイラーも考えてます", "url": "/taigaga_ASPRA/status/1284331560775249920", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-18 06:38:00", "is_reply": true, "is_retweet": false, "user_id": "816607236365512704"}

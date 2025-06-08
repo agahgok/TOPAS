@@ -1,0 +1,1 @@
+{"usernameTweet": "ben59551", "ID": "1281627704522145794", "text": "Bizans Torunları 15 Temmuz hain  darbe  girişimini neden yaptıklarını daha iyi anlıyoruz şimdi..", "url": "/ben59551/status/1281627704522145794", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 19:33:50", "is_reply": true, "is_retweet": false, "user_id": "55874081"}

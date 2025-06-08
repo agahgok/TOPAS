@@ -1,0 +1,1 @@
+{"usernameTweet": "herkesermis", "ID": "754071278710054912", "text": "# SokağaSakınÇıkma  gezide sokağa çıkarmak iç savaş deildi deil mi", "url": "/herkesermis/status/754071278710054912", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:52:57", "is_reply": false, "is_retweet": false, "user_id": "4925445886"}

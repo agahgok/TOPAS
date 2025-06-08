@@ -1,0 +1,1 @@
+{"usernameTweet": "CemVATANSEVER5", "ID": "754094015369412613", "text": "İnsan Kendisiyle Çelişirmi?\n#SokağaSakınÇıkma   pic.twitter.com/8FNeMEpVQV", "url": "/CemVATANSEVER5/status/754094015369412613", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:18", "is_reply": false, "is_retweet": false, "user_id": "4088372609"}

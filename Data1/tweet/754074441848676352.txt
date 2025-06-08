@@ -1,0 +1,1 @@
+{"usernameTweet": "sumgodre", "ID": "754074441848676352", "text": "# SokağaSakınÇıkma", "url": "/sumgodre/status/754074441848676352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:31", "is_reply": false, "is_retweet": false, "user_id": "127364837"}

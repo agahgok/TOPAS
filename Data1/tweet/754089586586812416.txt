@@ -1,0 +1,1 @@
+{"usernameTweet": "sevalclss", "ID": "754089586586812416", "text": "'Darbe var dediler geldik' #SokağaSakınÇıkma  hadi buyurun.  pic.twitter.com/mTPzjUJOXW", "url": "/sevalclss/status/754089586586812416", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:05:42", "is_reply": false, "is_retweet": false, "user_id": "2757472679"}

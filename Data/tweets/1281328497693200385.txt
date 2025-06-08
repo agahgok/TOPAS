@@ -1,0 +1,1 @@
+{"usernameTweet": "Cosmoslu", "ID": "1281328497693200385", "text": "Ayasofya'yı ibadete açarak Çin'e  darbe  vurmayı planlıyorlar zaar", "url": "/Cosmoslu/status/1281328497693200385", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-09 23:44:54", "is_reply": true, "is_retweet": false, "user_id": "481500495"}

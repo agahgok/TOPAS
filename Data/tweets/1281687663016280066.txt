@@ -1,0 +1,1 @@
+{"usernameTweet": "serzakirr", "ID": "1281687663016280066", "text": "# AyasofyaCamii \nO değil de fetö  darbe  üstüne  darbe  yiyor ", "url": "/serzakirr/status/1281687663016280066", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-10 23:32:06", "is_reply": false, "is_retweet": false, "user_id": "1462163778"}

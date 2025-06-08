@@ -1,0 +1,1 @@
+{"usernameTweet": "Tavsangibifalan", "ID": "754083567152529408", "text": "Camiiden yapılan duyurulara, anonslara kanıp da #SokağaSakınÇıkma", "url": "/Tavsangibifalan/status/754083567152529408", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:41:47", "is_reply": true, "is_retweet": false, "user_id": "109588820"}

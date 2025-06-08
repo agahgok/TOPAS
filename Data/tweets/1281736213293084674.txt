@@ -1,0 +1,1 @@
+{"usernameTweet": "KarisikSerra", "ID": "1281736213293084674", "text": "sitede öyle tipler varki  darbe  yapalım desem düşünmeden okeyler ", "url": "/KarisikSerra/status/1281736213293084674", "nbr_retweet": 0, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2020-07-11 02:45:01", "is_reply": false, "is_retweet": false, "user_id": "2859521781"}

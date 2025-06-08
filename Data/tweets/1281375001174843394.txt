@@ -1,0 +1,1 @@
+{"usernameTweet": "altinkayaburak", "ID": "1281375001174843394", "text": "Kötü ya  darbe  marbe ne alaka ya kapattık hadi gidin", "url": "/altinkayaburak/status/1281375001174843394", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 02:49:41", "is_reply": true, "is_retweet": false, "user_id": "1082622928427077632"}

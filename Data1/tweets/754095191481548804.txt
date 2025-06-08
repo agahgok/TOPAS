@@ -1,0 +1,1 @@
+{"usernameTweet": "yusufpekdemirr", "ID": "754095191481548804", "text": "Bu arada halki silahlarin onune atmak da neyin nesidir ? #SokağaSakınÇıkma", "url": "/yusufpekdemirr/status/754095191481548804", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:27:58", "is_reply": false, "is_retweet": false, "user_id": "416212656"}

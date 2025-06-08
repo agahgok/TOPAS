@@ -1,0 +1,1 @@
+{"usernameTweet": "Ozzybika", "ID": "754077479598514176", "text": "Gezi olaylarında eve gidin deniyor mu? #SokağaSakınÇıkma", "url": "/Ozzybika/status/754077479598514176", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:17:35", "is_reply": false, "is_retweet": false, "user_id": "2556890676"}

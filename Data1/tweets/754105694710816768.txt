@@ -1,0 +1,1 @@
+{"usernameTweet": "hsrv1907", "ID": "754105694710816768", "text": "Film gibi ülkeyiz ya #SokağaSakınÇıkma", "url": "/hsrv1907/status/754105694710816768", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 03:09:42", "is_reply": false, "is_retweet": false, "user_id": "340504916"}

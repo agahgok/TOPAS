@@ -1,0 +1,1 @@
+{"usernameTweet": "nilya_melon", "ID": "754068169250275328", "text": "İç savaşa davet ediyor, kimse sokağa çıkmasın lütfen  #SokağaSakınÇıkma", "url": "/nilya_melon/status/754068169250275328", "nbr_retweet": 12, "nbr_favorite": 19, "nbr_reply": 0, "datetime": "2016-07-16 00:40:36", "is_reply": false, "is_retweet": false, "user_id": "4891398634"}

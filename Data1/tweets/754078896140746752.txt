@@ -1,0 +1,1 @@
+{"usernameTweet": "mrtdvn", "ID": "754078896140746752", "text": "Basina yansimayan durumlar soz konusu. #sokagacikma", "url": "/mrtdvn/status/754078896140746752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:13", "is_reply": false, "is_retweet": false, "user_id": "2633207642"}

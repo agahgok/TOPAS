@@ -1,0 +1,1 @@
+{"usernameTweet": "brkkaraca", "ID": "1282385373830819840", "text": "Darbe  çalmayabilirsin, topa giriyor ama tehlikeli giriyor. En azından tehlikeliyi çalmalıydın. #FBvDGS", "url": "/brkkaraca/status/1282385373830819840", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 21:44:33", "is_reply": false, "is_retweet": false, "user_id": "141725018"}

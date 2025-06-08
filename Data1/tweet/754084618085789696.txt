@@ -1,0 +1,1 @@
+{"usernameTweet": "memerdo", "ID": "754084618085789696", "text": "allah mı darbe yaptı nedir 5 dakikada 1 ezan okunuyor. #SokağaSakınÇıkma", "url": "/memerdo/status/754084618085789696", "nbr_retweet": 75, "nbr_favorite": 138, "nbr_reply": 5, "datetime": "2016-07-16 01:45:57", "is_reply": false, "is_retweet": false, "user_id": "1644594960"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Mawii_79", "ID": "754087485899235328", "text": "Twittir engeli olmamasında bir piçlik var \n\n #SokağaSakınÇıkma", "url": "/Mawii_79/status/754087485899235328", "nbr_retweet": 5, "nbr_favorite": 11, "nbr_reply": 1, "datetime": "2016-07-16 01:57:21", "is_reply": false, "is_retweet": false, "user_id": "4442374107"}

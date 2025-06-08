@@ -1,0 +1,1 @@
+{"usernameTweet": "bezginabi", "ID": "754088052356681728", "text": "# SokağaSakınÇıkma  darbeciler savuşturuldu ama şeriatçı militanlar sokakları işgal etmiş durumda.", "url": "/bezginabi/status/754088052356681728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:36", "is_reply": false, "is_retweet": false, "user_id": "108274924"}

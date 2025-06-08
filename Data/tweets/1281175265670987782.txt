@@ -1,0 +1,1 @@
+{"usernameTweet": "cengizz81981442", "ID": "1281175265670987782", "text": "Tahammül sınırlarını aşmış.  Darbe  destekçiliği aşikar. Alın artık bunu içeriye.", "url": "/cengizz81981442/status/1281175265670987782", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:36:01", "is_reply": true, "is_retweet": false, "user_id": "1264673174995775489"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "MelisG_", "ID": "754083349245943808", "text": "İmamlar uyari yapiyomus :)) ey turk milleti kanma bu oyunlaraaaa #SokağaSakınÇıkma  #sakinsokagacikma", "url": "/MelisG_/status/754083349245943808", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:40:55", "is_reply": false, "is_retweet": false, "user_id": "395978718"}

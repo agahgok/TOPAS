@@ -1,0 +1,1 @@
+{"usernameTweet": "Ghodum", "ID": "754065840702623745", "text": "sonunda kurtuluyoruz sanırım #sokagacıkma", "url": "/Ghodum/status/754065840702623745", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:31:20", "is_reply": false, "is_retweet": false, "user_id": "234687723"}

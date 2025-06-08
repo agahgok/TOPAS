@@ -1,0 +1,1 @@
+{"usernameTweet": "SURRENDER2U2", "ID": "754073699658010625", "text": "# SokağaSakınÇıkma", "url": "/SURRENDER2U2/status/754073699658010625", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:34", "is_reply": false, "is_retweet": false, "user_id": "1017102692"}

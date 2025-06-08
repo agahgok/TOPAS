@@ -1,0 +1,1 @@
+{"usernameTweet": "kubiizmm", "ID": "754095974620860416", "text": "EZAN DİNMEZ BAYRAK İNMEZ! BU VATAN BÖLÜNMEZ! #SokağaÇıkma  #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/kubiizmm/status/754095974620860416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:05", "is_reply": false, "is_retweet": false, "user_id": "396459570"}

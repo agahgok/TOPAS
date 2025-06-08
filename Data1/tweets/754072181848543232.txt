@@ -1,0 +1,1 @@
+{"usernameTweet": "SadkMrcn", "ID": "754072181848543232", "text": "Mekanize güce karşı halkı sürmek yanlış #SokağaSakınÇıkma", "url": "/SadkMrcn/status/754072181848543232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:32", "is_reply": false, "is_retweet": false, "user_id": "719949542972633089"}

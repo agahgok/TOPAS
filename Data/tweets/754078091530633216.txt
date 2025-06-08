@@ -1,0 +1,1 @@
+{"usernameTweet": "BaddestBluess", "ID": "754078091530633216", "text": "# SokağaSakınÇıkma  sela okunuyor ? Ne oluyor anlamadım ?", "url": "/BaddestBluess/status/754078091530633216", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:20:01", "is_reply": false, "is_retweet": false, "user_id": "872266296"}

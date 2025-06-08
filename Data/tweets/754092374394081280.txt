@@ -1,0 +1,1 @@
+{"usernameTweet": "betulturgutt", "ID": "754092374394081280", "text": "# SokağaSakınÇıkma  diyenler defolup gidin pensilvanya da ki köpeği olduğunuz kafirin yanına.", "url": "/betulturgutt/status/754092374394081280", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:16:47", "is_reply": false, "is_retweet": false, "user_id": "1568189227"}

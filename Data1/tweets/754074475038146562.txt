@@ -1,0 +1,1 @@
+{"usernameTweet": "Derma_nn", "ID": "754074475038146562", "text": "Darbe olsa kimse adım atamaz hareket edemez açıklama yapamazdı #SokağaSakınÇıkma", "url": "/Derma_nn/status/754074475038146562", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 01:05:39", "is_reply": false, "is_retweet": false, "user_id": "917252635"}

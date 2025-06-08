@@ -1,0 +1,1 @@
+{"usernameTweet": "eburakkp", "ID": "754057864487038976", "text": "Ulkeyi birbirine kattilar dikkat edin kendinize galeyana gelmeyin #Turkey  #SokağaSakınÇıkma", "url": "/eburakkp/status/754057864487038976", "nbr_retweet": 12, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2016-07-15 23:59:39", "is_reply": false, "is_retweet": false, "user_id": "589100833"}

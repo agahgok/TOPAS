@@ -1,0 +1,1 @@
+{"usernameTweet": "1881AtaturkTC", "ID": "754073987018207233", "text": "Oyuna gelme #SokağaSakınÇıkma", "url": "/1881AtaturkTC/status/754073987018207233", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:03:43", "is_reply": false, "is_retweet": false, "user_id": "1322934662"}

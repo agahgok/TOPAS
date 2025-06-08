@@ -1,0 +1,1 @@
+{"usernameTweet": "samikarahan42", "ID": "754073956517306369", "text": "Halkı çatışmaya çağırıyorlar.\n#Ankara \n#SokağaSakınÇıkma", "url": "/samikarahan42/status/754073956517306369", "nbr_retweet": 7, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:03:35", "is_reply": false, "is_retweet": false, "user_id": "2821593606"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Tubanurelik8", "ID": "1282278082620149761", "text": "Ama sen onu gel anlat kalbe\nYürüyor önümde büyük harbe\n Darbe  üstüne  darbe \nUslanmıyor bu", "url": "/Tubanurelik8/status/1282278082620149761", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-12 14:38:13", "is_reply": false, "is_retweet": false, "user_id": "1139950591319392257"}

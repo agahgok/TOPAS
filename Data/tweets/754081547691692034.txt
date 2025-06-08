@@ -1,0 +1,1 @@
+{"usernameTweet": "nasilbisibu", "ID": "754081547691692034", "text": "# SokağaSakınÇıkma  kaç tane bomba atıldı kaç kere ev sallandı bilmiyorum. Tuzağa DÜŞME", "url": "/nasilbisibu/status/754081547691692034", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:45", "is_reply": false, "is_retweet": false, "user_id": "726436229445783553"}

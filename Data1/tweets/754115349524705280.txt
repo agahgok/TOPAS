@@ -1,0 +1,1 @@
+{"usernameTweet": "AliGulsen11", "ID": "754115349524705280", "text": "Sakin ama sakin #SokağaSakınÇıkma  turkiye turklerindir #hukumetistifa", "url": "/AliGulsen11/status/754115349524705280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:48:04", "is_reply": false, "is_retweet": false, "user_id": "3105948868"}

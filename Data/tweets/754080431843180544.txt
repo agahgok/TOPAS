@@ -1,0 +1,1 @@
+{"usernameTweet": "volkanpazarcik", "ID": "754080431843180544", "text": "Olay bi anda nasıl başarı hikayesine döndü anlamadım? Başkomutan, kutlamalar filan.\n#SokağaSakınÇıkma", "url": "/volkanpazarcik/status/754080431843180544", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:29:19", "is_reply": false, "is_retweet": false, "user_id": "75667788"}

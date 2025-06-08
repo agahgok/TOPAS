@@ -1,0 +1,1 @@
+{"usernameTweet": "Trk51851006", "ID": "1281558131265409025", "text": "E diğeri de  darbe  bitene kadar uçağıyla havalarda gezdi onu ne yapacağız :F", "url": "/Trk51851006/status/1281558131265409025", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 14:57:23", "is_reply": true, "is_retweet": false, "user_id": "1200470005718097921"}

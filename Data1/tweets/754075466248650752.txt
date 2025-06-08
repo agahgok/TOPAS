@@ -1,0 +1,1 @@
+{"usernameTweet": "vodkavanilya", "ID": "754075466248650752", "text": "İnsanların can güvenliğini tehlikeye atıp sokağa davet edecek kadar çaresizlik! #SokağaSakınÇıkma", "url": "/vodkavanilya/status/754075466248650752", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:09:35", "is_reply": false, "is_retweet": false, "user_id": "352927790"}

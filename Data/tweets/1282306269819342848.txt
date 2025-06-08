@@ -1,0 +1,1 @@
+{"usernameTweet": "Ahaber", "ID": "1282306269819342848", "text": "Terör örgütü PKK'ya  darbe   pic.twitter.com/OnC2liWWrp", "url": "/Ahaber/status/1282306269819342848", "nbr_retweet": 18, "nbr_favorite": 158, "nbr_reply": 0, "datetime": "2020-07-12 16:30:13", "is_reply": false, "is_retweet": false, "user_id": "285685164"}

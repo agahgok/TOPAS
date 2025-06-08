@@ -1,0 +1,1 @@
+{"usernameTweet": "Eli_Herrera53B", "ID": "1282308810779041792", "text": "pic.twitter.com/2cNDPPYjdr", "url": "/Eli_Herrera53B/status/1282308810779041792", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 16:40:19", "is_reply": true, "is_retweet": false, "user_id": "114936200"}

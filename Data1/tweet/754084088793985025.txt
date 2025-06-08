@@ -1,0 +1,1 @@
+{"usernameTweet": "farukasln", "ID": "754084088793985025", "text": "bu millet kalktımı ayağa böyle kalkar. \n#SokağaSakınÇıkma \n#Ankara pic.twitter.com/boYSIPp2pb", "url": "/farukasln/status/754084088793985025", "nbr_retweet": 2, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2016-07-16 01:43:51", "is_reply": false, "is_retweet": false, "user_id": "167882913"}

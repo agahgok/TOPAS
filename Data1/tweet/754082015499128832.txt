@@ -1,0 +1,1 @@
+{"usernameTweet": "AKismihan", "ID": "754082015499128832", "text": "# SokağaSakınÇıkma  diye yırtınanlar boşuna Halk iradesine sahip çıkacak!!!", "url": "/AKismihan/status/754082015499128832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:37", "is_reply": false, "is_retweet": false, "user_id": "704073547451387904"}

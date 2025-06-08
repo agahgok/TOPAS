@@ -1,0 +1,1 @@
+{"usernameTweet": "emrah_samut", "ID": "754073930357436416", "text": "# SokağaSakınÇıkma", "url": "/emrah_samut/status/754073930357436416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:29", "is_reply": false, "is_retweet": false, "user_id": "736223897222270976"}

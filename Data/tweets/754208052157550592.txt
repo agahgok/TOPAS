@@ -1,0 +1,1 @@
+{"usernameTweet": "ZeynepGungor", "ID": "754208052157550592", "text": "# DarbeDeğilTiyatro  #SokağaSakınÇıkma  kesmek, biçmek bu zihniyetin kanında var!!!", "url": "/ZeynepGungor/status/754208052157550592", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 09:56:26", "is_reply": false, "is_retweet": false, "user_id": "611876034"}

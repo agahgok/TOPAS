@@ -1,0 +1,1 @@
+{"usernameTweet": "DetroitTwelve", "ID": "754094045559975938", "text": "\"Aynı milletin iradesini\" taşımıyorum!\n#SokağaSakınÇıkma \n#DarbeyeHayır pic.twitter.com/nIUzedxTys", "url": "/DetroitTwelve/status/754094045559975938", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:23:25", "is_reply": false, "is_retweet": false, "user_id": "1061008994"}

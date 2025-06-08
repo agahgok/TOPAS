@@ -1,0 +1,1 @@
+{"usernameTweet": "mhmmd_iskyldz", "ID": "754078633606651904", "text": "Cikin disari ulke elden gidiyor #SokağaSakınÇıkma", "url": "/mhmmd_iskyldz/status/754078633606651904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:11", "is_reply": false, "is_retweet": false, "user_id": "1968447529"}

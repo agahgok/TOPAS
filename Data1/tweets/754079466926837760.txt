@@ -1,0 +1,1 @@
+{"usernameTweet": "MelihSariisik", "ID": "754079466926837760", "text": "# DarbeyeHayır  #SokağaSakınÇıkma  tagleri şuan gayet yoğun gidiyor.", "url": "/MelihSariisik/status/754079466926837760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:29", "is_reply": false, "is_retweet": false, "user_id": "84537051"}

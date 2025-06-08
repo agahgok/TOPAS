@@ -1,0 +1,1 @@
+{"usernameTweet": "Ex_tacier", "ID": "754083919969026048", "text": "Ezan ile demokrasi kurtarıyor hırsızlar.\n#SokağaSakınÇıkma  Allahu Ekber", "url": "/Ex_tacier/status/754083919969026048", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:11", "is_reply": false, "is_retweet": false, "user_id": "59181846"}

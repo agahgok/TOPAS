@@ -1,0 +1,1 @@
+{"usernameTweet": "lazbiregekizi", "ID": "754072256918216704", "text": "Ülkeyi suriyeye çevirme!! #SokağaSakınÇıkma", "url": "/lazbiregekizi/status/754072256918216704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:50", "is_reply": false, "is_retweet": false, "user_id": "714904172081115136"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "KayaSerbay", "ID": "754081478485696512", "text": "Arkadaşlar Kimse Evinden Çıkmasın Lütfen.Kimseye Zarar Gelsin İstemiyoruz. #SokağaSakınÇıkma", "url": "/KayaSerbay/status/754081478485696512", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:33:29", "is_reply": false, "is_retweet": false, "user_id": "1859395897"}

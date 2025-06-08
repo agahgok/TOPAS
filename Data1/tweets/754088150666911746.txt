@@ -1,0 +1,1 @@
+{"usernameTweet": "14a06a", "ID": "754088150666911746", "text": "# sokağasakınçıkma  korkanlar kedi gibi evinde saklansin milliler bize yeter \ngün sokaga cikma günüdür", "url": "/14a06a/status/754088150666911746", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:00", "is_reply": false, "is_retweet": false, "user_id": "144309205"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "VatanaAsik", "ID": "754097585502257152", "text": "AA: TBMM e bomba atildigini bildiriyor. \nYavsaklar simdi #SokağaÇıkma  yipta nezaman cikacaksin.", "url": "/VatanaAsik/status/754097585502257152", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:37:29", "is_reply": false, "is_retweet": false, "user_id": "115334548"}

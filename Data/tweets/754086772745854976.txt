@@ -1,0 +1,1 @@
+{"usernameTweet": "CheSilan", "ID": "754086772745854976", "text": "Baris icin sokaga cikma #SokağaSakınÇıkma", "url": "/CheSilan/status/754086772745854976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:31", "is_reply": false, "is_retweet": false, "user_id": "299680382"}

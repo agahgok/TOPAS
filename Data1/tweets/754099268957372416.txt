@@ -1,0 +1,1 @@
+{"usernameTweet": "cunkusanasigim", "ID": "754099268957372416", "text": "ezanlar namaza çağırır, sokağa değil! #darbe  #SokağaSakınÇıkma", "url": "/cunkusanasigim/status/754099268957372416", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:44:10", "is_reply": false, "is_retweet": false, "user_id": "473804156"}

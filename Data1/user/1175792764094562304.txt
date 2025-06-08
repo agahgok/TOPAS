@@ -1,0 +1,1 @@
+{"ID": "1175792764094562304", "name": "楽天ランキングリアルタイムbot", "screen_name": "ryrank_bot", "avatar": "https://pbs.twimg.com/profile_images/1178326500841406464/CFdl6Ds3_bigger.jpg"}

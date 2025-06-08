@@ -1,0 +1,1 @@
+{"usernameTweet": "MtonanZ", "ID": "754074695876706305", "text": "# SokağaSakınÇıkma  arkadaş senin canına bir şey olursa üzülürüz evet bizim de canımız yanar", "url": "/MtonanZ/status/754074695876706305", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:32", "is_reply": false, "is_retweet": false, "user_id": "225398927"}

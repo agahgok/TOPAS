@@ -1,0 +1,1 @@
+{"usernameTweet": "drmustafatunc", "ID": "754074705427136513", "text": "# SokağaSakınÇıkma  bütün piçler burda yazıyor gezide basbas dışarı diyen piçler", "url": "/drmustafatunc/status/754074705427136513", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:06:34", "is_reply": false, "is_retweet": false, "user_id": "429378852"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Haenni_Mor", "ID": "754076126243328001", "text": "# SokağaSakınÇıkma", "url": "/Haenni_Mor/status/754076126243328001", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:13", "is_reply": false, "is_retweet": false, "user_id": "2769148491"}

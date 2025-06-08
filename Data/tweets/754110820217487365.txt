@@ -1,0 +1,1 @@
+{"usernameTweet": "birkadinprofili", "ID": "754110820217487365", "text": "# SokağaSakınÇıkma  #ÇakmaDarbe  #DarbeDeğilTiyatro", "url": "/birkadinprofili/status/754110820217487365", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 03:30:04", "is_reply": false, "is_retweet": false, "user_id": "1389199399"}

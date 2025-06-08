@@ -1,0 +1,1 @@
+{"usernameTweet": "kirkikin", "ID": "1281504711351435266", "text": "ÇİN’DE ASKERİ  DARBE \n\nÇin Devlet Başkanı Şi Cinping ve eşi tutuklandı  pic.twitter.com/XarQqp97xL", "url": "/kirkikin/status/1281504711351435266", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 1, "datetime": "2020-07-10 11:25:07", "is_reply": false, "is_retweet": false, "user_id": "1279693608220790784"}

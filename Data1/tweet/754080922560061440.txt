@@ -1,0 +1,1 @@
+{"usernameTweet": "lernoshka", "ID": "754080922560061440", "text": "Teledünya kanallarında  #trt  kaybolmuş   #sokağasakınçıkma", "url": "/lernoshka/status/754080922560061440", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 01:31:16", "is_reply": false, "is_retweet": false, "user_id": "100246982"}

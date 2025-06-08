@@ -1,0 +1,1 @@
+{"usernameTweet": "sadi_caliskan", "ID": "754094652970631168", "text": "Siz #sokağasakınçıkma  yın biz hallederiz", "url": "/sadi_caliskan/status/754094652970631168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:50", "is_reply": false, "is_retweet": false, "user_id": "1677950846"}

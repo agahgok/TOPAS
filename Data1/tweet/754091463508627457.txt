@@ -1,0 +1,1 @@
+{"usernameTweet": "yasinmorali", "ID": "754091463508627457", "text": "# SokağaSakınÇıkma  diyenlerin taa a.q", "url": "/yasinmorali/status/754091463508627457", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:09", "is_reply": false, "is_retweet": false, "user_id": "722349053384765440"}

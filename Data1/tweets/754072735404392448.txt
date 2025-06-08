@@ -1,0 +1,1 @@
+{"usernameTweet": "H_Gokturk", "ID": "754072735404392448", "text": "Bilal sokaga   Sümeyye sokaga . diger kimse  #SokağaSakınÇıkma  sın", "url": "/H_Gokturk/status/754072735404392448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:44", "is_reply": false, "is_retweet": false, "user_id": "1061924952"}

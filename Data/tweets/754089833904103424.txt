@@ -1,0 +1,1 @@
+{"usernameTweet": "TolgaKrcl", "ID": "754089833904103424", "text": "Darbe dediler geldim,bu değildir umarım #SokağaSakınÇıkma   pic.twitter.com/Dn0Anj8LYj", "url": "/TolgaKrcl/status/754089833904103424", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:06:41", "is_reply": false, "is_retweet": false, "user_id": "497266255"}

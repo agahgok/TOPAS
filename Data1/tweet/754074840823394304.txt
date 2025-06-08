@@ -1,0 +1,1 @@
+{"usernameTweet": "orchye", "ID": "754074840823394304", "text": "# SokağaSakınÇıkma  arkadaslar hic bir diktator kan cikarmadan gitmez sokaga cikmayin", "url": "/orchye/status/754074840823394304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:06", "is_reply": false, "is_retweet": false, "user_id": "85954546"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Badbull1666", "ID": "754080825088548864", "text": "# SokağaSakınÇıkma  şimdi çıkmayacazda ne zaman çıkacaz gün bugündür gün halkın gücünü gösterme günüdür", "url": "/Badbull1666/status/754080825088548864", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:30:53", "is_reply": false, "is_retweet": false, "user_id": "2447822809"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "aliikaptan_", "ID": "1281345579432513536", "text": "15 Temmuz'da  darbe  kalkışmasını duyunca ne yaptınız? Neredeydiniz?", "url": "/aliikaptan_/status/1281345579432513536", "nbr_retweet": 0, "nbr_favorite": 26, "nbr_reply": 7, "datetime": "2020-07-10 00:52:47", "is_reply": false, "is_retweet": false, "user_id": "1028289732533526528"}

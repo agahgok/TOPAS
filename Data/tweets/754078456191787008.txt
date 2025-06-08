@@ -1,0 +1,1 @@
+{"usernameTweet": "sevill_ayy34", "ID": "754078456191787008", "text": "Kritik bir durumda halki sokaga dokmek de nedir  #SokağaSakınÇıkma", "url": "/sevill_ayy34/status/754078456191787008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:28", "is_reply": false, "is_retweet": false, "user_id": "550004301"}

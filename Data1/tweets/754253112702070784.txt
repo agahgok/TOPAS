@@ -1,0 +1,1 @@
+{"usernameTweet": "sosyalistdunya", "ID": "754253112702070784", "text": "# darbedegiltiyatro  #SokağaSakınÇıkma   pic.twitter.com/LmfT4ADQpt", "url": "/sosyalistdunya/status/754253112702070784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:55:30", "is_reply": false, "is_retweet": false, "user_id": "4825309083"}

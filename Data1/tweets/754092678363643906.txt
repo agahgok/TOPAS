@@ -1,0 +1,1 @@
+{"usernameTweet": "livingforkelly", "ID": "754092678363643906", "text": "Şu gençliğimizde bize bunu yaşattınız ya yazıklar olsun ! #SokağaSakınÇıkma", "url": "/livingforkelly/status/754092678363643906", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:17:59", "is_reply": false, "is_retweet": false, "user_id": "1949006346"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "moodswingerim", "ID": "1281879389920206850", "text": "5816 da onemli. İNKİLAP TARİHİ DERSİ =  DARBE  ÖVME İSLAMA SÖVME DERSİNİ KALDIRMALI AKP Bİ DE", "url": "/moodswingerim/status/1281879389920206850", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 12:13:57", "is_reply": true, "is_retweet": false, "user_id": "1048523094887976960"}

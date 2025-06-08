@@ -1,0 +1,1 @@
+{"usernameTweet": "Alex02017428", "ID": "1282328938728034305", "text": "Fanáticos aplaudidores como tú no entienden el punto.", "url": "/Alex02017428/status/1282328938728034305", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 18:00:18", "is_reply": true, "is_retweet": false, "user_id": "1034965657681457152"}

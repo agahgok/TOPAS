@@ -1,0 +1,1 @@
+{"usernameTweet": "mayykill", "ID": "754080105593462784", "text": "# SokağaSakınÇıkma \nSokağa çık TÜRKİYE\nDemokrasiye sahip çık", "url": "/mayykill/status/754080105593462784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:01", "is_reply": false, "is_retweet": false, "user_id": "1397610272"}

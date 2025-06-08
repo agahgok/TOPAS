@@ -1,0 +1,1 @@
+{"usernameTweet": "gelecekgunlerde", "ID": "1282418461055094786", "text": "Aybar yaşıyor mu hâlâ? Bu kaçıncı  darbe  hsjsbajpsikama", "url": "/gelecekgunlerde/status/1282418461055094786", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 23:56:01", "is_reply": true, "is_retweet": false, "user_id": "1270852648380633088"}

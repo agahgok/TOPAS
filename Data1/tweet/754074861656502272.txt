@@ -1,0 +1,1 @@
+{"usernameTweet": "pnrlts", "ID": "754074861656502272", "text": "# SokağaSakınÇıkma", "url": "/pnrlts/status/754074861656502272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:11", "is_reply": false, "is_retweet": false, "user_id": "383122609"}

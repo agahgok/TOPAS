@@ -1,0 +1,1 @@
+{"usernameTweet": "alper_ayaz2014", "ID": "754074199522676737", "text": "# SokağaSakınÇıkma", "url": "/alper_ayaz2014/status/754074199522676737", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:33", "is_reply": false, "is_retweet": false, "user_id": "2875542549"}

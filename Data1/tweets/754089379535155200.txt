@@ -1,0 +1,1 @@
+{"usernameTweet": "merTasbolen", "ID": "754089379535155200", "text": "# SokağaSakınÇıkma", "url": "/merTasbolen/status/754089379535155200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:53", "is_reply": false, "is_retweet": false, "user_id": "1004387701"}

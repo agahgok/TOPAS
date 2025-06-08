@@ -1,0 +1,1 @@
+{"usernameTweet": "Sertan_Ali", "ID": "1281644811716444160", "text": "Ahahhaha  darbe  üstüne  darbe  alıyorum. Bakalım yıkılacak mıyım, izlemede kalın :)", "url": "/Sertan_Ali/status/1281644811716444160", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 20:41:49", "is_reply": false, "is_retweet": false, "user_id": "843592310252355584"}

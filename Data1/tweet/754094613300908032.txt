@@ -1,0 +1,1 @@
+{"usernameTweet": "TheCapulzadee", "ID": "754094613300908032", "text": "Sokağa çıkın diyen de uyan da sorumludur! #SokagaSakınCıkma   pic.twitter.com/QmQbsMEAKR", "url": "/TheCapulzadee/status/754094613300908032", "nbr_retweet": 7, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 02:25:40", "is_reply": false, "is_retweet": false, "user_id": "991780890"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ATAKIIZI", "ID": "754073555407691777", "text": "# SokağaSakınÇıkma  #TskCumhuriyetinTeminatıdır  #SokagaÇıkmayın  #Ankara", "url": "/ATAKIIZI/status/754073555407691777", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:00", "is_reply": true, "is_retweet": false, "user_id": "3082423814"}

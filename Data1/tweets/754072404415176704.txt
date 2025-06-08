@@ -1,0 +1,1 @@
+{"usernameTweet": "bekinta", "ID": "754072404415176704", "text": "Devlet büyükleri iç savaş çığırtkanlığı yapıyor resmen #SokağaSakınÇıkma  #Türkiye", "url": "/bekinta/status/754072404415176704", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:57:25", "is_reply": false, "is_retweet": false, "user_id": "67116770"}

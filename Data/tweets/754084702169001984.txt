@@ -1,0 +1,1 @@
+{"usernameTweet": "Selmagural14", "ID": "754084702169001984", "text": "# SokağaSakınÇıkma  Şuan herkes sokakta Allahu ekber", "url": "/Selmagural14/status/754084702169001984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:17", "is_reply": false, "is_retweet": false, "user_id": "3101597812"}

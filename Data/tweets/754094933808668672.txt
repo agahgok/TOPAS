@@ -1,0 +1,1 @@
+{"usernameTweet": "simayorc", "ID": "754094933808668672", "text": "Gözlerinizi açın #SokağaSakınÇıkma  yın", "url": "/simayorc/status/754094933808668672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:57", "is_reply": false, "is_retweet": false, "user_id": "172102687"}

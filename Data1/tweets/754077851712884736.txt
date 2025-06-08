@@ -1,0 +1,1 @@
+{"usernameTweet": "adnany", "ID": "754077851712884736", "text": "# SokağaSakınÇıkma  ne oldugu belli bile olmayan oyuna alet olmayin", "url": "/adnany/status/754077851712884736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:04", "is_reply": false, "is_retweet": false, "user_id": "37622667"}

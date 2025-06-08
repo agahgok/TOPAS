@@ -1,0 +1,1 @@
+{"usernameTweet": "kobanirojava2", "ID": "754075482954539008", "text": "Selahattin Demirtaş'tan Açıklama :\nHalkımız Kesinlikle Sokağa Çıkmamalıdır. \n\n #SokağaSakınÇıkma", "url": "/kobanirojava2/status/754075482954539008", "nbr_retweet": 3, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:09:39", "is_reply": false, "is_retweet": false, "user_id": "3090945563"}

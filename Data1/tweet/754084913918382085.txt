@@ -1,0 +1,1 @@
+{"usernameTweet": "gorkemayktoglu", "ID": "754084913918382085", "text": "Memleketin selasıda verildi başın sağolsun Türkiye #SokağaSakınÇıkma", "url": "/gorkemayktoglu/status/754084913918382085", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:47:08", "is_reply": false, "is_retweet": false, "user_id": "3064110165"}

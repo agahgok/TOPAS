@@ -1,0 +1,1 @@
+{"usernameTweet": "sumerianmuslim", "ID": "754095997350010881", "text": "Iran a tahrana gitmis diyorlar. Doğru mu #SokağaSakınÇıkma", "url": "/sumerianmuslim/status/754095997350010881", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:31:10", "is_reply": false, "is_retweet": false, "user_id": "750358180409073664"}

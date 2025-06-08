@@ -1,0 +1,1 @@
+{"usernameTweet": "NaciDemir16", "ID": "754082814740598784", "text": "Sokağa çıkan herkimse capulcudur haindir teröristtir diyen adam milleti sokağa çağırıyor #SokağaSakınÇıkma", "url": "/NaciDemir16/status/754082814740598784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:47", "is_reply": false, "is_retweet": false, "user_id": "3311038037"}

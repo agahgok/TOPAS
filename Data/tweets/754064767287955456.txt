@@ -1,0 +1,1 @@
+{"usernameTweet": "BilgeAkts", "ID": "754064767287955456", "text": "Tamamen durum budur #sokagacikma   pic.twitter.com/sGOl31n3bR", "url": "/BilgeAkts/status/754064767287955456", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:27:05", "is_reply": false, "is_retweet": false, "user_id": "332497221"}

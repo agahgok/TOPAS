@@ -1,0 +1,1 @@
+{"usernameTweet": "Rzgr85", "ID": "1281347285604093954", "text": "# gecegörüşü   Darbe  girişiminden önce Mit uyarıda bulunmuştur fakat sümen altımı edilmiştir", "url": "/Rzgr85/status/1281347285604093954", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 00:59:33", "is_reply": false, "is_retweet": false, "user_id": "780785658256199680"}

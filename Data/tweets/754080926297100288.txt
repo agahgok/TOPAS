@@ -1,0 +1,1 @@
+{"usernameTweet": "CVPHZR", "ID": "754080926297100288", "text": "Neden sadece halk tv ve Ulusal Kanal ın uayını kesildi  #SokağaSakınÇıkma", "url": "/CVPHZR/status/754080926297100288", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:31:17", "is_reply": false, "is_retweet": false, "user_id": "451368171"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "alikiris70", "ID": "1284267007681101824", "text": "İnsan hastalıktan değil eceli geldiği için ölür", "url": "/alikiris70/status/1284267007681101824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 02:21:29", "is_reply": false, "is_retweet": false, "user_id": "434861117"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "hadibeyineson", "ID": "1282685920001642496", "text": "Kazanan sensin en büyük  darbe  senden geldi tebrik ederim seni", "url": "/hadibeyineson/status/1282685920001642496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 17:38:49", "is_reply": false, "is_retweet": false, "user_id": "1273294641564200960"}

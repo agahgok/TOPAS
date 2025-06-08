@@ -1,0 +1,1 @@
+{"usernameTweet": "ahdem54", "ID": "1282017483206131715", "text": "DarbeyeLanet KHKlıyaAdalet\n\nTüm  darbe  girişimlerini \nVe nemalananları\nLanetliyorum.", "url": "/ahdem54/status/1282017483206131715", "nbr_retweet": 8, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2020-07-11 21:22:41", "is_reply": false, "is_retweet": false, "user_id": "532655712"}

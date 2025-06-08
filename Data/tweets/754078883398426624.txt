@@ -1,0 +1,1 @@
+{"usernameTweet": "TC_Seri", "ID": "754078883398426624", "text": "Küçük bi grupsa milleti cagirmaya gerek yok. Sen halledersin hadi bakalım...\n\n #SokağaSakınÇıkma  #Turkish", "url": "/TC_Seri/status/754078883398426624", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:23:10", "is_reply": false, "is_retweet": false, "user_id": "3297484329"}

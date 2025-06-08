@@ -1,0 +1,1 @@
+{"usernameTweet": "ohgodlol", "ID": "754082570216824833", "text": "# SokağaSakınÇıkma  ard arda sela veriliyor oyuna gelmeyin ne nolur mantıklı düşünün", "url": "/ohgodlol/status/754082570216824833", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:37:49", "is_reply": false, "is_retweet": false, "user_id": "752478631201562624"}

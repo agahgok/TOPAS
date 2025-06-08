@@ -1,0 +1,1 @@
+{"usernameTweet": "Tansuler1", "ID": "754086123337580544", "text": "Kendinize halkı mı siper ettireceksiniz? Silahsız ve savunmasız şekilde hemde! #SokağaSakınÇıkma", "url": "/Tansuler1/status/754086123337580544", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:51:56", "is_reply": false, "is_retweet": false, "user_id": "1506867662"}

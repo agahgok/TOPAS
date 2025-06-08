@@ -1,0 +1,1 @@
+{"usernameTweet": "ygumustas10", "ID": "754104900758413312", "text": "# SokağaSakınÇıkma  diyenin anasini sikiyim ulkeyi satan picler", "url": "/ygumustas10/status/754104900758413312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:06:33", "is_reply": false, "is_retweet": false, "user_id": "2872791148"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ATAM2169", "ID": "754068118713032704", "text": "# SokagaSakınÇıkma", "url": "/ATAM2169/status/754068118713032704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:40:24", "is_reply": true, "is_retweet": false, "user_id": "3879952517"}

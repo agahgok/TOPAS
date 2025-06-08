@@ -1,0 +1,1 @@
+{"usernameTweet": "bozkurt_demirci", "ID": "754070395167379457", "text": "Aktrol ve baş trolun hesabı iç savaş çıkartıp kendine kurtarmak. @aozturk70@#SokağaSakınÇıkma", "url": "/bozkurt_demirci/status/754070395167379457", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:49:26", "is_reply": false, "is_retweet": false, "user_id": "3325317945"}

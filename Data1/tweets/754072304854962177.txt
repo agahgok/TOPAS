@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynepkms85", "ID": "754072304854962177", "text": "Meydanlara çıkınca çapulcu oluyoruz, biz almayalım! #sokagacikma  #meydanlaraçıkmıyoruz", "url": "/zeynepkms85/status/754072304854962177", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:57:02", "is_reply": false, "is_retweet": false, "user_id": "1471620961"}

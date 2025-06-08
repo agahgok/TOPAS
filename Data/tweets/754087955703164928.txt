@@ -1,0 +1,1 @@
+{"usernameTweet": "GLENGVENDR", "ID": "754087955703164928", "text": "# SokağaSakınÇıkma \n\nBiraz sonra bastırdık deyip, kahraman olacak ve oynanan oyunun ilk perdesi kapanacak.", "url": "/GLENGVENDR/status/754087955703164928", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:59:13", "is_reply": false, "is_retweet": false, "user_id": "2261478883"}

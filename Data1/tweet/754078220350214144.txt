@@ -1,0 +1,1 @@
+{"usernameTweet": "cCcAlpErgenekon", "ID": "754078220350214144", "text": "# SokağaSakınÇıkma   https:// twitter.com/aycabegenfancl /status/754076890449711104   …", "url": "/cCcAlpErgenekon/status/754078220350214144", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:32", "is_reply": false, "is_retweet": false, "user_id": "708412120736604161"}

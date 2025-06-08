@@ -1,0 +1,1 @@
+{"usernameTweet": "adilhan1978", "ID": "754091202635440128", "text": "# SokağaSakınÇıkma  önce birlik, ne darbe, ne baskı, ne parti. yarın var olursak birlikle.", "url": "/adilhan1978/status/754091202635440128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:07", "is_reply": false, "is_retweet": false, "user_id": "1482540428"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kskobi", "ID": "754086531128659968", "text": "zamaninda biber gazi atip eve yollayan arkadslar simdi sokaga cikin diyor :)) #SokağaSakınÇıkma", "url": "/kskobi/status/754086531128659968", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:33", "is_reply": false, "is_retweet": false, "user_id": "148517424"}

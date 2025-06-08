@@ -1,0 +1,1 @@
+{"usernameTweet": "eyup_aydinli", "ID": "754077588314812416", "text": "Ananızı sikmeye çıkıyoruz.  #SokağaSakınÇıkma", "url": "/eyup_aydinli/status/754077588314812416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:01", "is_reply": false, "is_retweet": false, "user_id": "516377184"}

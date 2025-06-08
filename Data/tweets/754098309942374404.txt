@@ -1,0 +1,1 @@
+{"usernameTweet": "AsenaSejdinovic", "ID": "754098309942374404", "text": "# SokağaÇıkma", "url": "/AsenaSejdinovic/status/754098309942374404", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:40:22", "is_reply": false, "is_retweet": false, "user_id": "3296798465"}

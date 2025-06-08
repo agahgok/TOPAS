@@ -1,0 +1,1 @@
+{"usernameTweet": "hseyn0007", "ID": "754087346274992128", "text": "Darbe baslamadan bitti hadi simdi ananizn damina kadar yallah #SokağaSakınÇıkma", "url": "/hseyn0007/status/754087346274992128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:48", "is_reply": false, "is_retweet": false, "user_id": "3432969310"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "atesclup", "ID": "754093609394249732", "text": "Bursa il Jandarma Komutanı gözaltına alındı. #DarbeyeHayı  #SokağaSakınÇıkma", "url": "/atesclup/status/754093609394249732", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:41", "is_reply": false, "is_retweet": false, "user_id": "151444805"}

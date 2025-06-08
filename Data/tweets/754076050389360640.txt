@@ -1,0 +1,1 @@
+{"usernameTweet": "serrakarakurtt", "ID": "754076050389360640", "text": "Birlik olmaya gitmiyorsunuz ki siz bildiğiniz ölüme gidiyorsunuz #sokağaçıkma", "url": "/serrakarakurtt/status/754076050389360640", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:11:55", "is_reply": false, "is_retweet": false, "user_id": "555196272"}

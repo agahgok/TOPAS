@@ -1,0 +1,1 @@
+{"usernameTweet": "etubjk", "ID": "754092535929339904", "text": "Sivil kayıplarda var ne yazık ki.. #SokağaSakınÇıkma", "url": "/etubjk/status/754092535929339904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:17:25", "is_reply": false, "is_retweet": false, "user_id": "138917258"}

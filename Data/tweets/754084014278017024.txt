@@ -1,0 +1,1 @@
+{"usernameTweet": "MelisG_", "ID": "754084014278017024", "text": "Hee inandik inandik paralel yapi heee #SokağaSakınÇıkma   #Ankara  #TurkeyCoup", "url": "/MelisG_/status/754084014278017024", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:33", "is_reply": false, "is_retweet": false, "user_id": "395978718"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Mhmt__T", "ID": "754094578219749376", "text": "Askeri 'İTİBARSIZLAŞTIRMA' ve başkanlık projesinin sunumudur bu..! #SokağaSakınÇıkma  #DarbeDeğilTiyatro", "url": "/Mhmt__T/status/754094578219749376", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:25:32", "is_reply": false, "is_retweet": false, "user_id": "1539183726"}

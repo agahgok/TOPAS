@@ -1,0 +1,1 @@
+{"usernameTweet": "sores_welat", "ID": "1282036984953831424", "text": "Büyük  darbe ..    https:// twitter.com/nal_bendoo/sta tus/1282036699690930177   …", "url": "/sores_welat/status/1282036984953831424", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-11 22:40:10", "is_reply": false, "is_retweet": false, "user_id": "1273302963772174337"}

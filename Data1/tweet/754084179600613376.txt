@@ -1,0 +1,1 @@
+{"usernameTweet": "cytepe", "ID": "754084179600613376", "text": "# darbeyehayır  #YaşasınDemokrasi  #SokağaSakınÇıkma  sakın .", "url": "/cytepe/status/754084179600613376", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:13", "is_reply": false, "is_retweet": false, "user_id": "1523223692"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "MoeMuudi", "ID": "754093270972633089", "text": "Yaşasın Erdoğan hükümeti\n\n#SokağaSakınÇıkma", "url": "/MoeMuudi/status/754093270972633089", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:20:20", "is_reply": false, "is_retweet": false, "user_id": "214956658"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bircem_melegim", "ID": "754077316079288320", "text": "# Sokağasakınçıkma", "url": "/bircem_melegim/status/754077316079288320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:56", "is_reply": false, "is_retweet": false, "user_id": "2761466073"}

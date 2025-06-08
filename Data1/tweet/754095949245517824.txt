@@ -1,0 +1,1 @@
+{"usernameTweet": "busesunac", "ID": "754095949245517824", "text": "Kimse kalkan falan değil. Filler dövüşür olan çimenlere olur. #sokağasakıncıkma", "url": "/busesunac/status/754095949245517824", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:30:59", "is_reply": false, "is_retweet": false, "user_id": "167744829"}

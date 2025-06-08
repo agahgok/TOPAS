@@ -1,0 +1,1 @@
+{"usernameTweet": "seerbozkurt", "ID": "754093341629878272", "text": "Akgezenler meydanda #SokağaSakınÇıkma", "url": "/seerbozkurt/status/754093341629878272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:37", "is_reply": false, "is_retweet": false, "user_id": "100237470"}

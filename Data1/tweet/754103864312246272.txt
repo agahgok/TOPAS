@@ -1,0 +1,1 @@
+{"usernameTweet": "benimadimizmir", "ID": "754103864312246272", "text": "# DarbeDeğilTiyatro \n#SokağaSakınÇıkma", "url": "/benimadimizmir/status/754103864312246272", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:02:26", "is_reply": false, "is_retweet": false, "user_id": "1480589629"}

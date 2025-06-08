@@ -1,0 +1,1 @@
+{"usernameTweet": "ozgursarioglu2", "ID": "1282389375599484930", "text": "Darbe  yapacak kadar nasil guclendi? Nasil o rutbeleri aldilar dingil.", "url": "/ozgursarioglu2/status/1282389375599484930", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 2, "datetime": "2020-07-12 22:00:27", "is_reply": true, "is_retweet": false, "user_id": "1736996748"}

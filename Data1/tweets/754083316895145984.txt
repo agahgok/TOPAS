@@ -1,0 +1,1 @@
+{"usernameTweet": "mlke_nutella", "ID": "754083316895145984", "text": "# SokağaSakınCıkma  bu ıç savaşa davettır", "url": "/mlke_nutella/status/754083316895145984", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:40:47", "is_reply": false, "is_retweet": false, "user_id": "1415745620"}

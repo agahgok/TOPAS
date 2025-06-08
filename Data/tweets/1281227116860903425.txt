@@ -1,0 +1,1 @@
+{"usernameTweet": "1gamzebilgin", "ID": "1281227116860903425", "text": "Doktor bey, burnunuzu  darbe  ile deviasyona uğratmak istedim....", "url": "/1gamzebilgin/status/1281227116860903425", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 17:02:03", "is_reply": false, "is_retweet": false, "user_id": "1118894284885975041"}

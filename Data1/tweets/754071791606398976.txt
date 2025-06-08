@@ -1,0 +1,1 @@
+{"usernameTweet": "eminbastr", "ID": "754071791606398976", "text": "# SokağaSakınÇıkma   bu belkide bizi birbirimize dusurmek icin yapilmis oyundur askere polise saldirmayin !!!", "url": "/eminbastr/status/754071791606398976", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:54:59", "is_reply": false, "is_retweet": false, "user_id": "4801134436"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "melinserdarlili", "ID": "754082151004532737", "text": "# SokağaSakınÇıkma    https:// twitter.com/rt_erdogan/sta tus/754067631905312768   …", "url": "/melinserdarlili/status/754082151004532737", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:36:09", "is_reply": false, "is_retweet": false, "user_id": "349630223"}

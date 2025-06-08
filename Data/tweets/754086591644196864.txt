@@ -1,0 +1,1 @@
+{"usernameTweet": "haydareraslan78", "ID": "754086591644196864", "text": "Ezan halk tehlikedeykende okunur..  #SokağaSakınÇıkma", "url": "/haydareraslan78/status/754086591644196864", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:48", "is_reply": false, "is_retweet": false, "user_id": "564680801"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ELelfide", "ID": "754084077880377349", "text": "Demokrasiyi yerle bir edenler,\nhalki demokrasiye sahip cikmaya, davet ediyorlar.\n#SokağaSakınÇıkma", "url": "/ELelfide/status/754084077880377349", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:49", "is_reply": false, "is_retweet": false, "user_id": "1511833992"}

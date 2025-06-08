@@ -1,0 +1,1 @@
+{"usernameTweet": "VKesanbiIici", "ID": "754091894720913408", "text": "AKP medya üzerinden şov yapıyor,darbe yapan medya ayağını düşünmedi mi?\n#SokağaSakınÇıkma", "url": "/VKesanbiIici/status/754091894720913408", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:14:52", "is_reply": false, "is_retweet": false, "user_id": "1256922074"}

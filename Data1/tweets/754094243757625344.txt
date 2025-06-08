@@ -1,0 +1,1 @@
+{"usernameTweet": "GlsmTmer", "ID": "754094243757625344", "text": "# SokağaSakınÇıkma  asker yaptı işte bunları daha siz boş boş konuşun.  pic.twitter.com/hPQjJcZWTz", "url": "/GlsmTmer/status/754094243757625344", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:24:12", "is_reply": false, "is_retweet": false, "user_id": "2277351960"}

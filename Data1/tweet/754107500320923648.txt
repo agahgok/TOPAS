@@ -1,0 +1,1 @@
+{"usernameTweet": "kullanilmyor2", "ID": "754107500320923648", "text": "Hangi fikirde olursan ol sokağa çıkma, ülkeyi bu hale getirenler kendini savunsun\n#SokağaSakınÇıkma", "url": "/kullanilmyor2/status/754107500320923648", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:16:53", "is_reply": false, "is_retweet": false, "user_id": "3048195040"}

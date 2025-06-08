@@ -1,0 +1,1 @@
+{"usernameTweet": "borakaradana", "ID": "754093961346703360", "text": "Türkiye Cumhuriyeti 'nin selası okunmuştur. #SokağaSakınÇıkma", "url": "/borakaradana/status/754093961346703360", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:23:05", "is_reply": false, "is_retweet": false, "user_id": "457680467"}

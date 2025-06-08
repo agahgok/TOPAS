@@ -1,0 +1,1 @@
+{"usernameTweet": "blackcat987", "ID": "754072867780890624", "text": "# SokağaSakınÇıkma", "url": "/blackcat987/status/754072867780890624", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:59:16", "is_reply": false, "is_retweet": false, "user_id": "167528611"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "midas1905", "ID": "754072575978987520", "text": "Şehide Kelle diyenler, Şimdi MEHMETÇIĞIMIZ diyorlar #SokağaSakınÇıkma", "url": "/midas1905/status/754072575978987520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:06", "is_reply": false, "is_retweet": false, "user_id": "1578676045"}

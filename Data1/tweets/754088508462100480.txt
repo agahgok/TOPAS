@@ -1,0 +1,1 @@
+{"usernameTweet": "aerdemkoz", "ID": "754088508462100480", "text": "# SokağaSakınÇıkma  Sakin ve sabırlı olup ordumuza güvenelim. Köstebekleri temizleyecektir.", "url": "/aerdemkoz/status/754088508462100480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:25", "is_reply": false, "is_retweet": false, "user_id": "474047575"}

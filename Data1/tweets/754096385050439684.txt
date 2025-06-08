@@ -1,0 +1,1 @@
+{"usernameTweet": "intiharameyil", "ID": "754096385050439684", "text": "Beni vurun! #SokağaSakınÇıkma  #SokağaBilalCiksin  #DarbemiOluyor", "url": "/intiharameyil/status/754096385050439684", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:32:43", "is_reply": false, "is_retweet": false, "user_id": "3461405909"}

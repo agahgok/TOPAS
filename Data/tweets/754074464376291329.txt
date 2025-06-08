@@ -1,0 +1,1 @@
+{"usernameTweet": "heosphoruss", "ID": "754074464376291329", "text": "böyle cumhurbaşkanı olmaz olsun #SokağaSakınÇıkma  #DarbeyeHayır  #Turkey", "url": "/heosphoruss/status/754074464376291329", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:05:36", "is_reply": false, "is_retweet": false, "user_id": "217387318"}

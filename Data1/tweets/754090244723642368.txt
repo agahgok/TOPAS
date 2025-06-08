@@ -1,0 +1,1 @@
+{"usernameTweet": "yolcu6556", "ID": "754090244723642368", "text": "İki saatlik darbe mi olur lan. Bi ezan bi sela hoşgeldin başkanlık. Yazıklar olsun #SokağaSakınÇıkma", "url": "/yolcu6556/status/754090244723642368", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:08:19", "is_reply": false, "is_retweet": false, "user_id": "739244727481077761"}

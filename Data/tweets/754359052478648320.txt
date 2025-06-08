@@ -1,0 +1,1 @@
+{"usernameTweet": "emili27mercan", "ID": "754359052478648320", "text": "# SokağaSakınÇıkma  katiller var  pic.twitter.com/UgXhX81JlU", "url": "/emili27mercan/status/754359052478648320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 19:56:28", "is_reply": false, "is_retweet": false, "user_id": "2850177259"}

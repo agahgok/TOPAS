@@ -1,0 +1,1 @@
+{"usernameTweet": "yazeusyahelen", "ID": "1284391498574954496", "text": "Ve yine güzelsiniz yine çiçek ...", "url": "/yazeusyahelen/status/1284391498574954496", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-18 10:36:10", "is_reply": true, "is_retweet": false, "user_id": "2387300443"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bilinmeyenlerd", "ID": "754085408481349632", "text": "Sokağa cikin diyen kisi suanda evinin onunde korumalariyla beraber #SokağaSakınÇıkma", "url": "/bilinmeyenlerd/status/754085408481349632", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:06", "is_reply": false, "is_retweet": false, "user_id": "748511980227530752"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "GokhanYurukcu", "ID": "754085625133830145", "text": "# SokağaSakınÇıkma   pic.twitter.com/l5W5bVCNlo", "url": "/GokhanYurukcu/status/754085625133830145", "nbr_retweet": 6, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:49:57", "is_reply": false, "is_retweet": false, "user_id": "320958187"}

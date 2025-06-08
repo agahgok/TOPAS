@@ -1,0 +1,1 @@
+{"usernameTweet": "seda_akdere", "ID": "754091344310759424", "text": "# SokağaSakınÇıkma  gaza gelme güzel ülkemin güzel insanları....", "url": "/seda_akdere/status/754091344310759424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:41", "is_reply": false, "is_retweet": false, "user_id": "340287912"}

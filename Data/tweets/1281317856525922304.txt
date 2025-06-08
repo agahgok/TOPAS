@@ -1,0 +1,1 @@
+{"usernameTweet": "izzetYILDIRIM1", "ID": "1281317856525922304", "text": "Bir suç, bir  darbe  niyeti,  fiiliyata dönüşmedikçe soruşturma ve kovuşturma  konusu olmaz.", "url": "/izzetYILDIRIM1/status/1281317856525922304", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 23:02:37", "is_reply": true, "is_retweet": false, "user_id": "293964948"}

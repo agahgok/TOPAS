@@ -1,0 +1,1 @@
+{"usernameTweet": "kivancsemirli", "ID": "1282417751731122176", "text": "şaka veya şakaya konu olabilecek herhangi bir şey sanki bir  darbe  gibi :)", "url": "/kivancsemirli/status/1282417751731122176", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 23:53:12", "is_reply": true, "is_retweet": false, "user_id": "153450289"}

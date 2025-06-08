@@ -1,0 +1,1 @@
+{"usernameTweet": "senoldemir", "ID": "754080937097457664", "text": "# SokağaSakınÇıkma  kardeşim fikrin ne olursa olsun sen değerlisin", "url": "/senoldemir/status/754080937097457664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:20", "is_reply": false, "is_retweet": false, "user_id": "52711287"}

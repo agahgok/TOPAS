@@ -1,0 +1,1 @@
+{"usernameTweet": "Memed34", "ID": "754090561146068992", "text": "Bu işin altından da bir çapanoğlu çıkarsa şaşmamak lazım..Senaryo çok da yabancı gelmedi bana..#SokağaSakınÇıkma", "url": "/Memed34/status/754090561146068992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:34", "is_reply": false, "is_retweet": false, "user_id": "339649558"}

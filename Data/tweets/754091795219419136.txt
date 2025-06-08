@@ -1,0 +1,1 @@
+{"usernameTweet": "serapbozz", "ID": "754091795219419136", "text": "Kardeşi kardeşe kırdırmayın.. Bu milletin çektiği yeter artık #SokağaSakınÇıkma", "url": "/serapbozz/status/754091795219419136", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:28", "is_reply": false, "is_retweet": false, "user_id": "106205533"}

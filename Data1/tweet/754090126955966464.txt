@@ -1,0 +1,1 @@
+{"usernameTweet": "_ashleyobrien", "ID": "754090126955966464", "text": "ÇIKIN MEYDANA BE KORKMAYINN... KORKU TÜRKE İŞLEMEZZ #SokağaSakınÇıkma", "url": "/_ashleyobrien/status/754090126955966464", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:07:51", "is_reply": false, "is_retweet": false, "user_id": "455201458"}

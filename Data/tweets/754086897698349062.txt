@@ -1,0 +1,1 @@
+{"usernameTweet": "seyrederimalemi", "ID": "754086897698349062", "text": "Allah yönetime el mi koydu anlayamadım ezanlar okunuyo #darbeyehayır  #SokağaSakınÇıkma  @CenabiAllah", "url": "/seyrederimalemi/status/754086897698349062", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:01", "is_reply": false, "is_retweet": false, "user_id": "97766973"}

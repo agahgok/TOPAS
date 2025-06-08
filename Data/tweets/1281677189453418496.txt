@@ -1,0 +1,1 @@
+{"usernameTweet": "bujuu", "ID": "1281677189453418496", "text": "Evli misin, çocuğun var mı gibi sorulara büyük  darbe   https:// twitter.com/kararhaber/sta tus/1281512845415452677   …", "url": "/bujuu/status/1281677189453418496", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-10 22:50:29", "is_reply": false, "is_retweet": false, "user_id": "65474403"}

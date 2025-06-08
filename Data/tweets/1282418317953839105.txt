@@ -1,0 +1,1 @@
+{"usernameTweet": "mustafa76041390", "ID": "1282418317953839105", "text": "Efsane bu ya  darbe  almamış sanki", "url": "/mustafa76041390/status/1282418317953839105", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 23:55:27", "is_reply": true, "is_retweet": false, "user_id": "906158516410384384"}

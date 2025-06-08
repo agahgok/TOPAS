@@ -1,0 +1,1 @@
+{"usernameTweet": "eltiocule", "ID": "448972096895320064", "text": ".@Cristiano , nos puedes decir dónde está el madrid? Gracias.  pic.twitter.com/gaqRxeEewq", "url": "/eltiocule/status/448972096895320064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:57:44", "is_reply": false, "is_retweet": false, "user_id": "844674013"}

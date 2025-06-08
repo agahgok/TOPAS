@@ -1,0 +1,1 @@
+{"usernameTweet": "ayzunn", "ID": "754067357354582016", "text": "Telefondan konuşma yapıp halkı kışkırtan bir cb #SokağaSakınÇıkma", "url": "/ayzunn/status/754067357354582016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:22", "is_reply": false, "is_retweet": false, "user_id": "584010169"}

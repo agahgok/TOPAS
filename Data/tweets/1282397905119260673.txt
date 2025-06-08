@@ -1,0 +1,1 @@
+{"usernameTweet": "1907_Cubuklu", "ID": "1282397905119260673", "text": "Üstelik  darbe  de vardı", "url": "/1907_Cubuklu/status/1282397905119260673", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 22:34:21", "is_reply": true, "is_retweet": false, "user_id": "283186147"}

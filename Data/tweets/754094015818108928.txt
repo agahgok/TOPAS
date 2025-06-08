@@ -1,0 +1,1 @@
+{"usernameTweet": "lerevolte1312", "ID": "754094015818108928", "text": "# SokağaSakınÇıkma  aksarayın ışıkları hala kapalı tekrar yanarsa boku yedik", "url": "/lerevolte1312/status/754094015818108928", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:23:18", "is_reply": false, "is_retweet": false, "user_id": "986758772"}

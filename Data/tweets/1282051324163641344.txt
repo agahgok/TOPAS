@@ -1,0 +1,1 @@
+{"usernameTweet": "BiSusunLan1", "ID": "1282051324163641344", "text": "Alparslan Türkeş sağ olsa  darbe  bildirisi okuturduk sever boyle şeyleri", "url": "/BiSusunLan1/status/1282051324163641344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 23:37:09", "is_reply": false, "is_retweet": false, "user_id": "1191123572024057857"}

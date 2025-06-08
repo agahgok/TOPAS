@@ -1,0 +1,1 @@
+{"usernameTweet": "htc_hmd", "ID": "754089861716537344", "text": "Şehitlerimiz için sabaha kadar sela okuttunuz mu??? #SokağaSakınÇıkma", "url": "/htc_hmd/status/754089861716537344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:06:48", "is_reply": false, "is_retweet": false, "user_id": "747624054002155520"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "cicek_b", "ID": "754077510170734592", "text": "# SokağaSakınÇıkma \nBir təkbir deməmişdiz ki, Suriya olasız, onu da etdiz.", "url": "/cicek_b/status/754077510170734592", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:17:43", "is_reply": false, "is_retweet": false, "user_id": "4796151993"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "dalaksiz4141", "ID": "1282024584003440646", "text": "Başkanlık sistemi gelecek şlaak  darbe  girişimi", "url": "/dalaksiz4141/status/1282024584003440646", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-11 21:50:54", "is_reply": true, "is_retweet": false, "user_id": "4903682345"}

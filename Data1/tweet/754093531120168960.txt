@@ -1,0 +1,1 @@
+{"usernameTweet": "barisakkaya94", "ID": "754093531120168960", "text": "Iyi uykular Türkiyem #SokağaSakınÇıkma", "url": "/barisakkaya94/status/754093531120168960", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:21:22", "is_reply": false, "is_retweet": false, "user_id": "3086208797"}

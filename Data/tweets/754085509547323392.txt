@@ -1,0 +1,1 @@
+{"usernameTweet": "sunkeydan", "ID": "754085509547323392", "text": "Lutfen #SokağaSakınÇıkma", "url": "/sunkeydan/status/754085509547323392", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:49:30", "is_reply": false, "is_retweet": false, "user_id": "3986801423"}

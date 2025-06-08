@@ -1,0 +1,1 @@
+{"usernameTweet": "Lventsahin", "ID": "754085543080632320", "text": "Mersin'de Camilerden anonslar başladı. #SokağaSakınÇıkma", "url": "/Lventsahin/status/754085543080632320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:38", "is_reply": false, "is_retweet": false, "user_id": "73848308"}

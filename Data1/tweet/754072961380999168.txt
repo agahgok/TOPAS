@@ -1,0 +1,1 @@
+{"usernameTweet": "pasakzm", "ID": "754072961380999168", "text": "@nil_firuze #SokağaSakınÇıkma", "url": "/pasakzm/status/754072961380999168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:38", "is_reply": true, "is_retweet": false, "user_id": "733678690001883137"}

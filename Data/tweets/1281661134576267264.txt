@@ -1,0 +1,1 @@
+{"usernameTweet": "alibeysere8", "ID": "1281661134576267264", "text": "Aynen kefere bir  darbe  daha vurulur yeminle", "url": "/alibeysere8/status/1281661134576267264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 21:46:41", "is_reply": true, "is_retweet": false, "user_id": "1080761314421673984"}

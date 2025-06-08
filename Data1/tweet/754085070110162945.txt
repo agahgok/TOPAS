@@ -1,0 +1,1 @@
+{"usernameTweet": "kayisi_kent", "ID": "754085070110162945", "text": "# SokağaÇıkma  öyle mi?  pic.twitter.com/uVWbZctNBH", "url": "/kayisi_kent/status/754085070110162945", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:45", "is_reply": false, "is_retweet": false, "user_id": "1359583170"}

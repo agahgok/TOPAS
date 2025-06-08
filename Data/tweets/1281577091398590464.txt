@@ -1,0 +1,1 @@
+{"usernameTweet": "cengizeseese", "ID": "1281577091398590464", "text": "Her şeyi karıştırmayın...\nTicari ilişkiler bazen  darbe  zamanını bulur. Denk gelmiş ne diyelim", "url": "/cengizeseese/status/1281577091398590464", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-10 16:12:43", "is_reply": true, "is_retweet": false, "user_id": "132652884"}

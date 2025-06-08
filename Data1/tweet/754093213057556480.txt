@@ -1,0 +1,1 @@
+{"usernameTweet": "eskimecmua", "ID": "754093213057556480", "text": "# SokağaSakınÇıkma  ezan okutmak neyin nesi gaza ve cihada mı çıkalım?", "url": "/eskimecmua/status/754093213057556480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:07", "is_reply": false, "is_retweet": false, "user_id": "2205371622"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sellocell", "ID": "754091539337535488", "text": "Hey hey selocanlar #SokağaSakınÇıkma   pic.twitter.com/jhpavEV6UO", "url": "/sellocell/status/754091539337535488", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:13:27", "is_reply": false, "is_retweet": false, "user_id": "98678202"}

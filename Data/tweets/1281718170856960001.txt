@@ -1,0 +1,1 @@
+{"usernameTweet": "anestumzib", "ID": "1281718170856960001", "text": "Bence biz bi kütüğüz ve zaman bize  darbe  vuruyo sonra da darbeye göre kendimizi yontuyoruz", "url": "/anestumzib/status/1281718170856960001", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-11 01:33:19", "is_reply": true, "is_retweet": false, "user_id": "1170812014475788291"}

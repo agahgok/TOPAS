@@ -1,0 +1,1 @@
+{"usernameTweet": "20_gzm", "ID": "754093722552397825", "text": "# SokağaSakınÇıkma  o.ç hala cumhurbaşkanını kötülemeye uğraşıyor bok beyinli olay tayyip meselesi değil ülke meselesi", "url": "/20_gzm/status/754093722552397825", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:08", "is_reply": false, "is_retweet": false, "user_id": "2203357919"}

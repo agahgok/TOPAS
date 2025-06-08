@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1281521546222346241", "text": "Eu duvido ele responder", "url": "/JoneDarbe/status/1281521546222346241", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 12:32:00", "is_reply": true, "is_retweet": false, "user_id": "1221530980965584896"}

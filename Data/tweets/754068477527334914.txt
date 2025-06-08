@@ -1,0 +1,1 @@
+{"usernameTweet": "nazifsevim", "ID": "754068477527334914", "text": "# sokağaçıkma  galyana gelmeyin orduyla şaka olmaz.", "url": "/nazifsevim/status/754068477527334914", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:41:49", "is_reply": false, "is_retweet": false, "user_id": "111548027"}

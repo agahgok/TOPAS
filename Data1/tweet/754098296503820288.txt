@@ -1,0 +1,1 @@
+{"usernameTweet": "bkagancumur", "ID": "754098296503820288", "text": "# SokağaSakınÇıkma  bu darbecik tutmaz vatanını seven sokağa.Allahü teala vatansız bırakmasın.", "url": "/bkagancumur/status/754098296503820288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:40:19", "is_reply": false, "is_retweet": false, "user_id": "179976207"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AlperTolgaGEDK", "ID": "1282370013517807616", "text": "yaw he he ,adalet diye yürüyen Erdoğandı kontrollü  darbe  diyende baban.", "url": "/AlperTolgaGEDK/status/1282370013517807616", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 20:43:31", "is_reply": true, "is_retweet": false, "user_id": "1332878839"}

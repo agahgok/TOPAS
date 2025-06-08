@@ -1,0 +1,1 @@
+{"usernameTweet": "drapeaurouge84", "ID": "754092332132208640", "text": "olayın en açık ifadesi ya başkanlık ya kaos #SokağaSakınÇıkma", "url": "/drapeaurouge84/status/754092332132208640", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:36", "is_reply": false, "is_retweet": false, "user_id": "1117557326"}

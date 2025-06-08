@@ -1,0 +1,1 @@
+{"usernameTweet": "misyonumuzne", "ID": "754093198750908416", "text": "# sokağasakınçıkma \n#sokaktayız \n#erdoğan \n#darbeyekarşı pic.twitter.com/HFAGuFD7nN", "url": "/misyonumuzne/status/754093198750908416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:03", "is_reply": false, "is_retweet": false, "user_id": "2336401347"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "C_I_G_X_M", "ID": "754091500682747904", "text": "Dini yine alet ettiniz helal olsun saat 02:12 sela okunuyor!!!\n#SokağaSakınÇıkma", "url": "/C_I_G_X_M/status/754091500682747904", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 02:13:18", "is_reply": false, "is_retweet": false, "user_id": "2403047778"}

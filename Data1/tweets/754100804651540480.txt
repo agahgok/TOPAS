@@ -1,0 +1,1 @@
+{"usernameTweet": "ardagulenay", "ID": "754100804651540480", "text": "ezanlar dinin temelidir; demokrasinin değil  #SokağaSakınÇıkma", "url": "/ardagulenay/status/754100804651540480", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:50:17", "is_reply": false, "is_retweet": false, "user_id": "799915050"}

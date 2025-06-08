@@ -1,0 +1,1 @@
+{"usernameTweet": "m62b44tu", "ID": "1282083153390309383", "text": "Darbecileri  darbe  yaptıracak kadar güçlendiren başka lider de yok evet.", "url": "/m62b44tu/status/1282083153390309383", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 01:43:38", "is_reply": true, "is_retweet": false, "user_id": "1126224808801447936"}

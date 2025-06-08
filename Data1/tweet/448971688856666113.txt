@@ -1,0 +1,1 @@
+{"usernameTweet": "CR7_Colombia", "ID": "448971688856666113", "text": "Cristiano  Ronaldo  Vs Rakitic & Vitolo.  pic.twitter.com/3H3koKRcAt", "url": "/CR7_Colombia/status/448971688856666113", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:56:06", "is_reply": false, "is_retweet": false, "user_id": "1539265753"}

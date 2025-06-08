@@ -1,0 +1,1 @@
+{"usernameTweet": "Gulumsun_", "ID": "754072835702697984", "text": "sen kimsin ben başkomutan benim diyorsun seni at bile kabul etmedi hatırla\n#SokağaSakınÇıkma", "url": "/Gulumsun_/status/754072835702697984", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:59:08", "is_reply": false, "is_retweet": false, "user_id": "1473067440"}

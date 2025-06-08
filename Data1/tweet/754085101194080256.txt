@@ -1,0 +1,1 @@
+{"usernameTweet": "PINARTWEETY", "ID": "754085101194080256", "text": "İmamlar mesaide her yerde selalar #SokağaSakınÇıkma  #SokagaÇıkmayın  #OyunaGelmeyin", "url": "/PINARTWEETY/status/754085101194080256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:53", "is_reply": false, "is_retweet": false, "user_id": "99771148"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Lon_1903_Bjk", "ID": "754088285392269312", "text": "Vatanını seviyorsan, #SokağaSakınÇıkma   pic.twitter.com/MvbIa4LnpC", "url": "/Lon_1903_Bjk/status/754088285392269312", "nbr_retweet": 8, "nbr_favorite": 15, "nbr_reply": 1, "datetime": "2016-07-16 02:00:32", "is_reply": false, "is_retweet": false, "user_id": "931693136"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "butterflnur", "ID": "1281531372730023936", "text": "cemnisciler surekli  darbe  yedi cembarcilar da yiyecek ", "url": "/butterflnur/status/1281531372730023936", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-10 13:11:03", "is_reply": true, "is_retweet": false, "user_id": "1264662942726983681"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "armumtt", "ID": "754075888896073728", "text": "Hepimiz Kardeşiz Canız Biriz Oyuna Gelmeyin Sakin Olun Ne Olur #SokağaSakınÇıkma", "url": "/armumtt/status/754075888896073728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:16", "is_reply": false, "is_retweet": false, "user_id": "284772332"}

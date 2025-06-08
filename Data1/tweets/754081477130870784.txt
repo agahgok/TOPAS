@@ -1,0 +1,1 @@
+{"usernameTweet": "yedincigezegen", "ID": "754081477130870784", "text": "# SokağaSakınÇıkma", "url": "/yedincigezegen/status/754081477130870784", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:28", "is_reply": false, "is_retweet": false, "user_id": "202554252"}

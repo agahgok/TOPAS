@@ -1,0 +1,1 @@
+{"usernameTweet": "Moshe58512704", "ID": "1281630217434431488", "text": "Kemalizme ilk ciddi  darbe  vuruldu Elhamdulillah!", "url": "/Moshe58512704/status/1281630217434431488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 19:43:50", "is_reply": true, "is_retweet": false, "user_id": "1150163575115264001"}

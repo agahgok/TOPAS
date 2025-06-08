@@ -1,0 +1,1 @@
+{"usernameTweet": "zeynpkutlu", "ID": "754071810933653504", "text": "Sakın #SokağaSakınÇıkma", "url": "/zeynpkutlu/status/754071810933653504", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:55:04", "is_reply": false, "is_retweet": false, "user_id": "2560301483"}

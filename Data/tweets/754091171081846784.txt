@@ -1,0 +1,1 @@
+{"usernameTweet": "_ebukasim_", "ID": "754091171081846784", "text": "# darbecilereidam  #darbecilereidamgelsin  #idamistiyoruz  #darbecilerasılsın  #SokağaSakınÇıkma", "url": "/_ebukasim_/status/754091171081846784", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:00", "is_reply": false, "is_retweet": false, "user_id": "814691647"}

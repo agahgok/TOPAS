@@ -1,0 +1,1 @@
+{"usernameTweet": "gonlumcocuk", "ID": "754090256224231424", "text": "# SokağaSakınÇıkma  hadi millet aptal, muhalefet aptal, ülke yıkılıyor. doğan medyası nin kanallarına bak.", "url": "/gonlumcocuk/status/754090256224231424", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:08:22", "is_reply": false, "is_retweet": false, "user_id": "980973842"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tamotuzbees", "ID": "1282608651937742848", "text": "İlkokul aşkım evlenmiş. Anaokulu aşkımdan sonra ikinci büyük  darbe .", "url": "/tamotuzbees/status/1282608651937742848", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2020-07-13 12:31:46", "is_reply": false, "is_retweet": false, "user_id": "455060290"}

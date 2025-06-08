@@ -1,0 +1,1 @@
+{"usernameTweet": "_ekotat", "ID": "754091984076374016", "text": "# SokağaSakınÇıkma  evet darbeye destek verenler çıkmayın evde oturup titreyin #f_fuatavni  sende", "url": "/_ekotat/status/754091984076374016", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:14", "is_reply": false, "is_retweet": false, "user_id": "341429035"}

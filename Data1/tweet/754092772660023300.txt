@@ -1,0 +1,1 @@
+{"usernameTweet": "nurselsulh94", "ID": "754092772660023300", "text": "Askerimize saldıranların hepsi vatan hainidir !!!\n#SokağaSakınÇıkma   pic.twitter.com/yphTbszSbm", "url": "/nurselsulh94/status/754092772660023300", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:18:22", "is_reply": false, "is_retweet": false, "user_id": "3044726926"}

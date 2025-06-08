@@ -1,0 +1,1 @@
+{"usernameTweet": "SamuRuiz01", "ID": "448972529810825216", "text": "@ tikitaka  ¿cuánto gastará @Cristiano  en kleenex?", "url": "/SamuRuiz01/status/448972529810825216", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2014-03-27 02:59:27", "is_reply": false, "is_retweet": false, "user_id": "221467358"}

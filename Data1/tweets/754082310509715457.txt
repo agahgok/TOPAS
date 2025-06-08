@@ -1,0 +1,1 @@
+{"usernameTweet": "sincapciks", "ID": "754082310509715457", "text": "İç savaş istemiyorsan  #SokağaSakınÇıkma", "url": "/sincapciks/status/754082310509715457", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:47", "is_reply": false, "is_retweet": false, "user_id": "623762143"}

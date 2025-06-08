@@ -1,0 +1,1 @@
+{"usernameTweet": "samikarahan42", "ID": "754076317650485248", "text": "TAYYİBE UYMA #SokağaSakınÇıkma \nKardeşi kardeşe kırdırmak istiyorlar.", "url": "/samikarahan42/status/754076317650485248", "nbr_retweet": 8, "nbr_favorite": 7, "nbr_reply": 2, "datetime": "2016-07-16 01:12:58", "is_reply": false, "is_retweet": false, "user_id": "2821593606"}

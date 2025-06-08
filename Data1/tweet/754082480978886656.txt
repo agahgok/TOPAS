@@ -1,0 +1,1 @@
+{"usernameTweet": "afrahlisa", "ID": "754082480978886656", "text": " #SokağaSakınÇıkma", "url": "/afrahlisa/status/754082480978886656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:28", "is_reply": false, "is_retweet": false, "user_id": "4353498203"}

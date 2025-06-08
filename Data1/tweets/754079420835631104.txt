@@ -1,0 +1,1 @@
+{"usernameTweet": "semihsitil", "ID": "754079420835631104", "text": "Arkadaşım,kardeşim,  hemşerilerim vatanın için provokasyonlara gelmemek için lütfen #SokağaSakınÇıkma", "url": "/semihsitil/status/754079420835631104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:18", "is_reply": false, "is_retweet": false, "user_id": "302882933"}

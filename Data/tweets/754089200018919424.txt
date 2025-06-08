@@ -1,0 +1,1 @@
+{"usernameTweet": "Mitka_G", "ID": "754089200018919424", "text": "Darbe girisimi ile başladı, AKP mitingine dönüştü  #SokağaSakınÇıkma", "url": "/Mitka_G/status/754089200018919424", "nbr_retweet": 3, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:04:10", "is_reply": false, "is_retweet": false, "user_id": "516794171"}

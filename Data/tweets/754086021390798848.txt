@@ -1,0 +1,1 @@
+{"usernameTweet": "kes_tras", "ID": "754086021390798848", "text": "Adana'da sela verip, ezan okuyarak, sokağa çıkın anaonsu yapan imamlar fişleniyor. #SokağaSakınÇıkma", "url": "/kes_tras/status/754086021390798848", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:51:32", "is_reply": false, "is_retweet": false, "user_id": "3066021303"}

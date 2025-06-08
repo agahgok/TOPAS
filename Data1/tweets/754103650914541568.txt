@@ -1,0 +1,1 @@
+{"usernameTweet": "onevittoria", "ID": "754103650914541568", "text": "Aman! #SokağaSakınÇıkma", "url": "/onevittoria/status/754103650914541568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:01:35", "is_reply": false, "is_retweet": false, "user_id": "527919744"}

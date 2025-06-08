@@ -1,0 +1,1 @@
+{"usernameTweet": "bkagancumur", "ID": "754090647699726339", "text": "Darbeciğin mayası tutmaz milletimizin gönül denizi çok geniştir.sokağa çık vatanını koru #SokağaSakınÇıkma", "url": "/bkagancumur/status/754090647699726339", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:55", "is_reply": false, "is_retweet": false, "user_id": "179976207"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bizzatbenkendim", "ID": "754091407355158528", "text": "# SokağaSakınÇıkma  vatan için sokağa çıkmak işinize gelmedimi", "url": "/bizzatbenkendim/status/754091407355158528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:12:56", "is_reply": false, "is_retweet": false, "user_id": "441262110"}

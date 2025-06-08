@@ -1,0 +1,1 @@
+{"usernameTweet": "kapsolll", "ID": "754092713851707392", "text": "aq ülkesini video oyunu yapsak tutmaz çöp olur olaylara gel !!! ... #sokağasakınçıkma  #darbeyehayır", "url": "/kapsolll/status/754092713851707392", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:08", "is_reply": false, "is_retweet": false, "user_id": "330475003"}

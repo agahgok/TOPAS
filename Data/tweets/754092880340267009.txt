@@ -1,0 +1,1 @@
+{"usernameTweet": "iscoskuner", "ID": "754092880340267009", "text": "Tiyatronuz başınızı yesin... Allah'ım masumlara yardım et, hainleri bertaraf et #SokağaSakınÇıkma", "url": "/iscoskuner/status/754092880340267009", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:47", "is_reply": false, "is_retweet": false, "user_id": "2218802694"}

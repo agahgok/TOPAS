@@ -1,0 +1,1 @@
+{"usernameTweet": "bahadirbaco", "ID": "754139681474961408", "text": "Havalimanı ya bombalandı yada uçak düşürdüler ev sarsıldı camlar patladı #SokağaSakınÇıkma", "url": "/bahadirbaco/status/754139681474961408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:24:45", "is_reply": false, "is_retweet": false, "user_id": "2769969994"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TarikTelci", "ID": "754070472522891264", "text": "# SokağaSakınÇıkma  RTE HALKI KIRMAYA ÇALIŞIYOR", "url": "/TarikTelci/status/754070472522891264", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:49:45", "is_reply": false, "is_retweet": false, "user_id": "104107645"}

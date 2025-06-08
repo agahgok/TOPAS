@@ -1,0 +1,1 @@
+{"usernameTweet": "biryolcu22", "ID": "1281897021801201664", "text": "Gel tabi yaptığın suç bile sayılmaz \n\nSana  darbe  yapmışlardır", "url": "/biryolcu22/status/1281897021801201664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 13:24:01", "is_reply": true, "is_retweet": false, "user_id": "1020638666526470144"}

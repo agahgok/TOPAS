@@ -1,0 +1,1 @@
+{"usernameTweet": "Moneydxpara", "ID": "754087073854828544", "text": "# SokağaSakınÇıkma   25 üst duzey asker hakkında darbeye teşebbüs,den tutuklama emri verdı savcılar", "url": "/Moneydxpara/status/754087073854828544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:43", "is_reply": false, "is_retweet": false, "user_id": "197214360"}

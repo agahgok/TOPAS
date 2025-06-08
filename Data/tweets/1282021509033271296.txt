@@ -1,0 +1,1 @@
+{"usernameTweet": "nr_mersu", "ID": "1282021509033271296", "text": "Sonda  darbe   yiyoruz tabi", "url": "/nr_mersu/status/1282021509033271296", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 21:38:41", "is_reply": true, "is_retweet": false, "user_id": "1139301926439399424"}

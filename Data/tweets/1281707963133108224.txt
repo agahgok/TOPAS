@@ -1,0 +1,1 @@
+{"usernameTweet": "meyilAlp", "ID": "1281707963133108224", "text": "15 Temmuz  !! Darbe  si  pic.twitter.com/iAFnRKa2xc", "url": "/meyilAlp/status/1281707963133108224", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 00:52:46", "is_reply": false, "is_retweet": false, "user_id": "797544005621972992"}

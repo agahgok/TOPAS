@@ -1,0 +1,1 @@
+{"usernameTweet": "m4ozdogan", "ID": "754076236201205761", "text": "# SokağaSakınÇıkma  diyenler bir avuçsunuz.pkkdan ümidi kestiniz anlaşılan", "url": "/m4ozdogan/status/754076236201205761", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:12:39", "is_reply": false, "is_retweet": false, "user_id": "2830086828"}

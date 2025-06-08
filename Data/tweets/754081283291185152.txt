@@ -1,0 +1,1 @@
+{"usernameTweet": "deniztopac35", "ID": "754081283291185152", "text": "# SokağaSakınÇıkma  Camiden çağrı Aydın da da başladı.  Dini alet etmediginiz birsey olsun şu hayatta.", "url": "/deniztopac35/status/754081283291185152", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:32:42", "is_reply": false, "is_retweet": false, "user_id": "445357639"}

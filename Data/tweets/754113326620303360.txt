@@ -1,0 +1,1 @@
+{"usernameTweet": "MintehaCalli", "ID": "754113326620303360", "text": "# SokağaSakınÇıkma   pic.twitter.com/cFoxgngrcE", "url": "/MintehaCalli/status/754113326620303360", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:40:02", "is_reply": false, "is_retweet": false, "user_id": "271644326"}

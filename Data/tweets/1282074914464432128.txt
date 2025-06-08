@@ -1,0 +1,1 @@
+{"usernameTweet": "h_beyzaarcn", "ID": "1282074914464432128", "text": "Geçen yine  darbe  üstüne  darbe  yiyip uslanmıyorum", "url": "/h_beyzaarcn/status/1282074914464432128", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-12 01:10:54", "is_reply": false, "is_retweet": false, "user_id": "1114086583534260226"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "sermin__", "ID": "754083915778981888", "text": "# SokağaSakınÇıkma  valla bu türklerin birbirine girmesini zevkle izliyorum !!!", "url": "/sermin__/status/754083915778981888", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:43:10", "is_reply": false, "is_retweet": false, "user_id": "399229041"}

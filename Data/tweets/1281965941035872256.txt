@@ -1,0 +1,1 @@
+{"usernameTweet": "DrmzZrd", "ID": "1281965941035872256", "text": "Minik kalbim  darbe  üstüne  darbe  yiyor", "url": "/DrmzZrd/status/1281965941035872256", "nbr_retweet": 0, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2020-07-11 17:57:52", "is_reply": false, "is_retweet": false, "user_id": "1184034678514372608"}

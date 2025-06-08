@@ -1,0 +1,1 @@
+{"usernameTweet": "mkbahadir", "ID": "754093760141746176", "text": "Koyunlar #SokağaSakınÇıkma  yın", "url": "/mkbahadir/status/754093760141746176", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:17", "is_reply": false, "is_retweet": false, "user_id": "146488651"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "__pocahontas", "ID": "1281175793218043905", "text": "Kitabin arkasindan  darbe  sonucu bi delik acilmis 40 sayfa boyu yirtik", "url": "/__pocahontas/status/1281175793218043905", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:38:06", "is_reply": false, "is_retweet": false, "user_id": "289783315"}

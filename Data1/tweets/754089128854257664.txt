@@ -1,0 +1,1 @@
+{"usernameTweet": "hamityanik", "ID": "754089128854257664", "text": "15 Temmuz Milli İrade Bayramı İşte bayram budur! #SokağaSakınÇıkma   pic.twitter.com/RJQNVaYkOX", "url": "/hamityanik/status/754089128854257664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:53", "is_reply": false, "is_retweet": false, "user_id": "33177154"}

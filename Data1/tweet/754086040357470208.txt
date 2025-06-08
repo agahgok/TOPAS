@@ -1,0 +1,1 @@
+{"usernameTweet": "DnoktaM", "ID": "754086040357470208", "text": "darbe ise komik değil darbe tiyatrosu ise hiç komik değil #ankara  #sokağaçıkma", "url": "/DnoktaM/status/754086040357470208", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:51:36", "is_reply": false, "is_retweet": false, "user_id": "51456264"}

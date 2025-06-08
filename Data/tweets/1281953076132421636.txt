@@ -1,0 +1,1 @@
+{"usernameTweet": "jetstreams38", "ID": "1281953076132421636", "text": "Darbe  gibi iğrenç bir kelimeyi ağzınıza sakız ettiniz #OyMoyYok", "url": "/jetstreams38/status/1281953076132421636", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 17:06:45", "is_reply": false, "is_retweet": false, "user_id": "1011513757380562945"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "pisttttttt", "ID": "1281623076178984962", "text": "Alnı secde gören kötü olmaz deyip  darbe  yapanlar gibi mi mümtazer gibi teröristler mi?", "url": "/pisttttttt/status/1281623076178984962", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 19:15:27", "is_reply": true, "is_retweet": false, "user_id": "283502843"}

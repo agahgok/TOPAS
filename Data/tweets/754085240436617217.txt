@@ -1,0 +1,1 @@
+{"usernameTweet": "aysu_38", "ID": "754085240436617217", "text": "# SokağaSakınÇıkma  diyen.kahpe dir yallostur vatanini satan devleteni satan occcc dur afi itler", "url": "/aysu_38/status/754085240436617217", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:48:26", "is_reply": false, "is_retweet": false, "user_id": "951865429"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "renkliveorjinl", "ID": "754080547807358976", "text": "# SokağaSakınÇıkma", "url": "/renkliveorjinl/status/754080547807358976", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:29:47", "is_reply": false, "is_retweet": false, "user_id": "482180935"}

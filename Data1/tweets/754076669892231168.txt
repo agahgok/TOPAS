@@ -1,0 +1,1 @@
+{"usernameTweet": "ayvagul", "ID": "754076669892231168", "text": "Oyuna gelme biz omuz omuza hakkın yanında olalım #SokağaSakınÇıkma   pic.twitter.com/fjn0zgOdSh", "url": "/ayvagul/status/754076669892231168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:22", "is_reply": false, "is_retweet": false, "user_id": "609263198"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "DenizKurosaki", "ID": "754084163469312002", "text": "Askerlerin, askeriye içinde çıkmak için emir beklediğine dair bilgi geldi. \n#SokağaSakınÇıkma", "url": "/DenizKurosaki/status/754084163469312002", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:09", "is_reply": false, "is_retweet": false, "user_id": "2215583961"}

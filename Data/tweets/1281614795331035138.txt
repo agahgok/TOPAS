@@ -1,0 +1,1 @@
+{"usernameTweet": "ozer_v", "ID": "1281614795331035138", "text": "Seçim meçim yok.\nAKP laikliği kaldırmak içim  darbe  yapacak.", "url": "/ozer_v/status/1281614795331035138", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 2, "datetime": "2020-07-10 18:42:33", "is_reply": true, "is_retweet": false, "user_id": "1008766917564301319"}

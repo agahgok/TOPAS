@@ -1,0 +1,1 @@
+{"usernameTweet": "ycandan", "ID": "754069739073396736", "text": "ATATÜRK #TskCumhuriyetinTeminatıdır   #SokağaSakınÇıkma   pic.twitter.com/K5gMVgACuU", "url": "/ycandan/status/754069739073396736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:46:50", "is_reply": false, "is_retweet": false, "user_id": "97689791"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "filifot4", "ID": "1281849856835846144", "text": "Kafaya  darbe  aldıktan sonra ben :)) Bu yorumu tam tersine çevirip okuyun bence !", "url": "/filifot4/status/1281849856835846144", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 10:16:36", "is_reply": true, "is_retweet": false, "user_id": "1271948653649973248"}

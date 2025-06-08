@@ -1,0 +1,1 @@
+{"usernameTweet": "gwzayhn", "ID": "754075155844988928", "text": "# SokağaSakınÇıkma   pic.twitter.com/EMSAjCz2jt", "url": "/gwzayhn/status/754075155844988928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:08:21", "is_reply": false, "is_retweet": false, "user_id": "373038046"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TintasAhmet", "ID": "754083817883897856", "text": "Memleketin selasi veriliyor. #SokağaSakınÇıkma", "url": "/TintasAhmet/status/754083817883897856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:47", "is_reply": false, "is_retweet": false, "user_id": "513109339"}

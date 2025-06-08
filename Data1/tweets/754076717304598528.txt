@@ -1,0 +1,1 @@
+{"usernameTweet": "Mehmet_dogann", "ID": "754076717304598528", "text": "Ağaç için sokağa dökülenler vatan için  #SokağaSakınÇıkma  diyor.", "url": "/Mehmet_dogann/status/754076717304598528", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:14:34", "is_reply": false, "is_retweet": false, "user_id": "219456452"}

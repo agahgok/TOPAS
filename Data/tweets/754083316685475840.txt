@@ -1,0 +1,1 @@
+{"usernameTweet": "mirberan", "ID": "754083316685475840", "text": "And The Oscar Goes To .... Boşluğu uygun şekilde doldurun #SokağaSakınÇıkma", "url": "/mirberan/status/754083316685475840", "nbr_retweet": 0, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 01:40:47", "is_reply": false, "is_retweet": false, "user_id": "71917311"}

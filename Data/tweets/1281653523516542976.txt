@@ -1,0 +1,1 @@
+{"usernameTweet": "belkiipek", "ID": "1281653523516542976", "text": "En yakınlarımızdan  darbe  yemeye zaten alışkınız hepimiz bunu geçip bilmediğimiz bir şey söyleyin", "url": "/belkiipek/status/1281653523516542976", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-10 21:16:26", "is_reply": false, "is_retweet": false, "user_id": "3014371906"}

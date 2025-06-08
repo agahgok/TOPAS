@@ -1,0 +1,1 @@
+{"usernameTweet": "14a06a", "ID": "754085500391153664", "text": "# sokağasakınçıkma  ülmek biz inananlar icin dügün günüdür \nbunak fetö ve CIA ye bu ülkeyi teslim etmeyecegiz", "url": "/14a06a/status/754085500391153664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:28", "is_reply": false, "is_retweet": false, "user_id": "144309205"}

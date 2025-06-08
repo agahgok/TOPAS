@@ -1,0 +1,1 @@
+{"usernameTweet": "kenan12_erol", "ID": "754084124860612608", "text": "# SokağaSakınÇıkma  sokaklar tehlikeli", "url": "/kenan12_erol/status/754084124860612608", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 01:44:00", "is_reply": true, "is_retweet": false, "user_id": "4409222427"}

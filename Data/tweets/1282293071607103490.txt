@@ -1,0 +1,1 @@
+{"usernameTweet": "ynsemreksz", "ID": "1282293071607103490", "text": "Bi  darbe  daha ", "url": "/ynsemreksz/status/1282293071607103490", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 15:37:46", "is_reply": true, "is_retweet": false, "user_id": "2933769543"}

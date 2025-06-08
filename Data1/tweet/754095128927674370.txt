@@ -1,0 +1,1 @@
+{"usernameTweet": "Sergeennnn", "ID": "754095128927674370", "text": "Güzel ülkem Suriye gibi olucak o yüzden #SokağaSakınÇıkma  !", "url": "/Sergeennnn/status/754095128927674370", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:43", "is_reply": false, "is_retweet": false, "user_id": "122625609"}

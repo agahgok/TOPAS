@@ -1,0 +1,1 @@
+{"usernameTweet": "dorukozdemir", "ID": "754079213632782336", "text": "# sokagasakincikma  oyuna gelme!", "url": "/dorukozdemir/status/754079213632782336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:29", "is_reply": false, "is_retweet": false, "user_id": "19142608"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ykolebisi", "ID": "754075745048203264", "text": "Artık aklınızı başınıza toplayın bırakın asker insana insani değerlerini geri versin...  #SokağaSakınÇıkma", "url": "/ykolebisi/status/754075745048203264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:42", "is_reply": false, "is_retweet": false, "user_id": "750892974"}

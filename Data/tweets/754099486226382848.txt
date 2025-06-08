@@ -1,0 +1,1 @@
+{"usernameTweet": "dilakaraalp10", "ID": "754099486226382848", "text": "# SokağaSakınÇıkma   pic.twitter.com/6ncvoLN0hZ", "url": "/dilakaraalp10/status/754099486226382848", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:45:02", "is_reply": false, "is_retweet": false, "user_id": "2464890625"}

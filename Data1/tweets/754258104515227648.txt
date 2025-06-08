@@ -1,0 +1,1 @@
+{"usernameTweet": "raifff", "ID": "754258104515227648", "text": "# sokağaçıkma  Galyana gelmeyin insanca yaşayalım. Kendi kendimizle savaşacak halimiz yok.", "url": "/raifff/status/754258104515227648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 13:15:20", "is_reply": false, "is_retweet": false, "user_id": "159627892"}

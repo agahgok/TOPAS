@@ -1,0 +1,1 @@
+{"usernameTweet": "ayvagul", "ID": "754076342367481856", "text": "Sakın oyuna gelme güzel ülkem #SokağaSakınÇıkma   pic.twitter.com/vtHbeSNWvq", "url": "/ayvagul/status/754076342367481856", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:13:04", "is_reply": false, "is_retweet": false, "user_id": "609263198"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "akdnzerdemm", "ID": "754076347744522240", "text": "# SokağaSakınÇıkma  diyenler etek altından el sallasın, meydanlar demokrasi ye sahip çıkıyor..", "url": "/akdnzerdemm/status/754076347744522240", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:06", "is_reply": false, "is_retweet": false, "user_id": "4764989367"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "EmrahKarabudak", "ID": "754086882573680641", "text": "Gösterinin sonunda kazanan halk olur inş  #SokağaSakınÇıkma", "url": "/EmrahKarabudak/status/754086882573680641", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:54:57", "is_reply": false, "is_retweet": false, "user_id": "152168331"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "lokmanunsall", "ID": "754076987594080256", "text": "# SokağaSakınÇıkma  diyen darbeseviciler, kalbiniz kurusun!!!", "url": "/lokmanunsall/status/754076987594080256", "nbr_retweet": 3, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:15:38", "is_reply": false, "is_retweet": false, "user_id": "302566691"}

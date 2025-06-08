@@ -1,0 +1,1 @@
+{"usernameTweet": "saban_kskbrn", "ID": "754073491675160577", "text": "Milleti sokağa çağırıyorsun yeniden patlama olursa ne yapıcan!!!!\n\n#SokağaSakınÇıkma   #ankara   #", "url": "/saban_kskbrn/status/754073491675160577", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:45", "is_reply": false, "is_retweet": false, "user_id": "2459706258"}

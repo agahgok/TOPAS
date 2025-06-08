@@ -1,0 +1,1 @@
+{"usernameTweet": "ferdaisik1", "ID": "754068539976200192", "text": "Ee ne oldu gezi ruhumu sandında sokağa çağırılıyor masum halkı.! #sokağaçıkma", "url": "/ferdaisik1/status/754068539976200192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:42:04", "is_reply": false, "is_retweet": false, "user_id": "4355790387"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "VegadaLyra", "ID": "754110906603298816", "text": "Türkiye çok tehlikeli bir dönemden geçiyor. #SokağaSakınÇıkma", "url": "/VegadaLyra/status/754110906603298816", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:30:25", "is_reply": false, "is_retweet": false, "user_id": "218312557"}

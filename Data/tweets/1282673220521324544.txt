@@ -1,0 +1,1 @@
+{"usernameTweet": "EbuengNic", "ID": "1282673220521324544", "text": "Tagal ng chikahan namen ni  darbe  ah", "url": "/EbuengNic/status/1282673220521324544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:48:21", "is_reply": false, "is_retweet": false, "user_id": "1105007816752807937"}

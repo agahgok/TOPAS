@@ -1,0 +1,1 @@
+{"usernameTweet": "filinta_y", "ID": "1282605798145896448", "text": "Bizler gaz kaçağını çakmak la kontrol edenleriz ağa bize gelmez böyle  darbe  falan", "url": "/filinta_y/status/1282605798145896448", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-13 12:20:26", "is_reply": true, "is_retweet": false, "user_id": "774219426153586690"}

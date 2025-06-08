@@ -1,0 +1,1 @@
+{"usernameTweet": "ozgundogan8", "ID": "754087746604507136", "text": "Bu bir darbe değildir bu bir oyundur bu bir senaryodur #SokağaSakınÇıkma  #DARBEYEHAYIR", "url": "/ozgundogan8/status/754087746604507136", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:58:23", "is_reply": false, "is_retweet": false, "user_id": "3183989163"}

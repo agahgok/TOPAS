@@ -1,0 +1,1 @@
+{"usernameTweet": "berfinkhrmn_", "ID": "1281708091185168384", "text": "bu nasıl  darbe", "url": "/berfinkhrmn_/status/1281708091185168384", "nbr_retweet": 0, "nbr_favorite": 15, "nbr_reply": 0, "datetime": "2020-07-11 00:53:16", "is_reply": false, "is_retweet": false, "user_id": "976699939"}

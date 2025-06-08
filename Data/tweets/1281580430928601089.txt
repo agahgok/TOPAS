@@ -1,0 +1,1 @@
+{"usernameTweet": "kendinioku", "ID": "1281580430928601089", "text": "Bizans zihniyetine ikinci  darbe \nBizde tarih böyle tekerrür eder\n#AyasofyaCamii", "url": "/kendinioku/status/1281580430928601089", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-10 16:26:00", "is_reply": false, "is_retweet": false, "user_id": "1010469133073469445"}

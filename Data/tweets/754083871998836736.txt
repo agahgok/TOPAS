@@ -1,0 +1,1 @@
+{"usernameTweet": "kinngacar", "ID": "754083871998836736", "text": "Kutsal emanetlerde akp reklamında ilginç #SokağaSakınÇıkma", "url": "/kinngacar/status/754083871998836736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:59", "is_reply": false, "is_retweet": false, "user_id": "96228781"}

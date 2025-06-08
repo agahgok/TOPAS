@@ -1,0 +1,1 @@
+{"usernameTweet": "armaganarici", "ID": "1282484339935268868", "text": "Bu yaşadığımız şeye küresel anlamda insanlığın karşılaştığı ilk  darbe  tehlikesi denebilir.", "url": "/armaganarici/status/1282484339935268868", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-13 04:17:48", "is_reply": false, "is_retweet": false, "user_id": "1134237996759363584"}

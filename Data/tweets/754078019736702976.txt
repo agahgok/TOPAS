@@ -1,0 +1,1 @@
+{"usernameTweet": "musicmanhakan", "ID": "754078019736702976", "text": "ÜLKEYİ BU HALE KİM GETİRDİ??? #SokağaSakınÇıkma", "url": "/musicmanhakan/status/754078019736702976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:44", "is_reply": false, "is_retweet": false, "user_id": "370402911"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkmenKuvva", "ID": "754067842144829440", "text": "Yasak var  #SokağaSakınÇıkma  bu vatana ihanet etme", "url": "/TurkmenKuvva/status/754067842144829440", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:39:18", "is_reply": false, "is_retweet": false, "user_id": "1119941220"}

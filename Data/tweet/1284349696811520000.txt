@@ -1,0 +1,1 @@
+{"usernameTweet": "Hana_dabe", "ID": "1284349696811520000", "text": "普通にいけたわばくわら", "url": "/Hana_dabe/status/1284349696811520000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 07:50:04", "is_reply": false, "is_retweet": false, "user_id": "1282217510339612672"}

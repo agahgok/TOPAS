@@ -1,0 +1,1 @@
+{"usernameTweet": "tinkivinkiee", "ID": "754082587400896512", "text": "Balkon konuşmasıyla iç savaş çıkarıyor. Kendi insin sokağa önce #SokağaSakınÇıkma", "url": "/tinkivinkiee/status/754082587400896512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 01:37:53", "is_reply": false, "is_retweet": false, "user_id": "698681314250268672"}

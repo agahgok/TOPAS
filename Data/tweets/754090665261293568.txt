@@ -1,0 +1,1 @@
+{"usernameTweet": "cankas9", "ID": "754090665261293568", "text": "# SokağaSakınÇıkma  %50 nerede diyenler\n%100 ü GÖRDÜ.......", "url": "/cankas9/status/754090665261293568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:59", "is_reply": false, "is_retweet": false, "user_id": "4304280736"}

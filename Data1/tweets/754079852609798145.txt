@@ -1,0 +1,1 @@
+{"usernameTweet": "wersay13", "ID": "754079852609798145", "text": "3G bağlantısıyla darbe bastırılabileceğini de gördük. #SokağaSakınÇıkma", "url": "/wersay13/status/754079852609798145", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:01", "is_reply": false, "is_retweet": false, "user_id": "747892811073208320"}

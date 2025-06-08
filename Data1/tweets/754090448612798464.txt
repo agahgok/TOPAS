@@ -1,0 +1,1 @@
+{"usernameTweet": "ozlem19demir", "ID": "754090448612798464", "text": "2 kez acınacak yerdeyiz #SokağaSakınÇıkma", "url": "/ozlem19demir/status/754090448612798464", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:09:07", "is_reply": false, "is_retweet": false, "user_id": "2475864401"}

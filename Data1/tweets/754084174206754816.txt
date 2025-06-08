@@ -1,0 +1,1 @@
+{"usernameTweet": "nazliuygun1905", "ID": "754084174206754816", "text": "Camilerden sela veriyor imamlar halkı sokağa çağırıyor!\n#OyunaGelme  #SokağaSakınÇıkma !", "url": "/nazliuygun1905/status/754084174206754816", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:44:11", "is_reply": false, "is_retweet": false, "user_id": "2729880999"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "edu_volkan", "ID": "1281688875308589056", "text": "Yine kendi vatanımızda kendimize  darbe  yapıyoruz  pic.twitter.com/B4rO2yYaAT", "url": "/edu_volkan/status/1281688875308589056", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 23:36:55", "is_reply": false, "is_retweet": false, "user_id": "3316189271"}

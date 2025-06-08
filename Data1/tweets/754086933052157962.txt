@@ -1,0 +1,1 @@
+{"usernameTweet": "yavuzselim20231", "ID": "754086933052157962", "text": "# SokağaSakınÇıkma  SOKAGA ÇIKMA OYUNU BOZ GÜZEL ÜLKEM OYUN HEP AYNI  pic.twitter.com/k7UigStlhF", "url": "/yavuzselim20231/status/754086933052157962", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:09", "is_reply": false, "is_retweet": false, "user_id": "2968114161"}

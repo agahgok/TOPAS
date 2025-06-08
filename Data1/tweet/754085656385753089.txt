@@ -1,0 +1,1 @@
+{"usernameTweet": "dionysosAg", "ID": "754085656385753089", "text": "olum adamlar askere saldırıyor ya ya la \n#SokağaSakınÇıkma  #Ankara", "url": "/dionysosAg/status/754085656385753089", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:05", "is_reply": false, "is_retweet": false, "user_id": "726697437000245248"}

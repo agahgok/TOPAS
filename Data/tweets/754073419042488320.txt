@@ -1,0 +1,1 @@
+{"usernameTweet": "elifjes", "ID": "754073419042488320", "text": "# sokağaçıkma  #oyunagelme   https://www. instagram.com/p/BH5ewM2jXvP/  ", "url": "/elifjes/status/754073419042488320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:27", "is_reply": false, "is_retweet": false, "user_id": "714064613940326400"}

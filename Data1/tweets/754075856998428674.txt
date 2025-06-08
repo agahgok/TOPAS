@@ -1,0 +1,1 @@
+{"usernameTweet": "semra1923", "ID": "754075856998428674", "text": "# SokağaSakınÇıkma  \n#SokağaSakınÇıkma   pic.twitter.com/82L10DQmeO", "url": "/semra1923/status/754075856998428674", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:09", "is_reply": false, "is_retweet": false, "user_id": "480762734"}

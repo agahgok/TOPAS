@@ -1,0 +1,1 @@
+{"usernameTweet": "timur02121", "ID": "754079035479777280", "text": "Camiilerden sokağa çıkın anonsları yapılıyor! #SokağaÇıkma", "url": "/timur02121/status/754079035479777280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:46", "is_reply": false, "is_retweet": false, "user_id": "2389265742"}

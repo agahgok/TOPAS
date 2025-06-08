@@ -1,0 +1,1 @@
+{"usernameTweet": "MmiNe_KARA", "ID": "754078226981486594", "text": "Ezanla sokağa çağrı ha ! Böyle bir günde bile din istismarı demek. Helal olsun istikrarınıza #SokağaSakınÇıkma", "url": "/MmiNe_KARA/status/754078226981486594", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:20:34", "is_reply": false, "is_retweet": false, "user_id": "548705679"}

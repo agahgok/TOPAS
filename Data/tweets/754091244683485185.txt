@@ -1,0 +1,1 @@
+{"usernameTweet": "HakanAkkaya_", "ID": "754091244683485185", "text": "# SokağaSakınÇıkma  yat uyu hatta. Bu tarihi darbe soytarılarına şahit olma... Kafanı göm yatağa...", "url": "/HakanAkkaya_/status/754091244683485185", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:12:17", "is_reply": false, "is_retweet": false, "user_id": "428425642"}

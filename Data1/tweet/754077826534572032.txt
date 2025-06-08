@@ -1,0 +1,1 @@
+{"usernameTweet": "4721mrd", "ID": "754077826534572032", "text": "Yapacağınız darbeyi sikim böyle darbe mi olur başkanlık senaryosu #SokağaSakınÇıkma", "url": "/4721mrd/status/754077826534572032", "nbr_retweet": 6, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:18:58", "is_reply": false, "is_retweet": false, "user_id": "610815711"}

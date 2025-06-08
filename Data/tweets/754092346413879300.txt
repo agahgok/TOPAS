@@ -1,0 +1,1 @@
+{"usernameTweet": "baklavacalancck", "ID": "754092346413879300", "text": "Hıııı hııııı taaaaaam taaaaam inandık    #SokağaSakınÇıkma   pic.twitter.com/0lXGRBcFFf", "url": "/baklavacalancck/status/754092346413879300", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 02:16:40", "is_reply": false, "is_retweet": false, "user_id": "1538576888"}

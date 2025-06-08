@@ -1,0 +1,1 @@
+{"usernameTweet": "besikt_a", "ID": "754095319982477318", "text": "Yarın güzel şeyler olması dileğiyle #SokağaSakınÇıkma", "url": "/besikt_a/status/754095319982477318", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:28:29", "is_reply": false, "is_retweet": false, "user_id": "442044390"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "KarahanBedel", "ID": "754090486458044416", "text": "# sokağasakınçıkma", "url": "/KarahanBedel/status/754090486458044416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:16", "is_reply": false, "is_retweet": false, "user_id": "858351049"}

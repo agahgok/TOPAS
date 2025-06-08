@@ -1,0 +1,1 @@
+{"usernameTweet": "Babelsk1", "ID": "754083647876128768", "text": "Darbeninde bokunu çıkardılar tiyatro sahnesi gibi\n #SokağaSakınÇıkma", "url": "/Babelsk1/status/754083647876128768", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:42:06", "is_reply": false, "is_retweet": false, "user_id": "751478218260185089"}

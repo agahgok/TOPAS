@@ -1,0 +1,1 @@
+{"usernameTweet": "Vrijheidsstrij", "ID": "1282356830182805507", "text": "İnsan en çok güvendiği yerden  darbe  yiyince dizleri üzerine çökermiş", "url": "/Vrijheidsstrij/status/1282356830182805507", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-12 19:51:08", "is_reply": false, "is_retweet": false, "user_id": "1113422789460070400"}

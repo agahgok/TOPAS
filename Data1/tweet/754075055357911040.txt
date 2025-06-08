@@ -1,0 +1,1 @@
+{"usernameTweet": "sevdedincerr", "ID": "754075055357911040", "text": "Hiçbir düşünce, hiçbir ideoloji senden ve ailenden daha değerli değil! Oyuna gelme! #SokağaSakınÇıkma", "url": "/sevdedincerr/status/754075055357911040", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:07:57", "is_reply": false, "is_retweet": false, "user_id": "962749572"}

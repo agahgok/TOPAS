@@ -1,0 +1,1 @@
+{"usernameTweet": "MINAMORENOlex", "ID": "1282335139087781891", "text": "Entonces votaste con el hígado", "url": "/MINAMORENOlex/status/1282335139087781891", "nbr_retweet": 0, "nbr_favorite": 38, "nbr_reply": 3, "datetime": "2020-07-12 18:24:56", "is_reply": true, "is_retweet": false, "user_id": "1075977768360382464"}

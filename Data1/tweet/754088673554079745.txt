@@ -1,0 +1,1 @@
+{"usernameTweet": "Serhat_Ermez", "ID": "754088673554079745", "text": "Bu kaçıncı sela , kaçıncı ezan...\n#SokağaSakınÇıkma", "url": "/Serhat_Ermez/status/754088673554079745", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:04", "is_reply": false, "is_retweet": false, "user_id": "207032666"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yarenneker", "ID": "754076456825872386", "text": "Hiçbir diktatör iç savaş çıkarmadan gitmez.. -Lenin\n#SokağaSakınÇıkma", "url": "/yarenneker/status/754076456825872386", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:13:32", "is_reply": false, "is_retweet": false, "user_id": "3900993676"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "fati_alemdar", "ID": "754073134848802822", "text": "# SokağaSakınÇıkma  demokrasi çoktan elden gitti acaba sokakta nasıl bir demokrasi var.", "url": "/fati_alemdar/status/754073134848802822", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:20", "is_reply": false, "is_retweet": false, "user_id": "726702220687765505"}

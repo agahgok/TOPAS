@@ -1,0 +1,1 @@
+{"usernameTweet": "SemihTayyipGlcn", "ID": "754077386468126720", "text": "NOLDU LAN ŞEREFSİZLER ZORUNUZA MI GİTTİİİ.\nHERKES SOKAĞAAAAA\n #SokağaSakınÇıkma", "url": "/SemihTayyipGlcn/status/754077386468126720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:17:13", "is_reply": false, "is_retweet": false, "user_id": "1115343446"}

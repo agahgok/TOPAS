@@ -1,0 +1,1 @@
+{"usernameTweet": "nvzt_2498", "ID": "754084431904837633", "text": "Halkı sakin olmaya çağıracaklarına sokağa çağırıyorlar oyuna gelme sokaga çıkma #SokağaSakınÇıkma", "url": "/nvzt_2498/status/754084431904837633", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:45:13", "is_reply": false, "is_retweet": false, "user_id": "2292649363"}

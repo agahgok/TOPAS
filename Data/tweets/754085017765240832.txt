@@ -1,0 +1,1 @@
+{"usernameTweet": "tyfr_erl", "ID": "754085017765240832", "text": "Yaptığı bu oyuna ezanı, selayı, dinide karıştırıyor. Bunların anlamını ve önemini bilmiyorsan #SokağaSakınÇıkma", "url": "/tyfr_erl/status/754085017765240832", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:33", "is_reply": false, "is_retweet": false, "user_id": "2206046508"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "neslihncolak", "ID": "754088231235362816", "text": "# SokağaSakınÇıkma", "url": "/neslihncolak/status/754088231235362816", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:19", "is_reply": false, "is_retweet": false, "user_id": "393688041"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "r_karahasanoglu", "ID": "754097360599453696", "text": "Son çırpınışlar... #DarbeyeHayır   #SokağaSakınÇıkma  #Ankara", "url": "/r_karahasanoglu/status/754097360599453696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:36:35", "is_reply": false, "is_retweet": false, "user_id": "1679200260"}

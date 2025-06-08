@@ -1,0 +1,1 @@
+{"usernameTweet": "aydogdufatma", "ID": "754072083894824960", "text": "Sokağa sakın çıkma\nSokağa sakın çıkma\n #SokağaSakınÇıkma", "url": "/aydogdufatma/status/754072083894824960", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:56:09", "is_reply": false, "is_retweet": false, "user_id": "310196759"}

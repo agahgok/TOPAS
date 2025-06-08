@@ -1,0 +1,1 @@
+{"usernameTweet": "FedePazzAzua", "ID": "754094968801812480", "text": "Stay safe! #Turkey  #SokağaSakınÇıkma", "url": "/FedePazzAzua/status/754094968801812480", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:27:05", "is_reply": false, "is_retweet": false, "user_id": "556033446"}

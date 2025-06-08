@@ -1,0 +1,1 @@
+{"usernameTweet": "JoneDarbe", "ID": "1281886721140031493", "text": "Veja pelo lado bom\n\nVcs ainda poderão ficar postando vídeozinho na internet", "url": "/JoneDarbe/status/1281886721140031493", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 12:43:05", "is_reply": true, "is_retweet": false, "user_id": "1221530980965584896"}

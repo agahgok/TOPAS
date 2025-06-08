@@ -1,0 +1,1 @@
+{"usernameTweet": "sila_bht", "ID": "754074361078878208", "text": "# SokağaSakınÇıkma  Oyuna gelmeyin!", "url": "/sila_bht/status/754074361078878208", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:05:12", "is_reply": false, "is_retweet": false, "user_id": "2225963931"}

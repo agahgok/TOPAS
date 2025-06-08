@@ -1,0 +1,1 @@
+{"usernameTweet": "_krkcharun", "ID": "754072597004947456", "text": "Kim vurduya gitmek istemiyorsan #SokağaSakınÇıkma", "url": "/_krkcharun/status/754072597004947456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:11", "is_reply": false, "is_retweet": false, "user_id": "709612440"}

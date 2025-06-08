@@ -1,0 +1,1 @@
+{"usernameTweet": "fzterhanb", "ID": "754082952707973121", "text": "An itibariyle Bursa'da ezan okunuyor #SokağaSakınÇıkma", "url": "/fzterhanb/status/754082952707973121", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:20", "is_reply": false, "is_retweet": false, "user_id": "754056955459735552"}

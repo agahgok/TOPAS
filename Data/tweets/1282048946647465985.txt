@@ -1,0 +1,1 @@
+{"usernameTweet": "ecegaaliba", "ID": "1282048946647465985", "text": "ya kurban olam... ya bu cocuk ailesinden kac kere  darbe  yicek daha", "url": "/ecegaaliba/status/1282048946647465985", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 2, "datetime": "2020-07-11 23:27:42", "is_reply": true, "is_retweet": false, "user_id": "3290336302"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkmenKuvva", "ID": "754065275427905537", "text": "Halk askerdir asker halktır #SokağaSakınÇıkma  vatanına sahip çık", "url": "/TurkmenKuvva/status/754065275427905537", "nbr_retweet": 6, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2016-07-16 00:29:06", "is_reply": false, "is_retweet": false, "user_id": "1119941220"}

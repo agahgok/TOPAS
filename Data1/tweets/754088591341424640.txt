@@ -1,0 +1,1 @@
+{"usernameTweet": "gonlumcocuk", "ID": "754088591341424640", "text": "# SokağaSakınÇıkma  diyenlere baksana. ben vaktim. hepsi hevalci. gebereceksiniz picler.", "url": "/gonlumcocuk/status/754088591341424640", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:01:45", "is_reply": false, "is_retweet": false, "user_id": "980973842"}

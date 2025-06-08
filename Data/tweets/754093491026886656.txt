@@ -1,0 +1,1 @@
+{"usernameTweet": "yalcingulluel", "ID": "754093491026886656", "text": "# SokağaSakınÇıkma", "url": "/yalcingulluel/status/754093491026886656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:13", "is_reply": false, "is_retweet": false, "user_id": "183988810"}

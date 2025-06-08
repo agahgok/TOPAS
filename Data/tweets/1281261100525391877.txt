@@ -1,0 +1,1 @@
+{"usernameTweet": "Ultrass1912", "ID": "1281261100525391877", "text": "Naptin aq  darbe  tesebbusunde mi bulundun", "url": "/Ultrass1912/status/1281261100525391877", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-09 19:17:05", "is_reply": true, "is_retweet": false, "user_id": "851903326677590020"}

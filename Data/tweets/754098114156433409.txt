@@ -1,0 +1,1 @@
+{"usernameTweet": "YasarCanOz", "ID": "754098114156433409", "text": "Bu yüzden #SokağaSakınÇıkma  dedik , keşke bu kadar saf olmasaydık...", "url": "/YasarCanOz/status/754098114156433409", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:39:35", "is_reply": false, "is_retweet": false, "user_id": "1427503279"}

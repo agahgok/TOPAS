@@ -1,0 +1,1 @@
+{"usernameTweet": "lojistikch", "ID": "754084693067362304", "text": "# SokağaSakınÇıkma  Halkı birbirine vurdurucaklar.", "url": "/lojistikch/status/754084693067362304", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:46:15", "is_reply": false, "is_retweet": false, "user_id": "470229933"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "y_karacapinar", "ID": "754084049170403329", "text": "Bunlar kurani da sunneti de kendilerine cevirdikleri icin keyfi yorum yapiyorlar\n #SokağaSakınÇıkma", "url": "/y_karacapinar/status/754084049170403329", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:42", "is_reply": false, "is_retweet": false, "user_id": "2912958675"}

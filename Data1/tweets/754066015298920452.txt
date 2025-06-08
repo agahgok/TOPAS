@@ -1,0 +1,1 @@
+{"usernameTweet": "DuyguS_S", "ID": "754066015298920452", "text": "Buyrun önden çıkın  hüloglar #sokağaçıkma", "url": "/DuyguS_S/status/754066015298920452", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:32:02", "is_reply": false, "is_retweet": false, "user_id": "207982058"}

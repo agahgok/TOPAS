@@ -1,0 +1,1 @@
+{"usernameTweet": "meneksebeste", "ID": "754100737588793344", "text": "Halkı sokağa davet edenler, üst düzey korumayla sarayında! #SokağaSakınÇıkma", "url": "/meneksebeste/status/754100737588793344", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:50:01", "is_reply": false, "is_retweet": false, "user_id": "2237851651"}

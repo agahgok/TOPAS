@@ -1,0 +1,1 @@
+{"usernameTweet": "pekiugur", "ID": "754086408592162820", "text": "Bu saatte ezanlar selalar biraz şov bence #SokağaSakınÇıkma", "url": "/pekiugur/status/754086408592162820", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2016-07-16 01:53:04", "is_reply": false, "is_retweet": false, "user_id": "478747359"}

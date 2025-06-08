@@ -1,0 +1,1 @@
+{"usernameTweet": "ElifKILICIKAN", "ID": "754087276964155393", "text": "Ölümüne Sokaktayız gerizekalılar #SokağaSakınÇıkma   pic.twitter.com/28jxpNoftG", "url": "/ElifKILICIKAN/status/754087276964155393", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:56:31", "is_reply": false, "is_retweet": false, "user_id": "337336284"}

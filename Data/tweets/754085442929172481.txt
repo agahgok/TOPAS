@@ -1,0 +1,1 @@
+{"usernameTweet": "Feghoulli", "ID": "754085442929172481", "text": "Valla Şuan Hiçbir Güç Beni Dışarı Çıkaramaz #SokağaSakınÇıkma", "url": "/Feghoulli/status/754085442929172481", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:49:14", "is_reply": false, "is_retweet": false, "user_id": "2873389086"}

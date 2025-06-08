@@ -1,0 +1,1 @@
+{"usernameTweet": "ALKKDA", "ID": "754103420097748992", "text": "# SokağaSakınÇıkma  z isen birdaha hiç çıkma", "url": "/ALKKDA/status/754103420097748992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:00:40", "is_reply": false, "is_retweet": false, "user_id": "732671628"}

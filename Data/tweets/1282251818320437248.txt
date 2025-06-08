@@ -1,0 +1,1 @@
+{"usernameTweet": "paralelci_erdal", "ID": "1282251818320437248", "text": "Oda birşeymi HIRSIZ ve ETÖ  darbe  yaptı mallar da yedi.", "url": "/paralelci_erdal/status/1282251818320437248", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 12:53:51", "is_reply": true, "is_retweet": false, "user_id": "2377052169"}

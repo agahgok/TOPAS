@@ -1,0 +1,1 @@
+{"usernameTweet": "Darbe_LM", "ID": "1281296105934934016", "text": "Como diría el clásico: \"Imperdible hilo\"  https:// twitter.com/JuankeeRocha/s tatus/1281081184357888001   …", "url": "/Darbe_LM/status/1281296105934934016", "nbr_retweet": 1, "nbr_favorite": 7, "nbr_reply": 0, "datetime": "2020-07-09 21:36:11", "is_reply": false, "is_retweet": false, "user_id": "333550973"}

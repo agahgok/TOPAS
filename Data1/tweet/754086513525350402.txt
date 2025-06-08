@@ -1,0 +1,1 @@
+{"usernameTweet": "maras_66", "ID": "754086513525350402", "text": "# SokağaSakınÇıkma  burası Yozgat zoruna gitmesin  pic.twitter.com/NDlvwFLrTT", "url": "/maras_66/status/754086513525350402", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:29", "is_reply": false, "is_retweet": false, "user_id": "192212753"}

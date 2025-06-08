@@ -1,0 +1,1 @@
+{"ID": "1076648666", "name": "CDの帯bot（レコードも可）", "screen_name": "CD_obibot", "avatar": "https://pbs.twimg.com/profile_images/3090674384/cf5dbe89608be0259ac75953f52820fa_bigger.jpeg"}

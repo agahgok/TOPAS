@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754087560117452800", "text": "# SokağaSakınÇıkma    https:// twitter.com/sorgulayan_0/s tatus/754081755993219073   …", "url": "/mertbzky/status/754087560117452800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:39", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

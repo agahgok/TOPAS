@@ -1,0 +1,1 @@
+{"usernameTweet": "bayraktarmrl", "ID": "754094836400218112", "text": "# SokağaSakınÇıkma   pic.twitter.com/Nw1mln7K2Y", "url": "/bayraktarmrl/status/754094836400218112", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:34", "is_reply": false, "is_retweet": false, "user_id": "2523860381"}

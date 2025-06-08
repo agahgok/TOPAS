@@ -1,0 +1,1 @@
+{"usernameTweet": "zafersahin571", "ID": "754083956379774976", "text": "# SokağaSakınÇıkma  burası VANNNN  pic.twitter.com/L9wgsLxsFb", "url": "/zafersahin571/status/754083956379774976", "nbr_retweet": 15, "nbr_favorite": 12, "nbr_reply": 1, "datetime": "2016-07-16 01:43:20", "is_reply": false, "is_retweet": false, "user_id": "93484259"}

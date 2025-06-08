@@ -1,0 +1,1 @@
+{"usernameTweet": "AyukutT", "ID": "1282324513691246593", "text": "Bu suya yapılmış bir  darbe  girişimidir.", "url": "/AyukutT/status/1282324513691246593", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-12 17:42:43", "is_reply": true, "is_retweet": false, "user_id": "1138536183003308033"}

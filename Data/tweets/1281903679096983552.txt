@@ -1,0 +1,1 @@
+{"usernameTweet": "aaleynarslantas", "ID": "1281903679096983552", "text": "Kafama  darbe  almadığım sürece tek şeyi unutmam", "url": "/aaleynarslantas/status/1281903679096983552", "nbr_retweet": 0, "nbr_favorite": 32, "nbr_reply": 0, "datetime": "2020-07-11 13:50:28", "is_reply": false, "is_retweet": false, "user_id": "1179993519253082114"}

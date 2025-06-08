@@ -1,0 +1,1 @@
+{"usernameTweet": "kaynanacicegi", "ID": "754100999116230656", "text": "Halkın gözünde askerin de bi değeri kalmamış oldu böylelikle #DarbeyeHayir  #SokağaSakınÇıkma  #Turkey", "url": "/kaynanacicegi/status/754100999116230656", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 02:51:03", "is_reply": false, "is_retweet": false, "user_id": "347727148"}

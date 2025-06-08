@@ -1,0 +1,1 @@
+{"usernameTweet": "Moneydxpara", "ID": "754086068589395969", "text": "# SokağaSakınÇıkma   1 ordu 8 ordu 3 ordu talımat verdi darbeciler tutuklancak gereklı işlem yapılcak diye", "url": "/Moneydxpara/status/754086068589395969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:43", "is_reply": false, "is_retweet": false, "user_id": "197214360"}

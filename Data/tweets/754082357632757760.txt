@@ -1,0 +1,1 @@
+{"usernameTweet": "Serhat_Ermez", "ID": "754082357632757760", "text": "Adamlar olayı büyüttü , cihad çağrısı gibi ezan okutuyolar. Ben böyle tiyatro izlemedim\n#SokağaSakınÇıkma", "url": "/Serhat_Ermez/status/754082357632757760", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:36:58", "is_reply": false, "is_retweet": false, "user_id": "207032666"}

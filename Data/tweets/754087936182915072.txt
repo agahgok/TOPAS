@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetdut7", "ID": "754087936182915072", "text": "Az Biraz Kafayı Kullan.! #SokağaSakınÇıkma", "url": "/ahmetdut7/status/754087936182915072", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:59:08", "is_reply": false, "is_retweet": false, "user_id": "198796074"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "crazyfischengel", "ID": "754112419069358082", "text": "Bu arada  Atatürkçü gibi görünen FETO'cu hesaplar ortaya çıktı #DarbeDeğilTiyatro  #SokağaSakınÇıkma", "url": "/crazyfischengel/status/754112419069358082", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:36:26", "is_reply": false, "is_retweet": false, "user_id": "406373291"}

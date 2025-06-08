@@ -1,0 +1,1 @@
+{"usernameTweet": "BatakonR14", "ID": "754085068637962241", "text": "Kornayla ülke kurtarmaya çalışanlar , ilginç. #SokağaSakınÇıkma", "url": "/BatakonR14/status/754085068637962241", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:47:45", "is_reply": false, "is_retweet": false, "user_id": "371440181"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "cegunes", "ID": "754073858660073472", "text": "# SokağaSakınÇıkma", "url": "/cegunes/status/754073858660073472", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:12", "is_reply": false, "is_retweet": false, "user_id": "40458204"}

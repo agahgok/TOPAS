@@ -1,0 +1,1 @@
+{"usernameTweet": "klexijr", "ID": "1281551629188300802", "text": "Fatih terime bir  darbe  daha", "url": "/klexijr/status/1281551629188300802", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 14:31:33", "is_reply": true, "is_retweet": false, "user_id": "966098997831192576"}

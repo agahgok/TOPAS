@@ -1,0 +1,1 @@
+{"usernameTweet": "punaarzeynep", "ID": "1281589430269218818", "text": "Bayburt’ludan  darbe  yemiş olmasaydım konuşurdum da neysssee djdjksks", "url": "/punaarzeynep/status/1281589430269218818", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 17:01:45", "is_reply": true, "is_retweet": false, "user_id": "927124532959350785"}

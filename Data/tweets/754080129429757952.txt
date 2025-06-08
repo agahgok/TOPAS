@@ -1,0 +1,1 @@
+{"usernameTweet": "DeusVeloxN3x", "ID": "754080129429757952", "text": "Yine din kitap bu tagden is cikmaz #SokağaSakınÇıkma", "url": "/DeusVeloxN3x/status/754080129429757952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:07", "is_reply": false, "is_retweet": false, "user_id": "2492022391"}

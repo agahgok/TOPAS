@@ -1,0 +1,1 @@
+{"usernameTweet": "kediciiteyze", "ID": "754057507883057153", "text": "Otur evinde cay icin, dua edin haber izleyin  #SokağaSakınÇıkma", "url": "/kediciiteyze/status/754057507883057153", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-15 23:58:14", "is_reply": false, "is_retweet": false, "user_id": "737722866591010817"}

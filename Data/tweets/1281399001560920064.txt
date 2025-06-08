@@ -1,0 +1,1 @@
+{"usernameTweet": "Lopitos_", "ID": "1281399001560920064", "text": "¿Ardor? Si solo estoy comentando lo que está bien documentado ", "url": "/Lopitos_/status/1281399001560920064", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 04:25:03", "is_reply": true, "is_retweet": false, "user_id": "339391457"}

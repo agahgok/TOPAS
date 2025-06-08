@@ -1,0 +1,1 @@
+{"usernameTweet": "emredegirmenci", "ID": "754089374493597696", "text": "# SokağaSakınÇıkma  diyenler; namussuzların köpeği namuzsuz evladı namussuzdur.", "url": "/emredegirmenci/status/754089374493597696", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:04:51", "is_reply": false, "is_retweet": false, "user_id": "162157948"}

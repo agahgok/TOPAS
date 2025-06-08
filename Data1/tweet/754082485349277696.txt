@@ -1,0 +1,1 @@
+{"usernameTweet": "sofoogli", "ID": "754082485349277696", "text": "ölmek var dönmek yok sokaklardan çekilmiyoruz  #SokağaSakınÇıkma", "url": "/sofoogli/status/754082485349277696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:29", "is_reply": false, "is_retweet": false, "user_id": "465879321"}

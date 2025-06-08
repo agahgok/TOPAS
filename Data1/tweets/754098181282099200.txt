@@ -1,0 +1,1 @@
+{"usernameTweet": "biirbeneksiktim", "ID": "754098181282099200", "text": "BİZ ÇIKINCA ÇAPULCU, SİZ ÇIKINCA VATANSEVER MİSİNİZ? #SokağaÇIKMA  siz sadece çomarsınız", "url": "/biirbeneksiktim/status/754098181282099200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:39:51", "is_reply": false, "is_retweet": false, "user_id": "538305347"}

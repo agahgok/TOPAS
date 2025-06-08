@@ -1,0 +1,1 @@
+{"usernameTweet": "nazifenuruslu", "ID": "754095311040212992", "text": "Bi kere de bi şeyi dine karıştırmayın yeter artık  #SokağaSakınÇıkma", "url": "/nazifenuruslu/status/754095311040212992", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 02:28:27", "is_reply": false, "is_retweet": false, "user_id": "475042780"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "lechatdecigale", "ID": "754079599378792448", "text": "# SokağaSakınÇıkma", "url": "/lechatdecigale/status/754079599378792448", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:01", "is_reply": false, "is_retweet": false, "user_id": "2459480291"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ErtulAta", "ID": "754081447800078336", "text": "# SokağaSakınÇıkma", "url": "/ErtulAta/status/754081447800078336", "nbr_retweet": 0, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2016-07-16 01:33:21", "is_reply": false, "is_retweet": false, "user_id": "754074755192553472"}

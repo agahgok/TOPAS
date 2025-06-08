@@ -1,0 +1,1 @@
+{"usernameTweet": "Elektrikkokusu", "ID": "1282398124313661440", "text": "Eğer bir amaç uğruna ayakta değilseniz her  darbe  sizi yere serebilir.", "url": "/Elektrikkokusu/status/1282398124313661440", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 22:35:13", "is_reply": false, "is_retweet": false, "user_id": "893087728174346241"}

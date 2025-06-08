@@ -1,0 +1,1 @@
+{"usernameTweet": "Gulumsun_", "ID": "754069121147498496", "text": "# SokağaSakınÇıkma   pic.twitter.com/MQehjBKMvC", "url": "/Gulumsun_/status/754069121147498496", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:44:23", "is_reply": false, "is_retweet": false, "user_id": "1473067440"}

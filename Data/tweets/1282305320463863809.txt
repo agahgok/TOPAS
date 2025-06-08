@@ -1,0 +1,1 @@
+{"usernameTweet": "esracan2020", "ID": "1282305320463863809", "text": "Daha AyasfyaCaminin şokunu atlatamadan ,şimdide adaları istediler.Yunana  darbe  üstüne  darbe  ", "url": "/esracan2020/status/1282305320463863809", "nbr_retweet": 0, "nbr_favorite": 44, "nbr_reply": 1, "datetime": "2020-07-12 16:26:27", "is_reply": true, "is_retweet": false, "user_id": "1222560802642763778"}

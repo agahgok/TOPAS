@@ -1,0 +1,1 @@
+{"usernameTweet": "crazyfischengel", "ID": "754109669531127808", "text": "Meclis artık saraya taşınır !!! #DarbeDeğilTiyatro  #SokağaSakınÇıkma", "url": "/crazyfischengel/status/754109669531127808", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:25:30", "is_reply": false, "is_retweet": false, "user_id": "406373291"}

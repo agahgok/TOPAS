@@ -1,0 +1,1 @@
+{"usernameTweet": "sinemerkmnn", "ID": "754085700136493056", "text": "# SokağaSakınÇıkma  ezan okununca şaşırmadım değil", "url": "/sinemerkmnn/status/754085700136493056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:15", "is_reply": false, "is_retweet": false, "user_id": "2877009401"}

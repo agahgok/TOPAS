@@ -1,0 +1,1 @@
+{"usernameTweet": "BayrakkMehmet", "ID": "754078463192162304", "text": "Suriyelilerde sokağa çıktı mı acaba !! #SokağaSakınÇıkma", "url": "/BayrakkMehmet/status/754078463192162304", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:21:30", "is_reply": false, "is_retweet": false, "user_id": "740363436752809984"}

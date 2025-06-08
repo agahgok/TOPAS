@@ -1,0 +1,1 @@
+{"usernameTweet": "noblemurmur", "ID": "754077961461039105", "text": "600'den fazla  şehid verdik o zaman sokağa çıkmadınız da şimdi mi çıkacaksınız? #SokağaSakınÇıkma", "url": "/noblemurmur/status/754077961461039105", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:30", "is_reply": false, "is_retweet": false, "user_id": "1491666367"}

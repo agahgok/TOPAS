@@ -1,0 +1,1 @@
+{"usernameTweet": "mervelerdenimm", "ID": "754079743260168192", "text": "3 saat içinde halki birbirine düşüren mi başkan ? #SokağaSakınÇıkma", "url": "/mervelerdenimm/status/754079743260168192", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:35", "is_reply": false, "is_retweet": false, "user_id": "3319633090"}

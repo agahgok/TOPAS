@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754216933810110464", "text": "CNN son dakika haber de bakın ne diyor... #SokağaSakınÇıkma  #ÇakmaDarbe pic.twitter.com/lJVwlapPiI", "url": "/vakkaff/status/754216933810110464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 10:31:44", "is_reply": false, "is_retweet": false, "user_id": "943942980"}

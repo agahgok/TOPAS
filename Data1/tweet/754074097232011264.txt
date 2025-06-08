@@ -1,0 +1,1 @@
+{"usernameTweet": "932611h", "ID": "754074097232011264", "text": "# SokağaSakınÇıkma  face time ile olmaz kanka cepten arayıp çağırırsan belki çıkarım", "url": "/932611h/status/754074097232011264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:09", "is_reply": false, "is_retweet": false, "user_id": "2494288958"}

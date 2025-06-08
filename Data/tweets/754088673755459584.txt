@@ -1,0 +1,1 @@
+{"usernameTweet": "Murat1Bulut", "ID": "754088673755459584", "text": ".\nAmerika'daki adamın darbe girişiminden Amerika da sorumludur.\n\n #SokağaSakınÇıkma", "url": "/Murat1Bulut/status/754088673755459584", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 02:02:04", "is_reply": false, "is_retweet": false, "user_id": "542584164"}

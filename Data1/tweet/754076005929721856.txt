@@ -1,0 +1,1 @@
+{"usernameTweet": "monarc19", "ID": "754076005929721856", "text": "# SokağaSakınÇıkma      \nTSK bizim asker", "url": "/monarc19/status/754076005929721856", "nbr_retweet": 4, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:11:44", "is_reply": false, "is_retweet": false, "user_id": "4118424465"}

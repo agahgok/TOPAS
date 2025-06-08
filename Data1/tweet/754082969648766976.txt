@@ -1,0 +1,1 @@
+{"usernameTweet": "SuleymanYlmz61", "ID": "754082969648766976", "text": "# SokağaSakınÇıkma  çıkmayanın amına koyim", "url": "/SuleymanYlmz61/status/754082969648766976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:24", "is_reply": false, "is_retweet": false, "user_id": "4893039994"}

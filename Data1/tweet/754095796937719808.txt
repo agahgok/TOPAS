@@ -1,0 +1,1 @@
+{"usernameTweet": "FatihOduncuu", "ID": "754095796937719808", "text": "# SokağaSakınÇıkma", "url": "/FatihOduncuu/status/754095796937719808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:30:23", "is_reply": false, "is_retweet": false, "user_id": "2325320888"}

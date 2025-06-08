@@ -1,0 +1,1 @@
+{"usernameTweet": "matttiz", "ID": "754074202018353153", "text": "gerizekalısınız tamam ama bu kadar olmayın #SokağaSakınÇıkma", "url": "/matttiz/status/754074202018353153", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:34", "is_reply": false, "is_retweet": false, "user_id": "4462442302"}

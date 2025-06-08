@@ -1,0 +1,1 @@
+{"usernameTweet": "nevrabaskal", "ID": "754072516612747265", "text": "# SokağaSakınÇıkma", "url": "/nevrabaskal/status/754072516612747265", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:52", "is_reply": false, "is_retweet": false, "user_id": "171547978"}

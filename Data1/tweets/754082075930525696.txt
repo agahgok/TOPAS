@@ -1,0 +1,1 @@
+{"usernameTweet": "BerkerSaygin", "ID": "754082075930525696", "text": "''Hiç bir diktatör iç savaş çıkarmadan gitmez.'' Vladimir İlyiç Lenin #SokağaSakınÇıkma  #Turkey", "url": "/BerkerSaygin/status/754082075930525696", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:51", "is_reply": false, "is_retweet": false, "user_id": "225518319"}

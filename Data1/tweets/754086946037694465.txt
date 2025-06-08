@@ -1,0 +1,1 @@
+{"usernameTweet": "ezgidolu", "ID": "754086946037694465", "text": "Ülke için çıkmayıp sırf tayyip istediği için sokağa çıkanlarada yazıklar olsun. #SokağaSakınÇıkma", "url": "/ezgidolu/status/754086946037694465", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:12", "is_reply": false, "is_retweet": false, "user_id": "314848093"}

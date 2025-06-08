@@ -1,0 +1,1 @@
+{"usernameTweet": "reliantbieber", "ID": "754087640815792132", "text": "dont get played stay home and safe  #SokağaSakınÇıkma", "url": "/reliantbieber/status/754087640815792132", "nbr_retweet": 5, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:57:58", "is_reply": false, "is_retweet": false, "user_id": "549374550"}

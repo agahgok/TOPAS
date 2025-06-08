@@ -1,0 +1,1 @@
+{"usernameTweet": "ibrahim158025", "ID": "754093721910640641", "text": "Ya nezan gelecek darbeyide onledim balkon konusmasi uykum geldi #SokağaSakınÇıkma", "url": "/ibrahim158025/status/754093721910640641", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:22:08", "is_reply": false, "is_retweet": false, "user_id": "751655840193576960"}

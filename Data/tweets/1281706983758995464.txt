@@ -1,0 +1,1 @@
+{"usernameTweet": "AcarZekiye1", "ID": "1281706983758995464", "text": "Yanlışı mi var.? Adamlar  darbe  yaptı. Bunun yanlışı mi olur? Başarılı olsalardı nolcakti.", "url": "/AcarZekiye1/status/1281706983758995464", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 00:48:52", "is_reply": true, "is_retweet": false, "user_id": "1137619698122657795"}

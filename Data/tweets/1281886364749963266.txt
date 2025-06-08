@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkiyeasG", "ID": "1281886364749963266", "text": "Senin buraya gelebilmen için  darbe  yapıp devleti ele geçirmen gerekiyor:)) ancak o zaman:))", "url": "/TurkiyeasG/status/1281886364749963266", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-11 12:41:40", "is_reply": true, "is_retweet": false, "user_id": "756733952530976768"}

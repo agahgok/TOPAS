@@ -1,0 +1,1 @@
+{"usernameTweet": "yakupoqLu", "ID": "754079363289710592", "text": "Sokaga cikanlara çapulcu diyenler simdi sokaga cikin diyorlar #SokağaSakınÇıkma", "url": "/yakupoqLu/status/754079363289710592", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:04", "is_reply": false, "is_retweet": false, "user_id": "19189122"}

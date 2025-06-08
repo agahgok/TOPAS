@@ -1,0 +1,1 @@
+{"usernameTweet": "mahirimkaram", "ID": "754108361814183936", "text": "# SokağaSakınÇıkma   https:// twitter.com/Bozkurt_2834/s tatus/754107041237663744   …", "url": "/mahirimkaram/status/754108361814183936", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:20:18", "is_reply": false, "is_retweet": false, "user_id": "3406224695"}

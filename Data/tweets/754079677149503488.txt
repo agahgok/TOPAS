@@ -1,0 +1,1 @@
+{"usernameTweet": "mervemelek1", "ID": "754079677149503488", "text": "Announcing people to go to streets through skype??? LOL #SokağaSakınÇıkma", "url": "/mervemelek1/status/754079677149503488", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:26:19", "is_reply": false, "is_retweet": false, "user_id": "316508620"}

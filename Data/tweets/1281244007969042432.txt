@@ -1,0 +1,1 @@
+{"usernameTweet": "matiabyunmw", "ID": "1281244007969042432", "text": "FENA  DARBE  YEDİM O NOKTADA  https:// twitter.com/matiabyunmw/st atus/1281242530189885441   …", "url": "/matiabyunmw/status/1281244007969042432", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-09 18:09:10", "is_reply": false, "is_retweet": false, "user_id": "1232215670122860545"}

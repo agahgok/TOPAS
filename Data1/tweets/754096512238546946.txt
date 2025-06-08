@@ -1,0 +1,1 @@
+{"usernameTweet": "VistYow", "ID": "754096512238546946", "text": "7 aydır sokağa çıkma yasağının olduğu Cizrede insanları hangi yüzle sokağa çağırıyorsunuz #SokağaSakınÇıkma", "url": "/VistYow/status/754096512238546946", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:33:13", "is_reply": false, "is_retweet": false, "user_id": "293406260"}

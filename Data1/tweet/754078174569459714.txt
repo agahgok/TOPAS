@@ -1,0 +1,1 @@
+{"usernameTweet": "faruk4497", "ID": "754078174569459714", "text": "# SokağaSakınÇıkma  camilerden selâ okutuyorlar lan noluyo booluuumm ?", "url": "/faruk4497/status/754078174569459714", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:21", "is_reply": false, "is_retweet": false, "user_id": "2746530230"}

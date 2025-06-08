@@ -1,0 +1,1 @@
+{"usernameTweet": "melikeetin9", "ID": "754089508195463168", "text": "# SokağaSakınÇıkma  ah benim gözü gör kulağı sağır vatanım ...", "url": "/melikeetin9/status/754089508195463168", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:05:23", "is_reply": false, "is_retweet": false, "user_id": "884895398"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gndzyzlkzklbk", "ID": "754084312471961600", "text": "Kimsenin sözüne kanip canini hiçe sayma #SokağaSakınÇıkma", "url": "/gndzyzlkzklbk/status/754084312471961600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:44", "is_reply": false, "is_retweet": false, "user_id": "432873648"}

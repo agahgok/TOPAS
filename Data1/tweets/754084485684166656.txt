@@ -1,0 +1,1 @@
+{"usernameTweet": "limonii___", "ID": "754084485684166656", "text": "# SokağaSakınÇıkma  <<< çıkmayın tabi bizler yeteriz farelerin işi yok #DEMOKRASİyeSahipÇıkıyoruz", "url": "/limonii___/status/754084485684166656", "nbr_retweet": 9, "nbr_favorite": 14, "nbr_reply": 0, "datetime": "2016-07-16 01:45:26", "is_reply": false, "is_retweet": false, "user_id": "443962072"}

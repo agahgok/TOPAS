@@ -1,0 +1,1 @@
+{"usernameTweet": "bluest_blues", "ID": "754087479527866370", "text": "gecenin bu saatinde selalar da okunduguna gore reis basgan oldu. yasasin ozgur irade (!) #sokağasakınçıkma", "url": "/bluest_blues/status/754087479527866370", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2016-07-16 01:57:20", "is_reply": false, "is_retweet": false, "user_id": "396790145"}

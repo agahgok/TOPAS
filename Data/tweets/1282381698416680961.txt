@@ -1,0 +1,1 @@
+{"usernameTweet": "juksok", "ID": "1282381698416680961", "text": "No es culpa de @HLGatell  es culpa de @GobiernoMX", "url": "/juksok/status/1282381698416680961", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 21:29:57", "is_reply": true, "is_retweet": false, "user_id": "133951716"}

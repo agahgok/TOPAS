@@ -1,0 +1,1 @@
+{"usernameTweet": "misTikkkkkkkk", "ID": "754103480319676416", "text": "Hangi bayrağa selam veriyorsunuz sayın çok zeki çok bilmiş bu taga yazan insanlar... #SokağaSakınÇıkma", "url": "/misTikkkkkkkk/status/754103480319676416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:00:54", "is_reply": false, "is_retweet": false, "user_id": "1443831264"}

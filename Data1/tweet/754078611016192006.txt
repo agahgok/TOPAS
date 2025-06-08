@@ -1,0 +1,1 @@
+{"usernameTweet": "azadcihann", "ID": "754078611016192006", "text": "Isin icinde poxluk var  #SokağaSakınÇıkma", "url": "/azadcihann/status/754078611016192006", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:22:05", "is_reply": false, "is_retweet": false, "user_id": "3030764319"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "maykilnaytPARD", "ID": "754086898860191744", "text": "Camilerde ezan okunuyormuş.Camiye gidin olum, sokakta ne işiniz var.#darbe  #SokağaSakınÇıkma", "url": "/maykilnaytPARD/status/754086898860191744", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:55:01", "is_reply": false, "is_retweet": false, "user_id": "1560043663"}

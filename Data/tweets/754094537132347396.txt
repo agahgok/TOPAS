@@ -1,0 +1,1 @@
+{"usernameTweet": "avarekarga", "ID": "754094537132347396", "text": "# SokağaSakınÇıkma  Ey halk kime karşı galeyana geldiniz acaba çıktınız sokaklara ama biliyormusunuz ???", "url": "/avarekarga/status/754094537132347396", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:25:22", "is_reply": false, "is_retweet": false, "user_id": "2880842895"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "anfield_1892_", "ID": "754072024046272512", "text": "Sokağa çıkın diyenler bi sokaktan foto atsında bi görelim hangi sokaktalar aq #SokağaÇıkma", "url": "/anfield_1892_/status/754072024046272512", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:55:55", "is_reply": false, "is_retweet": false, "user_id": "1574280422"}

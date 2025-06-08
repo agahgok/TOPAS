@@ -1,0 +1,1 @@
+{"usernameTweet": "kivancgirgin", "ID": "754088668919390209", "text": "gecenin bu vakti sokağa çıkan korna çalan mal, senin yüzünden böyle zaten millet #sokağasakınçıkma", "url": "/kivancgirgin/status/754088668919390209", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:02:03", "is_reply": false, "is_retweet": false, "user_id": "578482952"}

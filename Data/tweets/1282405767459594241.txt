@@ -1,0 +1,1 @@
+{"usernameTweet": "serkonK", "ID": "1282405767459594241", "text": "Kaçıncı ümitlenişim bu sana kaçıncı  darbe  yiyişim", "url": "/serkonK/status/1282405767459594241", "nbr_retweet": 0, "nbr_favorite": 8, "nbr_reply": 0, "datetime": "2020-07-12 23:05:35", "is_reply": false, "is_retweet": false, "user_id": "2174820699"}

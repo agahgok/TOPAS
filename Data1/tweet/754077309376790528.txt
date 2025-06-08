@@ -1,0 +1,1 @@
+{"usernameTweet": "dilhan_uygun", "ID": "754077309376790528", "text": "Halkını kalkan etmek  #SokağaSakınÇıkma", "url": "/dilhan_uygun/status/754077309376790528", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:55", "is_reply": false, "is_retweet": false, "user_id": "1433439420"}

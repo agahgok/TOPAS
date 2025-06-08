@@ -1,0 +1,1 @@
+{"usernameTweet": "TozogluAli", "ID": "754072970205732864", "text": "Akp etten duvarlar ördürtmek istiyor binalarına.\n#SokağaSakınÇıkma", "url": "/TozogluAli/status/754072970205732864", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:59:40", "is_reply": false, "is_retweet": false, "user_id": "223172173"}

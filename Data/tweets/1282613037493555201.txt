@@ -1,0 +1,1 @@
+{"usernameTweet": "Asg91272008", "ID": "1282613037493555201", "text": "SAğlık bakanlığına ait ilaclari kullanmak suretiyle ekonomik  darbe  girisimi", "url": "/Asg91272008/status/1282613037493555201", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 12:49:12", "is_reply": true, "is_retweet": false, "user_id": "1018135503563034625"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "comeuran", "ID": "754076499364417536", "text": "Tayyip'e değmez #SokağaSakınÇıkma", "url": "/comeuran/status/754076499364417536", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:13:42", "is_reply": false, "is_retweet": false, "user_id": "1385124672"}

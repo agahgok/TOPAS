@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmtyldz", "ID": "1281649929488867331", "text": "Fox tv de şimdi  darbe  üstüne  darbe  uslanmıyor bu diye şarkı çalıyor bay yanlı dizisinde.", "url": "/ahmtyldz/status/1281649929488867331", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 21:02:09", "is_reply": true, "is_retweet": false, "user_id": "102285149"}

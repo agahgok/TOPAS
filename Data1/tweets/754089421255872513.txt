@@ -1,0 +1,1 @@
+{"usernameTweet": "betulcelik25", "ID": "754089421255872513", "text": "Bugun de bir sürü insan şehit oldu anne. #sokağacıkma", "url": "/betulcelik25/status/754089421255872513", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:02", "is_reply": false, "is_retweet": false, "user_id": "1522948945"}

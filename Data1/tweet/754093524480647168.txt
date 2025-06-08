@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmetcanpast", "ID": "754093524480647168", "text": "Fetullah Gülen darbeyi üslendi mi?\n#Turkey  #SokağaSakınÇıkma", "url": "/ahmetcanpast/status/754093524480647168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:21", "is_reply": false, "is_retweet": false, "user_id": "217052698"}

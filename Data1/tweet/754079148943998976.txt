@@ -1,0 +1,1 @@
+{"usernameTweet": "evgurbulak", "ID": "754079148943998976", "text": "# SokağaSakınÇıkma  diyenlere itibar etmeyin darbeye dur de", "url": "/evgurbulak/status/754079148943998976", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:13", "is_reply": false, "is_retweet": false, "user_id": "204465287"}

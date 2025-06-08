@@ -1,0 +1,1 @@
+{"usernameTweet": "nzhagrmn", "ID": "754079600045621248", "text": "Her haltta kafasını kuma gomenler demokrasi bekçisi oldu \n#SokağaSakınÇıkma \nTürk Silahlı Kuvvetleri", "url": "/nzhagrmn/status/754079600045621248", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:26:01", "is_reply": false, "is_retweet": false, "user_id": "1336385282"}

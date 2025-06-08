@@ -1,0 +1,1 @@
+{"usernameTweet": "NightBend", "ID": "754095021557739520", "text": "# SokağaSakınÇıkma  ulke olarak game of thronesin 6.sezon 11. bolumunu  ceksek anca bu kadar olur..", "url": "/NightBend/status/754095021557739520", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:18", "is_reply": false, "is_retweet": false, "user_id": "163048553"}

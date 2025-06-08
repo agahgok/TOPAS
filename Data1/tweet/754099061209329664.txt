@@ -1,0 +1,1 @@
+{"usernameTweet": "NiLM00N", "ID": "754099061209329664", "text": "Türk askeri kendi milletine ateş etmez. #sokağacıkma", "url": "/NiLM00N/status/754099061209329664", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:43:21", "is_reply": false, "is_retweet": false, "user_id": "298641991"}

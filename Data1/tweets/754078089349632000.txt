@@ -1,0 +1,1 @@
+{"usernameTweet": "hicenderhic3434", "ID": "754078089349632000", "text": "Sakın oyuna gelmeyin  #SokağaSakınÇıkma", "url": "/hicenderhic3434/status/754078089349632000", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:01", "is_reply": false, "is_retweet": false, "user_id": "220357128"}

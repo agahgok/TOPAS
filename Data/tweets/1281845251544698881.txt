@@ -1,0 +1,1 @@
+{"usernameTweet": "CeliktenSongul", "ID": "1281845251544698881", "text": "Bu bi  darbe  ve cuntası sensin..", "url": "/CeliktenSongul/status/1281845251544698881", "nbr_retweet": 0, "nbr_favorite": 23, "nbr_reply": 0, "datetime": "2020-07-11 09:58:18", "is_reply": false, "is_retweet": false, "user_id": "1126766484439556097"}

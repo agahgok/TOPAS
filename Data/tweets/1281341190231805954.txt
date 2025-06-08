@@ -1,0 +1,1 @@
+{"usernameTweet": "hayattanpisman", "ID": "1281341190231805954", "text": "# GeceGörüşü  Hande Hanım sorar mısınız  darbe  başarılı olsaydı kabine üyeleri kimlerden oluşacaktı", "url": "/hayattanpisman/status/1281341190231805954", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 00:35:20", "is_reply": false, "is_retweet": false, "user_id": "2899049416"}

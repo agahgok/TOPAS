@@ -1,0 +1,1 @@
+{"usernameTweet": "AddendumLaughs", "ID": "754072961447895040", "text": "# SokağaSakınÇıkma  çıkarttırma", "url": "/AddendumLaughs/status/754072961447895040", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:38", "is_reply": false, "is_retweet": false, "user_id": "262279788"}

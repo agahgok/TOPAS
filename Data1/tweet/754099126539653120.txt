@@ -1,0 +1,1 @@
+{"usernameTweet": "samedicus", "ID": "754099126539653120", "text": "Bu olayların adı Temmuz İsyanı olsun. #SokağaSakınÇıkma  #darbe", "url": "/samedicus/status/754099126539653120", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:43:36", "is_reply": false, "is_retweet": false, "user_id": "714867219432402945"}

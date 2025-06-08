@@ -1,0 +1,1 @@
+{"usernameTweet": "OnurTur4747", "ID": "754086041263353856", "text": "Askerler kışlasına, insanlar evlerine dönsün!\n#sokagasakınçıkma", "url": "/OnurTur4747/status/754086041263353856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:37", "is_reply": false, "is_retweet": false, "user_id": "3395853935"}

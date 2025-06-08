@@ -1,0 +1,1 @@
+{"usernameTweet": "cuthroads", "ID": "754095795067060224", "text": "Darbe diye başladı, AKP mitingine döndü #SokağaSakınÇıkma", "url": "/cuthroads/status/754095795067060224", "nbr_retweet": 4, "nbr_favorite": 29, "nbr_reply": 0, "datetime": "2016-07-16 02:30:22", "is_reply": false, "is_retweet": false, "user_id": "298391578"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "yedeksolbekk", "ID": "1282425510421815297", "text": "Bizimde gitti aga büyük  darbe  yedik harbi", "url": "/yedeksolbekk/status/1282425510421815297", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 00:24:02", "is_reply": true, "is_retweet": false, "user_id": "1282319643596685312"}

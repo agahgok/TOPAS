@@ -1,0 +1,1 @@
+{"usernameTweet": "704Erkan", "ID": "754092150934138880", "text": ". #SokağaSakınÇıkma  burdaki üç beş çapulcuyu sevindir darbe yapıldı\n diyee", "url": "/704Erkan/status/754092150934138880", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:53", "is_reply": false, "is_retweet": false, "user_id": "1647527058"}

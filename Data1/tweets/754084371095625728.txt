@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmetkkkurt", "ID": "754084371095625728", "text": "Vakitsiz ezan okutmak;\ncamileri anaons için kullanmak; ASIL DARBE  BUDUR !\n\n#sokağasakınçıkma", "url": "/mehmetkkkurt/status/754084371095625728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:58", "is_reply": false, "is_retweet": false, "user_id": "371762358"}

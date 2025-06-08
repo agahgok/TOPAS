@@ -1,0 +1,1 @@
+{"usernameTweet": "yusifhabibov", "ID": "754070125645557761", "text": "# SokağaSakınÇıkma  kendi skypden sokaga cikin diyor yiyorsa kendin  cik", "url": "/yusifhabibov/status/754070125645557761", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:48:22", "is_reply": false, "is_retweet": false, "user_id": "1531096850"}

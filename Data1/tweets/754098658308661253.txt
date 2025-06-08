@@ -1,0 +1,1 @@
+{"usernameTweet": "SmrGzc", "ID": "754098658308661253", "text": "DARBE ye gel. Herkez canlı yayinda. AKP oyna oyna bi hal yaaa... #SokağaSakınÇıkma", "url": "/SmrGzc/status/754098658308661253", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:41:45", "is_reply": false, "is_retweet": false, "user_id": "2149918335"}

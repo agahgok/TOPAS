@@ -1,0 +1,1 @@
+{"usernameTweet": "vahdo3", "ID": "1281472291910684672", "text": "Hulusi  Darbe  komisyonuna ifadeye gelmedi patlayıcıyla ilgili mi konuşacak ....!!!", "url": "/vahdo3/status/1281472291910684672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 09:16:17", "is_reply": true, "is_retweet": false, "user_id": "1054526611092094976"}

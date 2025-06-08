@@ -1,0 +1,1 @@
+{"usernameTweet": "EnginTurkecan", "ID": "754104265522700292", "text": "# SokağaSakınÇıkma   pic.twitter.com/BYAjHGIwhA", "url": "/EnginTurkecan/status/754104265522700292", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:04:02", "is_reply": false, "is_retweet": false, "user_id": "386537976"}

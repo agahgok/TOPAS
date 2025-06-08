@@ -1,0 +1,1 @@
+{"usernameTweet": "MONIUKOO", "ID": "1281935738741891072", "text": "11 temmuz  darbe  girisimi  pic.twitter.com/UWA2XSYclO", "url": "/MONIUKOO/status/1281935738741891072", "nbr_retweet": 1, "nbr_favorite": 149, "nbr_reply": 1, "datetime": "2020-07-11 15:57:51", "is_reply": false, "is_retweet": false, "user_id": "2246037433"}

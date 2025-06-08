@@ -1,0 +1,1 @@
+{"usernameTweet": "DenizDenizkural", "ID": "754088377868222464", "text": "hem yazdı hem oynadı #SokağaSakınÇıkma", "url": "/DenizDenizkural/status/754088377868222464", "nbr_retweet": 2, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:00:54", "is_reply": false, "is_retweet": false, "user_id": "2958748947"}

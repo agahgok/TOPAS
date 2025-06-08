@@ -1,0 +1,1 @@
+{"usernameTweet": "bebek35_", "ID": "754087621635280897", "text": "En önde seni bekliyoruz sayın Cumhurbaşkanım  #SokağaSakınÇıkma", "url": "/bebek35_/status/754087621635280897", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:53", "is_reply": false, "is_retweet": false, "user_id": "374959295"}

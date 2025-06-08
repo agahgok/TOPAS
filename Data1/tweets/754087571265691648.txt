@@ -1,0 +1,1 @@
+{"usernameTweet": "pekmarifetli", "ID": "754087571265691648", "text": "Allah'ım sen memleketimizi koru.. #SokağaSakınÇıkma  #DarbelereHayır pic.twitter.com/87GFMw5KCl", "url": "/pekmarifetli/status/754087571265691648", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:57:41", "is_reply": false, "is_retweet": false, "user_id": "1026184764"}

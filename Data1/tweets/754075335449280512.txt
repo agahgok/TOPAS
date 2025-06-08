@@ -1,0 +1,1 @@
+{"usernameTweet": "esranurceelik", "ID": "754075335449280512", "text": "Herkes sokağa çıktı ellerde bayrak dillerde tekbir bu ülke bizim !!!!! #SokağaSakınÇıkma", "url": "/esranurceelik/status/754075335449280512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:09:04", "is_reply": false, "is_retweet": false, "user_id": "4538387663"}

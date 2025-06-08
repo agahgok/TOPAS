@@ -1,0 +1,1 @@
+{"usernameTweet": "metinkyn", "ID": "754072521826328577", "text": "Sokağa çıkmazsan gelir yatağından alırlar. Ülkene milletine Huzuruna  Sahip çık!!! #SokağaSakınÇıkma", "url": "/metinkyn/status/754072521826328577", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:57:53", "is_reply": false, "is_retweet": false, "user_id": "230798403"}

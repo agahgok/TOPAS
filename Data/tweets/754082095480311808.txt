@@ -1,0 +1,1 @@
+{"usernameTweet": "mr_nobody85", "ID": "754082095480311808", "text": "# SokağaSakınÇıkma  ezan okunuyor lan ne iş aq ?", "url": "/mr_nobody85/status/754082095480311808", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:56", "is_reply": false, "is_retweet": false, "user_id": "2945924452"}

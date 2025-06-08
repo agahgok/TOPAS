@@ -1,0 +1,1 @@
+{"usernameTweet": "nejla_23", "ID": "754077055109722113", "text": "# SokağaSakınÇıkma  #darbe   Başkanlık için güzel bir kurgu için sokağa dökülen hayvanlar silah sıkıyor rastgele", "url": "/nejla_23/status/754077055109722113", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:54", "is_reply": false, "is_retweet": false, "user_id": "534756821"}

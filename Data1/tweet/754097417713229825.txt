@@ -1,0 +1,1 @@
+{"usernameTweet": "meendizzbeyy", "ID": "754097417713229825", "text": "# sokağasakınçıkma  birileri şah çekiyo ve ülke hızla mat olmaya ilerliyo #DarbeDeğilTiyatro", "url": "/meendizzbeyy/status/754097417713229825", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:36:49", "is_reply": false, "is_retweet": false, "user_id": "1027352154"}

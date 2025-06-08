@@ -1,0 +1,1 @@
+{"usernameTweet": "Hasan74610700", "ID": "1282072320660721666", "text": "Çok  darbe  yedim", "url": "/Hasan74610700/status/1282072320660721666", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 01:00:35", "is_reply": true, "is_retweet": false, "user_id": "1089602215080312834"}

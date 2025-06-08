@@ -1,0 +1,1 @@
+{"usernameTweet": "kiziltas_can", "ID": "1282355349127921664", "text": "Enişte  darbe  haberini iyisi verdi yoksa durduramazdık", "url": "/kiziltas_can/status/1282355349127921664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 19:45:14", "is_reply": true, "is_retweet": false, "user_id": "3446469855"}

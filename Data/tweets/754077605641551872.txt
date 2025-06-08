@@ -1,0 +1,1 @@
+{"usernameTweet": "nry888", "ID": "754077605641551872", "text": "# sokağaçik  Vatanina milletine devletine sahip cik hainlere firsat verme... #SokağaSakınÇıkma", "url": "/nry888/status/754077605641551872", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:18:05", "is_reply": false, "is_retweet": false, "user_id": "313245302"}

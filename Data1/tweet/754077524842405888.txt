@@ -1,0 +1,1 @@
+{"usernameTweet": "tekyoldavsanlik", "ID": "754077524842405888", "text": "Goy goyu kesiyorum,  kimsenin canı yanmasın\n#SokağaSakınÇıkma", "url": "/tekyoldavsanlik/status/754077524842405888", "nbr_retweet": 127, "nbr_favorite": 315, "nbr_reply": 3, "datetime": "2016-07-16 01:17:46", "is_reply": false, "is_retweet": false, "user_id": "362141216"}

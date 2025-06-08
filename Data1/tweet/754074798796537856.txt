@@ -1,0 +1,1 @@
+{"usernameTweet": "bortecine4545", "ID": "754074798796537856", "text": "# SokağaSakınÇıkma", "url": "/bortecine4545/status/754074798796537856", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:06:56", "is_reply": false, "is_retweet": false, "user_id": "178069274"}

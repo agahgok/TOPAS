@@ -1,0 +1,1 @@
+{"usernameTweet": "edicasamis", "ID": "754077913834807301", "text": "Bu oyuna inanmayın başkanlık sistemini getirmek için bir şov bu inanmayın #SokağaSakınÇıkma", "url": "/edicasamis/status/754077913834807301", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:19", "is_reply": false, "is_retweet": false, "user_id": "950121151"}

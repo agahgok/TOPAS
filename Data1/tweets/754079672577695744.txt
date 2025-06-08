@@ -1,0 +1,1 @@
+{"usernameTweet": "kayaserdar24", "ID": "754079672577695744", "text": "Bir oyun sahneleniyor. #SokağaSakınÇıkma", "url": "/kayaserdar24/status/754079672577695744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:26:18", "is_reply": false, "is_retweet": false, "user_id": "129390428"}

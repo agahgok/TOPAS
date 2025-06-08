@@ -1,0 +1,1 @@
+{"usernameTweet": "ayberkaksoy34", "ID": "1282342302032240644", "text": "Koronaya ağır bi  darbe  geldi hdjdjd  pic.twitter.com/WUCRFDw7SA", "url": "/ayberkaksoy34/status/1282342302032240644", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 2, "datetime": "2020-07-12 18:53:24", "is_reply": false, "is_retweet": false, "user_id": "2351752915"}

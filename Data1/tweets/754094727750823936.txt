@@ -1,0 +1,1 @@
+{"usernameTweet": "kubiizmm", "ID": "754094727750823936", "text": "Bizler bu filme karşıyız #SokağaSakınÇıkma", "url": "/kubiizmm/status/754094727750823936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:08", "is_reply": false, "is_retweet": false, "user_id": "396459570"}

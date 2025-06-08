@@ -1,0 +1,1 @@
+{"usernameTweet": "usluonuur", "ID": "1281588826763395072", "text": "en iyisi su iciyim ben americano cok öldürücü bi  darbe :dddkshsh", "url": "/usluonuur/status/1281588826763395072", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 16:59:21", "is_reply": true, "is_retweet": false, "user_id": "3327680505"}

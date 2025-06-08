@@ -1,0 +1,1 @@
+{"usernameTweet": "ekonometrisyen", "ID": "754078954311585792", "text": "# SokağaSakınÇıkma  çok iyi yazılamamış bir tiyatro oyunu!!!", "url": "/ekonometrisyen/status/754078954311585792", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:27", "is_reply": false, "is_retweet": false, "user_id": "2278158613"}

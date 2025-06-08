@@ -1,0 +1,1 @@
+{"usernameTweet": "mehmet_fatih48", "ID": "754072654022344704", "text": "Misirda oldugu gibi sokaga cagirdilar sonrada sattilar #SokağaSakınÇıkma", "url": "/mehmet_fatih48/status/754072654022344704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:58:25", "is_reply": false, "is_retweet": false, "user_id": "4917951269"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ataaerdogdu", "ID": "754095108681764865", "text": "Sokağa davet eden siyasiler hangi meydan da sahi bizde oraya gidelim  #SokağaÇıkma", "url": "/ataaerdogdu/status/754095108681764865", "nbr_retweet": 3, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2016-07-16 02:27:38", "is_reply": false, "is_retweet": false, "user_id": "3117637229"}

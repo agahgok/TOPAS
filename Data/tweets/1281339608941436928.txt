@@ -1,0 +1,1 @@
+{"usernameTweet": "huseyin_b", "ID": "1281339608941436928", "text": "Nedim Şener sana \"şerefsiz  darbe  şakşakçısı\" demiş... Üzüldüm.. Çünkü az söylemiş...", "url": "/huseyin_b/status/1281339608941436928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 00:29:03", "is_reply": true, "is_retweet": false, "user_id": "55506534"}

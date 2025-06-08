@@ -1,0 +1,1 @@
+{"usernameTweet": "mavimsi_seyler", "ID": "754082028409225216", "text": "Camilerde ezan okunuyor\nHer zamanki gibi yine din alet ediliyor!\n #SokağaSakınÇıkma", "url": "/mavimsi_seyler/status/754082028409225216", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:40", "is_reply": false, "is_retweet": false, "user_id": "4323289834"}

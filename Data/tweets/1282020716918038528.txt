@@ -1,0 +1,1 @@
+{"usernameTweet": "1234567kainat", "ID": "1282020716918038528", "text": "Ay bıde geceler boyu sokakta  darbe  olacak diye beklenmıs tı", "url": "/1234567kainat/status/1282020716918038528", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 21:35:32", "is_reply": true, "is_retweet": false, "user_id": "1170805087394029568"}

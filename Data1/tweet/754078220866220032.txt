@@ -1,0 +1,1 @@
+{"usernameTweet": "Ayyildiz8H", "ID": "754078220866220032", "text": "# SokağaSakınÇıkma  oyuna gelme!", "url": "/Ayyildiz8H/status/754078220866220032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:32", "is_reply": false, "is_retweet": false, "user_id": "2507993715"}

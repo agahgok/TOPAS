@@ -1,0 +1,1 @@
+{"usernameTweet": "serhatacar47", "ID": "754085462936084480", "text": "Her zaman ki gibi  din gene siyasete alet ediliyor #SokağaSakınÇıkma", "url": "/serhatacar47/status/754085462936084480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:49:19", "is_reply": false, "is_retweet": false, "user_id": "1709478031"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "berkayont", "ID": "754087509060050944", "text": "# SokağaSakınÇıkma  #ankara  Bu ülkenin tek baş komutanı MUSTAFA KEMAL ATATÜRK'dür !!", "url": "/berkayont/status/754087509060050944", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:27", "is_reply": false, "is_retweet": false, "user_id": "3522009807"}

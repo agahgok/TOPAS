@@ -1,0 +1,1 @@
+{"usernameTweet": "tipinsiki", "ID": "754078478987845632", "text": "Oscarı gelecek yıl tayyibe verirler, en iyi senaryo dalında.  #SokağaSakınÇıkma \n#ankara", "url": "/tipinsiki/status/754078478987845632", "nbr_retweet": 4, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:21:34", "is_reply": false, "is_retweet": false, "user_id": "1957125739"}

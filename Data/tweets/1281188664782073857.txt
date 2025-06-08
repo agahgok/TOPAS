@@ -1,0 +1,1 @@
+{"usernameTweet": "cctv1984", "ID": "1281188664782073857", "text": "Yakında  darbe  olursa, haberi de eniştesinden alır ", "url": "/cctv1984/status/1281188664782073857", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 14:29:15", "is_reply": true, "is_retweet": false, "user_id": "912385460093243392"}

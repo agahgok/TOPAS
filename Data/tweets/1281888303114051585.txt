@@ -1,0 +1,1 @@
+{"usernameTweet": "derindarbe31", "ID": "1281888303114051585", "text": "Şuan görüyoruz kimin adaları peşkeş çektiğini", "url": "/derindarbe31/status/1281888303114051585", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 12:49:22", "is_reply": true, "is_retweet": false, "user_id": "1281292563840983042"}

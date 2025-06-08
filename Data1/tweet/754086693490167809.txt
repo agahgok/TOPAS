@@ -1,0 +1,1 @@
+{"usernameTweet": "cizirtilises", "ID": "754086693490167809", "text": "# SokağaSakınÇıkma   NE OLDU DARBENİZ.. AVUCUNUZU YALADINIZ MI", "url": "/cizirtilises/status/754086693490167809", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:54:12", "is_reply": false, "is_retweet": false, "user_id": "2259197332"}

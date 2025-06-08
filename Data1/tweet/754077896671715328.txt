@@ -1,0 +1,1 @@
+{"usernameTweet": "Dionysos_88", "ID": "754077896671715328", "text": "Pos-tuhaf darbe cami imamları hutbe veriyor sokağa çıkın! imam diyorsa cemaat sıçar bence  #SokağaSakınÇıkma", "url": "/Dionysos_88/status/754077896671715328", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:19:15", "is_reply": false, "is_retweet": false, "user_id": "584241319"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "NigarAksy", "ID": "754074629300334592", "text": "Hangi çılgın bize zincir vuracakmış? Şaşarım...#SokağaSakınÇıkma", "url": "/NigarAksy/status/754074629300334592", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:06:16", "is_reply": false, "is_retweet": false, "user_id": "1143411320"}

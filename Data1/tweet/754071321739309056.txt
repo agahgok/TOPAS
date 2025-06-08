@@ -1,0 +1,1 @@
+{"usernameTweet": "mtrakya", "ID": "754071321739309056", "text": "# sokagacıkma   https:// twitter.com/drtunam/status /754065153725988872   …", "url": "/mtrakya/status/754071321739309056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:07", "is_reply": false, "is_retweet": false, "user_id": "2283898526"}

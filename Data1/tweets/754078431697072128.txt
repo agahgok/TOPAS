@@ -1,0 +1,1 @@
+{"usernameTweet": "gulshkrkmz", "ID": "754078431697072128", "text": "# SokağaSakınÇıkma  kaosa sebebiyet vermeyin canınızı tehlikeye atmayın. Mantıklı düşünün biraz", "url": "/gulshkrkmz/status/754078431697072128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:21:22", "is_reply": false, "is_retweet": false, "user_id": "2233528844"}

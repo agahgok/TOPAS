@@ -1,0 +1,1 @@
+{"usernameTweet": "naturelove0", "ID": "1281654911822774272", "text": "İnsan herkesten  darbe  yer mi. Ayıptır.", "url": "/naturelove0/status/1281654911822774272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 21:21:57", "is_reply": false, "is_retweet": false, "user_id": "1010557131551068160"}

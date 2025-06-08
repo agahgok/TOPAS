@@ -1,0 +1,1 @@
+{"usernameTweet": "edacyhan", "ID": "754120461219426304", "text": "CNN CANLI YAYINDA BİR SALAK İZLİYORUZ. Ben böyle kaos görmedim. Sonumuz hayır olsun. #SONDAKİKA  #SokağaSakınÇıkma", "url": "/edacyhan/status/754120461219426304", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 04:08:23", "is_reply": false, "is_retweet": false, "user_id": "285797483"}

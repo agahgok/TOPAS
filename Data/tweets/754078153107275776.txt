@@ -1,0 +1,1 @@
+{"usernameTweet": "puskulluoglu", "ID": "754078153107275776", "text": "# SokağaSakınÇıkma \nAkkoyunlular çıkmış bile  pic.twitter.com/XTLvD7HP4F", "url": "/puskulluoglu/status/754078153107275776", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:16", "is_reply": false, "is_retweet": false, "user_id": "100920780"}

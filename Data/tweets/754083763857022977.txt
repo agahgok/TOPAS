@@ -1,0 +1,1 @@
+{"usernameTweet": "emreyavuz01", "ID": "754083763857022977", "text": "ülkede darbe oluyor ama tek düşündüğüm yarın işe gidip gitmeyeceğim...kahrolsun kapitalizm #SokağaSakınÇıkma", "url": "/emreyavuz01/status/754083763857022977", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:34", "is_reply": false, "is_retweet": false, "user_id": "438435212"}

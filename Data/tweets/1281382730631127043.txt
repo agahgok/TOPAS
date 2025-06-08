@@ -1,0 +1,1 @@
+{"usernameTweet": "ilkan032", "ID": "1281382730631127043", "text": "Her şeyin yalan olduğunu  darbe  yedikçe anlıyor insan.", "url": "/ilkan032/status/1281382730631127043", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 03:20:24", "is_reply": false, "is_retweet": false, "user_id": "2865689282"}

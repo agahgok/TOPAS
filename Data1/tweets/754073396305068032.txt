@@ -1,0 +1,1 @@
+{"usernameTweet": "yavuzselim72", "ID": "754073396305068032", "text": "# SokağaSakınÇıkma  diyen itler. Demokrasi düşmanıdır", "url": "/yavuzselim72/status/754073396305068032", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:22", "is_reply": false, "is_retweet": false, "user_id": "152216736"}

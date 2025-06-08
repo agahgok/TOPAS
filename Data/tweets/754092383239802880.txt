@@ -1,0 +1,1 @@
+{"usernameTweet": "TSonsuz_", "ID": "754092383239802880", "text": "BOŞ Komutan... \n\n #SokağaSakınÇıkma   pic.twitter.com/29mLjePIHr", "url": "/TSonsuz_/status/754092383239802880", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:16:49", "is_reply": false, "is_retweet": false, "user_id": "1263286958"}

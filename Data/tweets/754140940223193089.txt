@@ -1,0 +1,1 @@
+{"usernameTweet": "CansucanDiyoKi", "ID": "754140940223193089", "text": "42 Can 42 Hayat son buldu #DarbeyeHayır  #SokağaSakınÇıkma", "url": "/CansucanDiyoKi/status/754140940223193089", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:29:46", "is_reply": false, "is_retweet": false, "user_id": "2986141745"}

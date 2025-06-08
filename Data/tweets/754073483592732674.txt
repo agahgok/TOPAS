@@ -1,0 +1,1 @@
+{"usernameTweet": "ceranturkann", "ID": "754073483592732674", "text": "# SokağaSakınÇıkma", "url": "/ceranturkann/status/754073483592732674", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:01:43", "is_reply": false, "is_retweet": false, "user_id": "912941059"}

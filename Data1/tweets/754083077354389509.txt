@@ -1,0 +1,1 @@
+{"usernameTweet": "aksucigdem", "ID": "754083077354389509", "text": "# SokağaSakınÇıkma  demeyin Ali ısmail korkmaz ve berkin elvan i ve digerlerini unutmadık unutmayiz", "url": "/aksucigdem/status/754083077354389509", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:50", "is_reply": false, "is_retweet": false, "user_id": "176034720"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ernureknc", "ID": "754093612355424256", "text": "Vallahi bravo kırk yıllık tiyatrocular bile böyle oyun oynamadılar   #SokağaSakınÇıkma", "url": "/ernureknc/status/754093612355424256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:21:42", "is_reply": false, "is_retweet": false, "user_id": "1610475919"}

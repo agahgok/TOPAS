@@ -1,0 +1,1 @@
+{"usernameTweet": "srhtsgt", "ID": "754099649607180289", "text": "# SokağaSakınÇıkma  Gerçek TSK yı engelliyorsunuz helikopterleri düşüremiyor ve gözaltılara engel oluyorsunuz", "url": "/srhtsgt/status/754099649607180289", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:45:41", "is_reply": false, "is_retweet": false, "user_id": "907567777"}

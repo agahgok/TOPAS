@@ -1,0 +1,1 @@
+{"usernameTweet": "yallaharabstna", "ID": "754073013281288192", "text": "# SokağaSakınÇıkma  Halkı adeta canlı kalkan olarak kullanıyorlar şu anda.", "url": "/yallaharabstna/status/754073013281288192", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:59:51", "is_reply": false, "is_retweet": false, "user_id": "2714909563"}

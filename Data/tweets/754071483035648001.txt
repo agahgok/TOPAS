@@ -1,0 +1,1 @@
+{"usernameTweet": "umut_kesen", "ID": "754071483035648001", "text": "İç savaş çıkartmak niyetleri galiba aman ha! #SokağaSakınÇıkma", "url": "/umut_kesen/status/754071483035648001", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:46", "is_reply": false, "is_retweet": false, "user_id": "258095221"}

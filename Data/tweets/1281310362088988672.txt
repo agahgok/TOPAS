@@ -1,0 +1,1 @@
+{"usernameTweet": "Mustafakemal992", "ID": "1281310362088988672", "text": "şekerin itibarına  darbe ..az mı", "url": "/Mustafakemal992/status/1281310362088988672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 22:32:50", "is_reply": true, "is_retweet": false, "user_id": "970008032318054400"}

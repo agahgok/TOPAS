@@ -1,0 +1,1 @@
+{"usernameTweet": "eiesz", "ID": "754074366057517056", "text": "Peki bir grup çapulcunun yaptığı eylemin aynısını kendin için istemek ne oluyor #SokağaSakınÇıkma", "url": "/eiesz/status/754074366057517056", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:05:13", "is_reply": false, "is_retweet": false, "user_id": "232261022"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "bryagci", "ID": "754071845259935744", "text": "# SokağaSakınÇıkma  diktatörlere uymayın arkadaslar", "url": "/bryagci/status/754071845259935744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:55:12", "is_reply": false, "is_retweet": false, "user_id": "629724979"}

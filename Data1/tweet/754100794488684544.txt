@@ -1,0 +1,1 @@
+{"usernameTweet": "EYikmaz", "ID": "754100794488684544", "text": "Gaza gelmeyin sokağa çıkmayın #SokağaSakınÇıkma", "url": "/EYikmaz/status/754100794488684544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:50:14", "is_reply": false, "is_retweet": false, "user_id": "569133015"}

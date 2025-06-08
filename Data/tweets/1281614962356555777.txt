@@ -1,0 +1,1 @@
+{"usernameTweet": "netolnet", "ID": "1281614962356555777", "text": "Lan  darbe  marbe derken 1453'e dönmüşüz napıyonuz aloooooo #AyasofyaCamii", "url": "/netolnet/status/1281614962356555777", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-10 18:43:12", "is_reply": false, "is_retweet": false, "user_id": "1279497362541608960"}

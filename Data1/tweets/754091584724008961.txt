@@ -1,0 +1,1 @@
+{"usernameTweet": "atesclup", "ID": "754091584724008961", "text": "TRT'yi ele geçirmeye çalışan 4 asker etkisiz hale getirildi. (Milliyet) #DarbeyeHayı  #SokağaSakınÇıkma", "url": "/atesclup/status/754091584724008961", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:38", "is_reply": false, "is_retweet": false, "user_id": "151444805"}

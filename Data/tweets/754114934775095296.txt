@@ -1,0 +1,1 @@
+{"usernameTweet": "Mardiniyim", "ID": "754114934775095296", "text": "Darbeye teşebbüs eden orospu cocuklarinin etiketi   #SokağaSakınÇıkma", "url": "/Mardiniyim/status/754114934775095296", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 03:46:25", "is_reply": false, "is_retweet": false, "user_id": "624039531"}

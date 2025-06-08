@@ -1,0 +1,1 @@
+{"usernameTweet": "ensar_ozcelik", "ID": "754080379175305221", "text": "Askeri sonunda çıldırttınız  #SokağaSakınÇıkma   pic.twitter.com/GpB6bJ6zRc", "url": "/ensar_ozcelik/status/754080379175305221", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:07", "is_reply": false, "is_retweet": false, "user_id": "2268777556"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ZeynepBGuven", "ID": "754073039722143744", "text": "Camilerden \"sokaga cikin\" anonsu nedir ya? Hepsinde selaniz okuncak, akilli olun!! #sokagacikma", "url": "/ZeynepBGuven/status/754073039722143744", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:59:57", "is_reply": false, "is_retweet": false, "user_id": "2383086562"}

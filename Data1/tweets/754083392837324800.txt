@@ -1,0 +1,1 @@
+{"usernameTweet": "sevill_ayy34", "ID": "754083392837324800", "text": "Birbirimizin kanini bosyere akitmayalim Allah hepimizin yardimcisi olsun #SokağaSakınÇıkma", "url": "/sevill_ayy34/status/754083392837324800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:05", "is_reply": false, "is_retweet": false, "user_id": "550004301"}

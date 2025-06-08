@@ -1,0 +1,1 @@
+{"usernameTweet": "devrimdemirci11", "ID": "754071613629353984", "text": "Kafanız biraz çalışıyorsa çıkmayın dışarı amk #SokağaSakınÇıkma", "url": "/devrimdemirci11/status/754071613629353984", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:17", "is_reply": false, "is_retweet": false, "user_id": "1131699848"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ackbsufuk", "ID": "754060145458642944", "text": "# SokağaSakınÇıkma  lütfen dikkat edelim", "url": "/ackbsufuk/status/754060145458642944", "nbr_retweet": 8, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 00:08:43", "is_reply": false, "is_retweet": false, "user_id": "618537339"}

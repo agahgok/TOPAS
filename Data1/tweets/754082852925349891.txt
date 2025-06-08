@@ -1,0 +1,1 @@
+{"usernameTweet": "TurkRecepCakir", "ID": "754082852925349891", "text": "İmam hatipleri kapatın bari \nŞanlı Türk Silahlı Kuvvetlerinin yanındayız\n\n#SokağaSakınÇıkma  ", "url": "/TurkRecepCakir/status/754082852925349891", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:38:56", "is_reply": false, "is_retweet": false, "user_id": "1474852706"}

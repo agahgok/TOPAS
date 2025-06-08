@@ -1,0 +1,1 @@
+{"usernameTweet": "___aybike___", "ID": "1284365158303883264", "text": "demek ki göze değil kafaya vurmuş adam kafaya alınan  darbe  göz çevresinde morluklara sebep olur..", "url": "/___aybike___/status/1284365158303883264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 08:51:30", "is_reply": true, "is_retweet": false, "user_id": "2862808996"}

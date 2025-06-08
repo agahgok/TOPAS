@@ -1,0 +1,1 @@
+{"usernameTweet": "kaancskn0", "ID": "1281287168401584128", "text": "Bitik halinle hamle,\nEmanet aklınla  darbe .\nNeler gördü gözüm Genç yaşımda,\nVay be...", "url": "/kaancskn0/status/1281287168401584128", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-09 21:00:40", "is_reply": false, "is_retweet": false, "user_id": "882723199947079680"}

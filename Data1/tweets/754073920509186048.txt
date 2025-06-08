@@ -1,0 +1,1 @@
+{"usernameTweet": "hsnylmz_", "ID": "754073920509186048", "text": "Suriyeliler sizi cagiriyorlar..\n #SokağaSakınÇıkma", "url": "/hsnylmz_/status/754073920509186048", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:03:27", "is_reply": false, "is_retweet": false, "user_id": "172909925"}

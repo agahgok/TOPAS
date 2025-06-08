@@ -1,0 +1,1 @@
+{"usernameTweet": "nesliyesiler", "ID": "754086506847932416", "text": "ÜLke oLarak öldük seLamızı okuTuyor..!!\n\n#darbe  #sokağaçıkma  #oyunagelme", "url": "/nesliyesiler/status/754086506847932416", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:53:28", "is_reply": false, "is_retweet": false, "user_id": "103060995"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_ekoist", "ID": "754085270191009792", "text": "Evimin önündeki camiden anonslar geliyor meydanlara diye. Allah bunu da sormaz mı #SokağaSakınÇıkma", "url": "/_ekoist/status/754085270191009792", "nbr_retweet": 2, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:48:33", "is_reply": false, "is_retweet": false, "user_id": "1227942558"}

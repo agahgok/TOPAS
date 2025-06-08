@@ -1,0 +1,1 @@
+{"usernameTweet": "sisfeneri", "ID": "754082663443619841", "text": "DİN SANA GÜZEL... #SokağaSakınÇıkma   https:// twitter.com/orhanaydin6/st atus/754082408169897984   …", "url": "/sisfeneri/status/754082663443619841", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:38:11", "is_reply": false, "is_retweet": false, "user_id": "387672234"}

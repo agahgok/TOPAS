@@ -1,0 +1,1 @@
+{"usernameTweet": "ggedikoglu", "ID": "1282395357289361409", "text": "Tiyatro değil kontrollü  darbe  dendi.", "url": "/ggedikoglu/status/1282395357289361409", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 22:24:13", "is_reply": true, "is_retweet": false, "user_id": "113729226"}

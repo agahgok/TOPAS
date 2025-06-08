@@ -1,0 +1,1 @@
+{"usernameTweet": "stormisbora", "ID": "754082358471565312", "text": "Birgun sizede lazim olucak demistik!!  #SokağaSakınÇıkma", "url": "/stormisbora/status/754082358471565312", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:59", "is_reply": false, "is_retweet": false, "user_id": "72816674"}

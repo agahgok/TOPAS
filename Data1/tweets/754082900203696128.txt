@@ -1,0 +1,1 @@
+{"usernameTweet": "mertbzky", "ID": "754082900203696128", "text": "Bizim imam atatürkcu ezan okumuyor #SokağaSakınÇıkma   asariye cad.", "url": "/mertbzky/status/754082900203696128", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:39:08", "is_reply": false, "is_retweet": false, "user_id": "50588530"}

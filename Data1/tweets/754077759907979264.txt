@@ -1,0 +1,1 @@
+{"usernameTweet": "ekin2002", "ID": "754077759907979264", "text": "# SokağaSakınÇıkma   pic.twitter.com/9qmETE3nen", "url": "/ekin2002/status/754077759907979264", "nbr_retweet": 23, "nbr_favorite": 35, "nbr_reply": 0, "datetime": "2016-07-16 01:18:42", "is_reply": false, "is_retweet": false, "user_id": "183575499"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "JustAkalay", "ID": "754082229777825792", "text": "Bu oyuna gelip #SokağaSakınÇıkma", "url": "/JustAkalay/status/754082229777825792", "nbr_retweet": 6, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 01:36:28", "is_reply": false, "is_retweet": false, "user_id": "1153817918"}

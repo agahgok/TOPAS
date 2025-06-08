@@ -1,0 +1,1 @@
+{"usernameTweet": "gingeraalle", "ID": "754076113022824448", "text": "Önce korumalarınla birlikte sen çık tayip! #SokağaSakınÇıkma", "url": "/gingeraalle/status/754076113022824448", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:10", "is_reply": false, "is_retweet": false, "user_id": "858026533"}

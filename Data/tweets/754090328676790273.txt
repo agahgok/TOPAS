@@ -1,0 +1,1 @@
+{"usernameTweet": "cepnisoylu", "ID": "754090328676790273", "text": "TÜRK'ü TÜRK'e Kırdırana Lanet Olsun..\n\n#SokağaSakınÇıkma", "url": "/cepnisoylu/status/754090328676790273", "nbr_retweet": 3, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:08:39", "is_reply": false, "is_retweet": false, "user_id": "3645429796"}

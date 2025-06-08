@@ -1,0 +1,1 @@
+{"usernameTweet": "mrvsg", "ID": "754108756271722496", "text": "Hepiniz çıldırmışsınız #SokağaSakınÇıkma  benim vatanım sahipsiz değil !!!!", "url": "/mrvsg/status/754108756271722496", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:21:52", "is_reply": false, "is_retweet": false, "user_id": "333934269"}

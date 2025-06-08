@@ -1,0 +1,1 @@
+{"usernameTweet": "Malum_Pasa", "ID": "754108436737064960", "text": "Bak ölürsünüz, yarın; \"bana mı sordunuz sokağa çıkarken\" der! \n#SokağaSakınÇıkma", "url": "/Malum_Pasa/status/754108436737064960", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:20:36", "is_reply": false, "is_retweet": false, "user_id": "3238852877"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "rahmi4994", "ID": "754087244688977921", "text": "Bu darbe senaryoyuyla beraber hükümetin gücü daha da çok arttı... #SokağaSakınÇıkma", "url": "/rahmi4994/status/754087244688977921", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:24", "is_reply": false, "is_retweet": false, "user_id": "714300671"}

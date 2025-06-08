@@ -1,0 +1,1 @@
+{"usernameTweet": "furkan_cvs", "ID": "1282108315464597511", "text": "Şu hayatta neyi fazla önemsersem seversem  darbe  yiyorum onun için gelişine bıraktım herşeyi", "url": "/furkan_cvs/status/1282108315464597511", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-12 03:23:37", "is_reply": false, "is_retweet": false, "user_id": "1189023890246426624"}

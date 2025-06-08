@@ -1,0 +1,1 @@
+{"usernameTweet": "YcelGl10", "ID": "754082206029611008", "text": "İllerde ve ilçelerde sela ve tekbir okunuyo siyasicilerin oynuna gelmeyin  #SokağaSakınÇıkma", "url": "/YcelGl10/status/754082206029611008", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:22", "is_reply": false, "is_retweet": false, "user_id": "4327391243"}

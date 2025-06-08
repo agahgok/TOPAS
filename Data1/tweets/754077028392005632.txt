@@ -1,0 +1,1 @@
+{"usernameTweet": "_golge_adam", "ID": "754077028392005632", "text": "Oyuna gelme #SokağaSakınÇikma  tayibin ekmeğine yağ sürme...", "url": "/_golge_adam/status/754077028392005632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:48", "is_reply": false, "is_retweet": false, "user_id": "2858686930"}

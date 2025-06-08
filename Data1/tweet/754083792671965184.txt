@@ -1,0 +1,1 @@
+{"usernameTweet": "ayca_ca", "ID": "754083792671965184", "text": "Şu olanları bile ciddiye alamayacak ne yaşattınız lan bize? #SokağaSakınÇıkma", "url": "/ayca_ca/status/754083792671965184", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:42:41", "is_reply": false, "is_retweet": false, "user_id": "250165108"}

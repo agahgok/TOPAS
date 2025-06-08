@@ -1,0 +1,1 @@
+{"usernameTweet": "NnesMue", "ID": "1281849304672538624", "text": "كل صدمة تألم قلبك، توعي عقلك.\n\nKalbini acıtan her  darbe , aklını olgunlaştırır.", "url": "/NnesMue/status/1281849304672538624", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2020-07-11 10:14:24", "is_reply": false, "is_retweet": false, "user_id": "1276208417556889600"}

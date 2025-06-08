@@ -1,0 +1,1 @@
+{"usernameTweet": "henryninplasesi", "ID": "1282552434322284545", "text": "Darbe  daha çok clippersa vurulmuş gibime geldi", "url": "/henryninplasesi/status/1282552434322284545", "nbr_retweet": 0, "nbr_favorite": 12, "nbr_reply": 0, "datetime": "2020-07-13 08:48:23", "is_reply": true, "is_retweet": false, "user_id": "1230149108909924352"}

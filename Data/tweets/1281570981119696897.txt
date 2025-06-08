@@ -1,0 +1,1 @@
+{"usernameTweet": "prodarbe", "ID": "1281570981119696897", "text": "I’m a big fan of the Cajun Dill Gator-Tators pic.twitter.com/wKY7hR5b6l", "url": "/prodarbe/status/1281570981119696897", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 15:48:26", "is_reply": true, "is_retweet": false, "user_id": "1270712034989146112"}

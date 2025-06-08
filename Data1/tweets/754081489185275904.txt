@@ -1,0 +1,1 @@
+{"usernameTweet": "ttrgy", "ID": "754081489185275904", "text": "Ulan sokağa çıkan soysuz onca şehit varken nerdeydin #SokağaSakınÇıkma", "url": "/ttrgy/status/754081489185275904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:33:31", "is_reply": false, "is_retweet": false, "user_id": "480184382"}

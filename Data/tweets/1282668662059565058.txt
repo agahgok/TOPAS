@@ -1,0 +1,1 @@
+{"usernameTweet": "kivanclim", "ID": "1282668662059565058", "text": "23 Haziranda yedikleri  darbe  az gelmis", "url": "/kivanclim/status/1282668662059565058", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 16:30:14", "is_reply": true, "is_retweet": false, "user_id": "143627898"}

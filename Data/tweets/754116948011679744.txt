@@ -1,0 +1,1 @@
+{"usernameTweet": "hatice37176271", "ID": "754116948011679744", "text": "Benim tek başkomutanım Mustafa Kemal Atatürk  #SokağaÇıkma", "url": "/hatice37176271/status/754116948011679744", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 03:54:25", "is_reply": false, "is_retweet": false, "user_id": "1070822972"}

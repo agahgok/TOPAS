@@ -1,0 +1,1 @@
+{"usernameTweet": "cet_1453", "ID": "1282382502624100355", "text": "Bizimde sizin için dediklerimiz belli ...  Darbe  çocukları", "url": "/cet_1453/status/1282382502624100355", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-12 21:33:08", "is_reply": true, "is_retweet": false, "user_id": "1500947947"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "benmineee", "ID": "754087645169520640", "text": "# SokağaSakınÇıkma  @tv8  flash tvye  bağladı bi halay çekmedikleri kaldı", "url": "/benmineee/status/754087645169520640", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:57:59", "is_reply": false, "is_retweet": false, "user_id": "2360093478"}

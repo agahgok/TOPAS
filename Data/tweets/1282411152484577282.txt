@@ -1,0 +1,1 @@
+{"usernameTweet": "asudekimki", "ID": "1282411152484577282", "text": "calamiyosun zaten agahahhajajs  darbe  üstüne  darbe  resmen", "url": "/asudekimki/status/1282411152484577282", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-12 23:26:59", "is_reply": true, "is_retweet": false, "user_id": "870228659977760769"}

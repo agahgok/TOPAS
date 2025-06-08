@@ -1,0 +1,1 @@
+{"usernameTweet": "Onurbilgin22", "ID": "754087835616108544", "text": "# SokağaSakınÇıkma  Başkanlık filmi part-1", "url": "/Onurbilgin22/status/754087835616108544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:58:44", "is_reply": false, "is_retweet": false, "user_id": "1022989490"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Azimeglsenol", "ID": "754073581412315136", "text": "Hayatımda gördüğüm en boktan senaryo !!! #SokağaSakınÇıkma", "url": "/Azimeglsenol/status/754073581412315136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:02:06", "is_reply": false, "is_retweet": false, "user_id": "545290705"}

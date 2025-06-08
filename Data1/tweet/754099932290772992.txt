@@ -1,0 +1,1 @@
+{"usernameTweet": "OKO070", "ID": "754099932290772992", "text": "# Sokağaçıkma  göt kılı olma..", "url": "/OKO070/status/754099932290772992", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:46:49", "is_reply": false, "is_retweet": false, "user_id": "1858624686"}

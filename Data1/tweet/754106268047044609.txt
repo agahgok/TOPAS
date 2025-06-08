@@ -1,0 +1,1 @@
+{"usernameTweet": "mehtapsdkvc", "ID": "754106268047044609", "text": "Sizi sokağa davet edenler sığınaklarda saklaniyor. \n#SokağaSakınÇıkma   pic.twitter.com/9toX3486gz", "url": "/mehtapsdkvc/status/754106268047044609", "nbr_retweet": 4, "nbr_favorite": 10, "nbr_reply": 1, "datetime": "2016-07-16 03:11:59", "is_reply": false, "is_retweet": false, "user_id": "3363880234"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "tayfun_karakoca", "ID": "754117985904844801", "text": "# SokağaSakınÇıkma  çünkü #DarbeDeğilTiyatro !", "url": "/tayfun_karakoca/status/754117985904844801", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:58:33", "is_reply": false, "is_retweet": false, "user_id": "2469791565"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "ezopikk", "ID": "754081464204099585", "text": "Olan yine masum insanlara, güzel ülkemize olacak. Maalesef. #SokağaSakınÇıkma", "url": "/ezopikk/status/754081464204099585", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:33:25", "is_reply": false, "is_retweet": false, "user_id": "106392174"}

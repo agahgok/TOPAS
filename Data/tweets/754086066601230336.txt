@@ -1,0 +1,1 @@
+{"usernameTweet": "siklemento", "ID": "754086066601230336", "text": "Noldu güncelleme mi geldi 5vakit diye biliyoduk biz ezanı #SokağaSakınÇıkma", "url": "/siklemento/status/754086066601230336", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:51:43", "is_reply": false, "is_retweet": false, "user_id": "275210624"}

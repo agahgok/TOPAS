@@ -1,0 +1,1 @@
+{"usernameTweet": "ReBeLoZZi", "ID": "754264993651097604", "text": "Bombalamalara yayın yasağı getirenler darbeyi canlı izlettirdi. #sokağasakınçıkma  #SokağaÇıkma", "url": "/ReBeLoZZi/status/754264993651097604", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 13:42:42", "is_reply": false, "is_retweet": false, "user_id": "176877025"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mechull13", "ID": "754087382043942912", "text": "Sela veren her cami akp bağlıdır.okadarda arkanızdan namaz kıldık ALLAH  afetsin #SokağaSakınÇıkma", "url": "/mechull13/status/754087382043942912", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:56:56", "is_reply": false, "is_retweet": false, "user_id": "2940617356"}

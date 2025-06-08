@@ -1,0 +1,1 @@
+{"usernameTweet": "yagmur__luk", "ID": "754078882630959104", "text": "# SokağaSakınÇıkma  dediniz ne oldu halk yine dinlemedi sokağa cikti", "url": "/yagmur__luk/status/754078882630959104", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:23:10", "is_reply": false, "is_retweet": false, "user_id": "2680875647"}

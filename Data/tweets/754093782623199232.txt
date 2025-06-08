@@ -1,0 +1,1 @@
+{"usernameTweet": "KesnYasanrNaz", "ID": "754093782623199232", "text": "# SokağaSakınÇıkma   pic.twitter.com/iWPsuPsuLT", "url": "/KesnYasanrNaz/status/754093782623199232", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:22:22", "is_reply": false, "is_retweet": false, "user_id": "3039719164"}

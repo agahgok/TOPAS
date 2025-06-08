@@ -1,0 +1,1 @@
+{"usernameTweet": "islandofthougt", "ID": "754092105178419200", "text": "# SokağaSakınÇıkma  Minareden Kuran okuyolar simdi de...bitmez amk gecesi...", "url": "/islandofthougt/status/754092105178419200", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:42", "is_reply": false, "is_retweet": false, "user_id": "2455993852"}

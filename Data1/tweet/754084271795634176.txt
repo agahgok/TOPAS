@@ -1,0 +1,1 @@
+{"usernameTweet": "Sevgii_10", "ID": "754084271795634176", "text": "Sokağa çıkıp askere kim saldiyorsa haindir. #SokağaSakınÇıkma", "url": "/Sevgii_10/status/754084271795634176", "nbr_retweet": 25, "nbr_favorite": 50, "nbr_reply": 4, "datetime": "2016-07-16 01:44:35", "is_reply": false, "is_retweet": false, "user_id": "316361499"}

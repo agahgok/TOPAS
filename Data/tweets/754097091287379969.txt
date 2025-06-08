@@ -1,0 +1,1 @@
+{"usernameTweet": "cgtykrmtc", "ID": "754097091287379969", "text": "Aha MIT aciklama yapmis darbe püskürtülmüs   #SokağaSakınÇıkma", "url": "/cgtykrmtc/status/754097091287379969", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:35:31", "is_reply": false, "is_retweet": false, "user_id": "230378699"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "nilo_eses", "ID": "754075746402963456", "text": "# SokağaSakınÇıkma", "url": "/nilo_eses/status/754075746402963456", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:10:42", "is_reply": false, "is_retweet": false, "user_id": "446486590"}

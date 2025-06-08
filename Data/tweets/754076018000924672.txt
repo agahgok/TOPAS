@@ -1,0 +1,1 @@
+{"usernameTweet": "Serhat_Ermez", "ID": "754076018000924672", "text": "Allahuekber diyip Konak Meydanına dökülmüşler çıldırıyorum , troll gibi ülke aq\n#SokağaSakınÇıkma", "url": "/Serhat_Ermez/status/754076018000924672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:47", "is_reply": false, "is_retweet": false, "user_id": "207032666"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "benbenleebirim", "ID": "754076052004212736", "text": "# SokağaSakınÇıkma  diyenlerin evlerini yakin aq", "url": "/benbenleebirim/status/754076052004212736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:55", "is_reply": false, "is_retweet": false, "user_id": "3372428045"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Aksamagelecegim", "ID": "754071363351175170", "text": "# SokağaSakınÇıkma  kimsenin burnu bile kanamasın ", "url": "/Aksamagelecegim/status/754071363351175170", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:17", "is_reply": false, "is_retweet": false, "user_id": "3102402340"}

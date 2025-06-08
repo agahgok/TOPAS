@@ -1,0 +1,1 @@
+{"usernameTweet": "UHXcCR_ERMk", "ID": "1282395487786676229", "text": "hayırdır inşallah  darbe  mi oluyor #PelosiMustGo", "url": "/UHXcCR_ERMk/status/1282395487786676229", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 22:24:44", "is_reply": false, "is_retweet": false, "user_id": "1182719823521951745"}

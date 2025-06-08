@@ -1,0 +1,1 @@
+{"usernameTweet": "elooss01", "ID": "1281742188238581778", "text": "Çok  darbe  aldım Özleminle boğuşurken...", "url": "/elooss01/status/1281742188238581778", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 03:08:45", "is_reply": false, "is_retweet": false, "user_id": "1253863595403808771"}

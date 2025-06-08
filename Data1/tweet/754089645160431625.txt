@@ -1,0 +1,1 @@
+{"usernameTweet": "sabihabutik", "ID": "754089645160431625", "text": "# SokağaSakınÇıkma  !!! GECENIN OZETI: DUNYA'YA REZIL OLDUK! ONLARCA SEHIT VERDIK ", "url": "/sabihabutik/status/754089645160431625", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:05:56", "is_reply": false, "is_retweet": false, "user_id": "287622065"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AvSametkose", "ID": "754124800390471681", "text": "Darbecileri ve uşaklarını 4 saatte paketlerine maşallah çıkın sokağa dışarısı bayram yeri #SokağaSakınÇıkma", "url": "/AvSametkose/status/754124800390471681", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:25:38", "is_reply": false, "is_retweet": false, "user_id": "1690421149"}

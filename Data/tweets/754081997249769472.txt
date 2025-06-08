@@ -1,0 +1,1 @@
+{"usernameTweet": "_golge_adam", "ID": "754081997249769472", "text": "Ezan okundu bu saate dini bile kendi çıkarları için kullanan bir zihniyet için #SokağaSakınÇıkma", "url": "/_golge_adam/status/754081997249769472", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:35:32", "is_reply": false, "is_retweet": false, "user_id": "2858686930"}

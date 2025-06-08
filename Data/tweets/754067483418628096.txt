@@ -1,0 +1,1 @@
+{"usernameTweet": "subcora", "ID": "754067483418628096", "text": "# Sokağaçıkma , bir hiç uğruna bu kaosa ortak olma!!!", "url": "/subcora/status/754067483418628096", "nbr_retweet": 3, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:52", "is_reply": false, "is_retweet": false, "user_id": "162781511"}

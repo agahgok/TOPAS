@@ -1,0 +1,1 @@
+{"usernameTweet": "anilsanli52", "ID": "754089007005503488", "text": "# Oyunagelme  #sokağaçıkma", "url": "/anilsanli52/status/754089007005503488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:03:24", "is_reply": false, "is_retweet": false, "user_id": "3350732139"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "AyferBoyle", "ID": "754097495412703232", "text": "TBMM bomba atıış ilkkez bi bomba yerini buldumu dersiniz.. #SokağaSakınÇıkma", "url": "/AyferBoyle/status/754097495412703232", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:37:08", "is_reply": false, "is_retweet": false, "user_id": "4602379937"}

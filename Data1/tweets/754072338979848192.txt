@@ -1,0 +1,1 @@
+{"usernameTweet": "askimhaticeucar", "ID": "754072338979848192", "text": "Hani sokağa çıkanlar terörist çapulcu ve vatan hainiydi? #SokağaSakınÇıkma", "url": "/askimhaticeucar/status/754072338979848192", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 00:57:10", "is_reply": false, "is_retweet": false, "user_id": "725382603797336065"}

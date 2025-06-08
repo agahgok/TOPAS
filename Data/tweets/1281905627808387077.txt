@@ -1,0 +1,1 @@
+{"usernameTweet": "nisaglsr", "ID": "1281905627808387077", "text": "Bu kadar  darbe  yedin hala uslanmıyorsun be kalbim", "url": "/nisaglsr/status/1281905627808387077", "nbr_retweet": 0, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2020-07-11 13:58:12", "is_reply": false, "is_retweet": false, "user_id": "1221134517693485057"}

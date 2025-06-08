@@ -1,0 +1,1 @@
+{"usernameTweet": "Ahlasehide1", "ID": "1281298713223274501", "text": "Kalbini acıtan her  darbe , aklını olgunlaştırır.", "url": "/Ahlasehide1/status/1281298713223274501", "nbr_retweet": 0, "nbr_favorite": 13, "nbr_reply": 0, "datetime": "2020-07-09 21:46:33", "is_reply": false, "is_retweet": false, "user_id": "1264608471430856708"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gulcinengin", "ID": "754087081647964160", "text": "# SokağaSakınÇıkma   pic.twitter.com/OmxDLZ9oiU", "url": "/gulcinengin/status/754087081647964160", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:55:45", "is_reply": false, "is_retweet": false, "user_id": "412190974"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "elcinmguven", "ID": "1282387911657259009", "text": "Bu herif ne derse desin inanmam.  Darbe  gecesi yalan haber yapan gazeteci bu.", "url": "/elcinmguven/status/1282387911657259009", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-12 21:54:38", "is_reply": true, "is_retweet": false, "user_id": "123049271"}

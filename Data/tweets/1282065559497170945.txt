@@ -1,0 +1,1 @@
+{"usernameTweet": "bittimfns", "ID": "1282065559497170945", "text": "patron- darbe  çok dinlediğim içim kafama  darbe  almışım annem öyle dedi şakalar şakalar", "url": "/bittimfns/status/1282065559497170945", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-12 00:33:43", "is_reply": false, "is_retweet": false, "user_id": "1265323107411255298"}

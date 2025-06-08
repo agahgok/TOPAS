@@ -1,0 +1,1 @@
+{"usernameTweet": "asmindeniz62", "ID": "754218789735104513", "text": "# SokağaSakınÇıkma  Peki sivil darbecilerden Nasıl kurtulacaz! Bunların sandıkla gitmeyecekleri kesin!", "url": "/asmindeniz62/status/754218789735104513", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 10:39:06", "is_reply": false, "is_retweet": false, "user_id": "1483363160"}

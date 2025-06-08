@@ -1,0 +1,1 @@
+{"usernameTweet": "evvalDemirel18", "ID": "1281254340477534214", "text": "Darbe  üstüne  darbe", "url": "/evvalDemirel18/status/1281254340477534214", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-09 18:50:13", "is_reply": false, "is_retweet": false, "user_id": "1266387688543977477"}

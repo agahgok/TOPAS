@@ -1,0 +1,1 @@
+{"usernameTweet": "ferhatk420", "ID": "754067066802565121", "text": "Gaza gelme #sokağaçıkma", "url": "/ferhatk420/status/754067066802565121", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:36:13", "is_reply": false, "is_retweet": false, "user_id": "1481762112"}

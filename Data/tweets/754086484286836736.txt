@@ -1,0 +1,1 @@
+{"usernameTweet": "mertcanozturk5", "ID": "754086484286836736", "text": "Bu imamlar harbi salak gece yarı ezan okuyorlar #SokağaSakınÇıkma", "url": "/mertcanozturk5/status/754086484286836736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:22", "is_reply": false, "is_retweet": false, "user_id": "2819959275"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Romanticavalier", "ID": "754094396518301696", "text": "İnsan gibi yaşamak isteyen herkes sokağa çıksın.\n#SokağaSakınÇıkma \n#DarbeyeHayır", "url": "/Romanticavalier/status/754094396518301696", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:24:49", "is_reply": false, "is_retweet": false, "user_id": "339817561"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "_bibayan", "ID": "754300875762462720", "text": "# SokağaÇıkma \nO kadar insan havaya uçuruldu. Sizde ses yok.Şimdi mi aklınız başınıza geldi.", "url": "/_bibayan/status/754300875762462720", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 16:05:17", "is_reply": false, "is_retweet": false, "user_id": "733787504097284096"}

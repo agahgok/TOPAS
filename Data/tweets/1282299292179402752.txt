@@ -1,0 +1,1 @@
+{"usernameTweet": "caaykolik", "ID": "1282299292179402752", "text": "Darbe  yemeyin la koruyun kendinizi", "url": "/caaykolik/status/1282299292179402752", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2020-07-12 16:02:29", "is_reply": false, "is_retweet": false, "user_id": "1381765722"}

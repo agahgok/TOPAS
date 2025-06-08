@@ -1,0 +1,1 @@
+{"usernameTweet": "xena_kirmizi", "ID": "754075299973885954", "text": "# SokağaSakınÇıkma  çünkü bütün malAklar orda", "url": "/xena_kirmizi/status/754075299973885954", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:08:56", "is_reply": false, "is_retweet": false, "user_id": "276749889"}

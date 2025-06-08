@@ -1,0 +1,1 @@
+{"usernameTweet": "erdoganyeliz061", "ID": "754091719721910272", "text": "resmen Cumhuriyet tarihinin en büyük trollünü yaşıyoruz #SokağaSakınÇıkma", "url": "/erdoganyeliz061/status/754091719721910272", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:10", "is_reply": false, "is_retweet": false, "user_id": "754074380938932224"}

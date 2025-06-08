@@ -1,0 +1,1 @@
+{"usernameTweet": "vdsenol", "ID": "754084194238734336", "text": "# SokağaSakınÇıkma  minareleri ezansız bırakma ALLAH'IM.çapulcular israile yürüyün lan öküzler", "url": "/vdsenol/status/754084194238734336", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:16", "is_reply": false, "is_retweet": false, "user_id": "2207638495"}

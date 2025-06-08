@@ -1,0 +1,1 @@
+{"usernameTweet": "dabe_wgn", "ID": "1284313160460062725", "text": "S660の黒ナット買おうかな\nDのが安いかな？ pic.twitter.com/8zMdYGj5ix", "url": "/dabe_wgn/status/1284313160460062725", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-18 05:24:53", "is_reply": false, "is_retweet": false, "user_id": "1082840784087334913"}

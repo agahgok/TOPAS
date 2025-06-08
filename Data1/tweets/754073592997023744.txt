@@ -1,0 +1,1 @@
+{"usernameTweet": "heosphoruss", "ID": "754073592997023744", "text": "kanmayın abim çıkmayın dışarı #SokağaSakınÇıkma", "url": "/heosphoruss/status/754073592997023744", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:02:09", "is_reply": false, "is_retweet": false, "user_id": "217387318"}

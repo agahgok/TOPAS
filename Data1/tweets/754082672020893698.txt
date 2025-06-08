@@ -1,0 +1,1 @@
+{"usernameTweet": "TuncayOzlu", "ID": "754082672020893698", "text": "# SokağaSakınÇıkma \nTayyip kacar sen kalirsin \nMısırı unutma", "url": "/TuncayOzlu/status/754082672020893698", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:38:13", "is_reply": false, "is_retweet": false, "user_id": "704399935278555137"}

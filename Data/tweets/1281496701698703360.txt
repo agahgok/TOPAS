@@ -1,0 +1,1 @@
+{"usernameTweet": "GayseriliS", "ID": "1281496701698703360", "text": "KAFA FAZLASIYLA  DARBE  ALINCA BÖYLE DANGALAK OLUNUYOR. SONU PARKİNSON. YAZIK.", "url": "/GayseriliS/status/1281496701698703360", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 10:53:17", "is_reply": true, "is_retweet": false, "user_id": "830895967117381634"}

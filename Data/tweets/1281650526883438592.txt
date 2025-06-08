@@ -1,0 +1,1 @@
+{"usernameTweet": "dilekdemircan35", "ID": "1281650526883438592", "text": "Darbe  üstüne  darbe  #kırıkkalp", "url": "/dilekdemircan35/status/1281650526883438592", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 21:04:32", "is_reply": false, "is_retweet": false, "user_id": "1079381562737807361"}

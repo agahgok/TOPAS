@@ -1,0 +1,1 @@
+{"usernameTweet": "anilcanerkan", "ID": "754078488722890752", "text": "Herşey tiyatro. #SokağaSakınÇıkma", "url": "/anilcanerkan/status/754078488722890752", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:21:36", "is_reply": false, "is_retweet": false, "user_id": "2401146836"}

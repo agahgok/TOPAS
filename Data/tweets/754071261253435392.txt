@@ -1,0 +1,1 @@
+{"usernameTweet": "turgaydin52", "ID": "754071261253435392", "text": "# sokağasakincikma  iç savaşa fırsat verme ölümede darbeyede sevinlerede karşıyız. Bu ülke hepimizin", "url": "/turgaydin52/status/754071261253435392", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2016-07-16 00:52:53", "is_reply": false, "is_retweet": false, "user_id": "200216143"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Emreekabal", "ID": "754096143613603841", "text": "Darbe diye başladı akp mitingine döndü resmen şaka gibi #SokağaSakınÇıkma", "url": "/Emreekabal/status/754096143613603841", "nbr_retweet": 2, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:31:45", "is_reply": false, "is_retweet": false, "user_id": "167710543"}

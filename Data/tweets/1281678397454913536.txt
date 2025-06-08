@@ -1,0 +1,1 @@
+{"usernameTweet": "kitlamacay", "ID": "1281678397454913536", "text": "Kafire her  darbe  vurduğumuzda ses bae ve avanelerinden çıkıyor. Son örnek, Ayasofya.", "url": "/kitlamacay/status/1281678397454913536", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 22:55:17", "is_reply": false, "is_retweet": false, "user_id": "4461251861"}

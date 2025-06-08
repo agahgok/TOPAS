@@ -1,0 +1,1 @@
+{"usernameTweet": "Abdulla96299310", "ID": "754084914803474432", "text": "Kürler evinde otursun Türk'ler birbirini yesin  #SokağaSakınÇıkma", "url": "/Abdulla96299310/status/754084914803474432", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:47:08", "is_reply": false, "is_retweet": false, "user_id": "754045396511514624"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "adnanpak0988", "ID": "754078213408755712", "text": "# SokağaSakınÇıkma  bu yazıyı yazan şerefsiz fetocu ve vatan hainidir", "url": "/adnanpak0988/status/754078213408755712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:30", "is_reply": false, "is_retweet": false, "user_id": "2913406618"}

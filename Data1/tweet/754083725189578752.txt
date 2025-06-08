@@ -1,0 +1,1 @@
+{"usernameTweet": "vejdiburuk", "ID": "754083725189578752", "text": "# SokağaSakınÇıkma  kurtulus savasi da camilerden sala ile duyurulmustur", "url": "/vejdiburuk/status/754083725189578752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:42:24", "is_reply": false, "is_retweet": false, "user_id": "2946289395"}

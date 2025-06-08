@@ -1,0 +1,1 @@
+{"usernameTweet": "MuratAkyolDadas", "ID": "1282419919041306627", "text": "Bakırköy belediye başkanının evinde  darbe  yi izleyeni mi diyorsun.KK", "url": "/MuratAkyolDadas/status/1282419919041306627", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-13 00:01:49", "is_reply": true, "is_retweet": false, "user_id": "1139454077790760960"}

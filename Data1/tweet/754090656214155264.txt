@@ -1,0 +1,1 @@
+{"usernameTweet": "APAKUSTA", "ID": "754090656214155264", "text": "# DarbeyeHayır  #SokağaSakınÇıkma   pic.twitter.com/dQShBTj8pL", "url": "/APAKUSTA/status/754090656214155264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:57", "is_reply": false, "is_retweet": false, "user_id": "3093591877"}

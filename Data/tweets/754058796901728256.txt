@@ -1,0 +1,1 @@
+{"usernameTweet": "Angel_Turkish", "ID": "754058796901728256", "text": "Aklı başında olan herkes  #SokağaSakınÇıkma  sakın....", "url": "/Angel_Turkish/status/754058796901728256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:03:21", "is_reply": false, "is_retweet": false, "user_id": "484125666"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "DarbeSavar1453", "ID": "1281368108138209280", "text": ":)))", "url": "/DarbeSavar1453/status/1281368108138209280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 02:22:18", "is_reply": true, "is_retweet": false, "user_id": "756667586079756290"}

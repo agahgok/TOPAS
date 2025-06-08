@@ -1,0 +1,1 @@
+{"usernameTweet": "cagrasli", "ID": "754056531059085313", "text": "Lütfen  #SokağaSakınÇıkma", "url": "/cagrasli/status/754056531059085313", "nbr_retweet": 5, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-15 23:54:21", "is_reply": false, "is_retweet": false, "user_id": "743852906605060096"}

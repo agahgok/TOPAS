@@ -1,0 +1,1 @@
+{"usernameTweet": "DDeryayalcn", "ID": "754071202847662080", "text": "Lütfen çıkma önce davet edenler insin sokağa #SokağaSakınÇıkma", "url": "/DDeryayalcn/status/754071202847662080", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:52:39", "is_reply": false, "is_retweet": false, "user_id": "2299691932"}

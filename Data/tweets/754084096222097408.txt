@@ -1,0 +1,1 @@
+{"usernameTweet": "KENANDOGAN1", "ID": "754084096222097408", "text": "# SokağaSakınÇıkma   http:// fb.me/7W8uNvb1I  ", "url": "/KENANDOGAN1/status/754084096222097408", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:53", "is_reply": false, "is_retweet": false, "user_id": "102343997"}

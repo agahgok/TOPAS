@@ -1,0 +1,1 @@
+{"ID": "265168301", "name": "よゆうbot", "screen_name": "yoyuu_bot", "avatar": "https://pbs.twimg.com/profile_images/1666148303/mudo-_bigger.jpg"}

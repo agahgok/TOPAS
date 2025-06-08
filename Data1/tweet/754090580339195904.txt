@@ -1,0 +1,1 @@
+{"usernameTweet": "ismailcemaslan", "ID": "754090580339195904", "text": "Bu kadar insan ölürken nerdeydiniz, bi ıslık sesine döküldünüz sokaklara. #SokağaSakınÇıkma", "url": "/ismailcemaslan/status/754090580339195904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:09:39", "is_reply": false, "is_retweet": false, "user_id": "179894029"}

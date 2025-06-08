@@ -1,0 +1,1 @@
+{"usernameTweet": "MELEKYA98579313", "ID": "1281985782752870400", "text": "# 15TEMMUZ \n#DARBE \n#ZAFER \n#TEMMUZSICAĞI pic.twitter.com/aZz0oMNJaK", "url": "/MELEKYA98579313/status/1281985782752870400", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 19:16:43", "is_reply": false, "is_retweet": false, "user_id": "1107347765309460481"}

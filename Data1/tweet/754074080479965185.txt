@@ -1,0 +1,1 @@
+{"usernameTweet": "Maciroglu35", "ID": "754074080479965185", "text": "Erdoğan nerde olduğunu bilmiyor #SokağaSakınÇıkma", "url": "/Maciroglu35/status/754074080479965185", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:05", "is_reply": false, "is_retweet": false, "user_id": "92791928"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "dygubalc", "ID": "754078009028669442", "text": "Cahıl mısın #sokagacıkma  !", "url": "/dygubalc/status/754078009028669442", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:42", "is_reply": false, "is_retweet": false, "user_id": "1325242610"}

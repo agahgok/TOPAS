@@ -1,0 +1,1 @@
+{"usernameTweet": "Berfinn_T", "ID": "754078085117534208", "text": "# SokağaSakınÇıkma  lütfen çıkmayın dışarıya!!", "url": "/Berfinn_T/status/754078085117534208", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:00", "is_reply": false, "is_retweet": false, "user_id": "848059644"}

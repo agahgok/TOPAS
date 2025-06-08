@@ -1,0 +1,1 @@
+{"usernameTweet": "blgearslnn", "ID": "754086607628697600", "text": "Sokağa çıkanların Türkiye değilde Recep Tayyip Erdoğan diye bağırması ne büyük ironi ama\n\n #SokağaSakınÇıkma", "url": "/blgearslnn/status/754086607628697600", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:53:52", "is_reply": false, "is_retweet": false, "user_id": "1710396505"}

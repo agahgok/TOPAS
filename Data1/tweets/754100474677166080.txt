@@ -1,0 +1,1 @@
+{"usernameTweet": "tedirgins", "ID": "754100474677166080", "text": "canımız feda sokaklardayız evde kuyruk kıstırıp oturma zamanı değil #sokağasakınçıkma  #darbe  #DarbeyeHayır", "url": "/tedirgins/status/754100474677166080", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:48:58", "is_reply": true, "is_retweet": false, "user_id": "1461440803"}

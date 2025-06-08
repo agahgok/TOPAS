@@ -1,0 +1,1 @@
+{"usernameTweet": "efekan_efe", "ID": "754077586293198848", "text": "Yurtta Tırt Konseyi'nin showunu izlediniz. İyi geceler Türkiye. #SokağaSakınÇıkma", "url": "/efekan_efe/status/754077586293198848", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:01", "is_reply": false, "is_retweet": false, "user_id": "321551354"}

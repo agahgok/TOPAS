@@ -1,0 +1,1 @@
+{"usernameTweet": "yazeusyahelen", "ID": "1282580678253645824", "text": "Fotoğraf dalının da bir sanat olduğunu kanıtlıyor bu muhteşem görüntü ve güzelliğiniz", "url": "/yazeusyahelen/status/1282580678253645824", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 10:40:37", "is_reply": true, "is_retweet": false, "user_id": "2387300443"}

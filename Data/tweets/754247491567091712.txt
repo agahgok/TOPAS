@@ -1,0 +1,1 @@
+{"usernameTweet": "AydnZahide", "ID": "754247491567091712", "text": "sokaklara dökülüp hakkimiz icin eylem yaparken biber gazı sıktıran, simdi sokağa çıkın diyor #sokağasakınçıkma", "url": "/AydnZahide/status/754247491567091712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:33:09", "is_reply": false, "is_retweet": false, "user_id": "710473602"}

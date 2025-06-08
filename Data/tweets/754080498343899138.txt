@@ -1,0 +1,1 @@
+{"usernameTweet": "emrekirat33", "ID": "754080498343899138", "text": "# SokağaSakınÇıkma  hiç darbe nasıl olur izmediniz mi ? aptal olma türkiye oyunlara gelme", "url": "/emrekirat33/status/754080498343899138", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:35", "is_reply": false, "is_retweet": false, "user_id": "451421508"}

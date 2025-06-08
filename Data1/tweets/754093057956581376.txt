@@ -1,0 +1,1 @@
+{"usernameTweet": "junior_tamtam", "ID": "754093057956581376", "text": "Kurtuluş savaşında okunmuştu ezanlar selalar gaza gelmeyin #SokağaSakınÇıkma", "url": "/junior_tamtam/status/754093057956581376", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:19:30", "is_reply": false, "is_retweet": false, "user_id": "1129162843"}

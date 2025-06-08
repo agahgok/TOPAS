@@ -1,0 +1,1 @@
+{"usernameTweet": "CelebiR2", "ID": "1281536232762245121", "text": "Hutbe konusu 15 Temmuz Kontrollü d arbe  senaryosu  \n\n#diyanetkapatılsın", "url": "/CelebiR2/status/1281536232762245121", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-10 13:30:22", "is_reply": false, "is_retweet": false, "user_id": "956510211161968641"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "HiraPece_53", "ID": "1281299334374490113", "text": "Darbe  üstüne  darbe", "url": "/HiraPece_53/status/1281299334374490113", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-09 21:49:01", "is_reply": true, "is_retweet": false, "user_id": "1252270122598895616"}

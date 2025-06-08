@@ -1,0 +1,1 @@
+{"usernameTweet": "sedaisk_", "ID": "754084308244103168", "text": "# SokağaSakınÇıkma   https:// twitter.com/cocukkilidi/st atus/754080972942020608   …", "url": "/sedaisk_/status/754084308244103168", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:43", "is_reply": false, "is_retweet": false, "user_id": "391344321"}

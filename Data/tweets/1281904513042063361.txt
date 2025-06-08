@@ -1,0 +1,1 @@
+{"usernameTweet": "esramwish", "ID": "1281904513042063361", "text": "darbe  ustune  darbe  uslanmiyor buu (ben)", "url": "/esramwish/status/1281904513042063361", "nbr_retweet": 0, "nbr_favorite": 29, "nbr_reply": 0, "datetime": "2020-07-11 13:53:47", "is_reply": false, "is_retweet": false, "user_id": "1010173622437244929"}

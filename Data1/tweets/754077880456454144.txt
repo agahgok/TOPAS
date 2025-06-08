@@ -1,0 +1,1 @@
+{"usernameTweet": "colitasofCA", "ID": "754077880456454144", "text": "# SokağaSakınÇıkma  yem olmayın yem", "url": "/colitasofCA/status/754077880456454144", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:11", "is_reply": false, "is_retweet": false, "user_id": "875515886"}

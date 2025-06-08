@@ -1,0 +1,1 @@
+{"usernameTweet": "nannimode", "ID": "754082177768427522", "text": "# SokağaSakınÇıkma  diyen darbe firsatcilari harbiden sokaga cikmayin disarda halk sizi linc eder", "url": "/nannimode/status/754082177768427522", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:16", "is_reply": false, "is_retweet": false, "user_id": "435379638"}

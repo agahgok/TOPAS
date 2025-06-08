@@ -1,0 +1,1 @@
+{"usernameTweet": "alozikaos", "ID": "754253119945596928", "text": "Kaç milyon darbe tezgahına inanıyor ?\n#oyunagelme  #sokağaçıkma", "url": "/alozikaos/status/754253119945596928", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:55:31", "is_reply": false, "is_retweet": false, "user_id": "2927061148"}

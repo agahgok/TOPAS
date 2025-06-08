@@ -1,0 +1,1 @@
+{"usernameTweet": "dgkncetin", "ID": "754082851734294528", "text": "Şehitler için bir kere yürümediniz kansızlar ama şimdi hepiniz korna başında #SokağaÇıkma", "url": "/dgkncetin/status/754082851734294528", "nbr_retweet": 5, "nbr_favorite": 16, "nbr_reply": 0, "datetime": "2016-07-16 01:38:56", "is_reply": false, "is_retweet": false, "user_id": "317023941"}

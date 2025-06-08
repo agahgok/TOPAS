@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmethoca75", "ID": "754070552256581633", "text": "# SokağaSakınÇıkma  sokağa cıkma diyenler şerefsiz namussuzdur", "url": "/ahmethoca75/status/754070552256581633", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:50:04", "is_reply": false, "is_retweet": false, "user_id": "2579327202"}

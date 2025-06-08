@@ -1,0 +1,1 @@
+{"usernameTweet": "marshle22", "ID": "754089219329490944", "text": "F 16 savaş uçakları bir helikopteri düşürdü\n #SokağaSakınÇıkma   pic.twitter.com/muPr94DkSf", "url": "/marshle22/status/754089219329490944", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:04:14", "is_reply": false, "is_retweet": false, "user_id": "746652137384460288"}

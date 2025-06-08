@@ -1,0 +1,1 @@
+{"usernameTweet": "firarii21", "ID": "754086214244900865", "text": "# SokağaSakınÇıkma  çıkanın amk ona göre", "url": "/firarii21/status/754086214244900865", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:52:18", "is_reply": false, "is_retweet": false, "user_id": "483865102"}

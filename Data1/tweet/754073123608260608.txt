@@ -1,0 +1,1 @@
+{"usernameTweet": "seldaesm", "ID": "754073123608260608", "text": "# sokagacikma   pic.twitter.com/dPXPt1fsPI", "url": "/seldaesm/status/754073123608260608", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:17", "is_reply": false, "is_retweet": false, "user_id": "355165645"}

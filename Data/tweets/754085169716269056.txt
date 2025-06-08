@@ -1,0 +1,1 @@
+{"usernameTweet": "litailer", "ID": "754085169716269056", "text": "Normalde yasaklanan twitter facebook neden yasaklanmadi ? Oyuna gelme!! #SokağaSakınÇıkma", "url": "/litailer/status/754085169716269056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:48:09", "is_reply": false, "is_retweet": false, "user_id": "146928755"}

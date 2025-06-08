@@ -1,0 +1,1 @@
+{"usernameTweet": "Genaa31271255", "ID": "1281957265680072704", "text": "Kontrollü  darbe  diyenlere soracaksın", "url": "/Genaa31271255/status/1281957265680072704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 17:23:24", "is_reply": true, "is_retweet": false, "user_id": "1236953501042950144"}

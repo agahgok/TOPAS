@@ -1,0 +1,1 @@
+{"usernameTweet": "Hasan_TR01", "ID": "754071495769333760", "text": "Kimsenin söylediklerine uyma ve #SokağaSakınÇıkma", "url": "/Hasan_TR01/status/754071495769333760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:49", "is_reply": false, "is_retweet": false, "user_id": "1338917792"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "senahmet57", "ID": "754092530283778048", "text": "# SokağaSakınÇıkma  çıktık gücü yeten gelsin lan  pic.twitter.com/TvZsdoHcpA", "url": "/senahmet57/status/754092530283778048", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:17:24", "is_reply": false, "is_retweet": false, "user_id": "2301082096"}

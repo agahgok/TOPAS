@@ -1,0 +1,1 @@
+{"usernameTweet": "ggizemg", "ID": "754355798160048128", "text": "Hala gelen sokağa çık mesajları!!!! Siz insan değilsiniz!!! #sokağasakınçıkma   pic.twitter.com/7w2VLVuzV0", "url": "/ggizemg/status/754355798160048128", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 19:43:32", "is_reply": false, "is_retweet": false, "user_id": "183974541"}

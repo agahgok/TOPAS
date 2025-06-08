@@ -1,0 +1,1 @@
+{"usernameTweet": "PabloGdl4", "ID": "1282345384367591424", "text": "\"Gentes\" \nSoy de esos 30 millones y se que se dice gente.\n", "url": "/PabloGdl4/status/1282345384367591424", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-12 19:05:39", "is_reply": true, "is_retweet": false, "user_id": "1271224700488814593"}

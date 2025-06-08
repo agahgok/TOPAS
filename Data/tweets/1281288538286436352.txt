@@ -1,0 +1,1 @@
+{"usernameTweet": "yasin_alar", "ID": "1281288538286436352", "text": "Senin fetö  darbe  yapamayinca kötü oldu.Yapabilseydi kirmizi hali ile karsilardiniz.", "url": "/yasin_alar/status/1281288538286436352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 21:06:07", "is_reply": true, "is_retweet": false, "user_id": "808259451702616064"}

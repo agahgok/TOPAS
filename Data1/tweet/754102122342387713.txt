@@ -1,0 +1,1 @@
+{"usernameTweet": "orjinalkarakter", "ID": "754102122342387713", "text": "# SokağaSakınÇıkma  camiden ilan ananslar yapiliyor halki sokaga cagiran !! Vay bee", "url": "/orjinalkarakter/status/754102122342387713", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:55:31", "is_reply": false, "is_retweet": false, "user_id": "3132623179"}

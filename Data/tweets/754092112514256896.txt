@@ -1,0 +1,1 @@
+{"usernameTweet": "ronitovi", "ID": "754092112514256896", "text": "Askeri darbe mi sandın sen? Haa yok, şeriat darbesi bu, gir sen içeri. #SokağaSakınÇıkma", "url": "/ronitovi/status/754092112514256896", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:15:44", "is_reply": false, "is_retweet": false, "user_id": "201354194"}

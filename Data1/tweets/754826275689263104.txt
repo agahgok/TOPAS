@@ -1,0 +1,1 @@
+{"usernameTweet": "egeliesmerr", "ID": "754826275689263104", "text": "TÜRK HALKI İÇİN ŞEHIT OLAN, DAĞLARDA SAVAŞAN TÜRK ASKERİNE KARŞI MI SOKAĞA ÇIKIYORSUNUZ?#SokağaSakınÇıkma", "url": "/egeliesmerr/status/754826275689263104", "nbr_retweet": 1, "nbr_favorite": 4, "nbr_reply": 3, "datetime": "2016-07-18 02:53:02", "is_reply": false, "is_retweet": false, "user_id": "3000273686"}

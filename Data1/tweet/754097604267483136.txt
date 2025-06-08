@@ -1,0 +1,1 @@
+{"usernameTweet": "loveenever", "ID": "754097604267483136", "text": "Vereceğimiz şehitler için mi bu selalar?  #SokağaSakınÇıkma", "url": "/loveenever/status/754097604267483136", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2016-07-16 02:37:33", "is_reply": false, "is_retweet": false, "user_id": "825883602"}

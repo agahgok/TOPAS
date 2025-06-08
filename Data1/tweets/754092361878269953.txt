@@ -1,0 +1,1 @@
+{"usernameTweet": "trabzonumoleyy", "ID": "754092361878269953", "text": "Çok ilginç internet özellikle twitter normalden daha hızlı\n#DarbeyeHayır \n#SokağaSakınÇıkma", "url": "/trabzonumoleyy/status/754092361878269953", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:16:44", "is_reply": false, "is_retweet": false, "user_id": "800763840"}

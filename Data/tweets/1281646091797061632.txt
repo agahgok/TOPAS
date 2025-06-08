@@ -1,0 +1,1 @@
+{"usernameTweet": "AbhishekDarbe", "ID": "1281646091797061632", "text": "फिल्मों में देखा है एक दम से जानवरों का झुंड आता है इतने में गायब ।", "url": "/AbhishekDarbe/status/1281646091797061632", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 20:46:54", "is_reply": true, "is_retweet": false, "user_id": "1253259806758051840"}

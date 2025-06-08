@@ -1,0 +1,1 @@
+{"usernameTweet": "Salimakar15", "ID": "1281641442784444418", "text": "Bizler Sağ oldukçada ülkede kimse  darbe  yapamaz ... \n\nDünya Lideri RECEP TAYYİP ", "url": "/Salimakar15/status/1281641442784444418", "nbr_retweet": 3, "nbr_favorite": 9, "nbr_reply": 0, "datetime": "2020-07-10 20:28:26", "is_reply": true, "is_retweet": false, "user_id": "1056966712178995200"}

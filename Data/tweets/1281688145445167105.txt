@@ -1,0 +1,1 @@
+{"usernameTweet": "serdagunes_", "ID": "1281688145445167105", "text": "darbe", "url": "/serdagunes_/status/1281688145445167105", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-10 23:34:01", "is_reply": true, "is_retweet": false, "user_id": "959181846545354758"}

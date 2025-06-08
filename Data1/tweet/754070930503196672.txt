@@ -1,0 +1,1 @@
+{"usernameTweet": "FerhatKurtaran", "ID": "754070930503196672", "text": "galyana gelme  siper olma canından olma #SokağaSakınÇıkma", "url": "/FerhatKurtaran/status/754070930503196672", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 00:51:34", "is_reply": false, "is_retweet": false, "user_id": "2364811265"}

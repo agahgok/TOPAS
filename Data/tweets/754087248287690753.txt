@@ -1,0 +1,1 @@
+{"usernameTweet": "ataskiran35", "ID": "754087248287690753", "text": "# sokağasakıncıkma   Hiçbir lider halkı meydana çağırmaz ,konuşan meydanda kendisi değilse !", "url": "/ataskiran35/status/754087248287690753", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:56:24", "is_reply": false, "is_retweet": false, "user_id": "360249507"}

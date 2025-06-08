@@ -1,0 +1,1 @@
+{"usernameTweet": "Asker59861886", "ID": "1281520337688170497", "text": "Şu ekip Fenere düşmanlardan daha çok  darbe  vurmuşdur", "url": "/Asker59861886/status/1281520337688170497", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-10 12:27:12", "is_reply": true, "is_retweet": false, "user_id": "1275864842709196803"}

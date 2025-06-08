@@ -1,0 +1,1 @@
+{"usernameTweet": "bkeskin88", "ID": "754073077395419136", "text": "HELE ŞÜKÜR! #SokağaSakınÇıkma    https:// twitter.com/elifcimbosver/ status/754071414051893248   …", "url": "/bkeskin88/status/754073077395419136", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:00:06", "is_reply": false, "is_retweet": false, "user_id": "4204096132"}

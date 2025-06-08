@@ -1,0 +1,1 @@
+{"usernameTweet": "Mahirin12", "ID": "1281732007488364549", "text": "Önden  darbe  yiyenle arkadan  darbe  yiyenin tamiri yoktur", "url": "/Mahirin12/status/1281732007488364549", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 02:28:18", "is_reply": false, "is_retweet": false, "user_id": "1096716515964014592"}

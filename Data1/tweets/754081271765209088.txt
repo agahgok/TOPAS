@@ -1,0 +1,1 @@
+{"usernameTweet": "taehopereal", "ID": "754081271765209088", "text": "# SokağaSakınÇıkma  sela da okunuyo ezan da okunuyo korna da çalınıyo ne yaşiyonuz", "url": "/taehopereal/status/754081271765209088", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:39", "is_reply": false, "is_retweet": false, "user_id": "731853381841620993"}

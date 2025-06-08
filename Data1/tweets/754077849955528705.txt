@@ -1,0 +1,1 @@
+{"usernameTweet": "burakolik", "ID": "754077849955528705", "text": "Gündemi takip ederken ben; #SokağaSakınÇıkma   pic.twitter.com/hdn1N2ikYu", "url": "/burakolik/status/754077849955528705", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:04", "is_reply": false, "is_retweet": false, "user_id": "48375948"}

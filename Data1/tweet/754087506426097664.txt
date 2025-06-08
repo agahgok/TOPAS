@@ -1,0 +1,1 @@
+{"usernameTweet": "dvrmdnz84", "ID": "754087506426097664", "text": "# SokağaSakınÇıkma  \n\nTayyip gelmesinde kim gelirse gelsin diyenler !! ANANIZIN AMI GELDİ !!! açın kapıyı ...", "url": "/dvrmdnz84/status/754087506426097664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:57:26", "is_reply": false, "is_retweet": false, "user_id": "3231898833"}

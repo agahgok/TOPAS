@@ -1,0 +1,1 @@
+{"usernameTweet": "nurikaratas25", "ID": "754091511147536385", "text": "Bu ülkeyi üç beş tane kanı bozuk ite bırakacak değiliz herkes sokağa meydanlara #SokağaSakınÇıkma", "url": "/nurikaratas25/status/754091511147536385", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:21", "is_reply": false, "is_retweet": false, "user_id": "3029721636"}

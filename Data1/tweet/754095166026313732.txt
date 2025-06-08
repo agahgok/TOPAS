@@ -1,0 +1,1 @@
+{"usernameTweet": "Krmz", "ID": "754095166026313732", "text": "Sen git biz geliyoruz.  #SokağaSakınÇıkma", "url": "/Krmz/status/754095166026313732", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:52", "is_reply": false, "is_retweet": false, "user_id": "33860822"}

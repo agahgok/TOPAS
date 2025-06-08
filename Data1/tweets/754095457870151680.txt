@@ -1,0 +1,1 @@
+{"usernameTweet": "Mhmt_koseoglu", "ID": "754095457870151680", "text": "# SokağaSakınÇıkma  Avucunuzu yalarsınız  pic.twitter.com/h5K3Icj8gi", "url": "/Mhmt_koseoglu/status/754095457870151680", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:29:02", "is_reply": false, "is_retweet": false, "user_id": "127085471"}

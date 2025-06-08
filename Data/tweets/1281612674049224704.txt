@@ -1,0 +1,1 @@
+{"usernameTweet": "nrllhaldemir", "ID": "1281612674049224704", "text": "Bu mantıktan hareketle;\nTekrar değerlendirilmesi, tekrar mini  darbe  teşebbüsü olmaz mı Ali bey?", "url": "/nrllhaldemir/status/1281612674049224704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-10 18:34:07", "is_reply": true, "is_retweet": false, "user_id": "3041538827"}

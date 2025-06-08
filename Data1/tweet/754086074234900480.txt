@@ -1,0 +1,1 @@
+{"usernameTweet": "MrGustavoDias", "ID": "754086074234900480", "text": "# SokağaSakınÇıkma", "url": "/MrGustavoDias/status/754086074234900480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:51:44", "is_reply": false, "is_retweet": false, "user_id": "225806971"}

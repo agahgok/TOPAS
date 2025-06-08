@@ -1,0 +1,1 @@
+{"usernameTweet": "ora_ichigo_dabe", "ID": "1284361399024537603", "text": "しばくんクラン入ったの草", "url": "/ora_ichigo_dabe/status/1284361399024537603", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-18 08:36:34", "is_reply": false, "is_retweet": false, "user_id": "960746873794383872"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "buhack", "ID": "754080348489785344", "text": "SEN ZATEN #SokağaSakınÇıkma  AMAN DİYİM", "url": "/buhack/status/754080348489785344", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:28:59", "is_reply": false, "is_retweet": false, "user_id": "314479822"}

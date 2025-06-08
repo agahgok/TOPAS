@@ -1,0 +1,1 @@
+{"usernameTweet": "040462mameki", "ID": "1281169774823772160", "text": "Kontröllü şehit..\nKontröllü  darbe  gibi..", "url": "/040462mameki/status/1281169774823772160", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:14:11", "is_reply": true, "is_retweet": false, "user_id": "862406981629431809"}

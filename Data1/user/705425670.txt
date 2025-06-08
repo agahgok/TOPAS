@@ -1,0 +1,1 @@
+{"ID": "705425670", "name": "野獣先輩bot", "screen_name": "yaju_senpai", "avatar": "https://pbs.twimg.com/profile_images/591060984057364480/Mnu2jtGZ_bigger.jpg"}

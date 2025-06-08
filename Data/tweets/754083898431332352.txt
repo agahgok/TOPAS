@@ -1,0 +1,1 @@
+{"usernameTweet": "engereken", "ID": "754083898431332352", "text": "olayda bi terslik var solcu kanalların yayınları kesiliyor noluyor\n#SokağaSakınÇıkma", "url": "/engereken/status/754083898431332352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:06", "is_reply": false, "is_retweet": false, "user_id": "230678761"}

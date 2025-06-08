@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmtkrkm", "ID": "754075043743862784", "text": "# SokağaSakınÇıkma  Hırsızın oyununa gelme", "url": "/ahmtkrkm/status/754075043743862784", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:07:55", "is_reply": false, "is_retweet": false, "user_id": "169152860"}

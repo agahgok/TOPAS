@@ -1,0 +1,1 @@
+{"usernameTweet": "ASevincManas", "ID": "754088320565649408", "text": "Gecenin bir vakti camilerden sela okutuluyor bu ne yaman çelişki.Buda 2016 model darbe #sokağasakınçıkma", "url": "/ASevincManas/status/754088320565649408", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:00:40", "is_reply": false, "is_retweet": false, "user_id": "561149622"}

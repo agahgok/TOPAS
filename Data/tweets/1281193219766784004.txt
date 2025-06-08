@@ -1,0 +1,1 @@
+{"usernameTweet": "F_R_E_E_D_O_M_V", "ID": "1281193219766784004", "text": "FAKE 15 TEMUZ FAKE  DARBE", "url": "/F_R_E_E_D_O_M_V/status/1281193219766784004", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 14:47:21", "is_reply": true, "is_retweet": false, "user_id": "1185240869743579137"}

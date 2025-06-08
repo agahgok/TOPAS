@@ -1,0 +1,1 @@
+{"usernameTweet": "k8239jh1", "ID": "1284311734392459264", "text": "なんちゃってフェンダー", "url": "/k8239jh1/status/1284311734392459264", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 1, "datetime": "2020-07-18 05:19:13", "is_reply": true, "is_retweet": false, "user_id": "1081050433471172609"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "endoplazmikretu", "ID": "754077995489427459", "text": "# SokağaSakınÇıkma   pic.twitter.com/P1slbzjrID", "url": "/endoplazmikretu/status/754077995489427459", "nbr_retweet": 4, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:38", "is_reply": false, "is_retweet": false, "user_id": "597686306"}

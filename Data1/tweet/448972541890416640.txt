@@ -1,0 +1,1 @@
+{"usernameTweet": "dest0riginal", "ID": "448972541890416640", "text": "@EnzoFIFA1977 @twitch  hahaha le ha tocado Bale Y  Ronaldo  ya ! a un quedan 600K por abrir", "url": "/dest0riginal/status/448972541890416640", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2014-03-27 02:59:30", "is_reply": true, "is_retweet": false, "user_id": "586692256"}

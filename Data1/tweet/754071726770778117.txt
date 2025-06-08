@@ -1,0 +1,1 @@
+{"usernameTweet": "poseidoncakmasi", "ID": "754071726770778117", "text": "Sabaha kadar rakı içip Neşet Ertaş dinlemezsem adam değilim ne bok yerseniz yetin #SokağaÇıkma", "url": "/poseidoncakmasi/status/754071726770778117", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:44", "is_reply": false, "is_retweet": false, "user_id": "400433243"}

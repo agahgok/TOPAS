@@ -1,0 +1,1 @@
+{"usernameTweet": "unalsrkn", "ID": "754070480223604736", "text": "# Sokağaçıkma , bir hiç uğruna bu kaosa ortak olma!!!", "url": "/unalsrkn/status/754070480223604736", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:49:47", "is_reply": false, "is_retweet": false, "user_id": "534118132"}

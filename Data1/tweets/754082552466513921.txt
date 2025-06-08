@@ -1,0 +1,1 @@
+{"usernameTweet": "Shahaha1903", "ID": "754082552466513921", "text": "# SokağaSakınÇıkma  bu kalabalıkta pokemon da kalmamıstır bence de cıkmayın", "url": "/Shahaha1903/status/754082552466513921", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:37:45", "is_reply": false, "is_retweet": false, "user_id": "2400551301"}

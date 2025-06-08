@@ -1,0 +1,1 @@
+{"usernameTweet": "SubliminalIssiz", "ID": "754090806546460672", "text": "Bildiğin kalkan olarak kullanılıyor insanlar. Yoksa zor bastırırlar. #SokağaSakınÇıkma", "url": "/SubliminalIssiz/status/754090806546460672", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:10:33", "is_reply": false, "is_retweet": false, "user_id": "3053407973"}

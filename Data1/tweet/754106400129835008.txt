@@ -1,0 +1,1 @@
+{"usernameTweet": "flankes_ss", "ID": "754106400129835008", "text": "Fox tv canlı canlı saldırı görüntülerini yayınlıyor en tarafsızda yayını gerçekleştiriyor #sokağaçıkma", "url": "/flankes_ss/status/754106400129835008", "nbr_retweet": 1, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2016-07-16 03:12:31", "is_reply": false, "is_retweet": false, "user_id": "480769082"}

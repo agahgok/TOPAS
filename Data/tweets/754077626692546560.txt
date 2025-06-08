@@ -1,0 +1,1 @@
+{"usernameTweet": "ZincidiOkyanus", "ID": "754077626692546560", "text": "Asker nasıl halktan kaçıyor böyle bir yalan mı olur ?  #SokağaSakınÇıkma", "url": "/ZincidiOkyanus/status/754077626692546560", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:10", "is_reply": false, "is_retweet": false, "user_id": "754048274009554944"}

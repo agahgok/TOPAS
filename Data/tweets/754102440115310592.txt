@@ -1,0 +1,1 @@
+{"usernameTweet": "SvlDrmz", "ID": "754102440115310592", "text": "Ne hikmetse Meclisi bombalayanlar, Sarayı bombalamıyor...\n\nYine Çok iyi Kurgu !\n\n#Ankara  #SokağaSakınÇıkma", "url": "/SvlDrmz/status/754102440115310592", "nbr_retweet": 3, "nbr_favorite": 5, "nbr_reply": 1, "datetime": "2016-07-16 02:56:46", "is_reply": false, "is_retweet": false, "user_id": "2669329898"}

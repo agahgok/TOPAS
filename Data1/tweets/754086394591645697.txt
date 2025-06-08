@@ -1,0 +1,1 @@
+{"usernameTweet": "seyrederimalemi", "ID": "754086394591645697", "text": "sokağa çıkınca gaz sıkıyosunuz abi #SokağaSakınÇıkma", "url": "/seyrederimalemi/status/754086394591645697", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:53:01", "is_reply": true, "is_retweet": false, "user_id": "97766973"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "babaanne1", "ID": "754097372070686720", "text": "# SokağaSakınÇıkma  !\nananın babanın yüreğini yakma", "url": "/babaanne1/status/754097372070686720", "nbr_retweet": 1, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:36:38", "is_reply": true, "is_retweet": false, "user_id": "446568085"}

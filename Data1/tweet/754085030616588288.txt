@@ -1,0 +1,1 @@
+{"usernameTweet": "KokosOzlem", "ID": "754085030616588288", "text": "# SokağaSakınÇıkma .... ezanlarla halkı galayana getirme fikri çok başarılı TAMDA BU YÖNETİME O YAKIŞIRDI", "url": "/KokosOzlem/status/754085030616588288", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 01:47:36", "is_reply": false, "is_retweet": false, "user_id": "394869906"}

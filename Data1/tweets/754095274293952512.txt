@@ -1,0 +1,1 @@
+{"usernameTweet": "KodikolTha", "ID": "754095274293952512", "text": "Dün başkanlığa vatandaşlığa hayır dediniz bugün evete döndünüz oyuna gel #SeninleyizErdoğan  #SokağaSakınÇıkma", "url": "/KodikolTha/status/754095274293952512", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:28:18", "is_reply": false, "is_retweet": false, "user_id": "356140551"}

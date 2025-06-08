@@ -1,0 +1,1 @@
+{"usernameTweet": "KulaksMukremin", "ID": "754074855012704257", "text": "# SokağaSakınÇıkma  and oscar goes to Erdogan @RT_Erdogan", "url": "/KulaksMukremin/status/754074855012704257", "nbr_retweet": 2, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 01:07:10", "is_reply": false, "is_retweet": false, "user_id": "2234788022"}

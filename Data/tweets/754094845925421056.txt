@@ -1,0 +1,1 @@
+{"usernameTweet": "esrabilge2007", "ID": "754094845925421056", "text": "# SokağaSakınÇıkmaAsker  bizim  \nPolis bizim  \nBayrak bizim  \nDevlet bizim  \n\n#SokağaSakınÇıkma", "url": "/esrabilge2007/status/754094845925421056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:26:36", "is_reply": false, "is_retweet": false, "user_id": "2355326195"}

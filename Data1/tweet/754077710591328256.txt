@@ -1,0 +1,1 @@
+{"usernameTweet": "HawkBlack10", "ID": "754077710591328256", "text": "Oyuna gelmeyin lan  #SokağaSakınÇıkma", "url": "/HawkBlack10/status/754077710591328256", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:18:30", "is_reply": false, "is_retweet": false, "user_id": "233454028"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "Noya_a3", "ID": "754073899202215937", "text": "Kefeni giyenler çıksın biz evdeyiz!!!  #SokağaSakınÇıkma", "url": "/Noya_a3/status/754073899202215937", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:22", "is_reply": false, "is_retweet": false, "user_id": "859518222"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "NilTfeki", "ID": "754081907101593600", "text": "Bi susun artık. Oyun bitti #SokağaSakınÇıkma", "url": "/NilTfeki/status/754081907101593600", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:35:11", "is_reply": false, "is_retweet": false, "user_id": "1366637462"}

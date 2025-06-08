@@ -1,0 +1,1 @@
+{"usernameTweet": "yigitcandsckn", "ID": "754079408936411136", "text": "Sokaga cikin aminakoduklarim ben cikiyorum. Gezici picler nerdesiniz aminakoyduklarim  #SokağaSakınÇıkma", "url": "/yigitcandsckn/status/754079408936411136", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:25:15", "is_reply": false, "is_retweet": false, "user_id": "2599063754"}

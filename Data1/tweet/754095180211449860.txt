@@ -1,0 +1,1 @@
+{"usernameTweet": "arfkrtl", "ID": "754095180211449860", "text": "# SokağaSakınÇıkma \nRTE değil ASKERİN ve POLİSİN için sokağa çık", "url": "/arfkrtl/status/754095180211449860", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:27:56", "is_reply": false, "is_retweet": false, "user_id": "309820850"}

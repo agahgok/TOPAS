@@ -1,0 +1,1 @@
+{"usernameTweet": "c1yldm", "ID": "754112932338950148", "text": "# SokağaSakınÇıkma  diyenler DARBECİLERİN ta kendisidir.\nSokağa çık DARBEYE DUR DE !..", "url": "/c1yldm/status/754112932338950148", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:38:28", "is_reply": false, "is_retweet": false, "user_id": "2237299293"}

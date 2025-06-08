@@ -1,0 +1,1 @@
+{"usernameTweet": "Panteist_t", "ID": "754079847866068994", "text": ":))))) #SokağaSakınÇıkma   #Ankara pic.twitter.com/66g6hSZW72", "url": "/Panteist_t/status/754079847866068994", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:27:00", "is_reply": false, "is_retweet": false, "user_id": "735870125031751680"}

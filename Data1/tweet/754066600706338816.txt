@@ -1,0 +1,1 @@
+{"usernameTweet": "senkimsinki___", "ID": "754066600706338816", "text": "İnternet kesilicek vpn kullanin.\n#SokağaSakınÇıkma   pic.twitter.com/jEdr8xqBMH", "url": "/senkimsinki___/status/754066600706338816", "nbr_retweet": 6, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 00:34:22", "is_reply": false, "is_retweet": false, "user_id": "385656805"}

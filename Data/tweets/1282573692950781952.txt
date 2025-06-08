@@ -1,0 +1,1 @@
+{"usernameTweet": "GunesliHamza", "ID": "1282573692950781952", "text": "Bu halkın iradesine kaçıncı  darbe  oluyor?", "url": "/GunesliHamza/status/1282573692950781952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 10:12:52", "is_reply": true, "is_retweet": false, "user_id": "1154843302795124737"}

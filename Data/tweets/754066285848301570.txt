@@ -1,0 +1,1 @@
+{"usernameTweet": "mrerdogan34", "ID": "754066285848301570", "text": "# SokağaSakınÇıkma  Askere güveniyoruz...", "url": "/mrerdogan34/status/754066285848301570", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:33:07", "is_reply": false, "is_retweet": false, "user_id": "741717659985838080"}

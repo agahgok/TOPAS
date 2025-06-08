@@ -1,0 +1,1 @@
+{"usernameTweet": "mvcttr", "ID": "754242119695527936", "text": "# SokağaSakınÇıkma  diyen piclere inat sokaktayız...", "url": "/mvcttr/status/754242119695527936", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 12:11:49", "is_reply": false, "is_retweet": false, "user_id": "1606531850"}

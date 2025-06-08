@@ -1,0 +1,1 @@
+{"usernameTweet": "RMelskaa_1", "ID": "754074085039104000", "text": "# SokağaSakınÇıkma          \nAkp,Ülkücülerimizi sokağa çekmeye çalışıyor.Oyuna gelme !", "url": "/RMelskaa_1/status/754074085039104000", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:04:06", "is_reply": false, "is_retweet": false, "user_id": "744907902289215488"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "serediyorki", "ID": "754093801996771328", "text": "Ne hale geldik darbemiz bile çakma #sokağaçıkma", "url": "/serediyorki/status/754093801996771328", "nbr_retweet": 0, "nbr_favorite": 10, "nbr_reply": 0, "datetime": "2016-07-16 02:22:27", "is_reply": false, "is_retweet": false, "user_id": "611617195"}

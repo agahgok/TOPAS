@@ -1,0 +1,1 @@
+{"usernameTweet": "delilerpapasi", "ID": "754080915022835712", "text": "Gezide polise taş atmak için sokağa çıkın diyen bugün vatana ihanete göz yumuyor  #SokağaSakınÇıkma", "url": "/delilerpapasi/status/754080915022835712", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:31:14", "is_reply": false, "is_retweet": false, "user_id": "3004062039"}

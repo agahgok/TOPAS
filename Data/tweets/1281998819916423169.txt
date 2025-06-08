@@ -1,0 +1,1 @@
+{"usernameTweet": "hasanakka", "ID": "1281998819916423169", "text": "# OyMoyYok  diyenler. Bundan sonra  darbe  marbe yok. Siz anladınız.", "url": "/hasanakka/status/1281998819916423169", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-11 20:08:31", "is_reply": false, "is_retweet": false, "user_id": "286840969"}

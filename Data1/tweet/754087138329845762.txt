@@ -1,0 +1,1 @@
+{"usernameTweet": "maras_66", "ID": "754087138329845762", "text": "# SokağaSakınÇıkma  gün gelecek siz sokağa çıkacak bir ülke bulamayacaksınız", "url": "/maras_66/status/754087138329845762", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:55:58", "is_reply": false, "is_retweet": false, "user_id": "192212753"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kediciiteyze", "ID": "754056959620485120", "text": "SOKAGA CİKMA. KİMSENİN BURNU KANAMASİN.  #SokağaSakınÇıkma", "url": "/kediciiteyze/status/754056959620485120", "nbr_retweet": 5, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-15 23:56:03", "is_reply": false, "is_retweet": false, "user_id": "737722866591010817"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "gkhnkasmer", "ID": "754094598109163520", "text": "Halkın  askere , askerin polise karşıt olmaması için . #SokağaSakınÇıkma", "url": "/gkhnkasmer/status/754094598109163520", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 02:25:37", "is_reply": false, "is_retweet": false, "user_id": "1690608500"}

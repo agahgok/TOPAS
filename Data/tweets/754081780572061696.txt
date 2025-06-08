@@ -1,0 +1,1 @@
+{"usernameTweet": "mmansiz", "ID": "754081780572061696", "text": "Camiler görev başında #Ankara   #SokağaSakınÇıkma", "url": "/mmansiz/status/754081780572061696", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:41", "is_reply": false, "is_retweet": false, "user_id": "95515426"}

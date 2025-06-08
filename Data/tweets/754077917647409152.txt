@@ -1,0 +1,1 @@
+{"usernameTweet": "Yok82", "ID": "754077917647409152", "text": "# SokağaSakınÇıkma  ve yaşa", "url": "/Yok82/status/754077917647409152", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:20", "is_reply": false, "is_retweet": false, "user_id": "91312800"}

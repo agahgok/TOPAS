@@ -1,0 +1,1 @@
+{"usernameTweet": "Leobel1980", "ID": "754088752440541184", "text": "# SokağaSakınÇıkma  Yalandan darbe guzel bir film....", "url": "/Leobel1980/status/754088752440541184", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:02:23", "is_reply": false, "is_retweet": false, "user_id": "1477580485"}

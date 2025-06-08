@@ -1,0 +1,1 @@
+{"usernameTweet": "izzetaksakal", "ID": "754262559155425280", "text": "# SokağaSakınÇıkma  darbeciler biz sokaktayiz", "url": "/izzetaksakal/status/754262559155425280", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 13:33:02", "is_reply": false, "is_retweet": false, "user_id": "392222587"}

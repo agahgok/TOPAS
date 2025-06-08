@@ -1,0 +1,1 @@
+{"usernameTweet": "dry_sky1", "ID": "754085056038244352", "text": "Ülkemiz elden gidiyor #sokagasakincikma", "url": "/dry_sky1/status/754085056038244352", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:47:42", "is_reply": false, "is_retweet": false, "user_id": "3699165802"}

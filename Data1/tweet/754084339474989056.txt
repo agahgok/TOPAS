@@ -1,0 +1,1 @@
+{"usernameTweet": "Mefil16", "ID": "754084339474989056", "text": "# SokağaSakınÇıkma", "url": "/Mefil16/status/754084339474989056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:44:51", "is_reply": false, "is_retweet": false, "user_id": "109908303"}

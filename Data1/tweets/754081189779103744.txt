@@ -1,0 +1,1 @@
+{"usernameTweet": "Murat1Bulut", "ID": "754081189779103744", "text": ".\nDarbe girişiminde halka ateş açılıyor. Bu darbeciler milli mi?\n\n#Ankara  \n#SokağaSakınÇıkma", "url": "/Murat1Bulut/status/754081189779103744", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:20", "is_reply": false, "is_retweet": false, "user_id": "542584164"}

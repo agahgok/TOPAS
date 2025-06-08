@@ -1,0 +1,1 @@
+{"usernameTweet": "TanricaSuyla", "ID": "754282735649300480", "text": "Ya bunları nasıl engelliyoruz #sokağasakınçıkma   pic.twitter.com/Yfrj3m8LDS", "url": "/TanricaSuyla/status/754282735649300480", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 14:53:12", "is_reply": false, "is_retweet": false, "user_id": "3151693997"}

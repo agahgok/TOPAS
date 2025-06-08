@@ -1,0 +1,1 @@
+{"usernameTweet": "baringolgolgol", "ID": "754074010749661186", "text": "# SokağaSakınÇıkma  İÇ SAVAŞA HAYIR", "url": "/baringolgolgol/status/754074010749661186", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:03:48", "is_reply": false, "is_retweet": false, "user_id": "162492708"}

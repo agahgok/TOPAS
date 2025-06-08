@@ -1,0 +1,1 @@
+{"usernameTweet": "jumanjin007", "ID": "754093340182867968", "text": "# SokağaSakınÇıkma  ülke için sokağa bu ülke mısır olmayacak kan emici köktensolcular", "url": "/jumanjin007/status/754093340182867968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:20:37", "is_reply": false, "is_retweet": false, "user_id": "713424841311985664"}

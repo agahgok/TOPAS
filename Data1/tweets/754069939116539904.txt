@@ -1,0 +1,1 @@
+{"usernameTweet": "BayrFurkan", "ID": "754069939116539904", "text": "Eylem yapanları tutuklatan adam bi yerleri sıkıştı diye halkı sokağa çağırıyor . #sokagacikma   #darbe", "url": "/BayrFurkan/status/754069939116539904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:47:38", "is_reply": false, "is_retweet": false, "user_id": "457680546"}

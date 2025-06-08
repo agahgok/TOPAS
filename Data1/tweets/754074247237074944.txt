@@ -1,0 +1,1 @@
+{"usernameTweet": "gulcinmola", "ID": "754074247237074944", "text": "İnsanların can güvenliğini tehlikeye atıp sokağa davet edecek kadar çaresizlik! #SokağaSakınÇıkma", "url": "/gulcinmola/status/754074247237074944", "nbr_retweet": 0, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2016-07-16 01:04:45", "is_reply": false, "is_retweet": false, "user_id": "2163642949"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mahirdere56", "ID": "1281554296845348865", "text": "Aynı zamanda  darbe  göndermesini kullanarak sözde kutlama yapacak.", "url": "/mahirdere56/status/1281554296845348865", "nbr_retweet": 4, "nbr_favorite": 4, "nbr_reply": 0, "datetime": "2020-07-10 14:42:09", "is_reply": true, "is_retweet": false, "user_id": "1192072894781759488"}

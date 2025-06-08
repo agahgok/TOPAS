@@ -1,0 +1,1 @@
+{"usernameTweet": "serdarmimaroglu", "ID": "754073814472990720", "text": "# SokağaSakınÇıkma  önce sokağa cıkın diyenler bi çıksın meydanlara olan yine masumlara olmasın", "url": "/serdarmimaroglu/status/754073814472990720", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:03:02", "is_reply": false, "is_retweet": false, "user_id": "49732149"}

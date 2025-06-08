@@ -1,0 +1,1 @@
+{"usernameTweet": "vakkaff", "ID": "754091904074211329", "text": "O değil de pankart ı ne ara bastınız ?  #SokağaSakınÇıkma  #ÇakmaDarbe", "url": "/vakkaff/status/754091904074211329", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:14:54", "is_reply": false, "is_retweet": false, "user_id": "943942980"}

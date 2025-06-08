@@ -1,0 +1,1 @@
+{"usernameTweet": "sananoluyoki", "ID": "754091654039085056", "text": "Bırah bırah bırah sen. Palavere bırah. @Meleksubasi__  #SokağaSakınÇıkma", "url": "/sananoluyoki/status/754091654039085056", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:13:55", "is_reply": false, "is_retweet": false, "user_id": "89983548"}

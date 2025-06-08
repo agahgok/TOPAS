@@ -1,0 +1,1 @@
+{"usernameTweet": "ersen5010", "ID": "754092852217511938", "text": "Tayyip piçi oy veren göt yalayanları neden çıkamıyor dışarı. Nerede bu orospu çocukları #sokağasakınçıkma", "url": "/ersen5010/status/754092852217511938", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:18:40", "is_reply": false, "is_retweet": false, "user_id": "4718497647"}

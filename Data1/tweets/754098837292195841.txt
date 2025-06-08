@@ -1,0 +1,1 @@
+{"usernameTweet": "emellbas", "ID": "754098837292195841", "text": "# SokağaSakınÇıkma \n#NoCoupInTurkey \nTürkiyedeDarbe Olmaz\n#A9tv", "url": "/emellbas/status/754098837292195841", "nbr_retweet": 1, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:42:27", "is_reply": false, "is_retweet": false, "user_id": "2218057863"}

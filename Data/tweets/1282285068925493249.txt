@@ -1,0 +1,1 @@
+{"usernameTweet": "derindarbe31", "ID": "1282285068925493249", "text": "En başta iniestaya atsa adam karsı karsıya zaten aq.", "url": "/derindarbe31/status/1282285068925493249", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 15:05:58", "is_reply": true, "is_retweet": false, "user_id": "1281292563840983042"}

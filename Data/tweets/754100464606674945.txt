@@ -1,0 +1,1 @@
+{"usernameTweet": "ozcan_atsat", "ID": "754100464606674945", "text": "# SokağaÇıkma  twitlerini atan şerefsizler tek tek tesbit edilmelidir.\nŞerefliler meydanlarda.", "url": "/ozcan_atsat/status/754100464606674945", "nbr_retweet": 12, "nbr_favorite": 13, "nbr_reply": 1, "datetime": "2016-07-16 02:48:55", "is_reply": false, "is_retweet": false, "user_id": "1501963346"}

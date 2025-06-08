@@ -1,0 +1,1 @@
+{"usernameTweet": "atesclup", "ID": "754114508654833664", "text": "TBMM saat 03.23'te bir kez daha bombalandı. #DarbeyeHayır  #SokağaSakınÇıkma  #ParalelİnDarbeGirişimi", "url": "/atesclup/status/754114508654833664", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:44:44", "is_reply": false, "is_retweet": false, "user_id": "151444805"}

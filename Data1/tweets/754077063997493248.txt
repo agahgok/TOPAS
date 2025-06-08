@@ -1,0 +1,1 @@
+{"usernameTweet": "Rmzbzkr", "ID": "754077063997493248", "text": "# SokağaÇıkmaOyunaGelme  \n #SokağaSakınÇıkma", "url": "/Rmzbzkr/status/754077063997493248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:15:56", "is_reply": false, "is_retweet": false, "user_id": "2741098593"}

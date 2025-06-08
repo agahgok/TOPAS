@@ -1,0 +1,1 @@
+{"usernameTweet": "_LetyoudowN", "ID": "754096726315859968", "text": "# SokağaSakınÇıkma \nMit darbe püskürtüldü diyor yani yarın yola gidiyoruz kacari kalmadı ", "url": "/_LetyoudowN/status/754096726315859968", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:34:04", "is_reply": false, "is_retweet": false, "user_id": "1167072446"}

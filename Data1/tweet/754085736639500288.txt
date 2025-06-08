@@ -1,0 +1,1 @@
+{"usernameTweet": "Walkingdead_35", "ID": "754085736639500288", "text": "Ezanıda bu saatte duydum ya ölsemde gam yemem artıkkk #SokağaSakınÇıkma", "url": "/Walkingdead_35/status/754085736639500288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:50:24", "is_reply": false, "is_retweet": false, "user_id": "4748922195"}

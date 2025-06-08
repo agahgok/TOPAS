@@ -1,0 +1,1 @@
+{"usernameTweet": "dabe_wgn", "ID": "1284368981474729985", "text": "トランク使えるってデカいもんね \n今からレイアウトデザインしようかな", "url": "/dabe_wgn/status/1284368981474729985", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-18 09:06:42", "is_reply": true, "is_retweet": false, "user_id": "1082840784087334913"}

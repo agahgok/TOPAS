@@ -1,0 +1,1 @@
+{"usernameTweet": "asli_cotala", "ID": "754074610036006912", "text": "# sokagacikma   https:// twitter.com/agirhasta/stat us/754065094577909760   …", "url": "/asli_cotala/status/754074610036006912", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:06:11", "is_reply": false, "is_retweet": false, "user_id": "146933165"}

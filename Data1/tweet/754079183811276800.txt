@@ -1,0 +1,1 @@
+{"usernameTweet": "ilksaftakigenc", "ID": "754079183811276800", "text": "Vatan haini köpekler Bu ülkenin gönüllü casusları. Allah bizimle #SokağaSakınÇıkma", "url": "/ilksaftakigenc/status/754079183811276800", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:22", "is_reply": false, "is_retweet": false, "user_id": "750445796508766208"}

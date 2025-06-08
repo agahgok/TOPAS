@@ -1,0 +1,1 @@
+{"usernameTweet": "rnspks", "ID": "1281170238302715904", "text": "Istanbul sozlesmesi, ayasofya ,baro  darbe ,caydanlik şehvet uyandirir biz de  mevzuu bitmez", "url": "/rnspks/status/1281170238302715904", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-09 13:16:02", "is_reply": true, "is_retweet": false, "user_id": "151861310"}

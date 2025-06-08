@@ -1,0 +1,1 @@
+{"usernameTweet": "psahlt", "ID": "754078139500728320", "text": "ÇIKMA SOKAĞA! #SokağaSakınÇıkma", "url": "/psahlt/status/754078139500728320", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:20:13", "is_reply": false, "is_retweet": false, "user_id": "337593497"}

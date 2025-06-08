@@ -1,0 +1,1 @@
+{"usernameTweet": "isyan_med", "ID": "754084025170554882", "text": "# SokağaSakınÇıkma \n\nHDP AÇIKLAMASI..  pic.twitter.com/TE0l2kWSYO", "url": "/isyan_med/status/754084025170554882", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:36", "is_reply": false, "is_retweet": false, "user_id": "785589258"}

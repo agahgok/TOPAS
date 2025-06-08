@@ -1,0 +1,1 @@
+{"usernameTweet": "SmrGzc", "ID": "754100925707456514", "text": "# SokağaSakınÇikma   https:// twitter.com/candundaradasi /status/754095699810197504   …", "url": "/SmrGzc/status/754100925707456514", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:50:45", "is_reply": false, "is_retweet": false, "user_id": "2149918335"}

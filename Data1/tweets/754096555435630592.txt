@@ -1,0 +1,1 @@
+{"usernameTweet": "Mhmt__T", "ID": "754096555435630592", "text": "Lütfen okuyun.! #SokağaÇıkma  #DiplomasızHükümsüzCB  #DarbeDeğilTiyatro pic.twitter.com/IWtU9aZTH7", "url": "/Mhmt__T/status/754096555435630592", "nbr_retweet": 5, "nbr_favorite": 7, "nbr_reply": 1, "datetime": "2016-07-16 02:33:23", "is_reply": false, "is_retweet": false, "user_id": "1539183726"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "lcnzkn", "ID": "754079426086838276", "text": "# SokağaSakınÇıkma  bu minareler millleti camiye toplamak için mi yoksa milleti sokağa dökmek için mi yapıldı haa", "url": "/lcnzkn/status/754079426086838276", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:25:19", "is_reply": false, "is_retweet": false, "user_id": "3845431037"}

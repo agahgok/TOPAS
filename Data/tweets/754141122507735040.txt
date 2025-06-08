@@ -1,0 +1,1 @@
+{"usernameTweet": "cerennkoca", "ID": "754141122507735040", "text": "Gezide sana maske veren elleri çok çabuk unuttun Türkiye! #SokağaÇıkma   pic.twitter.com/8fvCGoIBL0", "url": "/cerennkoca/status/754141122507735040", "nbr_retweet": 16, "nbr_favorite": 34, "nbr_reply": 1, "datetime": "2016-07-16 05:30:29", "is_reply": false, "is_retweet": false, "user_id": "591863639"}

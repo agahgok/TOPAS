@@ -1,0 +1,1 @@
+{"usernameTweet": "OKutlubey", "ID": "1281692742624698368", "text": "En sevdiğim hayvan kaplumbağaydı ve bu bmy benim en sevdiğim hayvana bile  darbe  yaptı", "url": "/OKutlubey/status/1281692742624698368", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-10 23:52:17", "is_reply": false, "is_retweet": false, "user_id": "1197206603642101766"}

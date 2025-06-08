@@ -1,0 +1,1 @@
+{"usernameTweet": "atesclup", "ID": "754101739352166401", "text": "Meclis'e bomba atan uçak düşürüldü. #DarbeyeHayır  #SokağaSakınÇıkma  #ParalelİnDarbeGirişimi", "url": "/atesclup/status/754101739352166401", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:53:59", "is_reply": false, "is_retweet": false, "user_id": "151444805"}

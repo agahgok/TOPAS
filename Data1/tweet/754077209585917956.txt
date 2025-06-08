@@ -1,0 +1,1 @@
+{"usernameTweet": "KahveYapcanmi", "ID": "754077209585917956", "text": "La sokaga cikan comarlar twitter a mi bakar.. #SokağaSakınÇıkma", "url": "/KahveYapcanmi/status/754077209585917956", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:16:31", "is_reply": false, "is_retweet": false, "user_id": "728656176586592256"}

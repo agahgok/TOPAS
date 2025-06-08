@@ -1,0 +1,1 @@
+{"usernameTweet": "Dilek_kelid", "ID": "754217172864565248", "text": "2side Demokrasiden yanaysa bu Ülkenin Başındakiler nerde? Neden Dışarda deģilde, Halk dışarda?! #sokagacikma", "url": "/Dilek_kelid/status/754217172864565248", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 10:32:41", "is_reply": false, "is_retweet": false, "user_id": "90918278"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "symn_omer", "ID": "754077824957513728", "text": "# SokağaSakınÇıkma  Azcık Ferasetli olun azcık mantıklı bakın meselelere oyuna gelmeyin ///", "url": "/symn_omer/status/754077824957513728", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:18:58", "is_reply": false, "is_retweet": false, "user_id": "745447229910061061"}

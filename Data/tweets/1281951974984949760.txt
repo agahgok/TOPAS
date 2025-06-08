@@ -1,0 +1,1 @@
+{"usernameTweet": "VenusinL", "ID": "1281951974984949760", "text": "Peki buda  darbe  yapar mı?", "url": "/VenusinL/status/1281951974984949760", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-11 17:02:23", "is_reply": true, "is_retweet": false, "user_id": "1276852700014096384"}

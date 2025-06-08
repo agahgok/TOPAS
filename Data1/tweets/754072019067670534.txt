@@ -1,0 +1,1 @@
+{"usernameTweet": "esraacmn", "ID": "754072019067670534", "text": "Sanırım capulcu ihtiyacı var.. #SokağaSakınÇıkma", "url": "/esraacmn/status/754072019067670534", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:55:53", "is_reply": false, "is_retweet": false, "user_id": "2285123946"}

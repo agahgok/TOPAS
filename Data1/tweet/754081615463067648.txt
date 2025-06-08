@@ -1,0 +1,1 @@
+{"usernameTweet": "cerenulku71", "ID": "754081615463067648", "text": "ezan okunuyor yaaa namaz vakti mi hangi namazı kılacaklar acaba\n#SokağaSakınÇıkma", "url": "/cerenulku71/status/754081615463067648", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:34:01", "is_reply": false, "is_retweet": false, "user_id": "710963872690085888"}

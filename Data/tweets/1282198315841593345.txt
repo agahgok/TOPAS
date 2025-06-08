@@ -1,0 +1,1 @@
+{"usernameTweet": "Crazyftm_", "ID": "1282198315841593345", "text": "Yapılan her  darbe ,seni bana hatırlatıyor...", "url": "/Crazyftm_/status/1282198315841593345", "nbr_retweet": 0, "nbr_favorite": 18, "nbr_reply": 0, "datetime": "2020-07-12 09:21:15", "is_reply": false, "is_retweet": false, "user_id": "1226258232303398912"}

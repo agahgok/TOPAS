@@ -1,0 +1,1 @@
+{"usernameTweet": "demy1902", "ID": "754067397175287809", "text": "# SokağaÇıkma", "url": "/demy1902/status/754067397175287809", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:37:32", "is_reply": false, "is_retweet": false, "user_id": "137797707"}

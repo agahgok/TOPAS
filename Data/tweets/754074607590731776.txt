@@ -1,0 +1,1 @@
+{"usernameTweet": "ykmzbul", "ID": "754074607590731776", "text": "Kardeşlerim abilerim ablalarım yoldaşlarım dostlarım  #SokağaSakınÇıkma", "url": "/ykmzbul/status/754074607590731776", "nbr_retweet": 2, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 01:06:11", "is_reply": false, "is_retweet": false, "user_id": "4170009329"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "napisnapis", "ID": "754071505999372288", "text": "# SokağaSakınÇıkma  asla dinlemenin 60 70 lere dönmek istemiyorsak, çıkın sokaga", "url": "/napisnapis/status/754071505999372288", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:53:51", "is_reply": false, "is_retweet": false, "user_id": "377418265"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "fatihkalkannnn", "ID": "754082257686716416", "text": "# SokağaSakınÇıkma   pic.twitter.com/gCicRURO3N", "url": "/fatihkalkannnn/status/754082257686716416", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:36:35", "is_reply": false, "is_retweet": false, "user_id": "632038027"}

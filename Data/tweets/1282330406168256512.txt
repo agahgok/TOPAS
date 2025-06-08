@@ -1,0 +1,1 @@
+{"usernameTweet": "bonobox78", "ID": "1282330406168256512", "text": "Jajajajajaja entonces según tu ¿si se tirarían por un barranco? #NoMmr", "url": "/bonobox78/status/1282330406168256512", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 2, "datetime": "2020-07-12 18:06:08", "is_reply": true, "is_retweet": false, "user_id": "377408101"}

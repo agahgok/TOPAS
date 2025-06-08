@@ -1,0 +1,1 @@
+{"usernameTweet": "birgun62", "ID": "754078314508288001", "text": "Sokağa çıkanların plakaları alınıyor #SokağaSakınÇıkma", "url": "/birgun62/status/754078314508288001", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:20:54", "is_reply": false, "is_retweet": false, "user_id": "2862949551"}

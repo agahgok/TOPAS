@@ -1,0 +1,1 @@
+{"usernameTweet": "ninfea34", "ID": "754071592100061185", "text": "# sokagacikma", "url": "/ninfea34/status/754071592100061185", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 00:54:12", "is_reply": false, "is_retweet": false, "user_id": "95757085"}

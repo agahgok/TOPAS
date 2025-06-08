@@ -1,0 +1,1 @@
+{"usernameTweet": "_keremd", "ID": "1282390559504687105", "text": "Darbe  senaryoydu hani ne zamandan beridir umursuyorsunuz ;))", "url": "/_keremd/status/1282390559504687105", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:05:09", "is_reply": true, "is_retweet": false, "user_id": "71587382"}

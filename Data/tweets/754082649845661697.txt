@@ -1,0 +1,1 @@
+{"usernameTweet": "gultekin_60", "ID": "754082649845661697", "text": "Başkanlık provası  #SokağaSakınÇıkma", "url": "/gultekin_60/status/754082649845661697", "nbr_retweet": 1, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:38:08", "is_reply": false, "is_retweet": false, "user_id": "2292404228"}

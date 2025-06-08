@@ -1,0 +1,1 @@
+{"usernameTweet": "DRTNKT", "ID": "754084004392005632", "text": "# SokağaSakınÇıkma  oyunu kendi kurmadıysa iyi üçbuçuk atmıştır ama one lan öle telefondan bağlanmalar falan", "url": "/DRTNKT/status/754084004392005632", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:31", "is_reply": false, "is_retweet": false, "user_id": "378010601"}

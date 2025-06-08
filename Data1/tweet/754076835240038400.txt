@@ -1,0 +1,1 @@
+{"usernameTweet": "ahmtalgnc", "ID": "754076835240038400", "text": "hiç kimsenin siyaseti senin canından kıymetli değil #SokağaSakınÇıkma", "url": "/ahmtalgnc/status/754076835240038400", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:15:02", "is_reply": false, "is_retweet": false, "user_id": "720603896"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "kafkasizenetti", "ID": "754075994718408704", "text": "# SokağaSakınÇıkma   pic.twitter.com/uKcg5H3OE0", "url": "/kafkasizenetti/status/754075994718408704", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:11:41", "is_reply": false, "is_retweet": false, "user_id": "2261800921"}

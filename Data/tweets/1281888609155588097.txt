@@ -1,0 +1,1 @@
+{"usernameTweet": "Gulsumsss58", "ID": "1281888609155588097", "text": "darbe  üstüne  darbe", "url": "/Gulsumsss58/status/1281888609155588097", "nbr_retweet": 0, "nbr_favorite": 6, "nbr_reply": 0, "datetime": "2020-07-11 12:50:35", "is_reply": false, "is_retweet": false, "user_id": "1139639339061784578"}

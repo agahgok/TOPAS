@@ -1,0 +1,1 @@
+{"usernameTweet": "TemerSadettin", "ID": "1282425215587422208", "text": "Darbe  başarısız oldu günde bıraktı ?", "url": "/TemerSadettin/status/1282425215587422208", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 00:22:52", "is_reply": true, "is_retweet": false, "user_id": "1278815901563981824"}

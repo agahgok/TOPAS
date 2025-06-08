@@ -1,0 +1,1 @@
+{"usernameTweet": "denizzkaya85", "ID": "754072430348345344", "text": "# SokağaSakınÇıkma  oyuna alet olma. bilal çıksın,kumarbaz şişko çıksın  pic.twitter.com/TtzYP4zw4f", "url": "/denizzkaya85/status/754072430348345344", "nbr_retweet": 26, "nbr_favorite": 33, "nbr_reply": 0, "datetime": "2016-07-16 00:57:32", "is_reply": false, "is_retweet": false, "user_id": "2828176636"}

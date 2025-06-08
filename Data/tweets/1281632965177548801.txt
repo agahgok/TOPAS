@@ -1,0 +1,1 @@
+{"usernameTweet": "sedbkt", "ID": "1281632965177548801", "text": "Ben en son flört etmeye kalktığımdaaa yanlış olmasın ama sene 1980 falandı  darbe  olduydu o yıl", "url": "/sedbkt/status/1281632965177548801", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2020-07-10 19:54:45", "is_reply": false, "is_retweet": false, "user_id": "931170598214144000"}

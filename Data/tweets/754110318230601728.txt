@@ -1,0 +1,1 @@
+{"usernameTweet": "K3D0LLA", "ID": "754110318230601728", "text": "Bu bir darbe değil, tayyip şovudur. Okunan #sela  lar Cumhuriyet içindir. Yazıklar olsun. #SokağaSakınÇıkma", "url": "/K3D0LLA/status/754110318230601728", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 03:28:05", "is_reply": false, "is_retweet": false, "user_id": "3406366677"}

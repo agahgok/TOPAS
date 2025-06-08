@@ -1,0 +1,1 @@
+{"usernameTweet": "YusufCerrah16", "ID": "754084110101049345", "text": "# SokağaSakınÇıkma  yanlar ibnesiniz......", "url": "/YusufCerrah16/status/754084110101049345", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:43:56", "is_reply": false, "is_retweet": false, "user_id": "556987734"}

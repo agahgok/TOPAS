@@ -1,0 +1,1 @@
+{"usernameTweet": "dilaraozturk", "ID": "754129147044167685", "text": "Bu sokağa çıkanlar gerçekten ülkeyi kurtardıklarını mı sanıyorlar şimdi? #SokağaSakınÇıkma", "url": "/dilaraozturk/status/754129147044167685", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:42:54", "is_reply": false, "is_retweet": false, "user_id": "89996780"}

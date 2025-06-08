@@ -1,0 +1,1 @@
+{"usernameTweet": "hasan_tsk", "ID": "1282642722898272256", "text": "@ kilicdarogluk  cevap veriyorum  darbe  mi oldu ?", "url": "/hasan_tsk/status/1282642722898272256", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-13 14:47:10", "is_reply": true, "is_retweet": false, "user_id": "392208686"}

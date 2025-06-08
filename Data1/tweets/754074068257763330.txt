@@ -1,0 +1,1 @@
+{"usernameTweet": "ZincidiOkyanus", "ID": "754074068257763330", "text": "# SokağaSakınÇıkma  böyle bir cumhurbaşkanı olmaz insanları ölüme sürüklüyor...", "url": "/ZincidiOkyanus/status/754074068257763330", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:04:02", "is_reply": false, "is_retweet": false, "user_id": "754048274009554944"}

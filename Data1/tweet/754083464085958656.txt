@@ -1,0 +1,1 @@
+{"usernameTweet": "adnanulutas", "ID": "754083464085958656", "text": "haydi bismillah #SokağaSakınÇıkma   https:// twitter.com/adnanulutas/st atus/754083316777844736   …", "url": "/adnanulutas/status/754083464085958656", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:41:22", "is_reply": false, "is_retweet": false, "user_id": "227863098"}

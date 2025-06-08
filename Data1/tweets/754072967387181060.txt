@@ -1,0 +1,1 @@
+{"usernameTweet": "guhanfatih", "ID": "754072967387181060", "text": "# SokağaSakınÇıkma  N'olur bu geceyi atlatalım. Sakin.", "url": "/guhanfatih/status/754072967387181060", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:59:40", "is_reply": false, "is_retweet": false, "user_id": "1468638768"}

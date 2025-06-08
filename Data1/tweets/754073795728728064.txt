@@ -1,0 +1,1 @@
+{"usernameTweet": "ruyaselcuk", "ID": "754073795728728064", "text": "Gün demokrasiye sahip çıkma günüdür!\nHerkes sokağa!\n#SokağaSakınÇıkma  diyen haindir!", "url": "/ruyaselcuk/status/754073795728728064", "nbr_retweet": 3, "nbr_favorite": 10, "nbr_reply": 3, "datetime": "2016-07-16 01:02:57", "is_reply": false, "is_retweet": false, "user_id": "311347673"}

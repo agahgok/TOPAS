@@ -1,0 +1,1 @@
+{"usernameTweet": "offeliaa", "ID": "754122213645770752", "text": "Kimin tezgahı bu, siviller zarar görüyor, darbeniz batsın...Yeter,yeter,yeter...#darbeyedirenturkiye  #sokagacikma", "url": "/offeliaa/status/754122213645770752", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 04:15:21", "is_reply": false, "is_retweet": false, "user_id": "157300729"}

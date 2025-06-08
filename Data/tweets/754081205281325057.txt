@@ -1,0 +1,1 @@
+{"usernameTweet": "cnsistanbullu", "ID": "754081205281325057", "text": "# SokağaSakınÇıkma", "url": "/cnsistanbullu/status/754081205281325057", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:32:24", "is_reply": false, "is_retweet": false, "user_id": "2503730483"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "xinush", "ID": "754079257572282368", "text": "# SokağaSakınÇıkma  +1", "url": "/xinush/status/754079257572282368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:24:39", "is_reply": false, "is_retweet": false, "user_id": "372424873"}

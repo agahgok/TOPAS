@@ -1,0 +1,1 @@
+{"usernameTweet": "DuruSu777", "ID": "754078026535669760", "text": "# SokağaSakınÇıkma  #periscope  izliyorum. yaralı var...", "url": "/DuruSu777/status/754078026535669760", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:19:46", "is_reply": false, "is_retweet": false, "user_id": "1478900468"}

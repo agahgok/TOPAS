@@ -1,0 +1,1 @@
+{"usernameTweet": "AzizKosesoy", "ID": "1282598341357051906", "text": "# Unutmadık  Unuturmayacagiz#15 temuz #Hain   darbe  girişimi.  pic.twitter.com/96Mh89pjkk", "url": "/AzizKosesoy/status/1282598341357051906", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-13 11:50:48", "is_reply": false, "is_retweet": false, "user_id": "1030509649416675328"}

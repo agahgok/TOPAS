@@ -1,0 +1,1 @@
+{"usernameTweet": "kuru_bersun", "ID": "754070362770575360", "text": "# SokağaSakınÇıkma  ben Atatürkü özledim", "url": "/kuru_bersun/status/754070362770575360", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:49:19", "is_reply": false, "is_retweet": false, "user_id": "3804715216"}

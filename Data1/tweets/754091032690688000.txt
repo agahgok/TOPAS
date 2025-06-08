@@ -1,0 +1,1 @@
+{"usernameTweet": "sadrettintrhn", "ID": "754091032690688000", "text": "Laik Türkiye'nin ölümünü izliyoruz laik Türkiye'nin selası okunuyor  #SokağaSakınÇıkma", "url": "/sadrettintrhn/status/754091032690688000", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 02:11:27", "is_reply": false, "is_retweet": false, "user_id": "2748964091"}

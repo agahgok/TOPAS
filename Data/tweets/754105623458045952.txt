@@ -1,0 +1,1 @@
+{"usernameTweet": "uyuruyuruyanir", "ID": "754105623458045952", "text": "Sanıyor musunuz ki gözleri sivil görür? Filler tepişirken ezilmek istemiyorsan #SokağaÇıkma", "url": "/uyuruyuruyanir/status/754105623458045952", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 03:09:25", "is_reply": false, "is_retweet": false, "user_id": "223588427"}

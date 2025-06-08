@@ -1,0 +1,1 @@
+{"usernameTweet": "ezgiabali", "ID": "754147135277375488", "text": "Sırf yarın \"ne büyük adam darbeyi sonlandirdi\" dedirtmek için ülkeyi iç savaşa sürüklüyor.  #sokağasakınçıkma", "url": "/ezgiabali/status/754147135277375488", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 05:54:23", "is_reply": false, "is_retweet": false, "user_id": "2422100147"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "GsTugce08", "ID": "754074461025005568", "text": "# SokağaSakınÇıkma  Allah yar ve yardimcimiz olsun. Vatanimizi, milletimizi.bayrağimizi koru Rabbim.", "url": "/GsTugce08/status/754074461025005568", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:05:36", "is_reply": false, "is_retweet": false, "user_id": "348436592"}

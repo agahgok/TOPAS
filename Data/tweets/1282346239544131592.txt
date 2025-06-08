@@ -1,0 +1,1 @@
+{"usernameTweet": "diegomaritimo", "ID": "1282346239544131592", "text": "Errror de dedo pero no de digamos tu error y el de 30 millones que nos va a costar un huevo arreglar!!", "url": "/diegomaritimo/status/1282346239544131592", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 2, "datetime": "2020-07-12 19:09:03", "is_reply": true, "is_retweet": false, "user_id": "572169712"}

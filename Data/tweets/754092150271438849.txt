@@ -1,0 +1,1 @@
+{"usernameTweet": "Tansuler1", "ID": "754092150271438849", "text": "Benim başkomutanım RTE değil ULU ÖNDER MUSTAFA KEMAL ATATÜRK' tür. #Sokağaçıkma", "url": "/Tansuler1/status/754092150271438849", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2016-07-16 02:15:53", "is_reply": false, "is_retweet": false, "user_id": "1506867662"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "mvcttr", "ID": "754099164410220544", "text": "Ölümüne sokaktayız...   #SokağaSakınÇıkma", "url": "/mvcttr/status/754099164410220544", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 02:43:45", "is_reply": false, "is_retweet": false, "user_id": "1606531850"}

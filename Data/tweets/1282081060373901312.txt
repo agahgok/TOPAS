@@ -1,0 +1,1 @@
+{"usernameTweet": "tuncayakl_yeliz", "ID": "1282081060373901312", "text": "Öldürmeyen her  darbe  güçlendirir :) kuyumu kazmaya devam et canım", "url": "/tuncayakl_yeliz/status/1282081060373901312", "nbr_retweet": 0, "nbr_favorite": 3, "nbr_reply": 0, "datetime": "2020-07-12 01:35:19", "is_reply": false, "is_retweet": false, "user_id": "1263939499274514438"}

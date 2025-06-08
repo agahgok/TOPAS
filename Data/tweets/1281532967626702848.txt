@@ -1,0 +1,1 @@
+{"usernameTweet": "Nurifrkn", "ID": "1281532967626702848", "text": "Camide onlaynız 15 temmuz şehitleri anma demokrasi fetöye  darbe  ve birlik bayramımızda görüşmek üzere", "url": "/Nurifrkn/status/1281532967626702848", "nbr_retweet": 0, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2020-07-10 13:17:23", "is_reply": false, "is_retweet": false, "user_id": "1972761896"}

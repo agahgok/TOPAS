@@ -1,0 +1,1 @@
+{"usernameTweet": "AmyBell65279248", "ID": "1282397804279848960", "text": "kibirli sağmal  darbe  @AmyBell65279248", "url": "/AmyBell65279248/status/1282397804279848960", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2020-07-12 22:33:56", "is_reply": true, "is_retweet": false, "user_id": "1268397146711232513"}

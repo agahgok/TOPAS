@@ -1,0 +1,1 @@
+{"usernameTweet": "Levifromhell", "ID": "1281895082338275329", "text": "Daichi yanlış bölgeye  darbe  alıyor...ölen şey kendisi değil", "url": "/Levifromhell/status/1281895082338275329", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 1, "datetime": "2020-07-11 13:16:18", "is_reply": true, "is_retweet": false, "user_id": "876536401369739264"}

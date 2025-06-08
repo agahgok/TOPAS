@@ -1,0 +1,1 @@
+{"usernameTweet": "MetibPnar", "ID": "754177841781178368", "text": "Askere karşı gelen vatan hainidir diyenler, askeri terörist ilan etti. #SokağaSakınÇıkma", "url": "/MetibPnar/status/754177841781178368", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 07:56:24", "is_reply": false, "is_retweet": false, "user_id": "3179305835"}

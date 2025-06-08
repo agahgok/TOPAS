@@ -1,0 +1,1 @@
+{"usernameTweet": "thehaseki", "ID": "754076318996762624", "text": "# SokağaSakınÇıkma   pic.twitter.com/dvnnSkF9Ov", "url": "/thehaseki/status/754076318996762624", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 01:12:59", "is_reply": false, "is_retweet": false, "user_id": "2328899544"}

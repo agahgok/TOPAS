@@ -1,0 +1,1 @@
+{"usernameTweet": "libera_radio", "ID": "1282400263547035649", "text": "Feliz día, @Darbe _LM !", "url": "/libera_radio/status/1282400263547035649", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 1, "datetime": "2020-07-12 22:43:43", "is_reply": true, "is_retweet": false, "user_id": "581986667"}

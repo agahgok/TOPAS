@@ -1,0 +1,1 @@
+{"usernameTweet": "ege1kaya", "ID": "754095991037374464", "text": "BİZE SOKAĞA ÇIK DİYEN CUMHURBAŞKANIMIZ İNSANLARIMIZ ÖLÜYOR AMA KENDİSİ HALA ORTALIKTA YOK! #SokağaSakınÇıkma", "url": "/ege1kaya/status/754095991037374464", "nbr_retweet": 0, "nbr_favorite": 2, "nbr_reply": 0, "datetime": "2016-07-16 02:31:09", "is_reply": false, "is_retweet": false, "user_id": "387154428"}

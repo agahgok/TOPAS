@@ -1,0 +1,1 @@
+{"usernameTweet": "eminbastr", "ID": "754073019438469121", "text": "# SokağaSakınÇıkma   #darbe  cilere kendinizi hedef gostermeyin kargasalar cikmasin", "url": "/eminbastr/status/754073019438469121", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2016-07-16 00:59:52", "is_reply": false, "is_retweet": false, "user_id": "4801134436"}

@@ -1,0 +1,1 @@
+{"usernameTweet": "semihakrlmaz", "ID": "754080537975918592", "text": "Bu saate ezan okunuyor.. Vakitlerde şaştı iyice #SokağaSakınÇıkma", "url": "/semihakrlmaz/status/754080537975918592", "nbr_retweet": 0, "nbr_favorite": 0, "nbr_reply": 0, "datetime": "2016-07-16 01:29:45", "is_reply": false, "is_retweet": false, "user_id": "394515224"}

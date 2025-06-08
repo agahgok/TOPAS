@@ -1,0 +1,1 @@
+{"usernameTweet": "edacyhan", "ID": "754079872243343360", "text": "Herşeyi halktan bekleyen bir iktidar. Niye darbeyi \"senin polisin\" engellemiyor?!! #SokağaSakınÇıkma  #SONDAKİKA", "url": "/edacyhan/status/754079872243343360", "nbr_retweet": 1, "nbr_favorite": 3, "nbr_reply": 1, "datetime": "2016-07-16 01:27:06", "is_reply": false, "is_retweet": false, "user_id": "285797483"}

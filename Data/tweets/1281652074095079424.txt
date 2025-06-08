@@ -1,0 +1,1 @@
+{"usernameTweet": "denzel_seks", "ID": "1281652074095079424", "text": "34 https:// twitter.com/zeynepaksux/st atus/1281630516228259842   …", "url": "/denzel_seks/status/1281652074095079424", "nbr_retweet": 0, "nbr_favorite": 1, "nbr_reply": 0, "datetime": "2020-07-10 21:10:41", "is_reply": false, "is_retweet": false, "user_id": "936237142010925056"}

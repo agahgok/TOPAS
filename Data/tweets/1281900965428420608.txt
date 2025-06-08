@@ -1,0 +1,1 @@
+{"usernameTweet": "netvarkoi", "ID": "1281900965428420608", "text": "Uz visus twitterio gejus isgersiu bent jau salta kava  darbe", "url": "/netvarkoi/status/1281900965428420608", "nbr_retweet": 0, "nbr_favorite": 13, "nbr_reply": 1, "datetime": "2020-07-11 13:39:41", "is_reply": false, "is_retweet": false, "user_id": "1270470930641412097"}

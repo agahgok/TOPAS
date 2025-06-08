@@ -1,0 +1,1 @@
+{"usernameTweet": "baaykuuss1", "ID": "754118587443535872", "text": "Araba kornasıyla operasyona giden bir ülke ve nedenini bilmeden sokağa dökülen halk #SokağaSakınÇıkma", "url": "/baaykuuss1/status/754118587443535872", "nbr_retweet": 2, "nbr_favorite": 5, "nbr_reply": 0, "datetime": "2016-07-16 04:00:56", "is_reply": false, "is_retweet": false, "user_id": "2449994713"}

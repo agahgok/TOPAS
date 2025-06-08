@@ -1,0 +1,1 @@
+{"usernameTweet": "Dicleparlakk_", "ID": "1282215091228770304", "text": "yürüyor önümde büyük harbe \n darbe  üstüne darbee...", "url": "/Dicleparlakk_/status/1282215091228770304", "nbr_retweet": 0, "nbr_favorite": 49, "nbr_reply": 1, "datetime": "2020-07-12 10:27:54", "is_reply": false, "is_retweet": false, "user_id": "1256891763190620160"}
